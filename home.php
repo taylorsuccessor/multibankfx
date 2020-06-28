@@ -1827,7 +1827,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 ">
-                <h3 class="mex-h1 mex-m-t-50 mex-m-b-30 text-1e32a3 text-center">Partnership</h3>
+                <h3 class="mex-h1 mex-m-t-50 mex-m-b-30 text-1e32a3 text-center">  <?php translate('Partnership'); ?></h3>
             </div>
             <div class="col-12 col-md-12 col-xl-8 mex-m-b-30 d-none d-md-block">
                 <section class="mex-card-cover box-animate">
@@ -1836,7 +1836,7 @@
                              data-src="/public_files/images/partnership/home_partnership_introducing_broker@2x.png">
                         <div class="card-content text-left">
                             <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase text-fff">
-                                <?php translate('Introducing Brokers');?>
+                                <?php translate('Introducing Brokers'); ?>
                             </div>
                             <div class="mex-content mb0 text-overflow-3 col-lg-6 p0 col-12">Join MultiBank’s network of
                                 over 30,000 Introducing Brokers and enjoy the highest levels of personalized customer

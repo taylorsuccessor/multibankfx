@@ -50,6 +50,11 @@ function db_update($dbConnection, $table,$id,$valuesArray){
 function translate($text,$page_name=''){
     global $dbConnection;
 
+    $link_parts=explode('/',$_SERVER['PHP_SELF']);
+    $last_url_part = array_pop($link_parts);
+    $page_name= $page_name==''? $last_url_part:$page_name;
+
+
     $original_text_key=str_replace(['"',"'"],['',''],$text);
     $original_text_key=strtolower($original_text_key);
     $exist=db_select($dbConnection,"select * from language where original_text_key='".$original_text_key."'");
