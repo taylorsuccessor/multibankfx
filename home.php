@@ -2712,9 +2712,9 @@
 <script src="public_files/static_js/jquery.dataTables.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
 <script src="public_files/static_js/lazysizes.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
 <script src="public_files/static_js/jquery.validate.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
-<script src="public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
+<script src="public_files/static_js/intlTelInput.min.js"
         type="785e4eb336bec21b04c19cf7-text/javascript"></script>
-<script src="public_files/static_js/app.js%3Fversion=20200612" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
+<script src="public_files/static_js/app.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
 <script type="785e4eb336bec21b04c19cf7-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {
@@ -2807,7 +2807,7 @@ if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
 
 </script>
 <script src="public_files/static_js/swiper-4.3.5.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
-<script src="public_files/static_js/app_home.js%3Fversion=20191025-7"
+<script src="public_files/static_js/app_home.js"
         type="785e4eb336bec21b04c19cf7-text/javascript"></script>
 <style>
 
