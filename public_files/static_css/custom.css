@@ -1,0 +1,362 @@
+
+/* sherali */
+.header{
+    direction:rtl;
+}
+.footer_btn{
+    text-align: left;
+}
+.footer_other_left{
+    text-align: right;
+}
+.mex-h3.mex-p-v-15.text-sm-center.text-md-left{
+    text-align: right!important;
+}
+/* HOME PAGE  */
+.header-top-left-menu{
+    text-align: right;
+}
+.card-content .bg-white {
+    text-align: right !important;
+}
+/* .mex-content {
+    text-align: right !important;
+} */
+ .card-content.text-left{
+     text-align: right !important;
+ }
+.mex-block-card-v {
+    text-align: right;
+}
+.trade-with-confidence-card > div > div{
+    text-align: right;
+}
+.trade-with-confidence-card > div > div >div{
+    text-align: right !important;
+}
+.trade-with-confidence-card > div > div > a{
+    text-align: right;
+}
+.menu_txt_content{
+    text-align: right;
+}
+.index-platforms{
+
+}
+.index-platforms > .container{
+    direction: initial;}
+
+.platforms_content{
+        text-align: right;
+    } 
+.bg-gray  > .container > .row >.card-content {
+        text-align: right !important;
+    }
+  
+.contact-us > .container > .row > div{
+        text-align: right !important;
+}
+.contact-us > .container > .row > div > div{
+    text-align: right !important;
+}
+.contact-email{
+    display: flex;
+    text-align: right;;
+}
+.contact-us > .container > .row > .row > div{
+    text-align: right !important;
+    padding-right: 54px
+}
+.home_global_presence{}
+
+/* HOME PAGE END */
+
+
+/* introducing-brokers START  */
+.page-top-banner > .container >.row > div .text-left {
+    text-align: right !important;
+
+}
+.page-top-banner > .container >.row > div >div {
+    text-align: right ;
+
+}
+.mex-side-full >div > div {
+    display: block;
+    text-align: right;
+}
+.text-left{
+    text-align: right !important;
+}
+
+
+/* liveaccount.php */
+.multibank-form   > div > label{
+        text-align: right !important;
+}
+.file-dropzone__container{
+    text-align: right;
+}
+
+* .withdraw-header::before {
+    right: 97%;
+} */
+.withdraw-header::after {
+    right: 97% !important;
+}
+.withdraw-header{
+    text-align: right;
+}
+/* td{
+    text-align: right;
+} */
+
+.bonus-page-pane{
+    text-align: right;
+}
+.mex-list-conditions{
+    text-align: right;
+}
+
+
+/* products all pages css */
+.mex-list-conditions{
+    direction: rtl;
+    text-align: right;
+}
+
+.mex-list-conditions li{
+    /* display: flex !important; */
+    list-style: disc !important;
+}
+
+.mex-list-conditions li .mex-h1.li_left{
+    position: relative;
+}
+
+.bg-gray.platforms.platforms-black{
+    direction: rtl;
+}
+
+.mex-content.text-center.mex-m-b-none.d-none.d-md-block{
+    text-align: center !important;
+}
+
+.mex-list-conditions li .li_right{
+    text-align: right !important;
+    display: flex !important;
+    align-items: center;
+    padding-right: 20px;
+    height: auto !important;
+}
+
+.mex-content{
+    /* text-align: right !important; */
+}
+.platforms_box_txt{
+    text-align: center !important;
+}
+.mex-content.mex-clamp-3{
+    text-align: center !important;
+}
+
+.wm-partnership-mb{
+    text-align: right !important;
+}
+
+.font-34.mex-clamp-1.mex-m-b-5.font-type-cap.uppercase{
+    text-align: right;
+}
+.card-content{
+    direction: rtl;
+}
+
+.swiper-slide a span {
+    text-align: center !important;
+}
+
+.milestone-container{
+    direction:rtl
+}
+
+
+table{
+    direction: rtl;
+}
+td .row{
+    margin: 0 15px;
+}
+
+.card-content.bg-black.text-left{
+    text-align: right !important;
+}
+
+.card-content.text-left{
+    text-align: right !important;
+}
+.mex-h1.text-fff.text-left{
+    text-align: right !important;
+}
+.mex-h1.text-fff.text-left{
+    text-align: right !important;
+}
+
+.container.mex-p-t-30.mex-p-b-30 .row{
+    justify-content: flex-end;
+}
+
+.mex-content.col-md-10.col-lf-6.text-fff.p0{
+    max-width: 100%;
+    text-align: right;
+}
+
+section.bg-white{
+    direction: rtl;
+}
+
+.news-con-h4.news-con-blue.article-big-title{
+    text-align: right !important;
+}
+
+.mex-list-disc li:before {
+    text-align: right;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.mex-list-disc.pl-3{
+    text-align: right;
+    padding-right: 0px;
+}
+.mex-block-h600.flex-center.mex-p-b-none
+{
+    direction: rtl;
+}
+.col-md-12.col-sm-12 #btn-apply-now-carrer{
+    margin-left: 100% !important;
+}
+.mex-img-cover{
+    transform: rotate3d(0,82,0,180deg);
+}
+.mex-h1.text-left{
+    text-align: right !important;
+}
+.mex-content.mex-m-b-30{
+    text-align: right !important;
+}
+.mex-content.mb0.text-left{
+    text-align: right !important;
+}
+
+.container .row:first-child{
+    /* direction: rtl; */
+}
+.st-grow-wealth-list{
+    direction: rtl;
+}
+.st-grow-wealth-list + .row {
+    justify-content: flex-end;
+}
+.avant-book .book-content-ul li{
+    text-align: right;
+}
+
+.mex-img-cover{
+    transform: rotateX(0deg);
+}
+
+.st-banner-text-container div:first-child{
+    /* text-align: right;
+    padding: 0;
+    padding-right: 16%; */
+}
+.page-top-banner .st-banner-text-container div:first-child .slider-title{
+    max-width: 480px;
+    text-align: right;
+}
+.slider-desc{
+    width: auto;
+}
+.st-banner-btn-container{
+    direction: rtl;
+}
+
+.col-3-step {
+    width: 100%;
+    height: auto;
+    transform: rotate3d(0, 1, 0, 180deg);
+    max-width: 420px;
+}
+
+.mex-m-b-50.row{
+    flex-direction: row-reverse;
+}
+
+/* .container .row{
+    flex-direction: row-reverse;
+} */
+.container .row:first-child img{
+    transform: rotateX(360deg);
+}
+.container .row:nth-child(2) img{
+    transform: rotateX(360deg);
+}
+
+.text-left + div , .text-left{
+    text-align: right !important;
+}
+.st-grow-wealth-list li {
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.fa-li{
+    position: absolute;
+    right: -2.14285714em;
+    width: 2.14285714em;
+    top: .14285714em;
+    text-align: center;
+}
+.btn-st-006AD0.text-fff.ml-0{
+    margin-right: 0 !important;
+    margin-left: auto !important;
+}
+
+.mex-img-cover{
+    transform: rotate3d(0, 1, 0, 180deg);
+}
+
+.mex-list-icon-check li {
+    padding: 5px 30px 5px 5px;
+    text-align: right;
+}
+.mex-list-icon-check li:before {
+    right: 0;
+    margin-right: 0px;
+}
+.mex-h3.mex-m-b-30.mex-m-t-30{
+    text-align: right;
+}
+.browser-list{
+    text-align: right;
+}
+/* Paragraphs to align right */
+p{
+    text-align: right;
+}
+
+@media (min-width: 992px){
+.milestone-container img{
+    padding-left: 1rem!important;
+}
+
+.milestone-container .details-container{
+    direction: rtl;
+    text-align: right;
+}
+}
+
+
+
+
+

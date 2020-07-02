@@ -1,481 +1,12 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-    <meta charset='UTF-8'>
-    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <title>Explore MultiBank Group's Company Milestones Achievements</title>
-    <meta name='description'
-          content="Explore MultiBank's milestones since its foundation in 2005 and learn how we've become one of the leading Forex & CFD brokers worldwide">
-    <meta name='keywords' content="milestones, multibank group milestones, multibank milestones">
-    <meta property='og:title' content="Explore MultiBank Group's Company Milestones Achievements">
-    <meta property='og:description'
-          content="Explore MultiBank's milestones since its foundation in 2005 and learn how we've become one of the leading Forex & CFD brokers worldwide">
-    <link rel='canonical' href="milestones.html">
-    <link rel="alternate" href="https://es.multibankfx.com/about/milestones" hreflang="es-ES"/>
-    <link rel="alternate" href="https://ru.multibankfx.com/about/milestones" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://ae.multibankfx.com/about/milestones" hreflang="en-ae"/>
-    <link rel="alternate" href="https://vn.multibankfx.com/about/milestones" hreflang="vi-VN"/>
-    <link rel="alternate" href="https://id.multibankfx.com/about/milestones" hreflang="id-ID"/>
-    <link rel="alternate" href="https://mys.multibankfx.com/about/milestones" hreflang="ms-MY"/>
-    <link rel="alternate" href="https://ph.multibankfx.com/about/milestones" hreflang="tl-PH"/>
-    <link rel="alternate" href="https://th.multibankfx.com/about/milestones" hreflang="th-TH"/>
-    <link rel="alternate" href="https://fr.multibankfx.com/about/milestones" hreflang="fr-FR"/>
-    <link rel="alternate" href="milestones.html" hreflang="x-default"/>
-
-    <script type="d1e42a21540a99ed898e3385-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KNJQJTN');
-    </script>
-    <link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
-    <link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
-    <link rel="stylesheet" href="../public_files/static_min_css/custom.min.css%3Fv=20200618-2.css">
-    <style>
-        form {
-            position: relative;
-        }
-
-        .form-loader-container {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 50;
-
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        form:not(#demo_competition_form_2019_08_13) .sms-code-container {
-            display: none;
-
-        }
-
-        form:not(#demo_competition_form_2019_08_13) .send-code-container {
-            display: none;
-        }
-
-        .multibank-form label.error {
-            font-size: 1.1rem;
-
-        }
-
-        .h-00 {
-            height: 0;
-        }
-    </style>
-    <script src="../public_files/static_js/jquery-3.3.1.min.js"
-            type="d1e42a21540a99ed898e3385-text/javascript"></script>
-    <script type="d1e42a21540a99ed898e3385-text/javascript">const page_dir = 'ltr';</script>
+    <?php include_from_root('website_template/head.php');?>
 </head>
 <body>
-<div class="header">
-    <div class="header-top d-none d-md-block">
-        <div class="row">
-            <div class="col-sm-6">
-                <ul class="header-top-left-menu hide-1024">
-                    <li class="border-right hide-1200"><a
-                            href="../cdn-cgi/l/email-protection.html#335040735e465f475a51525d58554b1d505c5e"><i
-                            class="ti-email">&nbsp;</i> <span>EMAIL</span> </a></li>
-                    <li class="border-right hide-1024"><i class="ti-world">&nbsp;</i> <span>Global Alexa Ranking:
-14261</span></li>
-                    <li class="hide-1280"><span><a href="tel:+12139924748?call">US: +1 213 992 4748</a> </span></li>
-                </ul>
-            </div>
-            <div class="col-md-6 col-12 header-top-right-menu text-nowrap"><a
-                    class="hide-1200 btn btn-sm btn-navy mr-1 d-flex align-items-center"
-                    href="https://my.multibankfx.com/en/traders/login"><span class="small-M-logo"><img alt=""
-                                                                                                       data-entity-type=""
-                                                                                                       data-entity-uuid=""
-                                                                                                       height="12px"
-                                                                                                       src="../public_files/images/common/icons/btn_mymex_icon.png"
-                                                                                                       width="auto;"/> </span>&nbsp;MyMultibank
-            </a>
-                <a class="btn btn-sm btn-gold mr-1 header-mb-btn d-md-flex d-none align-items-center"
-                   href="../contact.html"><i class="ti-headphone-alt">&nbsp;</i>Contact Us</a> <a
-                        class="btn btn-sm btn-red mr-1 header-mb-btn d-md-flex d-none align-items-center"
-                        href="../account/live-account.html"><i class="ti-user">&nbsp;</i>Live Account</a> <a
-                        class="btn btn-sm btn-blue hide-768 mr-1 d-flex align-items-center"
-                        href="../demo_competition.html"><i class="ti-desktop">&nbsp;</i>Demo Account</a>
 
-                <a class="btn btn-sm btn-grey hide-768 mr-1 d-flex align-items-center"
-                   href="../partnership/introducing-brokers.html"><i
-                        style="font-family: 'icomoon' !important; font-size:9px; font-style: normal; margin-right: 5px;">&nbsp;&#xe920;</i>IB
-                    Registration</a></div>
-        </div>
-    </div>
-    <div class="header-bottom">
-        <div class="position-relative">
-            <div class="row nav-bar justify-content-between mx-0">
-                <div class="line-height-75 line-height-1280-55 header-bottom-left-container">
-                    <div class="header-boottom-logo">
-                        <a href="../index.html">
-                            <img alt="logo" class="logo logo-dark header-logo"
-                                 src="../public_files/images/common/logo_black_360.png"/>
-                        </a>
-                    </div>
-                </div>
-                <div class="line-height-75 hide-1200 d-flex">
-                    <div class="header-bottom-nav">
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="about">ABOUT US</a></div>
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="products">PRODUCTS</a></div>
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="platforms">PLATFORMS</a></div>
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="accounts">ACCOUNT &amp;
-                            FUNDING</a></div>
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="tools">TOOLS</a></div>
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="partnership">PARTNERSHIP</a>
-                        </div>
-                    </div>
-                    <div class="lang-menu">
-                        <div class="lang-menu-current">
-                            <a>EN</a>
-                        </div>
-                        <div class="lang-menu-dropdown">
-                            <a href="https://es.multibankfx.com">Español</a>
 
-                            <a href="https://ru.multibankfx.com">русский</a>
-                            <a href="https://ar.multibankfx.com">العربية</a>
-                            <a href="https://vn.multibankfx.com">Việt Nam</a>
-                            <a href="https://id.multibankfx.com">Bahasa Indonesia</a>
-                            <a href="https://mys.multibankfx.com">Bahasa Melayu</a>
-                            <a href="https://ph.multibankfx.com">Tagalog</a>
-                            <a href="https://fr.multibankfx.com">Français</a>
-                            <a href="https://th.multibankfx.com">ไทย</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="show-1200-flex align-items-center">
-                    <a class="nav-menu-mymex" style="min-width: unset !important;"
-                       href="https://my.multibankfx.com/en/traders/login">
-                        <img alt="" src="../public_files/images/common/icons/btn_mymex_icon.png"/>
-                    </a>
-                    <div class="nav-menu-hamburger">
-                        <i class="ti-menu" style="font-size: 20px; color: #FFF;"></i>
-                    </div>
-                </div>
-            </div>
-            <ul class="nav-menu py-3">
-                <li class="nav-about-menu header-nav-menu">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0 "><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="../about.html">About
-                                    us</a>
-                                </div>
-                                <p class="line-height-30">MultiBank was established in California, USA in 2005. Since
-                                    its launch MultiBank has evolved into one of the largest financial derivatives
-                                    companies worldwide, with a current paid up capital of over US $322 million.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../about.html">About us</a></h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="why-multibank-group.html">Why Multibank</a></li>
-                                <li><a href="global-presence.html">Global Presence</a></li>
-                                <li><a href="../mfx/v1/about/regulations.html">Regulations</a></li>
-                                <li><a href="security-of-funds.html">Security of Funds</a></li>
-                                <li><a href="milestones.html">Milestones</a></li>
-                                <li><a href="management.html">Management</a></li>
-                                <li><a href="awards.html">Awards</a></li>
-                                <li><a href="sponsorship.html">Sponsorship</a></li>
-                                <li><a href="../article/news_20180916.html">Company News</a></li>
-                                <li><a href="../article/hiring-now-cyprus.html">Career</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12 ">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="nav-products-menu header-nav-menu" style="display: none;">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0"><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="../products.html">Products</a>
-                                </div>
-                                <p class="line-height-30">Trade MultiBank’s wide range of financial products.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../products.html">Products</a></h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="../products/forex.html">Forex</a></li>
-                                <li><a href="../products/metals.html">Metals</a></li>
-                                <li><a href="../products/shares.html">Shares</a></li>
-                                <li><a href="../products/indices.html">Indices</a></li>
-                                <li><a href="../products/commodities.html">Commodities</a></li>
-
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="nav-platforms-menu header-nav-menu" style="display: none;">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0"><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="../platforms.html">Platforms</a>
-                                </div>
-                                <p class="line-height-30">Trade on MultiBank’s award-winning MT4 & MT5 platforms.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../platforms.html">Platforms</a></h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="../platforms/compare-platforms.html">Compare Platforms</a></li>
-                                <li><a href="../platforms/ecn-pro.html">ECN Pro</a></li>
-                                <li><a href="../platforms/multibank-pro.html">MultiBank Pro</a></li>
-                                <li><a href="../platforms/maximus.html">Maximus</a></li>
-                                <li><a href="../platforms/mt5-platform.html">MT5 Platform</a></li>
-                                <li><a href="../social-trading.html">Social Trading</a></li>
-                                <li><a href="../platforms/download-center.html">Download Center</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="nav-accounts-menu header-nav-menu" style="display: none;">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0"><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="../account.html">Accounts
-                                    &amp; Funding</a></div>
-                                <p class="line-height-30">MultiBank offers customers direct access to banks and
-                                    exchanges through its advanced trading platforms.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../account.html">Accounts &amp;
-                                    Funding</a>
-                                </h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="../account/live-account.html">Live Account</a></li>
-                                <li><a href="../demo_competition.html">Demo Account</a></li>
-                                <li><a href="../account/islamic-account.html">Islamic Account</a></li>
-                                <li><a href="../account/account-funding.html">Account Funding</a></li>
-                                <li><a href="../account/withdrawals.html">Withdrawals</a></li>
-                                <li><a href="../account/account-forms.html">Account Forms</a></li>
-                                <li><a href="../account/bonus.html">Bonuses</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 ">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="nav-tools-menu header-nav-menu" style="display: none;">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12  col-xs-12 ">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0"><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none"
-                                        href="../tools.html">Tools</a>
-                                </div>
-                                <p class="line-height-30">MultiBank offers simple yet powerful trading tools to help you
-                                    manage your trade with ease and full control- all free of charge!</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../tools.html">Tools</a></h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="../tools/trading-tools.html">Trading Tools</a></li>
-                                <li><a href="../tools/trading-conditions.html">Trading Conditions</a></li>
-                                <li><a href="../tools/holiday-hours-notices.html">Trading Hours &amp; Holiday Notice</a>
-                                </li>
-                                <li><a href="../cfd-expiration-dates.html">CFD Expiration Dates</a></li>
-
-                                <li><a href="../scalping-policy.html">Scalping Policy</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 ">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="nav-partnership-menu header-nav-menu" style="display: none;">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12  col-xs-12 ">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0"><a class="font-40 text-left mex-p-l-none mex-p-r-none"
-                                                                     href="../investor-relations.html">Partnership</a>
-                                </div>
-                                <p class="line-height-30">Join MultiBank’s network of over 30,000 Introducing Brokers
-                                    and enjoy the highest levels of personalized customer care.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../investor-relations.html">Partnership</a>
-                                </h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="../partnership/introducing-brokers.html">Introducing Brokers</a></li>
-                                <li><a href="../partnership/franchise-program.html">Franchise Program</a></li>
-                                <li><a href="../partnership/white-label.html">White Label</a></li>
-                                <li><a href="../partnership/prime-of-primes.html">Prime of Primes</a></li>
-                                <li><a href="../partnership/cpa-affiliate-program.html">CPA Affiliate Program</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 ">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-            </ul>
-            <ul class="nav-menu-mobile text-uppercase">
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../about.html">About us</a>
-                    <ul class="text-center">
-                        <li><a href="why-multibank-group.html">Why Multibank</a></li>
-                        <li><a href="global-presence.html">Global Presence</a></li>
-                        <li><a href="../mfx/v1/about/regulations.html">Regulations</a></li>
-                        <li><a href="security-of-funds.html">Security of Funds</a></li>
-                        <li><a href="milestones.html">Milestones</a></li>
-                        <li><a href="management.html">Management</a></li>
-                        <li><a href="awards.html">Awards</a></li>
-                        <li><a href="sponsorship.html">Sponsorship</a></li>
-                        <li><a href="../article/news_20180916.html">Company News</a></li>
-                        <li><a href="../article/hiring-now-cyprus.html">Career</a></li>
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../products.html">Products</a>
-                    <ul class="text-center">
-                        <li><a href="../products/forex.html">Forex</a></li>
-                        <li><a href="../products/metals.html">Metals</a></li>
-                        <li><a href="../products/shares.html">Shares</a></li>
-                        <li><a href="../products/indices.html">Indices</a></li>
-                        <li><a href="../products/commodities.html">Commodities</a></li>
-
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../platforms.html">Platforms</a>
-                    <ul class="text-center">
-                        <li><a href="../platforms/compare-platforms.html">Compare Platforms</a></li>
-                        <li><a href="../platforms/ecn-pro.html">ECN Pro</a></li>
-                        <li><a href="../platforms/multibank-pro.html">MultiBank Pro</a></li>
-                        <li><a href="../platforms/maximus.html">Maximus</a></li>
-                        <li><a href="../platforms/mt5-platform.html">MT5 Platform</a></li>
-                        <li><a href="../social-trading.html">Social Trading</a></li>
-                        <li><a href="../platforms/download-center.html">Download Center</a></li>
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../account.html">Account &amp; Funding</a>
-                    <ul class="text-center">
-                        <li><a href="../account/live-account.html">Live Account</a></li>
-                        <li><a href="../demo_competition.html">Demo Account</a></li>
-                        <li><a href="../account/islamic-account.html">Islamic Account</a></li>
-                        <li><a href="../account/account-funding.html">Account Funding</a></li>
-                        <li><a href="../account/withdrawals.html">Withdrawals</a></li>
-                        <li><a href="../account/account-forms.html">Account Forms</a></li>
-                        <li><a href="../account/bonus.html">Bonuses</a></li>
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../tools.html">Tools</a>
-                    <ul class="text-center">
-                        <li><a href="../tools/trading-tools.html">Trading Tools</a></li>
-                        <li><a href="../tools/trading-conditions.html">Trading Conditions</a></li>
-                        <li><a href="../tools/holiday-hours-notices.html">Trading Hours &amp; Holiday Notice</a></li>
-                        <li><a href="../cfd-expiration-dates.html">CFD Expiration Dates</a></li>
-
-                        <li><a href="../scalping-policy.html">Scalping Policy</a></li>
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../investor-relations.html">Partnership</a>
-                    <ul class="text-center">
-                        <li><a href="../partnership/introducing-brokers.html">Introducing Brokers</a></li>
-                        <li><a href="../partnership/franchise-program.html">Franchise Program</a></li>
-                        <li><a href="../partnership/white-label.html">White Label</a></li>
-                        <li><a href="../partnership/prime-of-primes.html">Prime of Primes</a></li>
-                        <li><a href="../partnership/cpa-affiliate-program.html">CPA Affiliate Program</a></li>
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 px-4 lang-mobile-menu" style="border-top: 1px solid #ccc;"><a
-                        href="../investor-relations.html">EN</a>
-                    <ul class="text-center">
-                        <li><a href="https://es.multibankfx.com">Español</a></li>
-
-                        <li><a href="https://ru.multibankfx.com">русский</a></li>
-                        <li><a href="https://ae.multibankfx.com">العربية</a></li>
-                        <li><a href="https://vn.multibankfx.com">Việt Nam</a></li>
-                        <li><a href="https://id.multibankfx.com">Bahasa Indonesia</a></li>
-                        <li><a href="https://mys.multibankfx.com">Bahasa Melayu</a></li>
-                        <li><a href="https://ph.multibankfx.com">Tagalog</a></li>
-                        <li><a href="https://fr.multibankfx.com">Français</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
+<?php include_from_root('website_template/header_and_menu.php');?>
 <style>
     .nav-menu-hamburger, .nav-menu-mymex {
         width: 35px;
@@ -533,997 +64,392 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript>
 <div class="main-container">
-    <section class="flex-center page-top-banner"><img alt="Milestones" data-entity-type="" data-entity-uuid=""
-                                                      src="../public_files/images/about_us/about_milestones_top_banner.jpg"
-                                                      class="mex-img-cover"/>
-        <div class="container text-center">
+    <section class="flex-center page-top-banner"><img
+            src="../public_files/images/accounts_funding/account_funding_top_banner.jpg" alt="Fund Your Account banner"
+            class="mex-img-cover"/>
+        <div class="container">
             <div class="row">
-                <div class="col-12"><h1 class="mex-h1 text-fff mex-m-b-15">MILESTONES</h1>
-                    <div class="mex-content text-fff">Explore MultiBank’s milestones since its foundation in 2005 and
-                        learn how we’ve become one of the leaders in the online financial derivatives business
+                <div class="col-xl-6 col-12">
+                    <h1 class="mex-h1 text-left">FUND YOUR ACCOUNT</h1>
+                    <div class="mex-content mex-m-b-30">
+                        <p class="mex-m-t-15">MultiBank offers a wide selection of instant, simple and secure payment
+                            options for deposits and withdrawals<br/>Choose your payment option here to fund your
+                            trading account</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <div class="mex-m-b-30">
-        <section class="my-0 py-3">
-            <div class="container">
-                <div class="row">
-                    <div class="col-1 mr-3 mr-lg-0 col-lg-1 "><a class="timeline-arrow mr-3" id="prev-but">&lt;</a>
+    <section class="p0 table-background plants">
+        <div class="container">
+            <div class="row withdrawals-tabs mex-m-t-80 mex-m-b-80">
+                <div class="col-12">
+                    <ul role="tablist" class="col-12 d-inline-block">
+                        <li class="tab-title active font-type-cap" role="presentation">
+                            <a href="account-funding.html#deposits" class="font-24" aria-controls="deposits" role="tab"
+                               data-toggle="tab">DEPOSIT OPTIONS</a>
+                        </li>
+                        <li class="tab-title font-type-cap" role="presentation">
+                            <a href="withdrawals.html" class="font-24">WITHDRAWAL OPTIONS</a>
+                        </li>
+                    </ul>
+                    <div class="mex-h2 text-center text-1e32a3 mex-m-b-20" style="margin:20px 0 !important">CHOOSE YOUR
+                        REGULATOR
                     </div>
-                    <div class="col-9 col-lg-10">
-                        <div class="timeline-bar"></div>
-                        <div class="timeline-scroll-container">
-                            <div class="multiple-items timeline-scroll-container ">&nbsp;</div>
+                    <div class="tab-content withdraw-tab">
+                        <div role="tabpanel" class="tab-pane active" id="withdrawals">
+                            <div class="col-12">
+                                <div class="mex-h2 text-fff withdraw-header mb-1">MEX EXCHANGE (ASIC)</div>
+                                <div class="st-slide-content">
+                                    <div class="table-responsive">
+                                        <table class="table table-striped mex-table mex-has-type text-center table-easy">
+                                            <thead>
+                                            <tr>
+                                                <th class=" text-center">Funding Methods</th>
+                                                <th class=" text-center">Base Currencies</th>
+                                                <th class=" text-center">Processing Time</th>
+                                                <th class=" text-center">Deposit</th>
+                                            </tr>
+                                            </thead>
+                                            <tbody class="table-tbody">
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/payment_icons/bank_wire.jpg"
+                                                        alt="Bank Wire"></td>
+                                                <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td>
+                                                    <a href="../open-forex-account/funds-deposit-mex-australia-ltd.html">DEPOSIT
+                                                        NOW</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/payment_icons/card.jpg"
+                                                        alt="Master and Visa"></td>
+                                                <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td>
+                                                    <a onclick="if (!window.__cfRLUnblockHandlers) return false; openCountrySelectionDialog()"
+                                                       target="_blank" data-cf-modified-6864ba4d28184620dfa2cc29-="">DEPOSIT
+                                                        NOW</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/payment_icons/skrill.jpg"
+                                                        alt="Skrill Visa"></td>
+                                                <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="https://payment.mexgroup.com/skrill/mexAustralia_en.html"
+                                                       target="_blank">DEPOSIT NOW</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/payment_icons/neteller.jpg"
+                                                        alt="Neteller"></td>
+                                                <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="https://payment.mexgroup.com/neteller/mexAustralia_en.html"
+                                                       target="_blank">DEPOSIT NOW</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/payment_icons/paytrust.jpg"
+                                                        alt="PayTrust"></td>
+                                                <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td class="m-b-8">
+                                                    <a onclick="if (!window.__cfRLUnblockHandlers) return false; openRedirectionOption();"
+                                                       target="_blank" data-cf-modified-6864ba4d28184620dfa2cc29-="">DEPOSIT
+                                                        NOW</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/Perfect&#32;Money1.png"
+                                                        alt="Perfect Money"></td>
+                                                <td>USD,EUR</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="account-funding/perfect-money.html" target="_blank">DEPOSIT
+                                                    NOW</a></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/payment_gateway/payment-asia-transparent.png"
+                                                        alt="Payment Asia"></td>
+                                                <td>PHP</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="account-funding/paymentasia.html" target="_blank">DEPOSIT
+                                                    NOW</a></td>
+                                            </tr>
+
+
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="mex-h2 text-fff withdraw-header mb-1"> MULTIBANK FX (FSC)</div>
+                                <div class="st-slide-content">
+                                    <div class="table-responsive">
+                                        <table class="table table-striped mex-table mex-has-type text-center table-easy">
+                                            <thead>
+                                            <tr>
+                                                <th class=" text-center">Funding Methods</th>
+                                                <th class=" text-center">Base Currencies</th>
+                                                <th class=" text-center">Processing Time</th>
+                                                <th class=" text-center">Deposit</th>
+                                            </tr>
+                                            </thead>
+                                            <tbody class="table-tbody">
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/payment_icons/bank_wire.jpg"
+                                                        data-toggle="modal"
+                                                        data-target="#modal_funds_deposit_multibank_fx_ltd"
+                                                        alt="Bank Transfer"></td>
+                                                <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="../open-forex-account/funds-deposit-multibank-fx-ltd.html">DEPOSIT
+                                                    NOW</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/payment_icons/skrill.jpg"
+                                                        alt="Skrill Visa"></td>
+                                                <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="account-funding/skrill.html" target="_blank">DEPOSIT
+                                                    NOW</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/payment_icons/neteller.jpg"
+                                                        alt="Neteller"></td>
+                                                <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="account-funding/neteller-clr.html" target="_blank">DEPOSIT
+                                                    NOW</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/payment_icons/paytrust.jpg"
+                                                        alt="PayTrust"></td>
+                                                <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td class="m-b-8">
+                                                    <a onclick="if (!window.__cfRLUnblockHandlers) return false; openRedirectionOption();"
+                                                       target="_blank" data-cf-modified-6864ba4d28184620dfa2cc29-="">DEPOSIT
+                                                        NOW</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/payment_icons/card.jpg"
+                                                        alt="Master and Visa"></td>
+                                                <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td>
+                                                    <a onclick="if (!window.__cfRLUnblockHandlers) return false; openCountrySelectionDialog()"
+                                                       target="_blank" data-cf-modified-6864ba4d28184620dfa2cc29-="">DEPOSIT
+                                                        NOW</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/accounts_funding/Perfect&#32;Money1.png"
+                                                        alt="Perfect Money"></td>
+                                                <td>USD,EUR</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="account-funding/perfect-money.html" target="_blank">DEPOSIT
+                                                    NOW</a></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/payment_gateway/payment-asia-transparent.png"
+                                                        alt="Payment Asia"></td>
+                                                <td>PHP</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="account-funding/paymentasia.html" target="_blank">DEPOSIT
+                                                    NOW</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img src="../public_files/images/payment_gateway/fxbit_logo.png"
+                                                         alt="FXBit"></td>
+                                                <td>BTC, ETH, USDT</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="account-funding/fxbit.html" target="_blank">DEPOSIT NOW</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><img src="../public_files/images/payment_gateway/globepay_logo.png"
+                                                         alt="Globepay"></td>
+                                                <td>INR</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="account-funding/globepay.html" target="_blank">DEPOSIT
+                                                    NOW</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img
+                                                        src="../public_files/images/payment_gateway/thunderx_logo.png%3Ft=1"
+                                                        alt="Thunder X Pay"></td>
+                                                <td>KHR, LAK, MMK, THB</td>
+                                                <td>Processed within 24 hours</td>
+                                                <td><a href="account-funding/thunderx.html" target="_blank">DEPOSIT
+                                                    NOW</a></td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
-                    <div class="col-1 ml-0 col-lg-1"><a class="timeline-arrow mr-3" id="next-but">&gt;</a></div>
                 </div>
             </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a
-                        href="../article/milestone-multibank-group-establishes-new-branch-in-turkey.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/Turkey_Opening_thumbnail_en.jpg"
-                            alt="MultiBank Group Establishes New Branch in Turkey"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Group Establishes New Branch in Turkey</div>
-                                    <div class="date">2019-12-12</div>
-                                    <div class="summary"><p>MultiBank is pleased to announce yet another addition to the
-                                        Group’s global offices with the establishment of a new branch in Turkey.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+        </div>
+    </section>
+    <section class="flex-center page-top-banner">
+        <img class="mex-img-cover" src="../public_files/images/accounts_funding/deposit-conditions-bg.jpg"
+             alt="Deposit Conditions">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-12">
+                    <div class="mex-h1 text-fff mex-m-b-30 text-center mex-m-b-40">
+                        Deposit Conditions
                     </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a
-                        href="../article/milestones_multibank-group-official-partner-bmw-m-motorsport.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/MB_BMW_thumbnail.jpg"
-                            alt="MultiBank Group Signed as Official Partner of BMW M Motorsport"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Group Signed as Official Partner of BMW M Motorsport
-                                    </div>
-                                    <div class="date">2019-10-23</div>
-                                    <div class="summary">MultiBank Group has signed an agreement to become the Official
-                                        Partner of BMW M Motorsport. The pact between BMW M Motorsport and MultiBank
-                                        further builds on the list of milestones in the history of MultiBank Group.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="mex-content text-fff text-center">
+                        <p>Account funding must be made from an account that has the same name as the one on your
+                            MultiBank trading accounts</p>
                     </div>
-                </a></div>
+                </div>
             </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_multibank-kuwait-opened-in-middle-east.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/MB_Kuwait_banner_thumbnail_0.jpg"
-                            alt="MultiBank Group Kicks Off Kuwait Branch to Further Service the Middle East Market"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Group Kicks Off Kuwait Branch to Further Service the
-                                        Middle East Market
-                                    </div>
-                                    <div class="date">2019-09-15</div>
-                                    <div class="summary">As part of its mission to expand further into the Middle East
-                                        market, MultiBank Group has announced the opening of its new branch office in
-                                        Kuwait.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
+        </div>
+    </section>
+    <div class="paytrust-modalbox-container">
+        <div class="paytrust-modalbox-background"
+             onclick="if (!window.__cfRLUnblockHandlers) return false; closeModalBox()"
+             data-cf-modified-6864ba4d28184620dfa2cc29-=""></div>
+        <div class="paytrust-modalbox">
+            <div class="text-center"><h3>Please Choose Your Country</h3></div>
+            <div><span><img alt="Vietnam" src="../public_files/images/common/country/vietnam_xl.png"><p>Vietnam</p>
+<a href="https://paytrust.mexgroup.com/v/" target="_blank">Deposit</a></span>
+                <span>
+<img alt="Malaysia" src="../public_files/images/common/country/malaysia_xl.png"><p>Malaysia</p>
+<a href="https://paytrust.mexgroup.com/m/" target="_blank">Deposit</a></span>
+                <span>
+<img alt="Indonesia" src="../public_files/images/common/country/indonesia_xl.png"><p>Indonesia</p>
+<a href="https://paytrust.mexgroup.com/i/" target="_blank">Deposit</a></span>
+                <span>
+<img alt="Thailand" src="../public_files/images/common/country/thailand_xl.png"><p>Thailand</p>
+<a href="https://paytrust.mexgroup.com/t/" target="_blank">Deposit</a></span>
             </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a
-                        href="../article/milestones_interview-multibank-philippines-ceo-mark-mangulabnan.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/multibank_philippines_thumbnail.jpg"
-                            alt="Interview with MultiBank Philippines CEO Mark Mangulabnan"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">Interview with MultiBank Philippines CEO Mark Mangulabnan</div>
-                                    <div class="date">2019-09-02</div>
-                                    <div class="summary">In September 2019, MultiBank Group opened its first branch
-                                        office in the Philippines, located in the central business district of Manila.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a
-                        href="../article/milestones_multibank-latam-regional-headquarter-launched-mexico.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/MB_LATAM_thumbnail_en.jpg"
-                            alt="MultiBank Group Celebrates the Opening of Its Regional Headquarter with the Launch of MultiBank LATAM in Mexico"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Group Celebrates the Opening of Its Regional
-                                        Headquarter with the Launch of MultiBank LATAM in Mexico
-                                    </div>
-                                    <div class="date">2019-08-27</div>
-                                    <div class="summary">As part of its mission to expand further into the Latin
-                                        American market, MultiBank Group celebrated the opening of its new regional
-                                        headquarter, MultiBank LATAM, in Monterrey, Mexico.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a
-                        href="../article/milestones_multibank-expansion-large-acquisition-aetos-china.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/AETOS_thumbnail_en_0.jpg"
-                            alt="MultiBank Group Expansion Continues through a Large Acquisition of the Customers and Operations Infrastructure of AETOS Capital Group in China"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Group Expansion Continues through a Large Acquisition
-                                        of the Customers and Operations Infrastructure of AETOS Capital Group in China
-                                    </div>
-                                    <div class="date">2019-06-03</div>
-                                    <div class="summary">MultiBank Group, one of the leading global providers of online
-                                        financial products, announced today that it has acquired the customers of AETOS
-                                        Capital Group Pty Ltd in mainland China. The financial terms of the agreement
-                                        were not disclosed.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a
-                        href="../article/milestones_multibank-chairman-naser-taher-awarded-ceo-of-the-year-2019.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/xceo-of-the-year-2019-thumbnail.jpg.pagespeed.ic_.xAm4I6l90A_0.jpg"
-                            alt="MultiBank Group Chairman Naser Taher Awarded CEO of the Year (Financial Services) 2019"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Group Chairman Naser Taher Awarded CEO of the Year
-                                        (Financial Services) 2019
-                                    </div>
-                                    <div class="date">2019-04-01</div>
-                                    <div class="summary">MultiBank Group Chairman, Naser Taher, was awarded CEO of the
-                                        Year (Financial Services) 2019 by the Le Fonti Awards for his excellence in
-                                        leadership in the forex and financial services sector.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20181115.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/news_20181115_a.jpg"
-                            alt="MultiBank Group Expands Across Europe Making It One of the Largest Financial Derivatives Companies Worldwide"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Group Expands Across Europe Making It One of the
-                                        Largest Financial Derivatives Companies Worldwide
-                                    </div>
-                                    <div class="date">2018-11-05</div>
-                                    <div class="summary">With the latest addition of MEX Spain in Barcelona and the
-                                        launch of MultiBank’s Asset Management business in the DACH region last year,
-                                        MultiBank Group is set to take over the European financial derivatives market.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20181022.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20181022_a.jpg"
-                            alt="MultiBank Expands Further in South China with New Office in Guangzhou"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Expands Further in South China with New Office in
-                                        Guangzhou
-                                    </div>
-                                    <div class="date">2018-10-22</div>
-                                    <div class="summary">In October 2018, MEX Guangzhou held an opening ceremony with
-                                        its VIP clients to celebrate the commencement of its new office in the heart of
-                                        Guangzhou’s Central Business District.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20181011.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20181011_a.jpg"
-                            alt="MultiBank Opens New Branch Office ‘MEX Spain’ in Barcelona"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Opens New Branch Office ‘MEX Spain’ in Barcelona</div>
-                                    <div class="date">2018-10-11</div>
-                                    <div class="summary">MultiBank opens new branch office in Barcelona, Spain, under
-                                        the company name MEX Spain, which has obtained approval to operate from the
-                                        National Securities Market Commission (CNMV).
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20180730.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20180730_a.jpg"
-                            alt="MultiBank Group Becomes Main Sponsor of Hamburg HSVH"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Group Becomes Main Sponsor of Hamburg HSVH</div>
-                                    <div class="date">2018-07-30</div>
-                                    <div class="summary">Ahead of the upcoming season 2018/2019, Hamburg HSVH announces
-                                        good news regarding their sponsorships: MultiBank Group will be the new main
-                                        sponsor of the Bundesliga team.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20180426.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20180426_a.jpg"
-                            alt="Capital Finance International Awards MultiBank as “Best Forex ECN Platform Europe & Asia 2018”"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">Capital Finance International Awards MultiBank as “Best Forex ECN
-                                        Platform Europe & Asia 2018”
-                                    </div>
-                                    <div class="date">2018-04-26</div>
-                                    <div class="summary">In April 2018, MultiBank Group was named “Best Forex ECN
-                                        Platform Europe & Asia 2018” by Capital Finance International, a leading
-                                        financial journal and an online resource reporting on global economics, business
-                                        and finance.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20180417.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20180417_a.jpg"
-                            alt="MultiBank Further Expands Presence in Asia through New Headquarters in Hong Kong"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Further Expands Presence in Asia through New
-                                        Headquarters in Hong Kong
-                                    </div>
-                                    <div class="date">2018-04-17</div>
-                                    <div class="summary">MultiBank Group has chosen Hong Kong to be the site of its new
-                                        Asia Pacific headquarters, thus expanding its presence in the world’s largest
-                                        forex and financial derivatives market.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20180305.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/xnews_20180305_01.jpg.pagespeed.ic_.58rbiVwnGC.jpg"
-                            alt="Exclusive: MultiBank Group Scores Unprecedented Victory Against Hong Kong SFC"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">Exclusive: MultiBank Group Scores Unprecedented Victory Against
-                                        Hong Kong SFC
-                                    </div>
-                                    <div class="date">2018-03-05</div>
-                                    <div class="summary"><p>MultiBank has scored a major victory against the Hong Kong
-                                        financial regulator, the Securities and Futures Commission (SFC), in canceling
-                                        an alert that it issued against the firm.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20180101.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/xmilestones_20180100_a.jpg.pagespeed.ic_.M0_R9olgA0.jpg"
-                            alt="MEX Asset Management: MultiBank Group Acquires German Niche Operator"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MEX Asset Management: MultiBank Group Acquires German Niche
-                                        Operator
-                                    </div>
-                                    <div class="date">2018-01-01</div>
-                                    <div class="summary">Fortinbras Asset Management has been rebranded as MEX Asset
-                                        Management GmbH (MEXAM) after being acquired by online financial derivatives
-                                        provider MultiBank Group.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20171205.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20171205_a_0.jpg"
-                            alt="MultiBank Obtains BaFin License and Expands Its Business through Acquisition and Aggressive Growth"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Obtains BaFin License and Expands Its Business through
-                                        Acquisition and Aggressive Growth
-                                    </div>
-                                    <div class="date">2017-12-05</div>
-                                    <div class="summary">In December 2017, MultiBank Group obtained the German Financial
-                                        Regulator's approval to acquire 100% shares of MEX Asset Management GmbH and is
-                                        now in the process of establishing its European headquarters in Frankfurt,
-                                        Germany.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20171001.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20171000_a.jpg"
-                            alt="Launch of MEX Wealth Management Corporation"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">Launch of MEX Wealth Management Corporation</div>
-                                    <div class="date">2017-10-01</div>
-                                    <div class="summary">MultiBank Group is excited to announce the launch of MEX Wealth
-                                        Management Corporation to meet the increasing demand of its high net worth
-                                        clients for first-rate asset-management solutions.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20170901.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20170900_a.jpg"
-                            alt="Launch of MultiBank FX International"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">Launch of MultiBank FX International</div>
-                                    <div class="date">2017-09-01</div>
-                                    <div class="summary"><p>Regulated by the Financial Services Commission (FSC) in the
-                                        British Virgin Islands, MultiBank FX International was launched in August 2017
-                                        to offer clients access to a wide range of products, including real time forex,
-                                        metals, indices, stocks, commodities and bonds.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20170718.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20170718_a.jpg"
-                            alt="Launch of the MEX Prime Institutional Division"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">Launch of the MEX Prime Institutional Division</div>
-                                    <div class="date">2017-07-18</div>
-                                    <div class="summary"><p>In July 2017, MultiBank Group launched its new institutional
-                                        division MEX Prime in Hong Kong delivering bank liquidity, cutting edge
-                                        technology, white label solutions and exclusive relationship management to
-                                        institutional and high net worth Customers.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20170401.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20170400_a_0.jpg"
-                            alt="MultiBank Group Tops Insights Success Magazine’s ‘30 Most Admired Companies of 2017’ List"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Group Tops Insights Success Magazine’s ‘30 Most Admired
-                                        Companies of 2017’ List
-                                    </div>
-                                    <div class="date">2017-04-01</div>
-                                    <div class="summary">In May 2017, MultiBank Group was featured as the cover story
-                                        for Insights Success Magazine’s “30 Most Admired Companies of 2017” issue.
-                                        MultiBank was recognized for their leading role and impact in the financial
-                                        industry.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20161003.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20161003_a.jpg"
-                            alt="MultiBank Won Multiple Awards in Hong Kong"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Won Multiple Awards in Hong Kong</div>
-                                    <div class="date">2016-10-03</div>
-                                    <div class="summary">MultiBank and its Founder and Chairman Mr. Naser Taher were
-                                        awarded “Best Forex Exchange Platform (Hong Kong)” and “Best Financial Services
-                                        CEO (China)” respectively.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20160710.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20160710_a.jpg"
-                            alt="Launch of MultiBank Exchange"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">Launch of MultiBank Exchange</div>
-                                    <div class="date">2016-07-10</div>
-                                    <div class="summary"><p>MultiBank announces the establishment of a ground-breaking
-                                        ECN Forex Exchange in the United States and Australia under the trademark name
-                                        of “MultiBank Exchange”. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                                        &nbsp; &nbsp; &nbsp;</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20151201.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20151200_a_0.jpg"
-                            alt="MultiBank Group Awarded “Best Forex Trading Platform Asia & Europe 2015"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Group Awarded “Best Forex Trading Platform Asia &
-                                        Europe 2015
-                                    </div>
-                                    <div class="date">2015-12-01</div>
-                                    <div class="summary">In December 2015, MultiBank Group was awarded “Best Forex
-                                        Trading Platform Asia & Europe 2015” by Capital Finance International (“CFI”).
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20131017.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20131017_a.jpg"
-                            alt="MultiBank Signs a Historical Memorandum of Understanding (MOU) with the Tianjin Government of China"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Signs a Historical Memorandum of Understanding (MOU)
-                                        with the Tianjin Government of China
-                                    </div>
-                                    <div class="date">2013-09-17</div>
-                                    <div class="summary"><p>On 17th October 2013, MultiBank Group announced that it has
-                                        entered into a MOU with the Tianjin Government of China.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20130729.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20130729_a.jpg"
-                            alt="MultiBank Group Chairman Mr. Naser Taher Honored as Senior Counselor for the Chinese Government of Tianjin"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Group Chairman Mr. Naser Taher Honored as Senior
-                                        Counselor for the Chinese Government of Tianjin
-                                    </div>
-                                    <div class="date">2013-07-29</div>
-                                    <div class="summary"><p>On 29th July 2013, Mr. Naser Taher was being honored with
-                                        the title of “Senior Counselor to the Chinese Government of Tianjin Financial
-                                        Investment Authority” by the Government of Tianjin.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20130101.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20130000_a.jpg"
-                            alt="MultiBank Voted “Best ECN Forex Broker Asia & Europe 2013"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Voted “Best ECN Forex Broker Asia & Europe 2013</div>
-                                    <div class="date">2013-01-01</div>
-                                    <div class="summary"><p>MultiBank was awarded by the Global Banking &amp; Finance
-                                        Review as the winner of “2013 Best ECN Forex Broker in Asia &amp; Europe”.
-                                        MultiBank was selected based on reviews from a large readership of over 160
-                                        countries (including over 40 European Nations).</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20120101.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20120000_a.jpg"
-                            alt="MultiBank Establishes MEX Australia"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">MultiBank Establishes MEX Australia</div>
-                                    <div class="date">2012-01-01</div>
-                                    <div class="summary"><p>MultiBank establishes its Australian company MEX Australia
-                                        (doing business as MEX Exchange) in Sydney, Australia, offering real time Forex,
-                                        Metals, CFDs, Options and non-deliverable forwards (NDFs), trading to private
-                                        individuals, hedge funds, brokerages, market makers and banks.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20110928.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_20110928_a.jpg"
-                            alt="Historical ECN Agreement Signed with Tianjin Government"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">Historical ECN Agreement Signed with Tianjin Government</div>
-                                    <div class="date">2011-07-28</div>
-                                    <div class="summary"><p>On 28th&nbsp;September 2011, MultiBank signed a historical
-                                        agreement with the Chinese Tianjin Municipal People's Government to establish
-                                        and operate an Electronic Communication Network ("ECN") Foreign Exchange
-                                        ("Forex") Exchange that would enable banks, financial institutions and investors
-                                        to participate in the International Forex Market.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20070101.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_2007_ecn_system_developed.jpg"
-                            alt="ECN System Developed"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">ECN System Developed</div>
-                                    <div class="date">2007-01-01</div>
-                                    <div class="summary"><p>MultiBank raises the bar worldwide in the Foreign Exchange
-                                        marketplace with the development of its own proprietary ECN system for both
-                                        individual traders and institutional partners.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
-        <section class="my-0 py-0">
-            <div class="container">
-                <div class="row ml-3"><a href="../article/milestones_20050101.html">
-                    <div class="col-12 milestone-container row flex-column flex-lg-row py-3"><img
-                            class="col-12 col-lg-4 col-xl-3 m-0 p-0 pr-lg-3"
-                            src="../public_files/blog/thumbnails/milestones_2005_the_establishment_of_multibank.jpg"
-                            alt="The Establishment of MultiBank"/>
-                        <div class="details-container col-12 col-lg-8 col-xl-9 mt-3 mt-lg-0 py-xl-3 border">
-                            <div class="row">
-                                <div class="mark-container col-1 d-none d-lg-block">
-                                    <div class="mark"></div>
-                                </div>
-                                <div class="col - 11">
-                                    <div class="title">The Establishment of MultiBank</div>
-                                    <div class="date">2005-01-01</div>
-                                    <div class="summary"><p>MultiBank was established in the United States in 2005.
-                                        Since its launch, it has evolved into one of the largest online financial
-                                        derivatives providers worldwide, with a current paid up capital of over US $322
-                                        million.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </a></div>
-            </div>
-        </section>
+        </div>
     </div>
+    <style>
+        .grapesjs-editable-field-item[data-grapesjs-field="field_component_01"][data-grapesjs-delta="0"] * {
+            box-sizing: border-box;
+        }
+
+        div.div {
+            padding-top: 5px;
+            padding-right: 5px;
+            padding-bottom: 5px;
+            padding-left: 5px;
+            min-height: 25px;
+        }
+
+        .withdraw-tab {
+            margin: 25px 0 0 0;
+        }
+
+        .withdraw-header {
+            font-size: 24px;
+            line-height: 1.2;
+            padding: 10px 48px 10px 10px;
+        }
+
+        .withdraw-header::after {
+            font-size: 24px;
+        }
+
+        .withdraw-header {
+            position: relative;
+            background-color: #1e32a3;
+            cursor: pointer;
+            padding: 21px 30px;
+            font-size: 25px;
+            margin: 0 0 27px 0 !important;
+        }
+
+        .withdraw-header::after {
+            position: absolute;
+            top: 50%;
+            right: 20px;
+            transform: translateY(-50%);
+            font-size: 30px;
+            content: "\e64b";
+            font-family: 'themify';
+            speak: none;
+            font-style: normal;
+            font-weight: 400;
+            font-variant: normal;
+            text-transform: none;
+            transition-duration: 0.3s;
+        }
+
+        .withdraw-header.active:after {
+            transform: translateY(-50%) rotate(180deg);
+        }
+
+        .st-slide-content {
+            display: none;
+            margin-bottom: 40px;
+        }
+
+        .mex-table thead {
+            background: #000;
+        }
+
+        .withdrawals-tabs .table-tbody td.m-b-8 a:active, .withdrawals-tabs .table-tbody td.m-b-8 a:hover {
+            color: #fff;
+        }
+
+        @media only screen and (max-width: 640px) {
+            .withdraw-header {
+                padding: 15px 13px;
+                font-size: 17px;
+            }
+
+            .withdraw-header::after {
+                font-size: 15px;
+            }
+
+            .withdraw-tab .table > thead > tr > th {
+                font-size: 14px;
+            }
+        }
+    </style>
     <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script type="d1e42a21540a99ed898e3385-text/javascript">
-    //script initialisation
-    var currentYear = new Date().getFullYear();
-    var inceptionYear = '2005';
-    // which year we display together
-    var groupYears = ['2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005'];
-    var singleYears = ['2019', '2018', '2017'];
-
-    /*
-     * library global scope
-     */
-    function ScrollYear(year_) {
-     /**
-      * Scroll to the first item of year_ if exists
-      */
-        setLinkActive(year_)
-        $(".milestone-container").each(function () {
-            //hide all, then if part of groupYear, show it
-            $(this).hide();
-            year = $(this).find(".date").html().substring(0,4);
-            found = jQuery.inArray(year, groupYears);
-            if(found != -1) {
-                $(this).show();
-            }
-        });
-        //now scroll to the closest
-        var yearExist = false;
-        $("."+year_).each(function () {
-            yearExist = true;
-        });
-        // scroll down to first item if exist
-        if(yearExist == true) {
-            $('html, body').animate({
-                scrollTop: ($("."+year_).offset().top - 100)
-            }, 2000);
-        }else {
-            //or go to the closet newer not in the future
-            if(parseInt(year_) < currentYear) {
-                ScrollYear(parseInt(year_)+1);
-            }
-        }
-    } // end function ScrollYear(year_) {
-    function setLinkActive(year_) {
-        //remove any clicked button
-        $('.timeline-active').removeClass('timeline-active').addClass('timeline');
-        //set clicked link active
-        $('.year-'+year_).removeClass('timeline');
-        $('.year-'+year_).addClass('timeline-active');
-
-    }
-    function ShowYear(year_) {
-    /**
-      * Show only year_
-      */
-        setLinkActive(year_);
-        $(".milestone-container").each(function () {
-            $(this).hide();
-            year = $(this).find(".date").html().substring(0,4);
-            
-            if(year == year_) {
-                $(this).show();
-            }
-        });
-    }// end function ShowYear(year_) {
-    /*
-     * library loaded scope
-     */
-    $(function() {
-        function getAllYears(startYear_, endYear_) {
-            var years = [];
-            for(i = parseInt(startYear_); i >= parseInt(endYear_); i--) {
-                years.push(''+i);
-            }
-            $(".milestone-container .date").each(function () {
-                year = $(this).html().substring(0,4);
-                $(this).addClass(year);
-             });
-            return years;
-        } // end function getAllYears(startYear_, endYear_) {
-
-        //boot up by creating the slider year menu & adding year css class for scrolling
-        var allYears =  getAllYears(currentYear, inceptionYear);
-        for (i = 0; i <allYears.length; ++i) {
-            functionName = 'ShowYear(\''+allYears[i]+'\');';
-            found = jQuery.inArray(allYears[i], groupYears);
-            if(found != -1) {
-                functionName = 'ScrollYear(\''+allYears[i]+'\')';
-            }
-            button = '<div class="slick-slide" ><a class="link-over-timeline timeline mr-3 year-'+allYears[i]+'" onclick="javascript:'+ functionName+';">'+allYears[i]+'</a></div>';
-            $('.multiple-items').html($('.multiple-items').html() + button);
-        }
-        $('.multiple-items').html($('.multiple-items').html() + '<div style="clear:both;"></div>');
-        // show current year
-        ShowYear(currentYear);
-    });
-
-    </script>
-    <script type="d1e42a21540a99ed898e3385-text/javascript" src="../public_files/static_js/slick.min.js"></script>
-    <script type="d1e42a21540a99ed898e3385-text/javascript">
-        $(document).ready(function(){
-               $('.multiple-items').slick({
-                   infinite: false,
-                   centerMode: false,
-                   slidesToShow: 8,
-                   slidesToScroll: 1,
-                   nextArrow: $('#next-but'),
-                   prevArrow: $('#prev-but'),
-                   responsive: [{
-                   breakpoint: 748,
-                   	 settings: {
-                        slidesToShow: 4,
-                    }
-                 }]
-            });
-        });				
-
-    </script>
-    <script type="d1e42a21540a99ed898e3385-text/javascript">
+    <script type="6864ba4d28184620dfa2cc29-text/javascript">
 $(function() {
-var icons = [
-'ic_why_multibank',
-'ic_our_regulations',
-'ic_security_of_funds',
-'ic_our_milestones',
-'ic_our_products',
-'ic_live_chat_support',
-'ic_compare_our_trading_platforms',
-'ic_download_mt4',
-'ic_bonus_programs_for_ibs',
-'ic_Bonus_Programs_for_Individual_Clients',
-'ic_trading_tools',
-'ic_partnership_programs'
-];
-whereToGoItem.injectIcons('.target-icon', icons);
+    $('.withdraw-header').click(function() {
+        if ($(this).hasClass('active')) {
+            $(this).removeClass('active');
+            $(this).next().slideUp("slow");
+        } else {
+            $('.withdraw-header.active').each(function() {
+                $(this).next().slideUp("slow");
+                $(this).removeClass('active');
+            });
+            
+            $(this).addClass('active');
+            $(this).next().slideDown("slow");
+        }
+        
+    });
 });
 
     </script>
@@ -1532,43 +458,42 @@ whereToGoItem.injectIcons('.target-icon', icons);
             <div class="col-md-12">
                 <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable"
                      data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
-                     data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE"
-                     data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน"
-                     data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                     data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru=""
+                     data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?"
+                     data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next
                 </div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
-                        <li><a href="../mfx/v1/about/regulations.html"><span
-                                class="ico-ic_our_regulations">&nbsp;</span></a>
-                            <div class="mex-content mex-clamp-3">Our Regulations</div>
-                        </li>
+                        <li><a href="../platforms/download-center.html"><span class="ico-ic_download_mt4"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../platforms/download-center.html">Download
+                                MT4</a></div>
+                            <a href="../platforms/download-center.html"> </a></li>
                         <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
                             <a href="../products.html"> </a></li>
                         <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                            <div class="mex-content mex-clamp-3">Trading Tools</div>
+                            <div class="mex-content mex-clamp-3"><a href="../tools.html">Trading Tools</a></div>
                             <a href="../tools.html"> </a></li>
-                        <li><a href="why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html">Why Multibank</a>
-                            </div>
-                            <a href="why-multibank-group.html"> </a></li>
-                        <li><a href="../mfx/v1/about/regulations.html"><span
-                                class="ico-ic_our_regulations">&nbsp;</span> </a>
+                        <li><a href="../about/why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../about/why-multibank-group.html">Why
+                                Multibank</a></div>
+                            <a href="../about/why-multibank-group.html"> </a></li>
+                        <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
                                 Regulations</a></div>
                             <a href="../mfx/v1/about/regulations.html"> </a></li>
-                        <li><a href="security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html">Security of Funds</a>
-                            </div>
-                            <a href="security-of-funds.html"> </a></li>
+                        <li><a href="../about/security-of-funds.html"><span class="ico-ic_security_of_funds"></span>
+                        </a>
+                            <div class="mex-content mex-clamp-3"><a href="../about/security-of-funds.html">Security of
+                                Funds</a></div>
+                            <a href="../about/security-of-funds.html"> </a></li>
                         <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
                             </div>
                             <a href="../account.html"> </a></li>
-                        <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html">Bonus Programs</a>
-                            </div>
-                            <a href="../account/bonus.html"> </a></li>
+                        <li><a href="bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="bonus.html">Bonus Programs</a></div>
+                            <a href="bonus.html"> </a></li>
                         <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
                                 Programs</a></div>
@@ -1579,26 +504,393 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                     href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
                                 IB</a></div>
                             <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a></li>
-                        <li><a href="milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="milestones.html">Our Milestones</a></div>
-                            <a href="milestones.html"> </a></li>
+                        <li><a href="../about/milestones.html"><span class="ico-ic_our_milestones"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../about/milestones.html">Our Milestones</a>
+                            </div>
+                            <a href="../about/milestones.html"> </a></li>
                         <li><a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-d1e42a21540a99ed898e3385-=""><span
+                               data-cf-modified-6864ba4d28184620dfa2cc29-=""><span
                                 class="ico-ic_live_chat_support"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../index.html#"
                                                                     onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                                                    data-cf-modified-d1e42a21540a99ed898e3385-="">Live
+                                                                    data-cf-modified-6864ba4d28184620dfa2cc29-="">Live
                                 Chat Support</a></div>
                             <a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-d1e42a21540a99ed898e3385-=""> </a></li>
+                               data-cf-modified-6864ba4d28184620dfa2cc29-=""> </a></li>
                     </ul>
                 </div>
             </div>
         </div>
     </section>
 </div>
+<script type="6864ba4d28184620dfa2cc29-text/javascript">
+    $(function() {
+//icons we need
+        var icons = [
+            'ic_why_multibank',
+            'ic_security_of_funds',
+            'ic_our_regulations',
+            'ic_our_products',
+            'ic_become_an_ib',
+            'ic_live_chat_support',
+            'ic_bonus_programs',
+            'ic_trading_tools',
+            'ic_compare_our_trading_platforms',
+            'ic_download_mt4',
+            'ic_partnership_programs',
+            'ic_mymultibank_account_panel'
+        ];
+//inject them
+        whereToGoItem.injectIcons('.target-icon', icons);
+    });
+
+</script>
+<div class="cc-country-selector">
+    <div class="cc-country-selector--overlay"
+         onclick="if (!window.__cfRLUnblockHandlers) return false; closeCountrySelectionDialog()"
+         data-cf-modified-6864ba4d28184620dfa2cc29-=""></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-7 mx-auto cc-country-selector--box">
+                <div class="mex-h2 mex-m-b-10 text-center">Select Your Card Issuer Country</div>
+                <select class="cc-country-selector--select">
+                    <option value="">Select Country</option>
+                    <option value="AF" selected="selected">AFGHANISTAN</option>
+                    <option value="AL">ALBANIA</option>
+                    <option value="DZ">ALGERIA</option>
+                    <option value="AS">AMERICAN SAMOA</option>
+                    <option value="AD">ANDORRA</option>
+                    <option value="AO">ANGOLA</option>
+                    <option value="AI">ANGUILLA</option>
+                    <option value="AQ">ANTARCTICA</option>
+                    <option value="AG">ANTIGUA AND BARBUDA</option>
+                    <option value="AR">ARGENTINA</option>
+                    <option value="AM">ARMENIA</option>
+                    <option value="AW">ARUBA</option>
+                    <option value="AU">AUSTRALIA</option>
+                    <option value="AT">AUSTRIA</option>
+                    <option value="AZ">AZERBAIJAN</option>
+                    <option value="BS">BAHAMAS</option>
+                    <option value="BH">BAHRAIN</option>
+                    <option value="BD">BANGLADESH</option>
+                    <option value="BB">BARBADOS</option>
+                    <option value="BY">BELARUS</option>
+                    <option value="BE">BELGIUM</option>
+                    <option value="BZ">BELIZE</option>
+                    <option value="BJ">BENIN</option>
+                    <option value="BM">BERMUDA</option>
+                    <option value="BT">BHUTAN</option>
+                    <option value="BO">BOLIVIA</option>
+                    <option value="BA">BOSNIA AND HERZEGOVINA</option>
+                    <option value="BW">BOTSWANA</option>
+                    <option value="BV">BOUVET ISLAND</option>
+                    <option value="BR">BRAZIL</option>
+                    <option value="IO">BRITISH INDIAN OCEAN TERRITORY</option>
+                    <option value="BN">BRUNEI DARUSSALAM</option>
+                    <option value="BG">BULGARIA</option>
+                    <option value="BF">BURKINA FASO</option>
+                    <option value="BI">BURUNDI</option>
+                    <option value="KH">CAMBODIA</option>
+                    <option value="CM">CAMEROON</option>
+                    <option value="CA">CANADA</option>
+                    <option value="CV">CAPE VERDE</option>
+                    <option value="KY">CAYMAN ISLANDS</option>
+                    <option value="CF">CENTRAL AFRICAN REPUBLIC</option>
+                    <option value="TD">CHAD</option>
+                    <option value="CL">CHILE</option>
+                    <option value="CN">CHINA</option>
+                    <option value="CX">CHRISTMAS ISLAND</option>
+                    <option value="CC">COCOS (KEELING) ISLANDS</option>
+                    <option value="CO">COLOMBIA</option>
+                    <option value="KM">COMOROS</option>
+                    <option value="CG">CONGO</option>
+                    <option value="CD">CONGO, THE DEMOCRATIC REPUBLIC OF THE</option>
+                    <option value="CK">COOK ISLANDS</option>
+                    <option value="CR">COSTA RICA</option>
+                    <option value="CI">COTE D'IVOIRE</option>
+                    <option value="HR">CROATIA</option>
+                    <option value="CU">CUBA</option>
+                    <option value="CY">CYPRUS</option>
+                    <option value="CZ">CZECH REPUBLIC</option>
+                    <option value="DK">DENMARK</option>
+                    <option value="DJ">DJIBOUTI</option>
+                    <option value="DM">DOMINICA</option>
+                    <option value="DO">DOMINICAN REPUBLIC</option>
+                    <option value="EC">ECUADOR</option>
+                    <option value="EG">EGYPT</option>
+                    <option value="SV">EL SALVADOR</option>
+                    <option value="GQ">EQUATORIAL GUINEA</option>
+                    <option value="ER">ERITREA</option>
+                    <option value="EE">ESTONIA</option>
+                    <option value="ET">ETHIOPIA</option>
+                    <option value="FK">FALKLAND ISLANDS (MALVINAS)</option>
+                    <option value="FO">FAROE ISLANDS</option>
+                    <option value="FJ">FIJI</option>
+                    <option value="FI">FINLAND</option>
+                    <option value="FR">FRANCE</option>
+                    <option value="GF">FRENCH GUIANA</option>
+                    <option value="PF">FRENCH POLYNESIA</option>
+                    <option value="TF">FRENCH SOUTHERN TERRITORIES</option>
+                    <option value="GA">GABON</option>
+                    <option value="GM">GAMBIA</option>
+                    <option value="GE">GEORGIA</option>
+                    <option value="DE">GERMANY</option>
+                    <option value="GH">GHANA</option>
+                    <option value="GI">GIBRALTAR</option>
+                    <option value="GR">GREECE</option>
+                    <option value="GL">GREENLAND</option>
+                    <option value="GD">GRENADA</option>
+                    <option value="GP">GUADELOUPE</option>
+                    <option value="GU">GUAM</option>
+                    <option value="GT">GUATEMALA</option>
+                    <option value="GN">GUINEA</option>
+                    <option value="GW">GUINEA-BISSAU</option>
+                    <option value="GY">GUYANA</option>
+                    <option value="HT">HAITI</option>
+                    <option value="HM">HEARD ISLAND AND MCDONALD ISLANDS</option>
+                    <option value="VA">HOLY SEE (VATICAN CITY STATE)</option>
+                    <option value="HN">HONDURAS</option>
+                    <option value="HK">HONG KONG</option>
+                    <option value="HU">HUNGARY</option>
+                    <option value="IS">ICELAND</option>
+                    <option value="IN">INDIA</option>
+                    <option value="ID">INDONESIA</option>
+                    <option value="IR">IRAN, ISLAMIC REPUBLIC OF</option>
+                    <option value="IQ">IRAQ</option>
+                    <option value="IE">IRELAND</option>
+                    <option value="IL">ISRAEL</option>
+                    <option value="IT">ITALY</option>
+                    <option value="JM">JAMAICA</option>
+                    <option value="JP">JAPAN</option>
+                    <option value="JO">JORDAN</option>
+                    <option value="KZ">KAZAKHSTAN</option>
+                    <option value="KE">KENYA</option>
+                    <option value="KI">KIRIBATI</option>
+                    <option value="KP">KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</option>
+                    <option value="KR">KOREA, REPUBLIC OF</option>
+                    <option value="KW">KUWAIT</option>
+                    <option value="KG">KYRGYZSTAN</option>
+                    <option value="LA">LAO PEOPLE'S DEMOCRATIC REPUBLIC</option>
+                    <option value="LV">LATVIA</option>
+                    <option value="LB">LEBANON</option>
+                    <option value="LS">LESOTHO</option>
+                    <option value="LR">LIBERIA</option>
+                    <option value="LY">LIBYAN ARAB JAMAHIRIYA</option>
+                    <option value="LI">LIECHTENSTEIN</option>
+                    <option value="LT">LITHUANIA</option>
+                    <option value="LU">LUXEMBOURG</option>
+                    <option value="MO">MACAO</option>
+                    <option value="MK">MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</option>
+                    <option value="MG">MADAGASCAR</option>
+                    <option value="MW">MALAWI</option>
+                    <option value="MY">MALAYSIA</option>
+                    <option value="MV">MALDIVES</option>
+                    <option value="ML">MALI</option>
+                    <option value="MT">MALTA</option>
+                    <option value="MH">MARSHALL ISLANDS</option>
+                    <option value="MQ">MARTINIQUE</option>
+                    <option value="MR">MAURITANIA</option>
+                    <option value="MU">MAURITIUS</option>
+                    <option value="YT">MAYOTTE</option>
+                    <option value="MX">MEXICO</option>
+                    <option value="FM">MICRONESIA, FEDERATED STATES OF</option>
+                    <option value="MD">MOLDOVA, REPUBLIC OF</option>
+                    <option value="MC">MONACO</option>
+                    <option value="MN">MONGOLIA</option>
+                    <option value="ME">MONTENEGRO</option>
+                    <option value="MS">MONTSERRAT</option>
+                    <option value="MA">MOROCCO</option>
+                    <option value="MZ">MOZAMBIQUE</option>
+                    <option value="MM">MYANMAR</option>
+                    <option value="NA">NAMIBIA</option>
+                    <option value="NR">NAURU</option>
+                    <option value="NP">NEPAL</option>
+                    <option value="NL">NETHERLANDS</option>
+                    <option value="AN">NETHERLANDS ANTILLES</option>
+                    <option value="NC">NEW CALEDONIA</option>
+                    <option value="NZ">NEW ZEALAND</option>
+                    <option value="NI">NICARAGUA</option>
+                    <option value="NE">NIGER</option>
+                    <option value="NG">NIGERIA</option>
+                    <option value="NU">NIUE</option>
+                    <option value="NF">NORFOLK ISLAND</option>
+                    <option value="MP">NORTHERN MARIANA ISLANDS</option>
+                    <option value="NO">NORWAY</option>
+                    <option value="OM">OMAN</option>
+                    <option value="PK">PAKISTAN</option>
+                    <option value="PW">PALAU</option>
+                    <option value="PS">PALESTINE, STATE OF</option>
+                    <option value="PA">PANAMA</option>
+                    <option value="PG">PAPUA NEW GUINEA</option>
+                    <option value="PY">PARAGUAY</option>
+                    <option value="PE">PERU</option>
+                    <option value="PH">PHILIPPINES</option>
+                    <option value="PN">PITCAIRN</option>
+                    <option value="PL">POLAND</option>
+                    <option value="PT">PORTUGAL</option>
+                    <option value="PR">PUERTO RICO</option>
+                    <option value="QA">QATAR</option>
+                    <option value="RE">REUNION</option>
+                    <option value="RO">ROMANIA</option>
+                    <option value="RU">RUSSIAN FEDERATION</option>
+                    <option value="RW">RWANDA</option>
+                    <option value="SH">SAINT HELENA</option>
+                    <option value="KN">SAINT KITTS AND NEVIS</option>
+                    <option value="LC">SAINT LUCIA</option>
+                    <option value="PM">SAINT PIERRE AND MIQUELON</option>
+                    <option value="VC">SAINT VINCENT AND THE GRENADINES</option>
+                    <option value="WS">SAMOA</option>
+                    <option value="SM">SAN MARINO</option>
+                    <option value="ST">SAO TOME AND PRINCIPE</option>
+                    <option value="SA">SAUDI ARABIA</option>
+                    <option value="SN">SENEGAL</option>
+                    <option value="RS">SERBIA</option>
+                    <option value="SC">SEYCHELLES</option>
+                    <option value="SL">SIERRA LEONE</option>
+                    <option value="SG">SINGAPORE</option>
+                    <option value="SK">SLOVAKIA</option>
+                    <option value="SI">SLOVENIA</option>
+                    <option value="SB">SOLOMON ISLANDS</option>
+                    <option value="SO">SOMALIA</option>
+                    <option value="ZA">SOUTH AFRICA</option>
+                    <option value="GS">SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</option>
+                    <option value="ES">SPAIN</option>
+                    <option value="LK">SRI LANKA</option>
+                    <option value="SD">SUDAN</option>
+                    <option value="SR">SURINAME</option>
+                    <option value="SJ">SVALBARD AND JAN MAYEN</option>
+                    <option value="SZ">SWAZILAND</option>
+                    <option value="SE">SWEDEN</option>
+                    <option value="CH">SWITZERLAND</option>
+                    <option value="SY">SYRIAN ARAB REPUBLIC</option>
+                    <option value="TW">TAIWAN, PROVINCE OF CHINA</option>
+                    <option value="TJ">TAJIKISTAN</option>
+                    <option value="TZ">TANZANIA, UNITED REPUBLIC OF</option>
+                    <option value="TH">THAILAND</option>
+                    <option value="TL">TIMOR-LESTE</option>
+                    <option value="TG">TOGO</option>
+                    <option value="TK">TOKELAU</option>
+                    <option value="TO">TONGA</option>
+                    <option value="TT">TRINIDAD AND TOBAGO</option>
+                    <option value="TN">TUNISIA</option>
+                    <option value="TR">TURKEY</option>
+                    <option value="TM">TURKMENISTAN</option>
+                    <option value="TC">TURKS AND CAICOS ISLANDS</option>
+                    <option value="TV">TUVALU</option>
+                    <option value="UG">UGANDA</option>
+                    <option value="UA">UKRAINE</option>
+                    <option value="AE">UNITED ARAB EMIRATES</option>
+                    <option value="GB">UNITED KINGDOM</option>
+                    <option value="US">UNITED STATES</option>
+                    <option value="UM">UNITED STATES MINOR OUTLYING ISLANDS</option>
+                    <option value="UY">URUGUAY</option>
+                    <option value="UZ">UZBEKISTAN</option>
+                    <option value="VU">VANUATU</option>
+                    <option value="VE">VENEZUELA</option>
+                    <option value="VN">VIET NAM</option>
+                    <option value="VG">VIRGIN ISLANDS, BRITISH</option>
+                    <option value="VI">VIRGIN ISLANDS, U.S.</option>
+                    <option value="WF">WALLIS AND FUTUNA</option>
+                    <option value="EH">WESTERN SAHARA</option>
+                    <option value="YE">YEMEN</option>
+                    <option value="ZM">ZAMBIA</option>
+                    <option value="ZW">ZIMBABWE</option>
+                </select>
+                <button type="button" class="cc-country-selector--submit--btn"
+                        onclick="if (!window.__cfRLUnblockHandlers) return false; redirectCreditCard()"
+                        data-cf-modified-6864ba4d28184620dfa2cc29-="">Submit
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="6864ba4d28184620dfa2cc29-text/javascript">
+    const allowedCardCountries = [
+        'AU', 'AT', 'BE', 'CN', 'HR', 'CY',
+        'CZ', 'DK', 'EE', 'FI', 'FR', 'DE',
+        'GR', 'HU', 'IT', 'LV', 'LT', 'LU',
+        'MT', 'NL', 'PL', 'PT', 'RO', 'SK',
+        'SI', 'ES', 'SE', 'GB', 'VU',
+        'BR', 'CO', 'JP', 'MY', 'TH', 'AE', 'VN'
+    ];
+
+    function openCountrySelectionDialog() {
+        $('.cc-country-selector').css('display', 'flex');
+    }
+    
+    function closeCountrySelectionDialog() {
+        $('.cc-country-selector').css('display', 'none');
+    }
+    
+    function redirectCreditCard() {
+        const country = $('.cc-country-selector--select').val();
+        if (allowedCardCountries.includes(country)) {
+            window.location.href = "/account/account-funding/inpendium";
+        } else {
+            window.location.href = "/account/account-funding/wcard";
+        }
+    }
+
+</script>
+<style>
+    .cc-country-selector {
+        width: 100%;
+        height: 100%;
+
+        position: fixed;
+        top: 0;
+        left: 0;
+
+        display: none;
+        justify-content: center;
+        align-items: center;
+
+
+        z-index: 99999;
+    }
+
+    .cc-country-selector--overlay {
+        width: 100%;
+        height: 100%;
+
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        background-color: rgba(0, 0, 0, 0.4);
+    }
+
+    .cc-country-selector--box {
+        padding: 40px 0;
+        background-color: #FFF;
+    }
+
+    .cc-country-selector--title {
+        font-size: 26px;
+    }
+
+    .cc-country-selector--select {
+        width: 250px;
+        display: block;
+        margin: 30px auto;
+    }
+
+    .cc-country-selector--submit--btn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto 0px auto;
+        text-transform: uppercase;
+        height: 45px;
+        background: #1e32a3;
+        padding-left: 15px;
+        padding-right: 15px;
+        color: #FFF;
+        line-height: 16px;
+    }
+</style>
 <section class="bg-gray contact-us">
     <div class="container">
         <div class="row justify-content-center">
@@ -1677,15 +969,15 @@ whereToGoItem.injectIcons('.target-icon', icons);
                         <li class="ForIts">
                             <div class="mex-h3  mex-p-v-15  mex-m-t-10">Email Us</div>
                             <div class="contact-email"><a class="text-000033"
-                                                          href="../cdn-cgi/l/email-protection.html#87e4f4c7eaf2ebf3eee5e6e9ece1ffa9e4e8ea"><span
-                                    class="__cf_email__" data-cfemail="791a0a39140c150d101b1817121f01571a1614">[email&#160;protected]</span></a>
+                                                          href="../cdn-cgi/l/email-protection.html#84e7f7c4e9f1e8f0ede6e5eaefe2fcaae7ebe9"><span
+                                    class="__cf_email__" data-cfemail="2c4f5f6c41594058454e4d42474a54024f4341">[email&#160;protected]</span></a>
                             </div>
                         </li>
                         <li class="ForIts">
                             <div class="mex-h3 mex-m-t-20 ">Live Chat</div>
-                            <a href="milestones.html#"
+                            <a href="account-funding.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-d1e42a21540a99ed898e3385-=""><img alt="chat"
+                               data-cf-modified-6864ba4d28184620dfa2cc29-=""><img alt="chat"
                                                                                   class="home_contact_us_chat_now"
                                                                                   data-entity-type=""
                                                                                   data-entity-uuid=""
@@ -1695,16 +987,16 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     <div class="d-flex d-md-none row py-4 row-eq-height">
                         <div class="col-4 text-center mx-auto">
                             <div class="mex-h3 mb-2 footer-mb-social-media">EMAIL US</div>
-                            <a href="../cdn-cgi/l/email-protection.html#167565567b637a627f7477787d706e3875797b">
+                            <a href="../cdn-cgi/l/email-protection.html#422131022f372e362b20232c29243a6c212d2f">
                                 <img class="footer-contact-ic"
                                      src="../public_files/images/common/icon_contact_mail.png"/>
                             </a>
                         </div>
                         <div class="col-4 text-center mx-auto">
                             <div class="mex-h3 mb-2 footer-mb-social-media">LIVE CHAT</div>
-                            <a href="milestones.html#"
+                            <a href="account-funding.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-d1e42a21540a99ed898e3385-="">
+                               data-cf-modified-6864ba4d28184620dfa2cc29-="">
                                 <img class="footer-contact-ic"
                                      src="../public_files/images/common/icon_contact_wechat.png"/>
                             </a>
@@ -1717,11 +1009,11 @@ whereToGoItem.injectIcons('.target-icon', icons);
                         <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form'
                               class='multibank-form row mx-0 w-100 new' method='post' enctype=''
                               id='call_back_footer_form' target='' autocomplete='on'>
-                            <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToxMw=='/>
+                            <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTozMw=='/>
                             <input type='hidden' name='token'
-                                   value='$2y$10$H31UaE9DdUYvfE2Xy8PQEueW/btnejLx.KFK7C9wH9eY6YffMJLKG'/>
+                                   value='$2y$10$LXLiNWcbQMny8h3InFS8BOoLN7/nsCzroba.NFDHJp7YdZfqOKbh6'/>
                             <input type='hidden' name='source'
-                                   value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:10] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:11] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:12] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:13] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/milestones?web=true'/>
+                                   value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:30] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:31] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:32] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:33] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/account/account-funding?web=true'/>
                             <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                 <label for='' class='m-0'>
                                 </label>
@@ -2103,7 +1395,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                             </div>
                             <button type='submit' class='btn btn-mex mx-auto'
                                     onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                                    data-cf-modified-d1e42a21540a99ed898e3385-="">CALL ME
+                                    data-cf-modified-6864ba4d28184620dfa2cc29-="">CALL ME
                             </button>
                         </form>
                         <div class="px-1 font-10" style="padding:0px;">
@@ -2136,9 +1428,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     </a>
                     <a href="https://my.multibankfx.com/en/traders/login" target="_blank">MyMultibank</a>
                     <a href="../contact.html" target="_parent">Contact Us</a>
-                    <a href="milestones.html#"
+                    <a href="account-funding.html#"
                        onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                       data-cf-modified-d1e42a21540a99ed898e3385-="">Support</a>
+                       data-cf-modified-6864ba4d28184620dfa2cc29-="">Support</a>
                     <a href="../article/hiring-now-cyprus.html" target="_parent">Career</a>
                     <a href="../investor-relations.html" target="_parent">Investor&nbsp;Relations</a>
                 </div>
@@ -2169,15 +1461,15 @@ whereToGoItem.injectIcons('.target-icon', icons);
                 <div class="row">
                     <div class="col-md-2">
                         <ul class="footer_map">
-                            <li><a href="../about.html"><strong>About us</strong></a> <a href="why-multibank-group.html"
-                                                                                         target="_parent">Why
-                                Multibank</a> <a href="global-presence.html" target="_parent">Global Presence</a> <a
+                            <li><a href="../about.html"><strong>About us</strong></a> <a
+                                    href="../about/why-multibank-group.html" target="_parent">Why Multibank</a> <a
+                                    href="../about/global-presence.html" target="_parent">Global Presence</a> <a
                                     href="../mfx/v1/about/regulations.html" target="_parent">Regulations</a> <a
-                                    href="security-of-funds.html" target="_parent">Security of Funds</a> <a
-                                    href="milestones.html" target="_parent">Milestones</a> <a href="management.html"
-                                                                                              target="_parent">Management</a>
-                                <a href="awards.html" target="_parent">Awards</a> <a href="sponsorship.html"
-                                                                                     target="_parent">Sponsorship</a>
+                                    href="../about/security-of-funds.html" target="_parent">Security of Funds</a> <a
+                                    href="../about/milestones.html" target="_parent">Milestones</a> <a
+                                    href="../about/management.html" target="_parent">Management</a>
+                                <a href="../about/awards.html" target="_parent">Awards</a> <a
+                                        href="../about/sponsorship.html" target="_parent">Sponsorship</a>
                                 <a href="../article/news_20180916.html" target="_parent">Company News</a> <a
                                         href="../article/hiring-now-cyprus.html" target="_parent">Career</a>
                             </li>
@@ -2210,13 +1502,14 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     <div class="col-md-2">
                         <ul class="footer_map">
                             <li><a href="../account.html"><strong>Accounts &amp; Funding</strong></a> <a
-                                    href="../account/live-account.html" target="_parent">Live Account </a> <a
+                                    href="live-account.html" target="_parent">Live Account </a> <a
                                     href="../demo_competition.html" target="_parent">Demo Account </a> <a
-                                    href="../account/islamic-account.html" target="_parent">Islamic Account </a> <a
-                                    href="../account/account-funding.html" target="_parent">Account Funding </a> <a
-                                    href="../account/withdrawals.html" target="_parent">Withdrawals</a> <a
-                                    href="../account/account-forms.html" target="_parent">Account Forms </a> <a
-                                    href="../account/bonus.html" target="_parent">Bonuses</a></li>
+                                    href="islamic-account.html" target="_parent">Islamic Account </a> <a
+                                    href="account-funding.html" target="_parent">Account Funding </a> <a
+                                    href="withdrawals.html" target="_parent">Withdrawals</a> <a
+                                    href="account-forms.html" target="_parent">Account Forms </a> <a href="bonus.html"
+                                                                                                     target="_parent">Bonuses</a>
+                            </li>
                         </ul>
                     </div>
                     <div class="col-md-2">
@@ -2300,13 +1593,13 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                 src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50"/> </span>
     </a>
     <a class="email-us-tg demo-account-btn email-btn"
-       href="../cdn-cgi/l/email-protection.html#c5a6b685a8b0a9b1aca7a4abaea3bdeba6aaa8">
+       href="../cdn-cgi/l/email-protection.html#6d0e1e2d00180119040f0c03060b15430e0200">
         <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/home/sidebar_icon/email.png" width="50"/> </span>
     </a>
     <a class="ib-registration-btn chat-btn"
        onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-       data-cf-modified-d1e42a21540a99ed898e3385-="">
+       data-cf-modified-6864ba4d28184620dfa2cc29-="">
         <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/home/sidebar_icon/chat.png" width="50"/> </span>
     </a>
@@ -2410,10 +1703,10 @@ whereToGoItem.injectIcons('.target-icon', icons);
             <form action="https://www.multibankfx.com/form/contactus?" name='email_us_form'
                   class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='email_us_form' target=''
                   autocomplete='on'>
-                <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToxMw=='/>
-                <input type='hidden' name='token' value='$2y$10$mpsYXEgNVxiyLKd/hmSk8O20vOOGD6WwWwfW./Rx1bFt03Wc1MM0W'/>
+                <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTozMw=='/>
+                <input type='hidden' name='token' value='$2y$10$9DDQW/VjEFJVNUfw4q5g/e.j7bvWMBVlYQVVUiIrah5Bywi2pPUom'/>
                 <input type='hidden' name='source'
-                       value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:10] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:11] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:12] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:13] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/milestones?web=true'/>
+                       value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:30] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:31] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:32] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:33] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/account/account-funding?web=true'/>
                 <div class='col-12 p-0'>
                     <label for='' class='mex-h3'>
                         EMAIL US</label>
@@ -2743,7 +2036,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                 </div>
                 <button type='submit' class='btn btn-mex ml-auto btn-submit'
                         onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                        data-cf-modified-d1e42a21540a99ed898e3385-="">SEND
+                        data-cf-modified-6864ba4d28184620dfa2cc29-="">SEND
                 </button>
             </form>
         </div>
@@ -2798,7 +2091,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
     }
 </style>
 <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-<script type="d1e42a21540a99ed898e3385-text/javascript">
+<script type="6864ba4d28184620dfa2cc29-text/javascript">
     $(function(){
         $('.email-us-tg').click(function(e){
             e.preventDefault();
@@ -2811,16 +2104,16 @@ whereToGoItem.injectIcons('.target-icon', icons);
     })
 
 </script>
-<script src="../public_files/static_js/lang_data/en.js" type="d1e42a21540a99ed898e3385-text/javascript"></script>
+<script src="../public_files/static_js/lang_data/en.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
 <script src="../public_files/static_js/jquery.dataTables.min.js"
-        type="d1e42a21540a99ed898e3385-text/javascript"></script>
-<script src="../public_files/static_js/lazysizes.min.js" type="d1e42a21540a99ed898e3385-text/javascript"></script>
-<script src="../public_files/static_js/jquery.validate.min.js" type="d1e42a21540a99ed898e3385-text/javascript"></script>
+        type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+<script src="../public_files/static_js/lazysizes.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+<script src="../public_files/static_js/jquery.validate.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
 <script src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
-        type="d1e42a21540a99ed898e3385-text/javascript"></script>
+        type="6864ba4d28184620dfa2cc29-text/javascript"></script>
 <script src="../public_files/static_js/app.js%3Fversion=20200612"
-        type="d1e42a21540a99ed898e3385-text/javascript"></script>
-<script type="d1e42a21540a99ed898e3385-text/javascript" async>
+        type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+<script type="6864ba4d28184620dfa2cc29-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {
         window.__lc = window.__lc || {};
@@ -2851,7 +2144,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
   }
 
 </script>
-<script type="d1e42a21540a99ed898e3385-text/javascript">
+<script type="6864ba4d28184620dfa2cc29-text/javascript">
 $(function() {
     $('.mex-translatable').each(function() {
         var url_parts = location.hostname.split('.');
@@ -2886,13 +2179,13 @@ $(function() {
 
 
 </script>
-<script type="d1e42a21540a99ed898e3385-text/javascript">
+<script type="6864ba4d28184620dfa2cc29-text/javascript">
 $(function() {
         $('form:not("#demo_competition_form_2019_08_13") .sms_verif_code').val('215121');
 });
 
 </script>
-<script type="d1e42a21540a99ed898e3385-text/javascript">
+<script type="6864ba4d28184620dfa2cc29-text/javascript">
 $(function(){
 var iframe_ibnum =getUrlVars()['ibNum'];
 var is_iframe = getUrlVars()['is_iframe'];
@@ -2911,66 +2204,21 @@ if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
 });
 
 </script>
-<script src="../public_files/static_js/swiper-4.3.5.min.js" type="d1e42a21540a99ed898e3385-text/javascript"></script>
-<script src="../public_files/static_js/app_home.js" type="d1e42a21540a99ed898e3385-text/javascript"></script>
-<script type="d1e42a21540a99ed898e3385-text/javascript">
-$(function() {
-//icons we need
-var icons = [
-'ic_why_multibank',
-'ic_security_of_funds',
-'ic_our_regulations',
-'ic_our_products',
-'ic_become_an_ib',
-'ic_live_chat_support',
-'ic_bonus_programs',
-'ic_trading_tools',
-'ic_compare_our_trading_platforms',
-'ic_download_mt4',
-'ic_partnership_programs',
-'ic_mymultibank_account_panel'
-];
-//inject them
-whereToGoItem.injectIcons('.target-icon', icons);
-});
+<script type="6864ba4d28184620dfa2cc29-text/javascript">
+    $(function() {
+        var params = getUrlVars();
+        if (typeof params.ibName === 'undefined') {
+            return;
+        }
+        if (params.ibName !== '333116990' && params.ibName !== '333118303') {
+            return;
+        }
+        $('#live_account_form select[name=leverage]').val(5);
+        $('.regulator-group, .leverage-group, .account-type-group').css('display', 'none');
+    });
 
 </script>
-<style>
-    .ensure-fund-security-wrapper {
-        width: 100%;
-
-
-        display: grid;
-        grid-template-columns: 33.333% 33.333% 33.333%;
-        grid-template-rows: 1fr 1fr;
-        grid-template-areas: "s1 s2 s3" "s1 s4 s5";
-        grid-gap: 15px 15px;
-        justify-items: stretch;
-        align-items: stretch;
-    }
-
-    .ensure-fund-security:first-child .card-img {
-        width: auto;
-    }
-
-    .ensure-fund-security .card-img-box {
-        height: 100% !important;
-    }
-
-    @media (max-width: 1199px) {
-        .ensure-fund-security-wrapper {
-            grid-template-columns: 1fr 1fr;
-            grid-template-rows: 40% 30% 30%;
-            grid-template-areas: "s1 s1" "s2 s3" "s4 s5";
-        }
-
-        .ensure-fund-security:first-child .card-img {
-            width: 100%;
-        }
-    }
-
-</style>
 <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js"
-        data-cf-settings="d1e42a21540a99ed898e3385-|49" defer=""></script>
+        data-cf-settings="6864ba4d28184620dfa2cc29-|49" defer=""></script>
 </body>
 </html>

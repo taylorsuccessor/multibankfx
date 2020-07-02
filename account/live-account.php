@@ -1,482 +1,12 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-    <meta charset='UTF-8'>
-    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <title>MultiBank Group is a Regulated Trading Platform</title>
-    <meta name='description'
-          content="MultiBank is heavily regulated worldwide, with over 8 regulatory licenses from top financial bodies around the globe">
-    <meta name='keywords'
-          content="regulations, regulators, forex regulations, forex regulators, trading regulations, trading regulators, financial trading regulators, financial trading license, license broker for forex, forex licensed broker, authorized and regulated broker, authorized fo">
-    <meta property='og:title' content="MultiBank Group is a Regulated Trading Platform">
-    <meta property='og:description'
-          content="MultiBank is heavily regulated worldwide, with over 8 regulatory licenses from top financial bodies around the globe">
-    <link rel='canonical' href="../mfx/v1/about/regulations.html">
-    <link rel="alternate" href="https://es.multibankfx.com/about/regulations" hreflang="es-ES"/>
-    <link rel="alternate" href="https://ru.multibankfx.com/about/regulations" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://ae.multibankfx.com/about/regulations" hreflang="en-ae"/>
-    <link rel="alternate" href="https://vn.multibankfx.com/about/regulations" hreflang="vi-VN"/>
-    <link rel="alternate" href="https://id.multibankfx.com/about/regulations" hreflang="id-ID"/>
-    <link rel="alternate" href="https://mys.multibankfx.com/about/regulations" hreflang="ms-MY"/>
-    <link rel="alternate" href="https://ph.multibankfx.com/about/regulations" hreflang="tl-PH"/>
-    <link rel="alternate" href="https://th.multibankfx.com/about/regulations" hreflang="th-TH"/>
-    <link rel="alternate" href="https://fr.multibankfx.com/about/regulations" hreflang="fr-FR"/>
-    <link rel="alternate" href="../mfx/v1/about/regulations.html" hreflang="x-default"/>
-
-    <script type="4697d1266f44080ba22ec4c5-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KNJQJTN');
-    </script>
-    <link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
-    <link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
-    <link rel="stylesheet" href="../public_files/static_min_css/custom.min.css%3Fv=20200618-2.css">
-    <style>
-        form {
-            position: relative;
-        }
-
-        .form-loader-container {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 50;
-
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        form:not(#demo_competition_form_2019_08_13) .sms-code-container {
-            display: none;
-
-        }
-
-        form:not(#demo_competition_form_2019_08_13) .send-code-container {
-            display: none;
-        }
-
-        .multibank-form label.error {
-            font-size: 1.1rem;
-
-        }
-
-        .h-00 {
-            height: 0;
-        }
-    </style>
-    <script src="../public_files/static_js/jquery-3.3.1.min.js"
-            type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-    <script type="4697d1266f44080ba22ec4c5-text/javascript">const page_dir = 'ltr';</script>
+    <?php include_from_root('website_template/head.php');?>
 </head>
 <body>
-<div class="header">
-    <div class="header-top d-none d-md-block">
-        <div class="row">
-            <div class="col-sm-6">
-                <ul class="header-top-left-menu hide-1024">
-                    <li class="border-right hide-1200"><a
-                            href="../cdn-cgi/l/email-protection.html#f09383b09d859c849992919e9b9688de939f9d"><i
-                            class="ti-email">&nbsp;</i> <span>EMAIL</span> </a></li>
-                    <li class="border-right hide-1024"><i class="ti-world">&nbsp;</i> <span>Global Alexa Ranking:
-14261</span></li>
-                    <li class="hide-1280"><span><a href="tel:+12139924748?call">US: +1 213 992 4748</a> </span></li>
-                </ul>
-            </div>
-            <div class="col-md-6 col-12 header-top-right-menu text-nowrap"><a
-                    class="hide-1200 btn btn-sm btn-navy mr-1 d-flex align-items-center"
-                    href="https://my.multibankfx.com/en/traders/login"><span class="small-M-logo"><img alt=""
-                                                                                                       data-entity-type=""
-                                                                                                       data-entity-uuid=""
-                                                                                                       height="12px"
-                                                                                                       src="../public_files/images/common/icons/btn_mymex_icon.png"
-                                                                                                       width="auto;"/> </span>&nbsp;MyMultibank
-            </a>
-                <a class="btn btn-sm btn-gold mr-1 header-mb-btn d-md-flex d-none align-items-center"
-                   href="../contact.html"><i class="ti-headphone-alt">&nbsp;</i>Contact Us</a> <a
-                        class="btn btn-sm btn-red mr-1 header-mb-btn d-md-flex d-none align-items-center"
-                        href="../account/live-account.html"><i class="ti-user">&nbsp;</i>Live Account</a> <a
-                        class="btn btn-sm btn-blue hide-768 mr-1 d-flex align-items-center"
-                        href="../demo_competition.html"><i class="ti-desktop">&nbsp;</i>Demo Account</a>
 
-                <a class="btn btn-sm btn-grey hide-768 mr-1 d-flex align-items-center"
-                   href="../partnership/introducing-brokers.html"><i
-                        style="font-family: 'icomoon' !important; font-size:9px; font-style: normal; margin-right: 5px;">&nbsp;&#xe920;</i>IB
-                    Registration</a></div>
-        </div>
-    </div>
-    <div class="header-bottom">
-        <div class="position-relative">
-            <div class="row nav-bar justify-content-between mx-0">
-                <div class="line-height-75 line-height-1280-55 header-bottom-left-container">
-                    <div class="header-boottom-logo">
-                        <a href="../index.html">
-                            <img alt="logo" class="logo logo-dark header-logo"
-                                 src="../public_files/images/common/logo_black_360.png"/>
-                        </a>
-                    </div>
-                </div>
-                <div class="line-height-75 hide-1200 d-flex">
-                    <div class="header-bottom-nav">
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="about">ABOUT US</a></div>
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="products">PRODUCTS</a></div>
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="platforms">PLATFORMS</a></div>
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="accounts">ACCOUNT &amp;
-                            FUNDING</a></div>
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="tools">TOOLS</a></div>
-                        <div class="nav-item"><a class="header-menu-trigger" data-type="partnership">PARTNERSHIP</a>
-                        </div>
-                    </div>
-                    <div class="lang-menu">
-                        <div class="lang-menu-current">
-                            <a>EN</a>
-                        </div>
-                        <div class="lang-menu-dropdown">
-                            <a href="https://es.multibankfx.com">Español</a>
 
-                            <a href="https://ru.multibankfx.com">русский</a>
-                            <a href="https://ar.multibankfx.com">العربية</a>
-                            <a href="https://vn.multibankfx.com">Việt Nam</a>
-                            <a href="https://id.multibankfx.com">Bahasa Indonesia</a>
-                            <a href="https://mys.multibankfx.com">Bahasa Melayu</a>
-                            <a href="https://ph.multibankfx.com">Tagalog</a>
-                            <a href="https://fr.multibankfx.com">Français</a>
-                            <a href="https://th.multibankfx.com">ไทย</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="show-1200-flex align-items-center">
-                    <a class="nav-menu-mymex" style="min-width: unset !important;"
-                       href="https://my.multibankfx.com/en/traders/login">
-                        <img alt="" src="../public_files/images/common/icons/btn_mymex_icon.png"/>
-                    </a>
-                    <div class="nav-menu-hamburger">
-                        <i class="ti-menu" style="font-size: 20px; color: #FFF;"></i>
-                    </div>
-                </div>
-            </div>
-            <ul class="nav-menu py-3">
-                <li class="nav-about-menu header-nav-menu">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0 "><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="../about.html">About
-                                    us</a>
-                                </div>
-                                <p class="line-height-30">MultiBank was established in California, USA in 2005. Since
-                                    its launch MultiBank has evolved into one of the largest financial derivatives
-                                    companies worldwide, with a current paid up capital of over US $322 million.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../about.html">About us</a></h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="why-multibank-group.html">Why Multibank</a></li>
-                                <li><a href="global-presence.html">Global Presence</a></li>
-                                <li><a href="../mfx/v1/about/regulations.html">Regulations</a></li>
-                                <li><a href="security-of-funds.html">Security of Funds</a></li>
-                                <li><a href="milestones.html">Milestones</a></li>
-                                <li><a href="management.html">Management</a></li>
-                                <li><a href="awards.html">Awards</a></li>
-                                <li><a href="sponsorship.html">Sponsorship</a></li>
-                                <li><a href="../article/news_20180916.html">Company News</a></li>
-                                <li><a href="../article/hiring-now-cyprus.html">Career</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12 ">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="nav-products-menu header-nav-menu" style="display: none;">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0"><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="../products.html">Products</a>
-                                </div>
-                                <p class="line-height-30">Trade MultiBank’s wide range of financial products.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../products.html">Products</a></h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="../products/forex.html">Forex</a></li>
-                                <li><a href="../products/metals.html">Metals</a></li>
-                                <li><a href="../products/shares.html">Shares</a></li>
-                                <li><a href="../products/indices.html">Indices</a></li>
-                                <li><a href="../products/commodities.html">Commodities</a></li>
-
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="nav-platforms-menu header-nav-menu" style="display: none;">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0"><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="../platforms.html">Platforms</a>
-                                </div>
-                                <p class="line-height-30">Trade on MultiBank’s award-winning MT4 & MT5 platforms.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../platforms.html">Platforms</a></h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="../platforms/compare-platforms.html">Compare Platforms</a></li>
-                                <li><a href="../platforms/ecn-pro.html">ECN Pro</a></li>
-                                <li><a href="../platforms/multibank-pro.html">MultiBank Pro</a></li>
-                                <li><a href="../platforms/maximus.html">Maximus</a></li>
-                                <li><a href="../platforms/mt5-platform.html">MT5 Platform</a></li>
-                                <li><a href="../social-trading.html">Social Trading</a></li>
-                                <li><a href="../platforms/download-center.html">Download Center</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="nav-accounts-menu header-nav-menu" style="display: none;">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0"><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="../account.html">Accounts
-                                    &amp; Funding</a></div>
-                                <p class="line-height-30">MultiBank offers customers direct access to banks and
-                                    exchanges through its advanced trading platforms.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../account.html">Accounts &amp;
-                                    Funding</a>
-                                </h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="../account/live-account.html">Live Account</a></li>
-                                <li><a href="../demo_competition.html">Demo Account</a></li>
-                                <li><a href="../account/islamic-account.html">Islamic Account</a></li>
-                                <li><a href="../account/account-funding.html">Account Funding</a></li>
-                                <li><a href="../account/withdrawals.html">Withdrawals</a></li>
-                                <li><a href="../account/account-forms.html">Account Forms</a></li>
-                                <li><a href="../account/bonus.html">Bonuses</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 ">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="nav-tools-menu header-nav-menu" style="display: none;">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12  col-xs-12 ">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0"><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none"
-                                        href="../tools.html">Tools</a>
-                                </div>
-                                <p class="line-height-30">MultiBank offers simple yet powerful trading tools to help you
-                                    manage your trade with ease and full control- all free of charge!</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../tools.html">Tools</a></h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="../tools/trading-tools.html">Trading Tools</a></li>
-                                <li><a href="../tools/trading-conditions.html">Trading Conditions</a></li>
-                                <li><a href="../tools/holiday-hours-notices.html">Trading Hours &amp; Holiday Notice</a>
-                                </li>
-                                <li><a href="../cfd-expiration-dates.html">CFD Expiration Dates</a></li>
-
-                                <li><a href="../scalping-policy.html">Scalping Policy</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 ">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="nav-partnership-menu header-nav-menu" style="display: none;">
-                    <div class="w-75 mx-auto row">
-                        <div class="col-md-4 col-sm-12  col-xs-12 ">
-                            <div class="menu_txt_content">
-                                <div class="mex-h2 uppercase mb0"><a class="font-40 text-left mex-p-l-none mex-p-r-none"
-                                                                     href="../investor-relations.html">Partnership</a>
-                                </div>
-                                <p class="line-height-30">Join MultiBank’s network of over 30,000 Introducing Brokers
-                                    and enjoy the highest levels of personalized customer care.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 nav-col-hr">
-                            <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="../investor-relations.html">Partnership</a>
-                                </h4>
-                            </div>
-                            <ul class="nav-menu-list">
-                                <li><a href="../partnership/introducing-brokers.html">Introducing Brokers</a></li>
-                                <li><a href="../partnership/franchise-program.html">Franchise Program</a></li>
-                                <li><a href="../partnership/white-label.html">White Label</a></li>
-                                <li><a href="../partnership/prime-of-primes.html">Prime of Primes</a></li>
-                                <li><a href="../partnership/cpa-affiliate-program.html">CPA Affiliate Program</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-sm-12  col-xs-12 ">
-                            <div class="menu_ad">
-                                <div class="nav-menu-heading">
-                                    <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-                                </div>
-                                <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-            </ul>
-            <ul class="nav-menu-mobile text-uppercase">
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../about.html">About us</a>
-                    <ul class="text-center">
-                        <li><a href="why-multibank-group.html">Why Multibank</a></li>
-                        <li><a href="global-presence.html">Global Presence</a></li>
-                        <li><a href="../mfx/v1/about/regulations.html">Regulations</a></li>
-                        <li><a href="security-of-funds.html">Security of Funds</a></li>
-                        <li><a href="milestones.html">Milestones</a></li>
-                        <li><a href="management.html">Management</a></li>
-                        <li><a href="awards.html">Awards</a></li>
-                        <li><a href="sponsorship.html">Sponsorship</a></li>
-                        <li><a href="../article/news_20180916.html">Company News</a></li>
-                        <li><a href="../article/hiring-now-cyprus.html">Career</a></li>
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../products.html">Products</a>
-                    <ul class="text-center">
-                        <li><a href="../products/forex.html">Forex</a></li>
-                        <li><a href="../products/metals.html">Metals</a></li>
-                        <li><a href="../products/shares.html">Shares</a></li>
-                        <li><a href="../products/indices.html">Indices</a></li>
-                        <li><a href="../products/commodities.html">Commodities</a></li>
-
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../platforms.html">Platforms</a>
-                    <ul class="text-center">
-                        <li><a href="../platforms/compare-platforms.html">Compare Platforms</a></li>
-                        <li><a href="../platforms/ecn-pro.html">ECN Pro</a></li>
-                        <li><a href="../platforms/multibank-pro.html">MultiBank Pro</a></li>
-                        <li><a href="../platforms/maximus.html">Maximus</a></li>
-                        <li><a href="../platforms/mt5-platform.html">MT5 Platform</a></li>
-                        <li><a href="../social-trading.html">Social Trading</a></li>
-                        <li><a href="../platforms/download-center.html">Download Center</a></li>
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../account.html">Account &amp; Funding</a>
-                    <ul class="text-center">
-                        <li><a href="../account/live-account.html">Live Account</a></li>
-                        <li><a href="../demo_competition.html">Demo Account</a></li>
-                        <li><a href="../account/islamic-account.html">Islamic Account</a></li>
-                        <li><a href="../account/account-funding.html">Account Funding</a></li>
-                        <li><a href="../account/withdrawals.html">Withdrawals</a></li>
-                        <li><a href="../account/account-forms.html">Account Forms</a></li>
-                        <li><a href="../account/bonus.html">Bonuses</a></li>
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../tools.html">Tools</a>
-                    <ul class="text-center">
-                        <li><a href="../tools/trading-tools.html">Trading Tools</a></li>
-                        <li><a href="../tools/trading-conditions.html">Trading Conditions</a></li>
-                        <li><a href="../tools/holiday-hours-notices.html">Trading Hours &amp; Holiday Notice</a></li>
-                        <li><a href="../cfd-expiration-dates.html">CFD Expiration Dates</a></li>
-
-                        <li><a href="../scalping-policy.html">Scalping Policy</a></li>
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="../investor-relations.html">Partnership</a>
-                    <ul class="text-center">
-                        <li><a href="../partnership/introducing-brokers.html">Introducing Brokers</a></li>
-                        <li><a href="../partnership/franchise-program.html">Franchise Program</a></li>
-                        <li><a href="../partnership/white-label.html">White Label</a></li>
-                        <li><a href="../partnership/prime-of-primes.html">Prime of Primes</a></li>
-                        <li><a href="../partnership/cpa-affiliate-program.html">CPA Affiliate Program</a></li>
-                    </ul>
-                </li>
-                <li class="nav-menu-mobile-section py-1 px-4 lang-mobile-menu" style="border-top: 1px solid #ccc;"><a
-                        href="../investor-relations.html">EN</a>
-                    <ul class="text-center">
-                        <li><a href="https://es.multibankfx.com">Español</a></li>
-
-                        <li><a href="https://ru.multibankfx.com">русский</a></li>
-                        <li><a href="https://ae.multibankfx.com">العربية</a></li>
-                        <li><a href="https://vn.multibankfx.com">Việt Nam</a></li>
-                        <li><a href="https://id.multibankfx.com">Bahasa Indonesia</a></li>
-                        <li><a href="https://mys.multibankfx.com">Bahasa Melayu</a></li>
-                        <li><a href="https://ph.multibankfx.com">Tagalog</a></li>
-                        <li><a href="https://fr.multibankfx.com">Français</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
+<?php include_from_root('website_template/header_and_menu.php');?>
 <style>
     .nav-menu-hamburger, .nav-menu-mymex {
         width: 35px;
@@ -534,307 +64,641 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript>
 <div class="main-container">
-    <link rel="stylesheet" type="text/css" href="../public_files/static_css/swiper-3.4.2.min.css">
-    <section class="pt64 pb16 table-background global-presence regulations-bg"
-             style="background-image: url(../public_files/images/about_us/regulations/regulations_fma.jpg);">
+    <section class="flex-center page-top-banner">
+        <img src="../public_files/images/accounts_funding/live_account_top_banner.jpg" alt="Islamic Account"
+             class="mex-img-cover"/>
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-9 clear-float mex-content">
-                    <h1 class="mex-h1 text-fff text-center">Regulations</h1>
-                    <p class="lead text-fff">At MultiBank, we are committed to providing transparency and the highest
-                        level of clients’ funds security. With licenses and regulations across 4 continents, we work
-                        with financial regulators across various jurisdictions to provide investor protection.</p>
-                    <p class="lead text-fff mex-m-b-30">Learn more about our various regulated entities</p>
-                </div>
-                <div class="col-xs-10 col-sm-9 clear-float">
-
-                    <div class="swiper-pagination swiper-pagination-white swiper-pagination-clickable swiper-pagination-bullets">
-<span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/australia.png" tabindex="0"
-      role="button" aria-label="Go to slide 1">
-<span>ASIC</span>
-<img src="../public_files/images/common/country/australia.png">
-</span>
-
-                        <span class="swiper-pagination-bullet"
-                              data-img="/public_files/images/common/country/germany.png" tabindex="0" role="button"
-                              aria-label="Go to slide 3">
-<span>BaFin</span>
-<img src="../public_files/images/common/country/germany.png">
-</span>
-                        <span class="swiper-pagination-bullet swiper-pagination-bullet-active"
-                              data-img="/public_files/images/common/country/austria.png" tabindex="0" role="button"
-                              aria-label="Go to slide 4">
-<span>FMA</span>
-<img src="../public_files/images/common/country/austria.png">
-</span>
-                        <span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/spain.png"
-                              tabindex="0" role="button" aria-label="Go to slide 5">
-<span>CNMV</span>
-<img src="../public_files/images/common/country/spain.png">
-</span>
-                        <span class="swiper-pagination-bullet"
-                              data-img="/public_files/images/common/country/british_virgin_islands.png" tabindex="0"
-                              role="button" aria-label="Go to slide 6">
-<span>FSC</span>
-<img src="../public_files/images/common/country/british_virgin_islands.png">
-</span>
-                        <span class="swiper-pagination-bullet"
-                              data-img="/public_files/images/common/country/cayman_islands.png" tabindex="0"
-                              role="button" aria-label="Go to slide 7">
-<span>CIMA</span>
-<img src="../public_files/images/common/country/cayman_islands.png">
-</span>
-                        <span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/uae.png"
-                              tabindex="0" role="button" aria-label="Go to slide 8">
-<span>RAK</span>
-<img src="../public_files/images/common/country/uae.png">
-</span>
+                <div class="col-10 col-xl-6 col-sm-10">
+                    <h1 class="mex-h1 text-left">
+                        Live Account
+                    </h1>
+                    <div class="mex-content">
+                        <p class="mex-m-t-30">MultiBank offer customers direct access to banks and exchanges through its
+                            advanced trading platforms</p>
                     </div>
-                    <div class="swiper-container swiper-container-horizontal" id="regulations-global-presence">
-                        <div class="swiper-wrapper mex-m-b-100 mex-m-t-15"
-                             style="transition-duration: 0ms; transform: translate3d(-2925px, 0px, 0px);">
-                            <div class="swiper-slide swiper-slide-duplicate"
-                                 data-img="/resource/newwebsite/v1_0/images/about_us/regulations/regulations_rak@2x.jpg"
-                                 data-swiper-slide-index="8" style="width: 975px;">
-                                <section class="mex-block-card-not-img">
-                                    <div class="card-content bg-white">
-                                        <div class="mex-h3-s mex-m-b-15">
-                                            RAK<br>MEX ClearingRAK<br>
-                                            MEX Clearing
-                                        </div>
-                                        <div class="mex-content">
-                                            MEX Clearing Limited is our subsidiary in the United Arab Emirates, and is
-                                            registered in the Ras Al Khaimah Free Trade Zone.
-                                        </div>
-
-                                        <a href="https://www.multibankfx.com/public_files/pdf/MEX_Clearing.pdf"
-                                           class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="swiper-slide"
-                                 data-img="/public_files/images/about_us/regulations/regulations_asic.jpg"
-                                 data-swiper-slide-index="1" style="width: 975px;">
-                                <section class="mex-block-card-not-img">
-                                    <div class="card-content bg-white">
-                                        <div class="mex-h3-s mex-m-b-15">
-                                            ASIC<br>MEX Exchange
-                                        </div>
-                                        <div class="mex-content">
-                                            MEX Australia Pty Ltd (MEX Exchange), with Australian company number (ACN)
-                                            155 084 058, is authorized and regulated by the Australian Securities &amp;
-                                            Investments Commission (“ASIC”) with AFSL number 416279. MEX Exchange is a
-                                            registered business name of MEX Australia Pty Ltd.
-                                        </div>
-                                        <a href="https://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_adf.ctrl-state=lffqbm9qo_36"
-                                           target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
-                                        <a href="http://download.mexgroup.com/uploads/PDFs/ASIC_Company_Certificate.pdf"
-                                           class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
-                                    </div>
-                                </section>
-                            </div>
-
-                            <div class="swiper-slide swiper-slide-prev"
-                                 data-img="/public_files/images/about_us/regulations/regulations_bafin.jpg"
-                                 data-swiper-slide-index="3" style="width: 975px;">
-                                <section class="mex-block-card-not-img">
-                                    <div class="card-content bg-white">
-                                        <div class="mex-h3-s mex-m-b-15">
-                                            BaFin<br>MEX Asset Management (Germany)
-                                        </div>
-                                        <div class="mex-content">
-                                            MEX Asset Management GmbH is authorized and regulated by the German Federal
-                                            Financial Supervisory Authority (“BaFin”) with license number HRB 73406.
-                                        </div>
-                                        <a href="https://www.bafin.de/SharedDocs/Standardartikel/EN/Unternehmensdatenbank/li_fidi_zugel_gesamt_en.html?nn=7856472"
-                                           target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
-                                        <a href="http://download.mexgroup.com/uploads/PDFs/MEXAM-BaFin.pdf"
-                                           class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="swiper-slide swiper-slide-active"
-                                 data-img="/public_files/images/about_us/regulations/regulations_fma.jpg"
-                                 data-swiper-slide-index="4" style="width: 975px;">
-                                <section class="mex-block-card-not-img">
-                                    <div class="card-content bg-white">
-                                        <div class="mex-h3-s mex-m-b-15">
-                                            FMA<br>MEX Asset Management (Austria)
-                                        </div>
-                                        <div class="mex-content">
-                                            MEX Asset Management GmbH (Austria) is the Austrian branch of our German
-                                            asset management company, with license number 491129z.
-                                        </div>
-                                        <a href="http://www.fma.gv.at/en/search-company-database/?cname=MEX+Asset+Management&amp;place=&amp;bic=&amp;category=&amp;per_page=10&amp;submitted=1"
-                                           target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
-
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="swiper-slide swiper-slide-next"
-                                 data-img="/public_files/images/about_us/regulations/regulations_cnmv.jpg"
-                                 data-swiper-slide-index="5" style="width: 975px;">
-                                <section class="mex-block-card-not-img">
-                                    <div class="card-content bg-white">
-                                        <div class="mex-h3-s mex-m-b-15">
-                                            CNMV<br>MEX Spain
-                                        </div>
-                                        <div class="mex-content">
-                                            MEX Spain is MultiBank’s Spanish branch based out of Barcelona, Spain, and
-                                            is regulated by the National Securities Market Commission (“CNMV”).
-                                        </div>
-                                        <a href="https://www.cnmv.es/Portal/Consultas/ESI/ESISExtranjerasSuc.aspx?tipo=CSU&numero=120&vista=0&fs=08/04/2019"
-                                           class="btn btn-mex mex-m-r-15">License link</a>
-                                        <a href="../public_files/images/documents/pdf/CNMV-license.pdf"
-                                           class="btn btn-mex-black mex-m-r-15">License PDF</a>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="swiper-slide"
-                                 data-img="/public_files/images/about_us/regulations/regulations_fsc.jpg"
-                                 data-swiper-slide-index="6" style="width: 975px;">
-                                <section class="mex-block-card-not-img">
-                                    <div class="card-content bg-white">
-                                        <div class="mex-h3-s mex-m-b-15">
-                                            FSC<br>Multibank FX International
-                                        </div>
-                                        <div class="mex-content">
-                                            Multibank FX International Corporation is authorized and regulated by the
-                                            Financial Services Commission of the British Virgin Islands (FSC) with
-                                            license number SIBA/L/14/1068.
-                                        </div>
-                                        <a href="http://www.bvifsc.vg/search/site/multibank" target="_blank"
-                                           class="btn btn-mex mex-m-r-15">License link</a>
-                                        <a href="http://download.mexgroup.com/uploads/PDFs/FSC_Company_License.pdf"
-                                           target="_blank" class="btn btn-mex-black mex-m-r-15"> License PDF</a>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="swiper-slide"
-                                 data-img="/public_files/images/about_us/regulations/regulations_cima.jpg"
-                                 data-swiper-slide-index="7" style="width: 975px;">
-                                <section class="mex-block-card-not-img">
-                                    <div class="card-content bg-white">
-                                        <div class="mex-h3-s mex-m-b-15">
-                                            CIMA<br>MEX Wealth Management
-                                        </div>
-                                        <div class="mex-content">
-                                            MEX Wealth Management is our subsidiary in the Cayman Islands, and is
-                                            regulated by the Cayman Islands Monetary Authority.
-                                        </div>
-                                        <a href="http://www.cima.ky/search-entities" target="_blank"
-                                           class="btn btn-mex mex-m-r-15">License link</a>
-                                        <a href="http://download.mexgroup.com/uploads/PDFs/MEX_Wealth_Management_Corporation_Certificate.pdf"
-                                           target="_blank" class="btn btn-mex-black mex-m-r-15">License PDF</a>
-                                    </div>
-                                </section>
-                            </div>
-
-                            <div class="swiper-slide swiper-slide-duplicate"
-                                 data-img="/public_files/images/about_us/regulations/regulations_asic.jpg"
-                                 data-swiper-slide-index="1" style="width: 975px;">
-                                <section class="mex-block-card-not-img">
-                                    <div class="card-content bg-white">
-                                        <div class="mex-h3-s mex-m-b-15">
-                                            ASIC<br>MEX Exchange
-                                        </div>
-                                        <div class="mex-content">
-                                            MEX Australia Pty Ltd (MEX Exchange), with Australian company number (ACN)
-                                            155 084 058, is authorized and regulated by the Australian Securities &amp;
-                                            Investments Commission (“ASIC”) with AFSL number 416279. MEX Exchange is a
-                                            registered business name of MEX Australia Pty Ltd.
-                                        </div>
-                                        <a href="http://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_adf.ctrl-state=vp4ojzdrf_4"
-                                           target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
-                                        <a href="http://download.mexgroup.com/uploads/PDFs/ASIC_Company_Certificate.pdf"
-                                           class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
-                                    </div>
-                                </section>
-                            </div>
-                        </div>
-                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                 </div>
             </div>
         </div>
+    </section>
+    <style>.grapesjs-editable-field-item[data-grapesjs-field="field_component_01"][data-grapesjs-delta="0"] * {
+        box-sizing: border-box;
+    }
 
-        <div class="swiper-button-next swiper-button-white" tabindex="0" role="button" aria-label="Next slide"
-             style="right: 370.5px;"></div>
-        <div class="swiper-button-prev swiper-button-white" tabindex="0" role="button" aria-label="Previous slide"
-             style="left: 370.5px;"></div>
+    .grapesjs-editable-field-item[data-grapesjs-field="field_component_01"][data-grapesjs-delta="0"] * {
+        box-sizing: border-box;
+    }
 
-
-        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_asic.jpg"/>
-        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_rak.jpg"/>
-        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_bafin.jpg"/>
-        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_cnmv.jpg"/>
-        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_cima.jpg"/>
-        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_fsc.jpg"/>
-        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_fma.jpg"/>
+    div.div {
+        padding-top: 5px;
+        padding-right: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        min-height: 25px;
+    }</style>
+    <section class="table-background plants">
+        <div class="container">
+            <div class="row mex-m-b-40">
+                <div class="mex-h1 text-center text-1e32a3 mx-auto">
+                    Open a Live account
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-8 mx-auto shadow-box bg-white">
+                    <form action="https://www.multibankfx.com/form/liveaccount?" name='live_account_form'
+                          class='multibank-form  row-offset-5 row padding-20 std-la-form new' method='post'
+                          enctype='multipart/form-data' id='live_account_form' target='' autocomplete='on'>
+                        <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTowNA=='/>
+                        <input type='hidden' name='token'
+                               value='$2y$10$LBepNFkIOnQkFWI9/pmXyemqWGSrBlrxiO9ACJEtVIN6o1R/jkf16'/>
+                        <input type='hidden' name='source'
+                               value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:05] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/account/live-account?web=true'/>
+                        <div class='form-group col-12 px-0 border-bottom border-secondary px-1'>
+                            <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
+                                ACCOUNT INFORMATION</label>
+                            <input type='hidden' data-message='Label Account Info is Required.' data-extra-message=""
+                                   data-regex='' class=' form-control' name='label_account_info' placeholder=''
+                                   value=''/>
+                        </div>
+                        <div class='mex-form-item col-12 px-1 py-1 regulator-group'>
+                            <label for='la_select_company' class='d-block'>
+                                Select Regulator</label>
+                            <select class='d-block' data-message='Regulator is required.'
+                                    data-extra-message="Regulator is Invalid." data-regex='' id='la_select_company'
+                                    name='company' required readonly>
+                                <option value='1' class=' '>MEX EXCHANGE ( AUTHORISED AND REGULATED BY "ASIC" LICENSE
+                                    NO. 416279 )
+                                </option>
+                                <option value='6' selected='selected' class=''>MultiBank FX BVI (Authorised and
+                                    Regulated by “FSC” license No. SIBA/L/14/1068 )
+                                </option>
+                            </select></div>
+                        <div class='mex-form-item col-12 col-lg-6 px-1 py-1 account-type-group'>
+                            <label for='' class='d-block'>
+                                Select Platform</label>
+                            <select class='d-block' data-message='Platform Type is Required.'
+                                    data-extra-message="Platform type is invalid." data-regex='' name='platform_type'
+                                    required readonly>
+                                <option value='3' class=' '>ECN</option>
+                                <option value='5' class=' '>MultiBank Pro</option>
+                                <option value='7' selected='selected' class=''>Maximus</option>
+                            </select></div>
+                        <div class='mex-form-item col-12 col-lg-6 px-1 py-1 leverage-group'>
+                            <label for='' class='d-block'>
+                                Select Leverage</label>
+                            <select class='d-block' data-message='Leverage Field is required.'
+                                    data-extra-message="Leverage is Invalid." data-regex='' name='leverage' required
+                                    readonly>
+                                <option value='1' class=' '>1:100</option>
+                                <option value='2' class=' '>1:200</option>
+                                <option value='3' class=' '>1:300</option>
+                                <option value='4' class=' '>1:400</option>
+                                <option value='5' selected='selected' class=''>1:500</option>
+                            </select></div>
+                        <div class='mex-form-item col-12 col-lg-6 px-1 py-1'>
+                            <label for='la_select_client_type' class='d-block'>
+                                Select Client Type</label>
+                            <select class='d-block' data-message='Client Type is Required.'
+                                    data-extra-message="Client type is Invalid." data-regex=''
+                                    id='la_select_client_type' name='client_type' required>
+                                <option value='' selected='selected' class=''>Please Select Client Type</option>
+                                <option value='1' class=' '>Corporate Client</option>
+                                <option value='2' class=' '>Individual Client</option>
+                                <option value='3' class=' '>Joint Account</option>
+                                <option value='4' class=' '>Introducing Broker</option>
+                            </select></div>
+                        <div class='lei-input-container invisible col-12 col-lg-6 mex-form-item px-1 py-1'>
+                            <label for='' class='d-block'>
+                                Legal Entity Identifier</label>
+                            <input type="text" data-message="This field is required." data-extra-message=""
+                                   data-regex="" class="d-block" name="lei_code" $field_id_code placeholder=""
+                                   value=""/>
+                        </div>
+                        <div class='d-block, d-none mex-form-item col-12 col-lg-6 mb-5 pt-1 la-container-has_tin'>
+                            <label for='' class='d-block'>
+                                Do you have a TIN number?</label>
+                            <div class='form-check form-check-inline'><input data-message='This field is required.'
+                                                                             data-extra-message="" class='   '
+                                                                             name='has_tin' type='radio' value='1'/>
+                                <label class='  ' for=''>Yes</label>
+                            </div>
+                            <div class='form-check form-check-inline'><input data-message='This field is required.'
+                                                                             data-extra-message="" class='   '
+                                                                             name='has_tin' type='radio' value='0'/>
+                                <label class='  ' for=''>No</label>
+                            </div>
+                        </div>
+                        <div class='mex-form-item col-6 p-1 d-none la-container-tin_number'>
+                            <label for='' class='d-block'>
+                                TIN Number</label>
+                            <input type="text" data-message="This field is required." data-extra-message=""
+                                   data-regex="null" class="d-block" name="tin_number" $field_id_code placeholder=""
+                                   value=""/>
+                        </div>
+                        <div class='col-6'>
+                            <label for='' class=''>
+                            </label>
+                            <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' ' name=''
+                                   placeholder='' value=''/>
+                        </div>
+                        <div class='form-group col-12 px-0 border-bottom border-secondary px-1'>
+                            <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
+                                CLIENT INFORMATION</label>
+                            <input type='hidden' data-message='' data-extra-message="" data-regex=''
+                                   class=' mex-form-item d-block' name='label_client_info' placeholder='' value=''/>
+                        </div>
+                        <div class='mex-form-item col-12 p-1 la-container-name'>
+                            <label for='' class='d-block la-label-name'>
+                                Full Name</label>
+                            <input type="text" data-message="Full Name is Required."
+                                   data-extra-message="Full Name is incorrect." data-regex="" class="d-block"
+                                   name="name" $field_id_code placeholder="" required value=""/>
+                        </div>
+                        <div class='mex-form-item col-6 p-1 d-none la-container-name-2'>
+                            <label for='' class='d-block'>
+                                Full Name of 2nd Individual</label>
+                            <input type="text" data-message="" data-extra-message="" data-regex=""
+                                   class="d-block la-field-name-2" name="name2" $field_id_code placeholder="" value=""/>
+                        </div>
+                        <div class='mex-form-item col-12 col-lg-6 px-1 py-1'>
+                            <label for='' class='d-block'>
+                                Email</label>
+                            <input type='email' data-message='Email is Required.' data-extra-message="Email Invalid."
+                                   data-regex='' class='d-block' name='email' placeholder='' required value=''/>
+                        </div>
+                        <div class='mex-form-item col-12 col-lg-6 p-1'>
+                            <label for='' class='d-block'>
+                                Confirm Email</label>
+                            <input type='email' data-message='Confirm Email is Required.'
+                                   data-extra-message="Email Mismatched." data-regex='' class='d-block'
+                                   name='confirm_email' placeholder='' required value=''/>
+                        </div>
+                        <div class=''>
+                            <label for='' class='d-none'>
+                                Country</label>
+                            <select data-message='Country is Required.' data-extra-message=""
+                                    class='selection-country d-none select_with_country' name='country_name' required>
+                                <option value='' selected='selected'>Select Country</option>
+                                <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
+                                <option data-country_iso_code="AL" data-name='AL' value='AL'>ALBANIA</option>
+                                <option data-country_iso_code="DZ" data-name='DZ' value='DZ'>ALGERIA</option>
+                                <option data-country_iso_code="AS" data-name='AS' value='AS'>AMERICAN SAMOA</option>
+                                <option data-country_iso_code="AD" data-name='AD' value='AD'>ANDORRA</option>
+                                <option data-country_iso_code="AO" data-name='AO' value='AO'>ANGOLA</option>
+                                <option data-country_iso_code="AI" data-name='AI' value='AI'>ANGUILLA</option>
+                                <option data-country_iso_code="AQ" data-name='AQ' value='AQ'>ANTARCTICA</option>
+                                <option data-country_iso_code="AG" data-name='AG' value='AG'>ANTIGUA AND BARBUDA
+                                </option>
+                                <option data-country_iso_code="AR" data-name='AR' value='AR'>ARGENTINA</option>
+                                <option data-country_iso_code="AM" data-name='AM' value='AM'>ARMENIA</option>
+                                <option data-country_iso_code="AW" data-name='AW' value='AW'>ARUBA</option>
+                                <option data-country_iso_code="AU" data-name='AU' value='AU'>AUSTRALIA</option>
+                                <option data-country_iso_code="AT" data-name='AT' value='AT'>AUSTRIA</option>
+                                <option data-country_iso_code="AZ" data-name='AZ' value='AZ'>AZERBAIJAN</option>
+                                <option data-country_iso_code="BS" data-name='BS' value='BS'>BAHAMAS</option>
+                                <option data-country_iso_code="BH" data-name='BH' value='BH'>BAHRAIN</option>
+                                <option data-country_iso_code="BD" data-name='BD' value='BD'>BANGLADESH</option>
+                                <option data-country_iso_code="BB" data-name='BB' value='BB'>BARBADOS</option>
+                                <option data-country_iso_code="BY" data-name='BY' value='BY'>BELARUS</option>
+                                <option data-country_iso_code="BE" data-name='BE' value='BE'>BELGIUM</option>
+                                <option data-country_iso_code="BZ" data-name='BZ' value='BZ'>BELIZE</option>
+                                <option data-country_iso_code="BJ" data-name='BJ' value='BJ'>BENIN</option>
+                                <option data-country_iso_code="BM" data-name='BM' value='BM'>BERMUDA</option>
+                                <option data-country_iso_code="BT" data-name='BT' value='BT'>BHUTAN</option>
+                                <option data-country_iso_code="BO" data-name='BO' value='BO'>BOLIVIA</option>
+                                <option data-country_iso_code="BA" data-name='BA' value='BA'>BOSNIA AND HERZEGOVINA
+                                </option>
+                                <option data-country_iso_code="BW" data-name='BW' value='BW'>BOTSWANA</option>
+                                <option data-country_iso_code="BV" data-name='BV' value='BV'>BOUVET ISLAND</option>
+                                <option data-country_iso_code="BR" data-name='BR' value='BR'>BRAZIL</option>
+                                <option data-country_iso_code="IO" data-name='IO' value='IO'>BRITISH INDIAN OCEAN
+                                    TERRITORY
+                                </option>
+                                <option data-country_iso_code="BN" data-name='BN' value='BN'>BRUNEI DARUSSALAM</option>
+                                <option data-country_iso_code="BG" data-name='BG' value='BG'>BULGARIA</option>
+                                <option data-country_iso_code="BF" data-name='BF' value='BF'>BURKINA FASO</option>
+                                <option data-country_iso_code="BI" data-name='BI' value='BI'>BURUNDI</option>
+                                <option data-country_iso_code="KH" data-name='KH' value='KH'>CAMBODIA</option>
+                                <option data-country_iso_code="CM" data-name='CM' value='CM'>CAMEROON</option>
+                                <option data-country_iso_code="CA" data-name='CA' value='CA'>CANADA</option>
+                                <option data-country_iso_code="CV" data-name='CV' value='CV'>CAPE VERDE</option>
+                                <option data-country_iso_code="KY" data-name='KY' value='KY'>CAYMAN ISLANDS</option>
+                                <option data-country_iso_code="CF" data-name='CF' value='CF'>CENTRAL AFRICAN REPUBLIC
+                                </option>
+                                <option data-country_iso_code="TD" data-name='TD' value='TD'>CHAD</option>
+                                <option data-country_iso_code="CL" data-name='CL' value='CL'>CHILE</option>
+                                <option data-country_iso_code="CN" data-name='CN' value='CN'>CHINA</option>
+                                <option data-country_iso_code="CX" data-name='CX' value='CX'>CHRISTMAS ISLAND</option>
+                                <option data-country_iso_code="CC" data-name='CC' value='CC'>COCOS (KEELING) ISLANDS
+                                </option>
+                                <option data-country_iso_code="CO" data-name='CO' value='CO'>COLOMBIA</option>
+                                <option data-country_iso_code="KM" data-name='KM' value='KM'>COMOROS</option>
+                                <option data-country_iso_code="CG" data-name='CG' value='CG'>CONGO</option>
+                                <option data-country_iso_code="CD" data-name='CD' value='CD'>CONGO, THE DEMOCRATIC
+                                    REPUBLIC OF THE
+                                </option>
+                                <option data-country_iso_code="CK" data-name='CK' value='CK'>COOK ISLANDS</option>
+                                <option data-country_iso_code="CR" data-name='CR' value='CR'>COSTA RICA</option>
+                                <option data-country_iso_code="CI" data-name='CI' value='CI'>COTE D'IVOIRE</option>
+                                <option data-country_iso_code="HR" data-name='HR' value='HR'>CROATIA</option>
+                                <option data-country_iso_code="CU" data-name='CU' value='CU'>CUBA</option>
+                                <option data-country_iso_code="CY" data-name='CY' value='CY'>CYPRUS</option>
+                                <option data-country_iso_code="CZ" data-name='CZ' value='CZ'>CZECH REPUBLIC</option>
+                                <option data-country_iso_code="DK" data-name='DK' value='DK'>DENMARK</option>
+                                <option data-country_iso_code="DJ" data-name='DJ' value='DJ'>DJIBOUTI</option>
+                                <option data-country_iso_code="DM" data-name='DM' value='DM'>DOMINICA</option>
+                                <option data-country_iso_code="DO" data-name='DO' value='DO'>DOMINICAN REPUBLIC</option>
+                                <option data-country_iso_code="EC" data-name='EC' value='EC'>ECUADOR</option>
+                                <option data-country_iso_code="EG" data-name='EG' value='EG'>EGYPT</option>
+                                <option data-country_iso_code="SV" data-name='SV' value='SV'>EL SALVADOR</option>
+                                <option data-country_iso_code="GQ" data-name='GQ' value='GQ'>EQUATORIAL GUINEA</option>
+                                <option data-country_iso_code="ER" data-name='ER' value='ER'>ERITREA</option>
+                                <option data-country_iso_code="EE" data-name='EE' value='EE'>ESTONIA</option>
+                                <option data-country_iso_code="ET" data-name='ET' value='ET'>ETHIOPIA</option>
+                                <option data-country_iso_code="FK" data-name='FK' value='FK'>FALKLAND ISLANDS
+                                    (MALVINAS)
+                                </option>
+                                <option data-country_iso_code="FO" data-name='FO' value='FO'>FAROE ISLANDS</option>
+                                <option data-country_iso_code="FJ" data-name='FJ' value='FJ'>FIJI</option>
+                                <option data-country_iso_code="FI" data-name='FI' value='FI'>FINLAND</option>
+                                <option data-country_iso_code="FR" data-name='FR' value='FR'>FRANCE</option>
+                                <option data-country_iso_code="GF" data-name='GF' value='GF'>FRENCH GUIANA</option>
+                                <option data-country_iso_code="PF" data-name='PF' value='PF'>FRENCH POLYNESIA</option>
+                                <option data-country_iso_code="TF" data-name='TF' value='TF'>FRENCH SOUTHERN
+                                    TERRITORIES
+                                </option>
+                                <option data-country_iso_code="GA" data-name='GA' value='GA'>GABON</option>
+                                <option data-country_iso_code="GM" data-name='GM' value='GM'>GAMBIA</option>
+                                <option data-country_iso_code="GE" data-name='GE' value='GE'>GEORGIA</option>
+                                <option data-country_iso_code="DE" data-name='DE' value='DE'>GERMANY</option>
+                                <option data-country_iso_code="GH" data-name='GH' value='GH'>GHANA</option>
+                                <option data-country_iso_code="GI" data-name='GI' value='GI'>GIBRALTAR</option>
+                                <option data-country_iso_code="GR" data-name='GR' value='GR'>GREECE</option>
+                                <option data-country_iso_code="GL" data-name='GL' value='GL'>GREENLAND</option>
+                                <option data-country_iso_code="GD" data-name='GD' value='GD'>GRENADA</option>
+                                <option data-country_iso_code="GP" data-name='GP' value='GP'>GUADELOUPE</option>
+                                <option data-country_iso_code="GU" data-name='GU' value='GU'>GUAM</option>
+                                <option data-country_iso_code="GT" data-name='GT' value='GT'>GUATEMALA</option>
+                                <option data-country_iso_code="GN" data-name='GN' value='GN'>GUINEA</option>
+                                <option data-country_iso_code="GW" data-name='GW' value='GW'>GUINEA-BISSAU</option>
+                                <option data-country_iso_code="GY" data-name='GY' value='GY'>GUYANA</option>
+                                <option data-country_iso_code="HT" data-name='HT' value='HT'>HAITI</option>
+                                <option data-country_iso_code="HM" data-name='HM' value='HM'>HEARD ISLAND AND MCDONALD
+                                    ISLANDS
+                                </option>
+                                <option data-country_iso_code="VA" data-name='VA' value='VA'>HOLY SEE (VATICAN CITY
+                                    STATE)
+                                </option>
+                                <option data-country_iso_code="HN" data-name='HN' value='HN'>HONDURAS</option>
+                                <option data-country_iso_code="HK" data-name='HK' value='HK'>HONG KONG</option>
+                                <option data-country_iso_code="HU" data-name='HU' value='HU'>HUNGARY</option>
+                                <option data-country_iso_code="IS" data-name='IS' value='IS'>ICELAND</option>
+                                <option data-country_iso_code="IN" data-name='IN' value='IN'>INDIA</option>
+                                <option data-country_iso_code="ID" data-name='ID' value='ID'>INDONESIA</option>
+                                <option data-country_iso_code="IR" data-name='IR' value='IR'>IRAN, ISLAMIC REPUBLIC OF
+                                </option>
+                                <option data-country_iso_code="IQ" data-name='IQ' value='IQ'>IRAQ</option>
+                                <option data-country_iso_code="IE" data-name='IE' value='IE'>IRELAND</option>
+                                <option data-country_iso_code="IL" data-name='IL' value='IL'>ISRAEL</option>
+                                <option data-country_iso_code="IT" data-name='IT' value='IT'>ITALY</option>
+                                <option data-country_iso_code="JM" data-name='JM' value='JM'>JAMAICA</option>
+                                <option data-country_iso_code="JP" data-name='JP' value='JP'>JAPAN</option>
+                                <option data-country_iso_code="JO" data-name='JO' value='JO'>JORDAN</option>
+                                <option data-country_iso_code="KZ" data-name='KZ' value='KZ'>KAZAKHSTAN</option>
+                                <option data-country_iso_code="KE" data-name='KE' value='KE'>KENYA</option>
+                                <option data-country_iso_code="KI" data-name='KI' value='KI'>KIRIBATI</option>
+                                <option data-country_iso_code="KP" data-name='KP' value='KP'>KOREA, DEMOCRATIC PEOPLE'S
+                                    REPUBLIC OF
+                                </option>
+                                <option data-country_iso_code="KR" data-name='KR' value='KR'>KOREA, REPUBLIC OF</option>
+                                <option data-country_iso_code="KW" data-name='KW' value='KW'>KUWAIT</option>
+                                <option data-country_iso_code="KG" data-name='KG' value='KG'>KYRGYZSTAN</option>
+                                <option data-country_iso_code="LA" data-name='LA' value='LA'>LAO PEOPLE'S DEMOCRATIC
+                                    REPUBLIC
+                                </option>
+                                <option data-country_iso_code="LV" data-name='LV' value='LV'>LATVIA</option>
+                                <option data-country_iso_code="LB" data-name='LB' value='LB'>LEBANON</option>
+                                <option data-country_iso_code="LS" data-name='LS' value='LS'>LESOTHO</option>
+                                <option data-country_iso_code="LR" data-name='LR' value='LR'>LIBERIA</option>
+                                <option data-country_iso_code="LY" data-name='LY' value='LY'>LIBYAN ARAB JAMAHIRIYA
+                                </option>
+                                <option data-country_iso_code="LI" data-name='LI' value='LI'>LIECHTENSTEIN</option>
+                                <option data-country_iso_code="LT" data-name='LT' value='LT'>LITHUANIA</option>
+                                <option data-country_iso_code="LU" data-name='LU' value='LU'>LUXEMBOURG</option>
+                                <option data-country_iso_code="MO" data-name='MO' value='MO'>MACAO</option>
+                                <option data-country_iso_code="MK" data-name='MK' value='MK'>MACEDONIA, THE FORMER
+                                    YUGOSLAV REPUBLIC OF
+                                </option>
+                                <option data-country_iso_code="MG" data-name='MG' value='MG'>MADAGASCAR</option>
+                                <option data-country_iso_code="MW" data-name='MW' value='MW'>MALAWI</option>
+                                <option data-country_iso_code="MY" data-name='MY' value='MY'>MALAYSIA</option>
+                                <option data-country_iso_code="MV" data-name='MV' value='MV'>MALDIVES</option>
+                                <option data-country_iso_code="ML" data-name='ML' value='ML'>MALI</option>
+                                <option data-country_iso_code="MT" data-name='MT' value='MT'>MALTA</option>
+                                <option data-country_iso_code="MH" data-name='MH' value='MH'>MARSHALL ISLANDS</option>
+                                <option data-country_iso_code="MQ" data-name='MQ' value='MQ'>MARTINIQUE</option>
+                                <option data-country_iso_code="MR" data-name='MR' value='MR'>MAURITANIA</option>
+                                <option data-country_iso_code="MU" data-name='MU' value='MU'>MAURITIUS</option>
+                                <option data-country_iso_code="YT" data-name='YT' value='YT'>MAYOTTE</option>
+                                <option data-country_iso_code="MX" data-name='MX' value='MX'>MEXICO</option>
+                                <option data-country_iso_code="FM" data-name='FM' value='FM'>MICRONESIA, FEDERATED
+                                    STATES OF
+                                </option>
+                                <option data-country_iso_code="MD" data-name='MD' value='MD'>MOLDOVA, REPUBLIC OF
+                                </option>
+                                <option data-country_iso_code="MC" data-name='MC' value='MC'>MONACO</option>
+                                <option data-country_iso_code="MN" data-name='MN' value='MN'>MONGOLIA</option>
+                                <option data-country_iso_code="ME" data-name='ME' value='ME'>MONTENEGRO</option>
+                                <option data-country_iso_code="MS" data-name='MS' value='MS'>MONTSERRAT</option>
+                                <option data-country_iso_code="MA" data-name='MA' value='MA'>MOROCCO</option>
+                                <option data-country_iso_code="MZ" data-name='MZ' value='MZ'>MOZAMBIQUE</option>
+                                <option data-country_iso_code="MM" data-name='MM' value='MM'>MYANMAR</option>
+                                <option data-country_iso_code="NA" data-name='NA' value='NA'>NAMIBIA</option>
+                                <option data-country_iso_code="NR" data-name='NR' value='NR'>NAURU</option>
+                                <option data-country_iso_code="NP" data-name='NP' value='NP'>NEPAL</option>
+                                <option data-country_iso_code="NL" data-name='NL' value='NL'>NETHERLANDS</option>
+                                <option data-country_iso_code="AN" data-name='AN' value='AN'>NETHERLANDS ANTILLES
+                                </option>
+                                <option data-country_iso_code="NC" data-name='NC' value='NC'>NEW CALEDONIA</option>
+                                <option data-country_iso_code="NZ" data-name='NZ' value='NZ'>NEW ZEALAND</option>
+                                <option data-country_iso_code="NI" data-name='NI' value='NI'>NICARAGUA</option>
+                                <option data-country_iso_code="NE" data-name='NE' value='NE'>NIGER</option>
+                                <option data-country_iso_code="NG" data-name='NG' value='NG'>NIGERIA</option>
+                                <option data-country_iso_code="NU" data-name='NU' value='NU'>NIUE</option>
+                                <option data-country_iso_code="NF" data-name='NF' value='NF'>NORFOLK ISLAND</option>
+                                <option data-country_iso_code="MP" data-name='MP' value='MP'>NORTHERN MARIANA ISLANDS
+                                </option>
+                                <option data-country_iso_code="NO" data-name='NO' value='NO'>NORWAY</option>
+                                <option data-country_iso_code="OM" data-name='OM' value='OM'>OMAN</option>
+                                <option data-country_iso_code="PK" data-name='PK' value='PK'>PAKISTAN</option>
+                                <option data-country_iso_code="PW" data-name='PW' value='PW'>PALAU</option>
+                                <option data-country_iso_code="PS" data-name='PS' value='PS'>PALESTINE, STATE OF
+                                </option>
+                                <option data-country_iso_code="PA" data-name='PA' value='PA'>PANAMA</option>
+                                <option data-country_iso_code="PG" data-name='PG' value='PG'>PAPUA NEW GUINEA</option>
+                                <option data-country_iso_code="PY" data-name='PY' value='PY'>PARAGUAY</option>
+                                <option data-country_iso_code="PE" data-name='PE' value='PE'>PERU</option>
+                                <option data-country_iso_code="PH" data-name='PH' value='PH'>PHILIPPINES</option>
+                                <option data-country_iso_code="PN" data-name='PN' value='PN'>PITCAIRN</option>
+                                <option data-country_iso_code="PL" data-name='PL' value='PL'>POLAND</option>
+                                <option data-country_iso_code="PT" data-name='PT' value='PT'>PORTUGAL</option>
+                                <option data-country_iso_code="PR" data-name='PR' value='PR'>PUERTO RICO</option>
+                                <option data-country_iso_code="QA" data-name='QA' value='QA'>QATAR</option>
+                                <option data-country_iso_code="RE" data-name='RE' value='RE'>REUNION</option>
+                                <option data-country_iso_code="RO" data-name='RO' value='RO'>ROMANIA</option>
+                                <option data-country_iso_code="RU" data-name='RU' value='RU'>RUSSIAN FEDERATION</option>
+                                <option data-country_iso_code="RW" data-name='RW' value='RW'>RWANDA</option>
+                                <option data-country_iso_code="SH" data-name='SH' value='SH'>SAINT HELENA</option>
+                                <option data-country_iso_code="KN" data-name='KN' value='KN'>SAINT KITTS AND NEVIS
+                                </option>
+                                <option data-country_iso_code="LC" data-name='LC' value='LC'>SAINT LUCIA</option>
+                                <option data-country_iso_code="PM" data-name='PM' value='PM'>SAINT PIERRE AND MIQUELON
+                                </option>
+                                <option data-country_iso_code="VC" data-name='VC' value='VC'>SAINT VINCENT AND THE
+                                    GRENADINES
+                                </option>
+                                <option data-country_iso_code="WS" data-name='WS' value='WS'>SAMOA</option>
+                                <option data-country_iso_code="SM" data-name='SM' value='SM'>SAN MARINO</option>
+                                <option data-country_iso_code="ST" data-name='ST' value='ST'>SAO TOME AND PRINCIPE
+                                </option>
+                                <option data-country_iso_code="SA" data-name='SA' value='SA'>SAUDI ARABIA</option>
+                                <option data-country_iso_code="SN" data-name='SN' value='SN'>SENEGAL</option>
+                                <option data-country_iso_code="RS" data-name='RS' value='RS'>SERBIA</option>
+                                <option data-country_iso_code="SC" data-name='SC' value='SC'>SEYCHELLES</option>
+                                <option data-country_iso_code="SL" data-name='SL' value='SL'>SIERRA LEONE</option>
+                                <option data-country_iso_code="SG" data-name='SG' value='SG'>SINGAPORE</option>
+                                <option data-country_iso_code="SK" data-name='SK' value='SK'>SLOVAKIA</option>
+                                <option data-country_iso_code="SI" data-name='SI' value='SI'>SLOVENIA</option>
+                                <option data-country_iso_code="SB" data-name='SB' value='SB'>SOLOMON ISLANDS</option>
+                                <option data-country_iso_code="SO" data-name='SO' value='SO'>SOMALIA</option>
+                                <option data-country_iso_code="ZA" data-name='ZA' value='ZA'>SOUTH AFRICA</option>
+                                <option data-country_iso_code="GS" data-name='GS' value='GS'>SOUTH GEORGIA AND THE SOUTH
+                                    SANDWICH ISLANDS
+                                </option>
+                                <option data-country_iso_code="ES" data-name='ES' value='ES'>SPAIN</option>
+                                <option data-country_iso_code="LK" data-name='LK' value='LK'>SRI LANKA</option>
+                                <option data-country_iso_code="SD" data-name='SD' value='SD'>SUDAN</option>
+                                <option data-country_iso_code="SR" data-name='SR' value='SR'>SURINAME</option>
+                                <option data-country_iso_code="SJ" data-name='SJ' value='SJ'>SVALBARD AND JAN MAYEN
+                                </option>
+                                <option data-country_iso_code="SZ" data-name='SZ' value='SZ'>SWAZILAND</option>
+                                <option data-country_iso_code="SE" data-name='SE' value='SE'>SWEDEN</option>
+                                <option data-country_iso_code="CH" data-name='CH' value='CH'>SWITZERLAND</option>
+                                <option data-country_iso_code="SY" data-name='SY' value='SY'>SYRIAN ARAB REPUBLIC
+                                </option>
+                                <option data-country_iso_code="TW" data-name='TW' value='TW'>TAIWAN, PROVINCE OF CHINA
+                                </option>
+                                <option data-country_iso_code="TJ" data-name='TJ' value='TJ'>TAJIKISTAN</option>
+                                <option data-country_iso_code="TZ" data-name='TZ' value='TZ'>TANZANIA, UNITED REPUBLIC
+                                    OF
+                                </option>
+                                <option data-country_iso_code="TH" data-name='TH' value='TH'>THAILAND</option>
+                                <option data-country_iso_code="TL" data-name='TL' value='TL'>TIMOR-LESTE</option>
+                                <option data-country_iso_code="TG" data-name='TG' value='TG'>TOGO</option>
+                                <option data-country_iso_code="TK" data-name='TK' value='TK'>TOKELAU</option>
+                                <option data-country_iso_code="TO" data-name='TO' value='TO'>TONGA</option>
+                                <option data-country_iso_code="TT" data-name='TT' value='TT'>TRINIDAD AND TOBAGO
+                                </option>
+                                <option data-country_iso_code="TN" data-name='TN' value='TN'>TUNISIA</option>
+                                <option data-country_iso_code="TR" data-name='TR' value='TR'>TURKEY</option>
+                                <option data-country_iso_code="TM" data-name='TM' value='TM'>TURKMENISTAN</option>
+                                <option data-country_iso_code="TC" data-name='TC' value='TC'>TURKS AND CAICOS ISLANDS
+                                </option>
+                                <option data-country_iso_code="TV" data-name='TV' value='TV'>TUVALU</option>
+                                <option data-country_iso_code="UG" data-name='UG' value='UG'>UGANDA</option>
+                                <option data-country_iso_code="UA" data-name='UA' value='UA'>UKRAINE</option>
+                                <option data-country_iso_code="AE" data-name='AE' value='AE'>UNITED ARAB EMIRATES
+                                </option>
+                                <option data-country_iso_code="GB" data-name='GB' value='GB'>UNITED KINGDOM</option>
+                                <option data-country_iso_code="US" data-name='US' value='US'>UNITED STATES</option>
+                                <option data-country_iso_code="UM" data-name='UM' value='UM'>UNITED STATES MINOR
+                                    OUTLYING ISLANDS
+                                </option>
+                                <option data-country_iso_code="UY" data-name='UY' value='UY'>URUGUAY</option>
+                                <option data-country_iso_code="UZ" data-name='UZ' value='UZ'>UZBEKISTAN</option>
+                                <option data-country_iso_code="VU" data-name='VU' value='VU'>VANUATU</option>
+                                <option data-country_iso_code="VE" data-name='VE' value='VE'>VENEZUELA</option>
+                                <option data-country_iso_code="VN" data-name='VN' value='VN'>VIET NAM</option>
+                                <option data-country_iso_code="VG" data-name='VG' value='VG'>VIRGIN ISLANDS, BRITISH
+                                </option>
+                                <option data-country_iso_code="VI" data-name='VI' value='VI'>VIRGIN ISLANDS, U.S.
+                                </option>
+                                <option data-country_iso_code="WF" data-name='WF' value='WF'>WALLIS AND FUTUNA</option>
+                                <option data-country_iso_code="EH" data-name='EH' value='EH'>WESTERN SAHARA</option>
+                                <option data-country_iso_code="YE" data-name='YE' value='YE'>YEMEN</option>
+                                <option data-country_iso_code="ZM" data-name='ZM' value='ZM'>ZAMBIA</option>
+                                <option data-country_iso_code="ZW" data-name='ZW' value='ZW'>ZIMBABWE</option>
+                            </select><input type="hidden" name="country_code" value=""/></div>
+                        <div class='mex-form-item col-12 col-lg-6 p-1'>
+                            <label for='' class='d-block'>
+                                Mobile Number</label>
+                            <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.'
+                                   data-extra-message="Phone Number is Invalid." data-regex=''
+                                   class='input_with_phone d-block' name='phone_display' placeholder='' required
+                                   value=''/>
+                            <input type='hidden' name='phone'/>
+                        </div>
+                        <div class='mex-form-item col-6 col-md-6 p-1 sms-code-container'>
+                            <input type='number' name='phone_sms_verif_code' class='sms_verif_code regCon oth_sp'
+                                   placeholder='SMS Code' required='required' number='true' autocomplete='off'
+                                   list='autocompleteOff'/>
+                        </div>
+                        <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
+                            <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset '
+                                    id='button-send-callme_form' type='button' title='Send Code'>Send Code
+                            </button>
+                        </div>
+                        <div class='form-group col-12 px-0 border-bottom border-secondary px-1'>
+                            <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
+                                DOCUMENT UPLOAD</label>
+                            <input type='hidden' data-message='' data-extra-message="" data-regex=''
+                                   class=' mex-form-item d-block' name='label_document_upload' placeholder='' value=''/>
+                        </div>
+                        <div class='col-12 col-md-12 p-1'>
+                            <label for='' class='d-block'>
+                                Upload Document (Passport, National ID, or Proof of Residence)</label>
+                            <div class="file-dropzone__container">
+                                <div class="file-dropzone">
+                                    <label class="file-dropzone__label  mex-translatable" for="file-dropzone__input"
+                                           data-en="Drop files or click pane to upload.">Drop files or click pane to
+                                        upload.</label>
+                                    <div class="file-dropzone__overview"></div>
+                                    <input data-message="Supporting document required." data-extra-message=""
+                                           data-regex="" class="file-dropzone__input" type="file"
+                                           name="file_upload_multiple[]" title=" " multiple required/>
+                                    <div class="file-dropzone__btn-clear">Clear All</div>
+                                    <div class="file-dropzone__files"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col-6'>
+                            <label for='' class=''>
+                            </label>
+                            <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' ' name='1'
+                                   placeholder='' value=''/>
+                        </div>
+                        <div class='form-group col-12 px-0 border-bottom border-secondary px-1'>
+                            <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
+                            </label>
+                            <input type='hidden' data-message='' data-extra-message="" data-regex=''
+                                   class=' mex-form-item d-block' name='label_submit' placeholder='' value=''/>
+                        </div>
+                        <button type='submit' class='btn btn-mex mx-auto'
+                                onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
+                                data-cf-modified-b9b486becb7a1226308afcfc-="">SUBMIT
+                        </button>
+                    </form>
+                    <div class="px-1 " style="padding:15px 0px;">
+                        <div class="form-check form-check-inline">
+                            <label class="form-check-label label-1 " for="terms_conditions">By submitting this form, you
+                                agree to accept the <a href="../terms-conditions.html" target="_blank"
+                                                       class="text-22A0C4" style="padding:0 !important;">Terms &amp;
+                                    Conditions</a>, <a href="../privacy-policy.html" target="_blank" class="text-22A0C4"
+                                                       style="padding:0 !important;">Privacy Policy</a>, and <a
+                                        href="../cookie-policy.html" target="_blank" class="text-22A0C4"
+                                        style="padding:0 !important;">Cookie Policy</a>.
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
     <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script type="4697d1266f44080ba22ec4c5-text/javascript">
-$(function() {
-var icons = [
-'ic_why_multibank',
-'ic_security_of_funds',
-'ic_our_milestones',
-'ic_our_products',
-'ic_Call_Our_24_7_Hotline',
-'ic_live_chat_support',
-'ic_compare_our_trading_platforms',
-'ic_download_mt4',
-'ic_bonus_programs_for_ibs',
-'ic_Bonus_Programs_for_Individual_Clients',
-'ic_trading_tools',
-'ic_partnership_programs'
-];
-
-whereToGoItem.injectIcons('.target-icon', icons);
-});
+    <script type="b9b486becb7a1226308afcfc-text/javascript">
+    $(function() {
+        if (getCookie("form-lp-name") != "") {
+            $('#live_account_form input[name=name]').val(getCookie("form-lp-name"));
+        }
+        deleteCookie("form-lp-name");
+        
+        if (getCookie("form-lp-email") != "") {
+            $('#live_account_form input[name=email]').val(getCookie("form-lp-email"));
+        }
+        deleteCookie("form-lp-email");
+        
+        if (getCookie("form-lp-country") != "") {
+            $('#live_account_form select[name=country]').val(getCookie("form-lp-country"));
+        }
+        deleteCookie("form-lp-country");
+        
+        if (getCookie("form-lp-phone") != "") {
+            $('#live_account_form input[name=phone]').val(getCookie("form-lp-phone"));
+        }
+        deleteCookie("form-lp-phone");
+    });
+    
+    function getCookie(cname) {
+      var name = cname + "=";
+      var decodedCookie = decodeURIComponent(document.cookie);
+      var ca = decodedCookie.split(';');
+      for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+          c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+          return c.substring(name.length, c.length);
+        }
+      }
+      return "";
+    }
+    
+    function deleteCookie(cname) {
+      document.cookie = cname +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    }
+    
 
     </script>
-    <section class="p0 choose-next-background subject-box-bg-light">
+    <style>
+
+        @media (max-width: 900px) {
+            .page-top-banner {
+                display: none !important;
+            }
+        }
+    </style>
+    <section class="p0 choose-next-background subject-box-bg-light d-none d-md-block">
         <div class="container mex-m-b-80">
             <div class="col-md-12">
                 <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable"
                      data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
-                     data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE"
-                     data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน"
-                     data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                     data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru=""
+                     data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?"
+                     data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next
                 </div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
-                        <li><a href="../mfx/v1/about/regulations.html"><span
-                                class="ico-ic_our_regulations">&nbsp;</span></a>
-                            <div class="mex-content mex-clamp-3">Our Regulations</div>
-                        </li>
+                        <li><a href="../platforms/download-center.html"><span class="ico-ic_download_mt4"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../platforms/download-center.html">Download
+                                MT4</a></div>
+                            <a href="../platforms/download-center.html"> </a></li>
                         <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
                             <a href="../products.html"> </a></li>
                         <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                            <div class="mex-content mex-clamp-3">Trading Tools</div>
+                            <div class="mex-content mex-clamp-3"><a href="../tools.html">Trading Tools</a></div>
                             <a href="../tools.html"> </a></li>
-                        <li><a href="why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html">Why Multibank</a>
-                            </div>
-                            <a href="why-multibank-group.html"> </a></li>
-                        <li><a href="../mfx/v1/about/regulations.html"><span
-                                class="ico-ic_our_regulations">&nbsp;</span> </a>
+                        <li><a href="../about/why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../about/why-multibank-group.html">Why
+                                Multibank</a></div>
+                            <a href="../about/why-multibank-group.html"> </a></li>
+                        <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
                                 Regulations</a></div>
                             <a href="../mfx/v1/about/regulations.html"> </a></li>
-                        <li><a href="security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html">Security of Funds</a>
-                            </div>
-                            <a href="security-of-funds.html"> </a></li>
+                        <li><a href="../about/security-of-funds.html"><span class="ico-ic_security_of_funds"></span>
+                        </a>
+                            <div class="mex-content mex-clamp-3"><a href="../about/security-of-funds.html">Security of
+                                Funds</a></div>
+                            <a href="../about/security-of-funds.html"> </a></li>
                         <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
                             </div>
                             <a href="../account.html"> </a></li>
-                        <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html">Bonus Programs</a>
-                            </div>
-                            <a href="../account/bonus.html"> </a></li>
+                        <li><a href="bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="bonus.html">Bonus Programs</a></div>
+                            <a href="bonus.html"> </a></li>
                         <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
                                 Programs</a></div>
@@ -845,26 +709,392 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                     href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
                                 IB</a></div>
                             <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a></li>
-                        <li><a href="milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="milestones.html">Our Milestones</a></div>
-                            <a href="milestones.html"> </a></li>
+                        <li><a href="../about/milestones.html"><span class="ico-ic_our_milestones"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../about/milestones.html">Our Milestones</a>
+                            </div>
+                            <a href="../about/milestones.html"> </a></li>
                         <li><a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-4697d1266f44080ba22ec4c5-=""><span
+                               data-cf-modified-b9b486becb7a1226308afcfc-=""><span
                                 class="ico-ic_live_chat_support"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../index.html#"
                                                                     onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                                                    data-cf-modified-4697d1266f44080ba22ec4c5-="">Live
+                                                                    data-cf-modified-b9b486becb7a1226308afcfc-="">Live
                                 Chat Support</a></div>
                             <a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-4697d1266f44080ba22ec4c5-=""> </a></li>
+                               data-cf-modified-b9b486becb7a1226308afcfc-=""> </a></li>
                     </ul>
                 </div>
             </div>
         </div>
     </section>
 </div>
+<script type="b9b486becb7a1226308afcfc-text/javascript">
+    $(function() {
+//icons we need
+        var icons = [
+            'ic_why_multibank',
+            'ic_security_of_funds',
+            'ic_our_regulations',
+            'ic_our_products',
+            'ic_become_an_ib',
+            'ic_live_chat_support',
+            'ic_bonus_programs',
+            'ic_trading_tools',
+            'ic_compare_our_trading_platforms',
+            'ic_download_mt4',
+            'ic_partnership_programs',
+            'ic_mymultibank_account_panel'
+        ];
+//inject them
+        whereToGoItem.injectIcons('.target-icon', icons);
+    });
+
+</script>
+<div class="cc-country-selector">
+    <div class="cc-country-selector--overlay"
+         onclick="if (!window.__cfRLUnblockHandlers) return false; closeCountrySelectionDialog()"
+         data-cf-modified-b9b486becb7a1226308afcfc-=""></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-7 mx-auto cc-country-selector--box">
+                <div class="mex-h2 mex-m-b-10 text-center">Select Your Card Issuer Country</div>
+                <select class="cc-country-selector--select">
+                    <option value="">Select Country</option>
+                    <option value="AF" selected="selected">AFGHANISTAN</option>
+                    <option value="AL">ALBANIA</option>
+                    <option value="DZ">ALGERIA</option>
+                    <option value="AS">AMERICAN SAMOA</option>
+                    <option value="AD">ANDORRA</option>
+                    <option value="AO">ANGOLA</option>
+                    <option value="AI">ANGUILLA</option>
+                    <option value="AQ">ANTARCTICA</option>
+                    <option value="AG">ANTIGUA AND BARBUDA</option>
+                    <option value="AR">ARGENTINA</option>
+                    <option value="AM">ARMENIA</option>
+                    <option value="AW">ARUBA</option>
+                    <option value="AU">AUSTRALIA</option>
+                    <option value="AT">AUSTRIA</option>
+                    <option value="AZ">AZERBAIJAN</option>
+                    <option value="BS">BAHAMAS</option>
+                    <option value="BH">BAHRAIN</option>
+                    <option value="BD">BANGLADESH</option>
+                    <option value="BB">BARBADOS</option>
+                    <option value="BY">BELARUS</option>
+                    <option value="BE">BELGIUM</option>
+                    <option value="BZ">BELIZE</option>
+                    <option value="BJ">BENIN</option>
+                    <option value="BM">BERMUDA</option>
+                    <option value="BT">BHUTAN</option>
+                    <option value="BO">BOLIVIA</option>
+                    <option value="BA">BOSNIA AND HERZEGOVINA</option>
+                    <option value="BW">BOTSWANA</option>
+                    <option value="BV">BOUVET ISLAND</option>
+                    <option value="BR">BRAZIL</option>
+                    <option value="IO">BRITISH INDIAN OCEAN TERRITORY</option>
+                    <option value="BN">BRUNEI DARUSSALAM</option>
+                    <option value="BG">BULGARIA</option>
+                    <option value="BF">BURKINA FASO</option>
+                    <option value="BI">BURUNDI</option>
+                    <option value="KH">CAMBODIA</option>
+                    <option value="CM">CAMEROON</option>
+                    <option value="CA">CANADA</option>
+                    <option value="CV">CAPE VERDE</option>
+                    <option value="KY">CAYMAN ISLANDS</option>
+                    <option value="CF">CENTRAL AFRICAN REPUBLIC</option>
+                    <option value="TD">CHAD</option>
+                    <option value="CL">CHILE</option>
+                    <option value="CN">CHINA</option>
+                    <option value="CX">CHRISTMAS ISLAND</option>
+                    <option value="CC">COCOS (KEELING) ISLANDS</option>
+                    <option value="CO">COLOMBIA</option>
+                    <option value="KM">COMOROS</option>
+                    <option value="CG">CONGO</option>
+                    <option value="CD">CONGO, THE DEMOCRATIC REPUBLIC OF THE</option>
+                    <option value="CK">COOK ISLANDS</option>
+                    <option value="CR">COSTA RICA</option>
+                    <option value="CI">COTE D'IVOIRE</option>
+                    <option value="HR">CROATIA</option>
+                    <option value="CU">CUBA</option>
+                    <option value="CY">CYPRUS</option>
+                    <option value="CZ">CZECH REPUBLIC</option>
+                    <option value="DK">DENMARK</option>
+                    <option value="DJ">DJIBOUTI</option>
+                    <option value="DM">DOMINICA</option>
+                    <option value="DO">DOMINICAN REPUBLIC</option>
+                    <option value="EC">ECUADOR</option>
+                    <option value="EG">EGYPT</option>
+                    <option value="SV">EL SALVADOR</option>
+                    <option value="GQ">EQUATORIAL GUINEA</option>
+                    <option value="ER">ERITREA</option>
+                    <option value="EE">ESTONIA</option>
+                    <option value="ET">ETHIOPIA</option>
+                    <option value="FK">FALKLAND ISLANDS (MALVINAS)</option>
+                    <option value="FO">FAROE ISLANDS</option>
+                    <option value="FJ">FIJI</option>
+                    <option value="FI">FINLAND</option>
+                    <option value="FR">FRANCE</option>
+                    <option value="GF">FRENCH GUIANA</option>
+                    <option value="PF">FRENCH POLYNESIA</option>
+                    <option value="TF">FRENCH SOUTHERN TERRITORIES</option>
+                    <option value="GA">GABON</option>
+                    <option value="GM">GAMBIA</option>
+                    <option value="GE">GEORGIA</option>
+                    <option value="DE">GERMANY</option>
+                    <option value="GH">GHANA</option>
+                    <option value="GI">GIBRALTAR</option>
+                    <option value="GR">GREECE</option>
+                    <option value="GL">GREENLAND</option>
+                    <option value="GD">GRENADA</option>
+                    <option value="GP">GUADELOUPE</option>
+                    <option value="GU">GUAM</option>
+                    <option value="GT">GUATEMALA</option>
+                    <option value="GN">GUINEA</option>
+                    <option value="GW">GUINEA-BISSAU</option>
+                    <option value="GY">GUYANA</option>
+                    <option value="HT">HAITI</option>
+                    <option value="HM">HEARD ISLAND AND MCDONALD ISLANDS</option>
+                    <option value="VA">HOLY SEE (VATICAN CITY STATE)</option>
+                    <option value="HN">HONDURAS</option>
+                    <option value="HK">HONG KONG</option>
+                    <option value="HU">HUNGARY</option>
+                    <option value="IS">ICELAND</option>
+                    <option value="IN">INDIA</option>
+                    <option value="ID">INDONESIA</option>
+                    <option value="IR">IRAN, ISLAMIC REPUBLIC OF</option>
+                    <option value="IQ">IRAQ</option>
+                    <option value="IE">IRELAND</option>
+                    <option value="IL">ISRAEL</option>
+                    <option value="IT">ITALY</option>
+                    <option value="JM">JAMAICA</option>
+                    <option value="JP">JAPAN</option>
+                    <option value="JO">JORDAN</option>
+                    <option value="KZ">KAZAKHSTAN</option>
+                    <option value="KE">KENYA</option>
+                    <option value="KI">KIRIBATI</option>
+                    <option value="KP">KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</option>
+                    <option value="KR">KOREA, REPUBLIC OF</option>
+                    <option value="KW">KUWAIT</option>
+                    <option value="KG">KYRGYZSTAN</option>
+                    <option value="LA">LAO PEOPLE'S DEMOCRATIC REPUBLIC</option>
+                    <option value="LV">LATVIA</option>
+                    <option value="LB">LEBANON</option>
+                    <option value="LS">LESOTHO</option>
+                    <option value="LR">LIBERIA</option>
+                    <option value="LY">LIBYAN ARAB JAMAHIRIYA</option>
+                    <option value="LI">LIECHTENSTEIN</option>
+                    <option value="LT">LITHUANIA</option>
+                    <option value="LU">LUXEMBOURG</option>
+                    <option value="MO">MACAO</option>
+                    <option value="MK">MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</option>
+                    <option value="MG">MADAGASCAR</option>
+                    <option value="MW">MALAWI</option>
+                    <option value="MY">MALAYSIA</option>
+                    <option value="MV">MALDIVES</option>
+                    <option value="ML">MALI</option>
+                    <option value="MT">MALTA</option>
+                    <option value="MH">MARSHALL ISLANDS</option>
+                    <option value="MQ">MARTINIQUE</option>
+                    <option value="MR">MAURITANIA</option>
+                    <option value="MU">MAURITIUS</option>
+                    <option value="YT">MAYOTTE</option>
+                    <option value="MX">MEXICO</option>
+                    <option value="FM">MICRONESIA, FEDERATED STATES OF</option>
+                    <option value="MD">MOLDOVA, REPUBLIC OF</option>
+                    <option value="MC">MONACO</option>
+                    <option value="MN">MONGOLIA</option>
+                    <option value="ME">MONTENEGRO</option>
+                    <option value="MS">MONTSERRAT</option>
+                    <option value="MA">MOROCCO</option>
+                    <option value="MZ">MOZAMBIQUE</option>
+                    <option value="MM">MYANMAR</option>
+                    <option value="NA">NAMIBIA</option>
+                    <option value="NR">NAURU</option>
+                    <option value="NP">NEPAL</option>
+                    <option value="NL">NETHERLANDS</option>
+                    <option value="AN">NETHERLANDS ANTILLES</option>
+                    <option value="NC">NEW CALEDONIA</option>
+                    <option value="NZ">NEW ZEALAND</option>
+                    <option value="NI">NICARAGUA</option>
+                    <option value="NE">NIGER</option>
+                    <option value="NG">NIGERIA</option>
+                    <option value="NU">NIUE</option>
+                    <option value="NF">NORFOLK ISLAND</option>
+                    <option value="MP">NORTHERN MARIANA ISLANDS</option>
+                    <option value="NO">NORWAY</option>
+                    <option value="OM">OMAN</option>
+                    <option value="PK">PAKISTAN</option>
+                    <option value="PW">PALAU</option>
+                    <option value="PS">PALESTINE, STATE OF</option>
+                    <option value="PA">PANAMA</option>
+                    <option value="PG">PAPUA NEW GUINEA</option>
+                    <option value="PY">PARAGUAY</option>
+                    <option value="PE">PERU</option>
+                    <option value="PH">PHILIPPINES</option>
+                    <option value="PN">PITCAIRN</option>
+                    <option value="PL">POLAND</option>
+                    <option value="PT">PORTUGAL</option>
+                    <option value="PR">PUERTO RICO</option>
+                    <option value="QA">QATAR</option>
+                    <option value="RE">REUNION</option>
+                    <option value="RO">ROMANIA</option>
+                    <option value="RU">RUSSIAN FEDERATION</option>
+                    <option value="RW">RWANDA</option>
+                    <option value="SH">SAINT HELENA</option>
+                    <option value="KN">SAINT KITTS AND NEVIS</option>
+                    <option value="LC">SAINT LUCIA</option>
+                    <option value="PM">SAINT PIERRE AND MIQUELON</option>
+                    <option value="VC">SAINT VINCENT AND THE GRENADINES</option>
+                    <option value="WS">SAMOA</option>
+                    <option value="SM">SAN MARINO</option>
+                    <option value="ST">SAO TOME AND PRINCIPE</option>
+                    <option value="SA">SAUDI ARABIA</option>
+                    <option value="SN">SENEGAL</option>
+                    <option value="RS">SERBIA</option>
+                    <option value="SC">SEYCHELLES</option>
+                    <option value="SL">SIERRA LEONE</option>
+                    <option value="SG">SINGAPORE</option>
+                    <option value="SK">SLOVAKIA</option>
+                    <option value="SI">SLOVENIA</option>
+                    <option value="SB">SOLOMON ISLANDS</option>
+                    <option value="SO">SOMALIA</option>
+                    <option value="ZA">SOUTH AFRICA</option>
+                    <option value="GS">SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</option>
+                    <option value="ES">SPAIN</option>
+                    <option value="LK">SRI LANKA</option>
+                    <option value="SD">SUDAN</option>
+                    <option value="SR">SURINAME</option>
+                    <option value="SJ">SVALBARD AND JAN MAYEN</option>
+                    <option value="SZ">SWAZILAND</option>
+                    <option value="SE">SWEDEN</option>
+                    <option value="CH">SWITZERLAND</option>
+                    <option value="SY">SYRIAN ARAB REPUBLIC</option>
+                    <option value="TW">TAIWAN, PROVINCE OF CHINA</option>
+                    <option value="TJ">TAJIKISTAN</option>
+                    <option value="TZ">TANZANIA, UNITED REPUBLIC OF</option>
+                    <option value="TH">THAILAND</option>
+                    <option value="TL">TIMOR-LESTE</option>
+                    <option value="TG">TOGO</option>
+                    <option value="TK">TOKELAU</option>
+                    <option value="TO">TONGA</option>
+                    <option value="TT">TRINIDAD AND TOBAGO</option>
+                    <option value="TN">TUNISIA</option>
+                    <option value="TR">TURKEY</option>
+                    <option value="TM">TURKMENISTAN</option>
+                    <option value="TC">TURKS AND CAICOS ISLANDS</option>
+                    <option value="TV">TUVALU</option>
+                    <option value="UG">UGANDA</option>
+                    <option value="UA">UKRAINE</option>
+                    <option value="AE">UNITED ARAB EMIRATES</option>
+                    <option value="GB">UNITED KINGDOM</option>
+                    <option value="US">UNITED STATES</option>
+                    <option value="UM">UNITED STATES MINOR OUTLYING ISLANDS</option>
+                    <option value="UY">URUGUAY</option>
+                    <option value="UZ">UZBEKISTAN</option>
+                    <option value="VU">VANUATU</option>
+                    <option value="VE">VENEZUELA</option>
+                    <option value="VN">VIET NAM</option>
+                    <option value="VG">VIRGIN ISLANDS, BRITISH</option>
+                    <option value="VI">VIRGIN ISLANDS, U.S.</option>
+                    <option value="WF">WALLIS AND FUTUNA</option>
+                    <option value="EH">WESTERN SAHARA</option>
+                    <option value="YE">YEMEN</option>
+                    <option value="ZM">ZAMBIA</option>
+                    <option value="ZW">ZIMBABWE</option>
+                </select>
+                <button type="button" class="cc-country-selector--submit--btn"
+                        onclick="if (!window.__cfRLUnblockHandlers) return false; redirectCreditCard()"
+                        data-cf-modified-b9b486becb7a1226308afcfc-="">Submit
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="b9b486becb7a1226308afcfc-text/javascript">
+    const allowedCardCountries = [
+        'AU', 'AT', 'BE', 'CN', 'HR', 'CY',
+        'CZ', 'DK', 'EE', 'FI', 'FR', 'DE',
+        'GR', 'HU', 'IT', 'LV', 'LT', 'LU',
+        'MT', 'NL', 'PL', 'PT', 'RO', 'SK',
+        'SI', 'ES', 'SE', 'GB', 'VU'
+    ];
+
+    function openCountrySelectionDialog() {
+        $('.cc-country-selector').css('display', 'flex');
+    }
+    
+    function closeCountrySelectionDialog() {
+        $('.cc-country-selector').css('display', 'none');
+    }
+    
+    function redirectCreditCard() {
+        const country = $('.cc-country-selector--select').val();
+        if (allowedCardCountries.includes(country)) {
+            window.location.href = "/account/account-funding/inpendium";
+        } else {
+            window.location.href = "/account/account-funding/wcard";
+        }
+    }
+
+</script>
+<style>
+    .cc-country-selector {
+        width: 100%;
+        height: 100%;
+
+        position: fixed;
+        top: 0;
+        left: 0;
+
+        display: none;
+        justify-content: center;
+        align-items: center;
+
+
+        z-index: 99999;
+    }
+
+    .cc-country-selector--overlay {
+        width: 100%;
+        height: 100%;
+
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        background-color: rgba(0, 0, 0, 0.4);
+    }
+
+    .cc-country-selector--box {
+        padding: 40px 0;
+        background-color: #FFF;
+    }
+
+    .cc-country-selector--title {
+        font-size: 26px;
+    }
+
+    .cc-country-selector--select {
+        width: 250px;
+        display: block;
+        margin: 30px auto;
+    }
+
+    .cc-country-selector--submit--btn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto 0px auto;
+        text-transform: uppercase;
+        height: 45px;
+        background: #1e32a3;
+        padding-left: 15px;
+        padding-right: 15px;
+        color: #FFF;
+        line-height: 16px;
+    }
+</style>
 <section class="bg-gray contact-us">
     <div class="container">
         <div class="row justify-content-center">
@@ -943,15 +1173,15 @@ whereToGoItem.injectIcons('.target-icon', icons);
                         <li class="ForIts">
                             <div class="mex-h3  mex-p-v-15  mex-m-t-10">Email Us</div>
                             <div class="contact-email"><a class="text-000033"
-                                                          href="../cdn-cgi/l/email-protection.html#731000331e061f071a11121d18150b5d101c1e"><span
-                                    class="__cf_email__" data-cfemail="066575466b736a726f6467686d607e2865696b">[email&#160;protected]</span></a>
+                                                          href="../cdn-cgi/l/email-protection.html#0a69794a677f667e63686b64616c7224696567"><span
+                                    class="__cf_email__" data-cfemail="caa9b98aa7bfa6bea3a8aba4a1acb2e4a9a5a7">[email&#160;protected]</span></a>
                             </div>
                         </li>
                         <li class="ForIts">
                             <div class="mex-h3 mex-m-t-20 ">Live Chat</div>
-                            <a href="../mfx/v1/about/regulations.html#"
+                            <a href="live-account.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-4697d1266f44080ba22ec4c5-=""><img alt="chat"
+                               data-cf-modified-b9b486becb7a1226308afcfc-=""><img alt="chat"
                                                                                   class="home_contact_us_chat_now"
                                                                                   data-entity-type=""
                                                                                   data-entity-uuid=""
@@ -961,16 +1191,16 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     <div class="d-flex d-md-none row py-4 row-eq-height">
                         <div class="col-4 text-center mx-auto">
                             <div class="mex-h3 mb-2 footer-mb-social-media">EMAIL US</div>
-                            <a href="../cdn-cgi/l/email-protection.html#75160635180019011c17141b1e130d5b161a18">
+                            <a href="../cdn-cgi/l/email-protection.html#cba8b88ba6bea7bfa2a9aaa5a0adb3e5a8a4a6">
                                 <img class="footer-contact-ic"
                                      src="../public_files/images/common/icon_contact_mail.png"/>
                             </a>
                         </div>
                         <div class="col-4 text-center mx-auto">
                             <div class="mex-h3 mb-2 footer-mb-social-media">LIVE CHAT</div>
-                            <a href="../mfx/v1/about/regulations.html#"
+                            <a href="live-account.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-4697d1266f44080ba22ec4c5-="">
+                               data-cf-modified-b9b486becb7a1226308afcfc-="">
                                 <img class="footer-contact-ic"
                                      src="../public_files/images/common/icon_contact_wechat.png"/>
                             </a>
@@ -983,11 +1213,11 @@ whereToGoItem.injectIcons('.target-icon', icons);
                         <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form'
                               class='multibank-form row mx-0 w-100 new' method='post' enctype=''
                               id='call_back_footer_form' target='' autocomplete='on'>
-                            <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToxMQ=='/>
+                            <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTowNQ=='/>
                             <input type='hidden' name='token'
-                                   value='$2y$10$7A0glBMxh/PZvRe3jUzeCeeWA8fyRuEmfK3kV7Sf/wvNjWv6N8B8W'/>
+                                   value='$2y$10$ESBr3FqBBr4gqIy7E0uG6uoeZDQ4oj7q1SQnM2qdyGgK5tyH2orc.'/>
                             <input type='hidden' name='source'
-                                   value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:08] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:09] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:10] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:11] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/regulations?web=true'/>
+                                   value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:05] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/account/live-account?web=true'/>
                             <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                 <label for='' class='m-0'>
                                 </label>
@@ -1369,7 +1599,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                             </div>
                             <button type='submit' class='btn btn-mex mx-auto'
                                     onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                                    data-cf-modified-4697d1266f44080ba22ec4c5-="">CALL ME
+                                    data-cf-modified-b9b486becb7a1226308afcfc-="">CALL ME
                             </button>
                         </form>
                         <div class="px-1 font-10" style="padding:0px;">
@@ -1402,9 +1632,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     </a>
                     <a href="https://my.multibankfx.com/en/traders/login" target="_blank">MyMultibank</a>
                     <a href="../contact.html" target="_parent">Contact Us</a>
-                    <a href="../mfx/v1/about/regulations.html#"
+                    <a href="live-account.html#"
                        onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                       data-cf-modified-4697d1266f44080ba22ec4c5-="">Support</a>
+                       data-cf-modified-b9b486becb7a1226308afcfc-="">Support</a>
                     <a href="../article/hiring-now-cyprus.html" target="_parent">Career</a>
                     <a href="../investor-relations.html" target="_parent">Investor&nbsp;Relations</a>
                 </div>
@@ -1435,15 +1665,15 @@ whereToGoItem.injectIcons('.target-icon', icons);
                 <div class="row">
                     <div class="col-md-2">
                         <ul class="footer_map">
-                            <li><a href="../about.html"><strong>About us</strong></a> <a href="why-multibank-group.html"
-                                                                                         target="_parent">Why
-                                Multibank</a> <a href="global-presence.html" target="_parent">Global Presence</a> <a
+                            <li><a href="../about.html"><strong>About us</strong></a> <a
+                                    href="../about/why-multibank-group.html" target="_parent">Why Multibank</a> <a
+                                    href="../about/global-presence.html" target="_parent">Global Presence</a> <a
                                     href="../mfx/v1/about/regulations.html" target="_parent">Regulations</a> <a
-                                    href="security-of-funds.html" target="_parent">Security of Funds</a> <a
-                                    href="milestones.html" target="_parent">Milestones</a> <a href="management.html"
-                                                                                              target="_parent">Management</a>
-                                <a href="awards.html" target="_parent">Awards</a> <a href="sponsorship.html"
-                                                                                     target="_parent">Sponsorship</a>
+                                    href="../about/security-of-funds.html" target="_parent">Security of Funds</a> <a
+                                    href="../about/milestones.html" target="_parent">Milestones</a> <a
+                                    href="../about/management.html" target="_parent">Management</a>
+                                <a href="../about/awards.html" target="_parent">Awards</a> <a
+                                        href="../about/sponsorship.html" target="_parent">Sponsorship</a>
                                 <a href="../article/news_20180916.html" target="_parent">Company News</a> <a
                                         href="../article/hiring-now-cyprus.html" target="_parent">Career</a>
                             </li>
@@ -1476,13 +1706,14 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     <div class="col-md-2">
                         <ul class="footer_map">
                             <li><a href="../account.html"><strong>Accounts &amp; Funding</strong></a> <a
-                                    href="../account/live-account.html" target="_parent">Live Account </a> <a
+                                    href="live-account.html" target="_parent">Live Account </a> <a
                                     href="../demo_competition.html" target="_parent">Demo Account </a> <a
-                                    href="../account/islamic-account.html" target="_parent">Islamic Account </a> <a
-                                    href="../account/account-funding.html" target="_parent">Account Funding </a> <a
-                                    href="../account/withdrawals.html" target="_parent">Withdrawals</a> <a
-                                    href="../account/account-forms.html" target="_parent">Account Forms </a> <a
-                                    href="../account/bonus.html" target="_parent">Bonuses</a></li>
+                                    href="islamic-account.html" target="_parent">Islamic Account </a> <a
+                                    href="account-funding.html" target="_parent">Account Funding </a> <a
+                                    href="withdrawals.html" target="_parent">Withdrawals</a> <a
+                                    href="account-forms.html" target="_parent">Account Forms </a> <a href="bonus.html"
+                                                                                                     target="_parent">Bonuses</a>
+                            </li>
                         </ul>
                     </div>
                     <div class="col-md-2">
@@ -1566,13 +1797,13 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                 src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50"/> </span>
     </a>
     <a class="email-us-tg demo-account-btn email-btn"
-       href="../cdn-cgi/l/email-protection.html#482b3b08253d243c212a2926232e30662b2725">
+       href="../cdn-cgi/l/email-protection.html#e28191a28f978e968b80838c89849acc818d8f">
         <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/home/sidebar_icon/email.png" width="50"/> </span>
     </a>
     <a class="ib-registration-btn chat-btn"
        onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-       data-cf-modified-4697d1266f44080ba22ec4c5-="">
+       data-cf-modified-b9b486becb7a1226308afcfc-="">
         <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/home/sidebar_icon/chat.png" width="50"/> </span>
     </a>
@@ -1676,10 +1907,10 @@ whereToGoItem.injectIcons('.target-icon', icons);
             <form action="https://www.multibankfx.com/form/contactus?" name='email_us_form'
                   class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='email_us_form' target=''
                   autocomplete='on'>
-                <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToxMQ=='/>
-                <input type='hidden' name='token' value='$2y$10$ZOYtuuG4lilvSIjg4FzCM.0YWG4q2gR1YnHqpWW2bqEb.3xRALr2i'/>
+                <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTowNQ=='/>
+                <input type='hidden' name='token' value='$2y$10$zhWoN8E9wse77TyLRXp5MOSagRk/86eclAju1sxc2ablnlgG9BbSC'/>
                 <input type='hidden' name='source'
-                       value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:08] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:09] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:10] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:11] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/regulations?web=true'/>
+                       value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:05] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/account/live-account?web=true'/>
                 <div class='col-12 p-0'>
                     <label for='' class='mex-h3'>
                         EMAIL US</label>
@@ -2009,7 +2240,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                 </div>
                 <button type='submit' class='btn btn-mex ml-auto btn-submit'
                         onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                        data-cf-modified-4697d1266f44080ba22ec4c5-="">SEND
+                        data-cf-modified-b9b486becb7a1226308afcfc-="">SEND
                 </button>
             </form>
         </div>
@@ -2064,7 +2295,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
     }
 </style>
 <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-<script type="4697d1266f44080ba22ec4c5-text/javascript">
+<script type="b9b486becb7a1226308afcfc-text/javascript">
     $(function(){
         $('.email-us-tg').click(function(e){
             e.preventDefault();
@@ -2077,16 +2308,16 @@ whereToGoItem.injectIcons('.target-icon', icons);
     })
 
 </script>
-<script src="../public_files/static_js/lang_data/en.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+<script src="../public_files/static_js/lang_data/en.js" type="b9b486becb7a1226308afcfc-text/javascript"></script>
 <script src="../public_files/static_js/jquery.dataTables.min.js"
-        type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-<script src="../public_files/static_js/lazysizes.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-<script src="../public_files/static_js/jquery.validate.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+        type="b9b486becb7a1226308afcfc-text/javascript"></script>
+<script src="../public_files/static_js/lazysizes.min.js" type="b9b486becb7a1226308afcfc-text/javascript"></script>
+<script src="../public_files/static_js/jquery.validate.min.js" type="b9b486becb7a1226308afcfc-text/javascript"></script>
 <script src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
-        type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+        type="b9b486becb7a1226308afcfc-text/javascript"></script>
 <script src="../public_files/static_js/app.js%3Fversion=20200612"
-        type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-<script type="4697d1266f44080ba22ec4c5-text/javascript" async>
+        type="b9b486becb7a1226308afcfc-text/javascript"></script>
+<script type="b9b486becb7a1226308afcfc-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {
         window.__lc = window.__lc || {};
@@ -2117,7 +2348,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
   }
 
 </script>
-<script type="4697d1266f44080ba22ec4c5-text/javascript">
+<script type="b9b486becb7a1226308afcfc-text/javascript">
 $(function() {
     $('.mex-translatable').each(function() {
         var url_parts = location.hostname.split('.');
@@ -2152,13 +2383,13 @@ $(function() {
 
 
 </script>
-<script type="4697d1266f44080ba22ec4c5-text/javascript">
+<script type="b9b486becb7a1226308afcfc-text/javascript">
 $(function() {
         $('form:not("#demo_competition_form_2019_08_13") .sms_verif_code').val('215121');
 });
 
 </script>
-<script type="4697d1266f44080ba22ec4c5-text/javascript">
+<script type="b9b486becb7a1226308afcfc-text/javascript">
 $(function(){
 var iframe_ibnum =getUrlVars()['ibNum'];
 var is_iframe = getUrlVars()['is_iframe'];
@@ -2177,66 +2408,94 @@ if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
 });
 
 </script>
-<script src="../public_files/static_js/swiper-4.3.5.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-<script src="../public_files/static_js/app_home.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-<script type="4697d1266f44080ba22ec4c5-text/javascript">
+<script type="b9b486becb7a1226308afcfc-text/javascript">
+    $(function() {
+        var params = getUrlVars();
+        if (typeof params.ibName === 'undefined') {
+            return;
+        }
+        if (params.ibName !== '333116990' && params.ibName !== '333118303') {
+            return;
+        }
+        $('#live_account_form select[name=leverage]').val(5);
+        $('.regulator-group, .leverage-group, .account-type-group').css('display', 'none');
+    });
+
+</script>
+<script type="b9b486becb7a1226308afcfc-text/javascript">
 $(function() {
-//icons we need
-var icons = [
-'ic_why_multibank',
-'ic_security_of_funds',
-'ic_our_regulations',
-'ic_our_products',
-'ic_become_an_ib',
-'ic_live_chat_support',
-'ic_bonus_programs',
-'ic_trading_tools',
-'ic_compare_our_trading_platforms',
-'ic_download_mt4',
-'ic_partnership_programs',
-'ic_mymultibank_account_panel'
-];
-//inject them
-whereToGoItem.injectIcons('.target-icon', icons);
+	const maxNumFiles = 5;
+	var numFiles = 1;
+
+	$('#live_account_form .file-dropzone__input').hover(
+		function() {
+			$('.file-dropzone').addClass('hovered');
+		},
+		function() {
+			$('.file-dropzone').removeClass('hovered');
+		}
+	);
+
+	$('.file-dropzone__btn-clear').click(function() {
+		$('.file-dropzone__label').text('Drop files here or click to upload.');
+		$('.file-dropzone__label').removeClass('yield-files')
+		$('.file-dropzone').removeClass('disabled');
+		$('.file-dropzone__btn-clear').removeClass('show');
+		$('.file-dropzone__files').html('');
+		$('#live_account_form .file-dropzone__input').removeAttr('disabled');
+		numFiles = 1;
+	});
+
+	$('#live_account_form .file-dropzone__input').on('change', function(e) {
+		const uploadedFiles = e.target.files;
+                console.log(uploadedFiles);
+		if (uploadedFiles.length > 0) {
+			$('.file-dropzone__label').addClass('yield-files');
+			$('.file-dropzone__btn-clear').addClass('show');
+		}
+
+		for (var i = 0; i < uploadedFiles.length; i++) {
+			$('.file-dropzone__files').append(
+				'<div class="file-dropzone__file">' +
+					'<div class="file-dropzone__file--name">' +
+						uploadedFiles[i].name +
+					'</div>' +
+					'<div class="file-dropzone__file--size">' +
+						convertByteToKiloByte(uploadedFiles[i].size) +
+					'</div>' +
+				'</div>'
+			);
+			numFiles++;
+			if (numFiles > maxNumFiles) {
+				$(this).attr('disabled', 'disabled');
+				$('.file-dropzone__label').text('You have reached maximum number of 5 files');
+				$('.file-dropzone').addClass('disabled');
+				break;
+			}
+		}
+	});
+
+	function convertByteToKiloByte(size) {
+		var formattedSize = '';
+		if (size >= 1048576) {
+			formattedSize = (size / 1048576).toFixed(2) + ' MB';
+		} else if (size >= 1024) {
+			formattedSize = (size / 1024).toFixed(2) + ' KB';
+		} else if (size > 1) {
+			formattedSize = size + ' bytes';
+		} else if (size === 1) {
+			formattedSize = size + ' byte';
+		}
+		else {
+			formattedSize = '0 bytes';
+		}
+
+		return formattedSize;
+	}
 });
 
 </script>
-<style>
-    .ensure-fund-security-wrapper {
-        width: 100%;
-
-
-        display: grid;
-        grid-template-columns: 33.333% 33.333% 33.333%;
-        grid-template-rows: 1fr 1fr;
-        grid-template-areas: "s1 s2 s3" "s1 s4 s5";
-        grid-gap: 15px 15px;
-        justify-items: stretch;
-        align-items: stretch;
-    }
-
-    .ensure-fund-security:first-child .card-img {
-        width: auto;
-    }
-
-    .ensure-fund-security .card-img-box {
-        height: 100% !important;
-    }
-
-    @media (max-width: 1199px) {
-        .ensure-fund-security-wrapper {
-            grid-template-columns: 1fr 1fr;
-            grid-template-rows: 40% 30% 30%;
-            grid-template-areas: "s1 s1" "s2 s3" "s4 s5";
-        }
-
-        .ensure-fund-security:first-child .card-img {
-            width: 100%;
-        }
-    }
-
-</style>
 <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js"
-        data-cf-settings="4697d1266f44080ba22ec4c5-|49" defer=""></script>
+        data-cf-settings="b9b486becb7a1226308afcfc-|49" defer=""></script>
 </body>
 </html>

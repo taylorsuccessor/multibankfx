@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang='en'>
-<head>
     <?php include_from_root('website_template/head.php');?>
-</head>
 <body>
 
 

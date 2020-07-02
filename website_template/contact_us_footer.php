@@ -1,4 +1,3 @@
-
 <section class="bg-gray contact-us">
     <div class="container">
         <div class="row justify-content-center">
@@ -15,97 +14,98 @@
                         <li class="d-none d-md-block"><a href="tel:+12139924748?call"><img alt="US" class="country-icon"
                                                                                            data-entity-type=""
                                                                                            data-entity-uuid=""
-                                                                                           src="public_files/images/common/country/usa_big.png"/>
-                                <span> <strong>US:</strong> +1 213 992 4748 </span> </a></li>
+                                                                                           src="../public_files/images/common/country/usa_big.png"/>
+                            <span> <strong>US:</strong> +1 213 992 4748 </span> </a></li>
                         <li class="d-none d-md-block"><a href="tel:+34931220671?call"><img alt="Spain"
                                                                                            class="country-icon"
                                                                                            data-entity-type=""
                                                                                            data-entity-uuid=""
-                                                                                           src="public_files/images/common/country/spain_big.png"/>
-                                <span> <strong>Spain:</strong> +34 931220671</span></a></li>
+                                                                                           src="../public_files/images/common/country/spain_big.png"/>
+                            <span> <strong>Spain:</strong> +34 931220671</span></a></li>
                         <li class="d-none d-md-block"><a href="tel:+390230578823?call"><img alt="Italy"
                                                                                             class="country-icon"
                                                                                             data-entity-type=""
                                                                                             data-entity-uuid=""
-                                                                                            src="public_files/images/common/country/italy_big.png"/>
-                                <span> <strong>Italy:</strong> +39 0230578823 </span> </a></li>
+                                                                                            src="../public_files/images/common/country/italy_big.png"/>
+                            <span> <strong>Italy:</strong> +39 0230578823 </span> </a></li>
                         <li class="d-none d-md-block"><a href="tel:+6202129264151?call"><img alt="Indonesia"
                                                                                              class="country-icon"
                                                                                              data-entity-type=""
                                                                                              data-entity-uuid=""
-                                                                                             src="public_files/images/common/country/indonesia_big.png"/>
-                                <span> <strong>Indonesia:</strong> +62 02129264151 </span> </a></li>
+                                                                                             src="../public_files/images/common/country/indonesia_big.png"/>
+                            <span> <strong>Indonesia:</strong> +62 02129264151 </span> </a></li>
                         <li class="d-none d-md-block"><a href="tel:+60322010966?call"><img alt="Malaysia"
                                                                                            class="country-icon"
                                                                                            data-entity-type=""
                                                                                            data-entity-uuid=""
-                                                                                           src="public_files/images/common/country/malaysia_big.png"/>
-                                <span> <strong>Malaysia:</strong> +60 32 201 0966</span> </a></li>
+                                                                                           src="../public_files/images/common/country/malaysia_big.png"/>
+                            <span> <strong>Malaysia:</strong> +60 32 201 0966</span> </a></li>
 
                     </ul>
-                    <a class="btn btn-mex " href="contact.html">Find your Country here</a></div>
+                    <a class="btn btn-mex " href="../contact.html">Find your Country here</a></div>
                 <div class="border-line col-md-6 col-lg-4 col-sm-12 col-xs-12">
                     <ul class="contact-social-media d-none d-md-block">
                         <li>
                             <div class="mex-h3  mex-p-v-15 ">Follow us on</div>
                             <a href="https://www.facebook.com/multibank.official" target="_blank">
                                 <img alt="" data-entity-type="" data-entity-uuid=""
-                                     src="public_files/images/common/en_foote_btn_01.png"
+                                     src="../public_files/images/common/en_foote_btn_01.png"
                                      style="width:20px; height:auto"/>
                             </a>
                             <a href="https://twitter.com/multibankgroup" target="_blank">
                                 <img alt="" data-entity-type="" data-entity-uuid=""
-                                     src="public_files/images/common/en_foote_btn_02.png"
+                                     src="../public_files/images/common/en_foote_btn_02.png"
                                      style="width:20px; height:auto"/>
                             </a>
                             <a href="https://www.youtube.com/c/MultiBankGoup" target="_blank">
                                 <img alt="" data-entity-type="" data-entity-uuid=""
-                                     src="public_files/images/common/en_foote_btn_03.png"
+                                     src="../public_files/images/common/en_foote_btn_03.png"
                                      style="width:20px; height:auto"/>
                             </a>
                             <a href="https://www.linkedin.com/company/multibankgroup/" target="_blank">
                                 <img alt="" data-entity-type="" data-entity-uuid=""
-                                     src="public_files/images/common/en_foote_btn_04.png"
+                                     src="../public_files/images/common/en_foote_btn_04.png"
                                      style="width:20px; height:auto"/>
                             </a>
                             <a href="https://www.instagram.com/multibank_group/" target="_blank">
                                 <img alt="" data-entity-type="" data-entity-uuid=""
-                                     src="public_files/images/common/en_foote_btn_05.png"
+                                     src="../public_files/images/common/en_foote_btn_05.png"
                                      style="width:20px; height:auto"/>
                             </a>
                         </li>
                         <li class="ForIts">
                             <div class="mex-h3  mex-p-v-15  mex-m-t-10">Email Us</div>
                             <div class="contact-email"><a class="text-000033"
-                                                          href="cdn-cgi/l/email-protection.html#ed8e9ead80988199848f8c83868b95c38e8280"><span
-                                        class="__cf_email__" data-cfemail="0f6c7c4f627a637b666d6e61646977216c6062">[email&#160;protected]</span></a>
+                                                          href="../cdn-cgi/l/email-protection.html#f69585b69b839a829f9497989d908ed895999b"><span
+                                    class="__cf_email__" data-cfemail="aecdddeec3dbc2dac7cccfc0c5c8d680cdc1c3">[email&#160;protected]</span></a>
                             </div>
                         </li>
                         <li class="ForIts">
                             <div class="mex-h3 mex-m-t-20 ">Live Chat</div>
-                            <a href="index.html#"
+                            <a href="awards.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-785e4eb336bec21b04c19cf7-=""><img alt="chat"
+                               data-cf-modified-bd9fa8aaa7d9728df9c131fe-=""><img alt="chat"
                                                                                   class="home_contact_us_chat_now"
                                                                                   data-entity-type=""
                                                                                   data-entity-uuid=""
-                                                                                  src="public_files/images/common/footer_btn_chat_now.png"/>
+                                                                                  src="../public_files/images/common/footer_btn_chat_now.png"/>
                             </a></li>
                     </ul>
                     <div class="d-flex d-md-none row py-4 row-eq-height">
                         <div class="col-4 text-center mx-auto">
                             <div class="mex-h3 mb-2 footer-mb-social-media">EMAIL US</div>
-                            <a href="cdn-cgi/l/email-protection.html#711202311c041d051813101f1a17095f121e1c">
-                                <img class="footer-contact-ic" src="public_files/images/common/icon_contact_mail.png"/>
+                            <a href="../cdn-cgi/l/email-protection.html#503323103d253c243932313e3b36287e333f3d">
+                                <img class="footer-contact-ic"
+                                     src="../public_files/images/common/icon_contact_mail.png"/>
                             </a>
                         </div>
                         <div class="col-4 text-center mx-auto">
                             <div class="mex-h3 mb-2 footer-mb-social-media">LIVE CHAT</div>
-                            <a href="index.html#"
+                            <a href="awards.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-785e4eb336bec21b04c19cf7-="">
+                               data-cf-modified-bd9fa8aaa7d9728df9c131fe-="">
                                 <img class="footer-contact-ic"
-                                     src="public_files/images/common/icon_contact_wechat.png"/>
+                                     src="../public_files/images/common/icon_contact_wechat.png"/>
                             </a>
                         </div>
                     </div>
@@ -116,11 +116,11 @@
                         <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form'
                               class='multibank-form row mx-0 w-100 new' method='post' enctype=''
                               id='call_back_footer_form' target='' autocomplete='on'>
-                            <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0ODo1Nw=='/>
+                            <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToxNA=='/>
                             <input type='hidden' name='token'
-                                   value='$2y$10$.ZGzHKTRUmQahAeNq4uUgeN0VeWqfHDipOQWxUucyYwvdrFLuRdve'/>
+                                   value='$2y$10$ckeztx1BOdjmTuHO2vxCAeZMeyHurUeRWV.MLqIXEMw9UcUuRkgo6'/>
                             <input type='hidden' name='source'
-                                   value=' <br/><br/> posted From: www.multibankfx.com/?web=true'/>
+                                   value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:12] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:13] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:14] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/awards?web=true'/>
                             <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                 <label for='' class='m-0'>
                                 </label>
@@ -502,19 +502,19 @@
                             </div>
                             <button type='submit' class='btn btn-mex mx-auto'
                                     onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                                    data-cf-modified-785e4eb336bec21b04c19cf7-="">CALL ME
+                                    data-cf-modified-bd9fa8aaa7d9728df9c131fe-="">CALL ME
                             </button>
                         </form>
                         <div class="px-1 font-10" style="padding:0px;">
                             <div class="form-check form-check-inline">
                                 <label class="form-check-label label-1 " for="terms_conditions">By submitting this form,
-                                    you agree to accept the <a href="terms-conditions.html" target="_blank"
+                                    you agree to accept the <a href="../terms-conditions.html" target="_blank"
                                                                class="text-22A0C4" style="padding:0 !important;">Terms
                                         &amp; Conditions</a>,
-                                    <a href="privacy-policy.html" target="_blank" class="text-22A0C4"
+                                    <a href="../privacy-policy.html" target="_blank" class="text-22A0C4"
                                        style="padding:0 !important;">Privacy Policy</a>, and <a
-                                        href="cookie-policy.html" target="_blank" class="text-22A0C4"
-                                        style="padding:0 !important;">Cookie Policy</a>.
+                                            href="../cookie-policy.html" target="_blank" class="text-22A0C4"
+                                            style="padding:0 !important;">Cookie Policy</a>.
                                 </label>
                             </div>
                         </div>
