@@ -763,7 +763,7 @@
     </div>
 </section>
 <section class="p0 mex-block-full d-none d-md-block">
-    <div class="mex-h1 text-1e32a3 text-center uppercase mex-m-t-50 mex-m-b-30">Trade with confidence</div>
+    <div class="mex-h1 text-1e32a3 text-center uppercase mex-m-t-50 mex-m-b-30"><?php translate('Trade with confidence'); ?></div>
     <div class="container trade-confidence-container">
         <div class="row">
             <div class="col-md-12 col-lg-6">
@@ -772,19 +772,19 @@
                          data-src="/public_files/images/home/home_trade_start_trading.png " alt="Start Trading">
                     <div class="col-12 both-content mx-lg-4 my-lg-5">
                         <div class="col-lg-8 col-12 px-3 px-3 p-lg-0">
-                            <div class="mex-h2 mex-m-b-10">Start Trading</div>
+                            <div class="mex-h2 mex-m-b-10"><?php translate('Start Trading'); ?></div>
                             <div class="mex-content mex-m-b-15">
-                                MultiBank offers a range of award-winning MT4 platforms for you to trade on.
+                            <?php translate('MultiBank offers a range of award-winning MT4 platforms for you to trade on.'); ?>
                             </div>
                             <div class="mex-content mex-m-b-15">
-                                <strong>Open an account &amp; start trading today!</strong>
+                                <strong><?php translate('Open an account & start trading today!'); ?></strong>
                             </div>
                             <a href="account/live-account.html"
                                class="btn btn-mex-red mex-m-r-15 mex-m-b-15 col-md-6 col-xs-12"><i
-                                    class="fa fa-user mex-m-r-5" aria-hidden="true"></i>Live Account</a>
+                                    class="fa fa-user mex-m-r-5" aria-hidden="true"></i><?php translate('Live Account'); ?></a>
                             <a href="demo_competition.html"
                                class="btn btn-mex-blue mex-m-r-15 mex-m-b-15 col-md-6 col-xs-12"><i
-                                    class="fa fa-desktop mex-m-r-5" aria-hidden="true"></i>Demo Account</a>
+                                    class="fa fa-desktop mex-m-r-5" aria-hidden="true"></i><?php translate('Demo Account'); ?></a>
                         </div>
                     </div>
                 </div>
@@ -794,15 +794,15 @@
                     <img class="mex-img-cover col-12 px-0 lazyload" style="z-index: -1;"
                          data-src="/public_files/images/home/home_trade_fund_account.jpg" alt="Fund Your Account">
                     <div class="col-12 both-content mx-lg-4 my-lg-5 px-3 px-3 p-lg-0">
-                        <div class="mex-h2 mex-m-b-15 text-fff">Fund Your Account</div>
+                        <div class="mex-h2 mex-m-b-15 text-fff"><?php translate('Fund Your Account'); ?></div>
                         <div class="row">
                             <div class="mex-content mex-m-b-15 text-fff col-md-8 col-12 text-md-left">
-                                Choose from a selection of instant, simple and secure payment options for deposits and
-                                withdrawals.
+                            <?php translate('Choose from a selection of instant, simple and secure payment options for deposits and
+                                withdrawals.'); ?>
                             </div>
                         </div>
                         <a href="account/account-funding.html" class="btn btn-mex mex-m-r-15 mex-m-b-15"
-                           style="margin-top: 38px;">Deposit Now</a>
+                           style="margin-top: 38px;"><?php translate('Deposit Now'); ?></a>
                     </div>
                 </div>
             </div>
@@ -817,30 +817,30 @@
     <div class="container mex-p-t-80 mex-p-b-80">
         <div class="row">
             <div class="col-xl-10 mx-auto col-lg-12 text-center mex-m-b-15 ">
-                <h3 class="mex-h1 text-1e32a3 text-center">Platforms</h3>
+                <h3 class="mex-h1 text-1e32a3 text-center"><?php translate('Platforms'); ?></h3>
             </div>
             <div class="col-xl-8 col-lg-12 row mx-0 d-flex d-md-none">
                 <div class="col-4 d-flex align-items-center flex-column text-center text-uppercase mex-h3 font-16"
                      style="line-height: 20px;">
                     <img class="lazyload mb-platform-icon mb-2"
                          data-src="/public_files/images/home/home_platforms_ecn_icon.png" alt="ECN Pro Platform">
-                    ECN Pro<br/>Platform
+                         <?php translate('ECN Pro'); ?><br/><?php translate('Platform'); ?>
                 </div>
                 <div class="col-4 d-flex align-items-center flex-column text-center text-uppercase mex-h3 font-16"
                      style="line-height: 20px;">
                     <img class="lazyload mb-platform-icon mb-2"
                          data-src="/public_files/images/home/home_platforms_multibank_pro_icon.png"
                          alt="MultiBank Pro Platform">
-                    MultiBank Pro<br/>Platform
+                         <?php translate('MultiBank Pro'); ?><br/><?php translate('Platform'); ?>
                 </div>
                 <div class="col-4 d-flex align-items-center flex-column text-center text-uppercase mex-h3 font-16"
                      style="line-height: 20px;">
                     <img class="lazyload mb-platform-icon mb-2"
                          data-src="/public_files/images/home/home_platforms_maximus_icon.png" alt="Maximus Platform">
-                    Maximus<br/>Platform
+                         <?php translate('Maximus'); ?><br/><?php translate('Platform'); ?>
                 </div>
                 <div class="col-12 d-flex justify-content-center my-4">
-                    <a href="platforms.html" class="btn btn-mex text-white">Learn More</a>
+                    <a href="platforms.html" class="btn btn-mex text-white"><?php translate('Learn More'); ?></a>
                 </div>
             </div>
         </div>
@@ -848,9 +848,9 @@
 </section>
 <section class="p0 bg-white d-none d-md-block">
     <div class="col-md-12">
-        <h3 class="mex-h1 text-1e32a3 text-center mex-m-t-50 mex-m-b-none">Bonuses </h3>
-        <p class="lead text-222 mex-m-b-30 text-center">Find out more about our latest bonus and promotions for
-            Introducing Brokers & individual clients alike!</p>
+        <h3 class="mex-h1 text-1e32a3 text-center mex-m-t-50 mex-m-b-none"><?php translate('Bonuses'); ?> </h3>
+        <p class="lead text-222 mex-m-b-30 text-center"><?php translate('Find out more about our latest bonus and promotions for
+            Introducing Brokers & individual clients alike!'); ?></p>
     </div>
     <div class="swiper-container" id="swiper-container-2">
         <div class="swiper-wrapper">
@@ -892,7 +892,7 @@
 </section>
 <section class="bg-gray mex-p-t-none d-none d-md-block">
     <div class="container">
-        <h1 class="mex-h1 text-1e32a3 text-center mex-m-t-50 mex-m-b-30">About MultiBank Group</h1>
+        <h1 class="mex-h1 text-1e32a3 text-center mex-m-t-50 mex-m-b-30"><?php translate('About MultiBank Group'); ?></h1>
         <div class="row">
             <div class="col-12 col-md-6 mb-4 mb-md-0">
                 <section class="mex-block-card bg-white shadow-box-animate">
@@ -903,14 +903,14 @@
                     <div class="card-content-box">
                         <div class=" card-content bg-white text-center">
                             <div class="mex-h2 uppercase mex-m-b-20 text-overflow-1">
-                                OUR ADVANTAGES
+                            <?php translate('OUR ADVANTAGES'); ?>
                             </div>
                             <div class="mex-content text-overflow-2 text-overflow-3-xs">
-                                Learn more about MultiBank’s award-winning platforms and comprehensive partnership
-                                programs
+                            <?php translate('Learn more about MultiBank’s award-winning platforms and comprehensive partnership
+                                programs'); ?>
                             </div>
                             <a href="about/why-multibank-group.html"
-                               class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN MORE</a>
+                               class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                         </div>
                     </div>
                 </section>
@@ -924,14 +924,14 @@
                     <div class="card-content-box">
                         <div class=" card-content bg-white text-center">
                             <div class="mex-h2 uppercase mex-m-b-20 text-overflow-1">
-                                REGULATIONS
+                            <?php translate('REGULATIONS'); ?>
                             </div>
                             <div class="mex-content text-overflow-2 text-overflow-3-xs">
-                                MultiBank comprises a number of companies which are regulated by top financial bodies
-                                worldwide including ASIC, BaFin, FMA, CNMV, FSC, and CIMA
+                            <?php translate('MultiBank comprises a number of companies which are regulated by top financial bodies
+                                worldwide including ASIC, BaFin, FMA, CNMV, FSC, and CIMA'); ?>
                             </div>
                             <a href="mfx/v1/about/regulations.html"
-                               class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN MORE</a>
+                               class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                         </div>
                     </div>
                 </section>
@@ -942,7 +942,7 @@
 <section class="pt64 pb16 table-background global-presence lazyload d-none d-md-block" id="home_global_presence"
          style="background-image: url(public_files/images/about_us/global_presence/home_global_presence_bg.jpg)">
     <div class="mex-content">
-        <h2 class="mex-h1 text-fff text-center">Global Presence</h2>
+        <h2 class="mex-h1 text-fff text-center"><?php translate('Global Presence'); ?></h2>
     </div>
     <div class="swiper-container" id="swiper-container-global-presence">
         <div class="swiper-wrapper mex-m-b-100">
@@ -1777,7 +1777,7 @@
     </div>
 </section>
 <section class="p0 mex-block-full d-flex d-md-none flex-column">
-    <div class="mex-h1 text-1e32a3 text-center uppercase mex-m-t-50 mex-m-b-30">Trade with confidence</div>
+    <div class="mex-h1 text-1e32a3 text-center uppercase mex-m-t-50 mex-m-b-30"><?php translate('Trade with confidence'); ?></div>
     <div class="container trade-confidence-container">
         <div class="row">
             <div class="col-12 d-flex mb-3">
