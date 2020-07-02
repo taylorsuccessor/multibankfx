@@ -5,36 +5,29 @@
     <meta charset='UTF-8'>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <title>MultiBank Group is a Regulated Trading Platform</title>
-    <meta name='description'
-        content="MultiBank is heavily regulated worldwide, with over 8 regulatory licenses from top financial bodies around the globe">
-    <meta name='keywords'
-        content="regulations, regulators, forex regulations, forex regulators, trading regulations, trading regulators, financial trading regulators, financial trading license, license broker for forex, forex licensed broker, authorized and regulated broker, authorized fo">
-    <meta property='og:title' content="MultiBank Group is a Regulated Trading Platform">
-    <meta property='og:description'
-        content="MultiBank is heavily regulated worldwide, with over 8 regulatory licenses from top financial bodies around the globe">
-    <link rel='canonical' href="regulations.html">
-    <link rel="alternate" href="https://es.multibankfx.com/about/regulations" hreflang="es-ES" />
-    <link rel="alternate" href="https://ru.multibankfx.com/about/regulations" hreflang="ru-RU" />
-    <link rel="alternate" href="https://ae.multibankfx.com/about/regulations" hreflang="en-ae" />
-    <link rel="alternate" href="https://vn.multibankfx.com/about/regulations" hreflang="vi-VN" />
-    <link rel="alternate" href="https://id.multibankfx.com/about/regulations" hreflang="id-ID" />
-    <link rel="alternate" href="https://mys.multibankfx.com/about/regulations" hreflang="ms-MY" />
-    <link rel="alternate" href="https://ph.multibankfx.com/about/regulations" hreflang="tl-PH" />
-    <link rel="alternate" href="https://th.multibankfx.com/about/regulations" hreflang="th-TH" />
-    <link rel="alternate" href="https://fr.multibankfx.com/about/regulations" hreflang="fr-FR" />
-    <link rel="alternate" href="regulations.html" hreflang="x-default" />
+    <title>Social Trading - EN | MultiBank Fx</title>
+    <meta property='og:title' content="Social Trading - EN | MultiBank Fx">
+    <link rel='canonical' href="social-trading.html">
+    <link rel="alternate" href="https://es.multibankfx.com/social-trading" hreflang="es-ES" />
+    <link rel="alternate" href="https://ru.multibankfx.com/social-trading" hreflang="ru-RU" />
+    <link rel="alternate" href="https://ae.multibankfx.com/social-trading" hreflang="en-ae" />
+    <link rel="alternate" href="https://vn.multibankfx.com/social-trading" hreflang="vi-VN" />
+    <link rel="alternate" href="https://id.multibankfx.com/social-trading" hreflang="id-ID" />
+    <link rel="alternate" href="https://mys.multibankfx.com/social-trading" hreflang="ms-MY" />
+    <link rel="alternate" href="https://ph.multibankfx.com/social-trading" hreflang="tl-PH" />
+    <link rel="alternate" href="https://th.multibankfx.com/social-trading" hreflang="th-TH" />
+    <link rel="alternate" href="https://fr.multibankfx.com/social-trading" hreflang="fr-FR" />
+    <link rel="alternate" href="social-trading.html" hreflang="x-default" />
 
-    <script type="a6230ba13658041f0e1db4b9-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script type="bdaa9b02232eaa47ac948bf3-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KNJQJTN');</script>
-    <link rel="shortcut icon" href="../../../public_files/images/common/icons/favicon.ico">
-    <link rel="stylesheet" href="../../../public_files/static_min_css/library.min.css">
-    <link rel="stylesheet" href="../../../public_files/static_min_css/custom.min.css">
-    <link rel="stylesheet" href="../../../public_files/static_css/custom.css">
-    <link rel="stylesheet" type="text/css" href="../../../public_files/static_css/swiper-3.4.2.min.css">
+    <link rel="shortcut icon" href="public_files/images/common/icons/favicon.ico">
+    <link rel="stylesheet" href="public_files/static_min_css/library.min.css">
+    <link rel="stylesheet" href="public_files/static_min_css/custom.min.css">
+    <link rel="stylesheet" href="public_files/static_css/custom.css">
     <style>
         form {
             position: relative;
@@ -71,13 +64,383 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             height: 0;
         }
     </style>
-    <script src="../../../public_files/static_js/jquery-3.3.1.min.js"
-        type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script type="a6230ba13658041f0e1db4b9-text/javascript">const page_dir = 'ltr';</script>
+    <script src="public_files/static_js/jquery-3.3.1.min.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script type="bdaa9b02232eaa47ac948bf3-text/javascript">const page_dir = 'ltr';</script>
+    <style>
+        .social-trading-banner>img,
+        .st-section>img {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+        }
+
+        .st-banner-btn-container {
+            position: absolute;
+            bottom: 10px;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .st-banner-text-container>div {
+            padding-left: 55%;
+            padding-bottom: 10%;
+        }
+
+        .st-top-title {
+            display: block;
+            width: 70%;
+            height: auto;
+            margin-bottom: 30px;
+        }
+
+        .st-top-subtitle {
+            width: 70%;
+            height: auto;
+        }
+
+        .st-banner-text-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+
+            height: 100%;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .st_benefit_icon {
+            position: absolute;
+            top: -60px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 120px;
+            height: 120px;
+
+            padding: 20px;
+            background-color: #FFF;
+            border-radius: 50%;
+        }
+
+        .st_benefit_card img {
+            width: 100%;
+            height: 100%;
+        }
+
+        .st_benefit_card.benefit {
+            box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.12), 0 0px 2px rgba(0, 0, 0, 0.24);
+        }
+
+        .st_benefit_card.invest {
+            padding: 0;
+        }
+
+        .st_benefit_card.invest img {
+            width: 100%;
+            height: auto;
+        }
+
+        .fi_copy_trade {
+            height: 100%;
+            background-color: #fff;
+        }
+
+        .st_benefit_card.benefit,
+        .fi_copy_trade {
+            box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.12), 0 0 2px rgba(0, 0, 0, 0.24);
+        }
+
+        .st_benefit_container {}
+
+        .fi_copy_trade_card {
+            padding: 30px 15px 15px 15px;
+            background-color: #FFF;
+        }
+
+        .st_benefit_card {
+            padding: 60px 15px 15px 15px;
+            background-color: #FFF;
+            height: 100%;
+        }
+
+        .st-la-btn {
+            background-color: #ce0b0b;
+            border: none;
+            color: #fff;
+            border-radius: 50px !important;
+        }
+
+        .st-la-btn:hover {
+            background-color: #ce0b0b;
+            border: none;
+            color: #fff;
+        }
+
+        .st-shadow-box {
+            box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.4);
+        }
+
+        .btn-st-blue,
+        .btn-st-green,
+        .btn-st-red,
+        .btn-st-005190,
+        .btn-st-006AD0,
+        .btn-st-1ba6df {
+            padding: 20px 20px;
+            margin-right: 10px;
+            margin-left: 10px;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            min-width: 150px;
+            line-height: 14px;
+            font-size: 18px;
+            font-weight: 500;
+            letter-spacing: 1px;
+            border-radius: 0;
+            text-align: center;
+        }
+
+        .btn-st-blue {
+            background: #2643AF;
+            color: #fff;
+            border: 2px solid #2643AF;
+        }
+
+        .btn-st-green {
+            background: #1dba2f;
+            color: #fff;
+            border: 2px solid #1dba2f;
+        }
+
+        .btn-st-red {
+            background: #ce0b0b;
+            color: #fff;
+            border: 2px solid #1dba2f;
+        }
+
+        .btn-st-blue.transparent {
+            background: rgba(38, 67, 175, 0.6);
+            border: none;
+        }
+
+        .btn-st-green.transparent {
+            background: rgba(29, 186, 47, 0.6);
+            border: none;
+        }
+
+        .btn-st-red.transparent {
+            background: rgba(206, 11, 11, 0.6);
+            border: none;
+        }
+
+        .btn-st-005190 {
+            background: #005190;
+            color: #fff;
+            border: 2px solid #005190;
+        }
+
+        .btn-st-005190:hover {
+            background: #007fbf;
+            color: #fff;
+            border: 2px solid #007fbf;
+        }
+
+
+        .btn-st-006AD0 {
+            background: #006AD0;
+            color: #fff;
+            border: 2px solid #006AD0;
+        }
+
+        .btn-st-006AD0:hover {
+            background: #0690ef;
+            color: #fff;
+            border: 2px solid #0690ef;
+        }
+
+
+        .btn-st-1ba6df {
+            background: #1BA6DF;
+            color: #fff;
+            border: 2px solid #1BA6DF;
+        }
+
+        .btn-st-1ba6df:hover {
+            background: #0A7DA5;
+            color: #fff;
+            border: 2px solid #0A7DA5;
+        }
+
+
+        .btn-st-green:hover,
+        .btn-st-blue:hover {
+            color: #fff;
+        }
+
+        .btn-st-px-60 {
+            padding-left: 60px !important;
+            padding-right: 60px !important;
+        }
+
+        .text-005190 {
+            color: #005190;
+        }
+
+        .text-1ba6df {
+            color: #1BA6DF;
+        }
+
+        .mex-list-icon-check li:before {
+            background: #1dba2f !important;
+        }
+
+        .st-h2 {
+            font-size: 32px !important;
+            line-height: 48px !important;
+        }
+
+        .mex-list-icon-check.st-list li {
+            font-size: 16px !important;
+        }
+
+        .st-benefit-portrait-img {
+            height: 600px;
+            width: 100%;
+            object-fit: cover;
+        }
+
+        .st-h4 {
+            font-weight: 400;
+            font-size: 16px;
+        }
+
+        .st-h2 {
+            font-size: 36px !important;
+            line-height: 44px !important;
+        }
+
+        .st-benefit-landscape-img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .st-row {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        }
+
+        .st-col-xs-12 {
+            flex: 0 0 100%;
+            max-width: 100%;
+        }
+
+        .st-grow-wealth-list li {
+            margin-bottom: 10px;
+        }
+
+        .fa-ul {
+            margin-left: 30px !important;
+        }
+
+        .st-table-element {
+            background-color: #F3F4F6;
+        }
+
+        .st-table-element:hover {
+            background-color: #07AA50;
+            color: #fff;
+        }
+
+        .st-table-text {
+            font-weight: 400;
+        }
+
+        .st-slide-header {
+            position: relative;
+            background-color: #006ACE;
+            cursor: pointer;
+        }
+
+        .st-slide-header::after {
+            position: absolute;
+            top: 50%;
+            right: 20px;
+            transform: translateY(-50%);
+            font-size: 40px;
+            content: "\e64b";
+            font-family: 'themify';
+            speak: none;
+            font-style: normal;
+            font-weight: 400;
+            font-variant: normal;
+            text-transform: none;
+            transition-duration: 0.3s;
+
+        }
+
+        .st-slide-content {
+            background-color: #F7F7F7;
+            display: none;
+        }
+
+        .st-nav-content {
+            border: 1px solid #01518F
+        }
+
+        .st-nav.nav-tabs {
+            border-bottom: none;
+            margin-bottom: 1px;
+        }
+
+        .st-nav.nav-tabs .nav-link {
+            border-radius: 0 !important;
+            border-color: transparent !important;
+            background-color: #EAE9E7;
+            color: #575757;
+        }
+
+        .st-nav.nav-tabs .nav-link.active {
+            background-color: #045493;
+            color: #ffff;
+        }
+
+        .st-nav-panel {
+            display: none;
+        }
+
+        .st-nav-panel.active {
+            display: block;
+        }
+
+
+        @media (max-width: 1199px) {
+            .st-mb-xl-100 {
+                margin-bottom: 100px !important;
+            }
+
+            .st-benefit-bg {
+                height: 100% !important;
+                object-fit: cover;
+            }
+        }
+    </style>
 </head>
 
 <body>
-<?php include_from_root('website_template/header_and_menu.php');?>
+    <?php include_from_root('website_template/header_and_menu.php');?>
     <style>
         .nav-menu-hamburger,
         .nav-menu-mymex {
@@ -133,352 +496,519 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
-    <div class="main-container">
-        <section class="pt64 pb16 table-background global-presence regulations-bg"
-            style="background-image: url(../../../public_files/images/about_us/regulations/regulations_fma.jpg);">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-9 clear-float mex-content">
-                        <h1 class="mex-h1 text-fff text-center">Regulations</h1>
-                        <p class="lead text-fff">At MultiBank, we are committed to providing transparency and the
-                            highest level of clients’ funds security. With licenses and regulations across 4 continents,
-                            we work with financial regulators across various jurisdictions to provide investor
-                            protection.</p>
-                        <p class="lead text-fff mex-m-b-30">Learn more about our various regulated entities</p>
+    <section class="page-top-banner p-0">
+        <div class="banner_overlay"></div>
+        <img class="mex-img-cover" src="public_files/images/social_trading/social_trading_t_banner.jpg"
+            alt="Trade Forex" />
+        <div class="st-banner-text-container">
+            <div>
+                <div class="slider-title">
+                    <h2>BOOST<br /><span class="silder-title-bold">YOUR PROFITS</span><br /><span
+                            class="silder-title-uptext">WITH</span> <span class="silder-title-bold">SOCIAL
+                            TRADING</span></h2>
+                </div>
+                <div class="slider-desc">INVEST SMARTER- COPY THE TRADES OF CONSISTENTLY PROFITABLE TRADERS OR SCALE
+                    YOUR INCOME BY EARNING FEES FROM INVESTORS WHO COPY YOUR ACCOUNT</div>
+                <div class="slider-icons">
+                    <div class="slider-icon"><a href="social-trading/trader.html"><img
+                                src="public_files/images/social_trading/icon_investor.png"><br />TRADER >></a></div>
+                    <div class="slider-icon"><a href="social-trading/investor.html"><img
+                                src="public_files/images/social_trading/icon_signal_provider.png"><br />INVESTOR >></a>
                     </div>
-                    <div class="col-xs-10 col-sm-9 clear-float">
-
-                        <div
-                            class="swiper-pagination swiper-pagination-white swiper-pagination-clickable swiper-pagination-bullets">
-                            <span class="swiper-pagination-bullet"
-                                data-img="../../../public_files/images/common/country/australia.png" tabindex="0" role="button"
-                                aria-label="Go to slide 1">
-                                <span>ASIC</span>
-                                <img src="/multibankfx/public_files/images/common/country/australia.png">
-                            </span>
-
-                            <span class="swiper-pagination-bullet"
-                                data-img="../../../public_files/images/common/country/germany.png" tabindex="0" role="button"
-                                aria-label="Go to slide 3">
-                                <span>BaFin</span>
-                                <img src="../../../public_files/images/common/country/germany.png">
-                            </span>
-                            <span class="swiper-pagination-bullet swiper-pagination-bullet-active"
-                                data-img="../../../public_files/images/common/country/austria.png" tabindex="0" role="button"
-                                aria-label="Go to slide 4">
-                                <span>FMA</span>
-                                <img src="../../../public_files/images/common/country/austria.png">
-                            </span>
-                            <span class="swiper-pagination-bullet"
-                                data-img="../../../public_files/images/common/country/spain.png" tabindex="0" role="button"
-                                aria-label="Go to slide 5">
-                                <span>CNMV</span>
-                                <img src="../../../public_files/images/common/country/spain.png">
-                            </span>
-                            <span class="swiper-pagination-bullet"
-                                data-img="../../../multibankfx/public_files/images/common/country/british_virgin_islands.png" tabindex="0"
-                                role="button" aria-label="Go to slide 6">
-                                <span>FSC</span>
-                                <img src="../../../public_files/images/common/country/british_virgin_islands.png">
-                            </span>
-                            <span class="swiper-pagination-bullet"
-                                data-img="../../../public_files/images/common/country/cayman_islands.png" tabindex="0"
-                                role="button" aria-label="Go to slide 7">
-                                <span>CIMA</span>
-                                <img src="../../../public_files/images/common/country/cayman_islands.png">
-                            </span>
-                            <span class="swiper-pagination-bullet"
-                                data-img="../../../public_files/images/common/country/uae.png" tabindex="0" role="button"
-                                aria-label="Go to slide 8">
-                                <span>RAK</span>
-                                <img src="../../../public_files/images/common/country/uae.png">
-                            </span>
+                    <div class="slider-icon"><a href="social-trading/faq.html"><img
+                                src="public_files/images/social_trading/icon_faq.png"><br />FAQ >></a></div>
+                    <div class="slider-icon"><a href="social-trading/leaderboard.html"><img
+                                src="public_files/images/social_trading/icon_leader_board.png"><br />LEADERBOARD >></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="st-banner-btn-container">
+            <div class="col-lg-3 col-md-4 col-sm-4 col-12">
+                <a href="https://invest.multibankfx.com" class="btn-st-blue btn-banner transparent">Join As Signal
+                    Provider</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-4 col-12">
+                <a href="http://invest.multibankfx.com" class="btn-st-green btn-banner transparent text-fff">Join As
+                    Investor</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-4 col-12">
+                <a href="social-trading/leaderboard.html"
+                    class="btn-st-red btn-banner transparent text-fff">Leaderboard</a>
+            </div>
+        </div>
+    </section>
+    <section class="flex-center">
+        <img class="mex-img-cover"
+            src="public_files/images/platforms/download_center/download_center_mobile_trader_banner.jpg"
+            alt=" MEX Mobile Trader">
+        <div class="container">
+            <div class="row justify-content-end">
+                <div class="col-lg-6 ">
+                    <div class="col-sm-12 ">
+                        <div class="mex-h2 text-005190 mex-m-b-20 text-left">
+                            Download MT4 Trading App
                         </div>
-                        <div class="swiper-container swiper-container-horizontal" id="regulations-global-presence">
-                            <div class="swiper-wrapper mex-m-b-100 mex-m-t-15"
-                                style="transition-duration: 0ms; transform: translate3d(-2925px, 0px, 0px);">
-                                <div class="swiper-slide swiper-slide-duplicate"
-                                    data-img="/resource/newwebsite/v1_0/images/about_us/regulations/regulations_rak@2x.jpg"
-                                    data-swiper-slide-index="8" style="width: 975px;">
-                                    <section class="mex-block-card-not-img">
-                                        <div class="card-content bg-white">
-                                            <div class="mex-h3-s mex-m-b-15">
-                                                RAK<br>MEX ClearingRAK<br>
-                                                MEX Clearing
-                                            </div>
-                                            <div class="mex-content">
-                                                MEX Clearing Limited is our subsidiary in the United Arab Emirates, and
-                                                is registered in the Ras Al Khaimah Free Trade Zone. </div>
-
-                                            <a href="https://www.multibankfx.com/public_files/pdf/MEX_Clearing.pdf"
-                                                class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
-                                        </div>
-                                    </section>
-                                </div>
-                                <div class="swiper-slide"
-                                    data-img="../../../public_files/images/about_us/regulations/regulations_asic.jpg"
-                                    data-swiper-slide-index="1" style="width: 975px;">
-                                    <section class="mex-block-card-not-img">
-                                        <div class="card-content bg-white">
-                                            <div class="mex-h3-s mex-m-b-15">
-                                                ASIC<br>MEX Exchange </div>
-                                            <div class="mex-content">
-                                                MEX Australia Pty Ltd (MEX Exchange), with Australian company number
-                                                (ACN) 155 084 058, is authorized and regulated by the Australian
-                                                Securities &amp; Investments Commission (“ASIC”) with AFSL number
-                                                416279. MEX Exchange is a registered business name of MEX Australia Pty
-                                                Ltd. </div>
-                                            <a href="https://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_adf.ctrl-state=lffqbm9qo_36"
-                                                target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
-                                            <a href="http://download.mexgroup.com/uploads/PDFs/ASIC_Company_Certificate.pdf"
-                                                class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
-                                        </div>
-                                    </section>
-                                </div>
-
-                                <div class="swiper-slide swiper-slide-prev"
-                                    data-img="../../../public_files/images/about_us/regulations/regulations_bafin.jpg"
-                                    data-swiper-slide-index="3" style="width: 975px;">
-                                    <section class="mex-block-card-not-img">
-                                        <div class="card-content bg-white">
-                                            <div class="mex-h3-s mex-m-b-15">
-                                                BaFin<br>MEX Asset Management (Germany) </div>
-                                            <div class="mex-content">
-                                                MEX Asset Management GmbH is authorized and regulated by the German
-                                                Federal Financial Supervisory Authority (“BaFin”) with license number
-                                                HRB 73406. </div>
-                                            <a href="https://www.bafin.de/SharedDocs/Standardartikel/EN/Unternehmensdatenbank/li_fidi_zugel_gesamt_en.html?nn=7856472"
-                                                target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
-                                            <a href="http://download.mexgroup.com/uploads/PDFs/MEXAM-BaFin.pdf"
-                                                class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
-                                        </div>
-                                    </section>
-                                </div>
-                                <div class="swiper-slide swiper-slide-active"
-                                    data-img="../../../public_files/images/about_us/regulations/regulations_fma.jpg"
-                                    data-swiper-slide-index="4" style="width: 975px;">
-                                    <section class="mex-block-card-not-img">
-                                        <div class="card-content bg-white">
-                                            <div class="mex-h3-s mex-m-b-15">
-                                                FMA<br>MEX Asset Management (Austria) </div>
-                                            <div class="mex-content">
-                                                MEX Asset Management GmbH (Austria) is the Austrian branch of our German
-                                                asset management company, with license number 491129z. </div>
-                                            <a href="http://www.fma.gv.at/en/search-company-database/?cname=MEX+Asset+Management&amp;place=&amp;bic=&amp;category=&amp;per_page=10&amp;submitted=1"
-                                                target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
-
-                                        </div>
-                                    </section>
-                                </div>
-                                <div class="swiper-slide swiper-slide-next"
-                                    data-img="../../../public_files/images/about_us/regulations/regulations_cnmv.jpg"
-                                    data-swiper-slide-index="5" style="width: 975px;">
-                                    <section class="mex-block-card-not-img">
-                                        <div class="card-content bg-white">
-                                            <div class="mex-h3-s mex-m-b-15">
-                                                CNMV<br>MEX Spain </div>
-                                            <div class="mex-content">
-                                                MEX Spain is MultiBank’s Spanish branch based out of Barcelona, Spain,
-                                                and is regulated by the National Securities Market Commission (“CNMV”).
-                                            </div>
-                                            <a href="https://www.cnmv.es/Portal/Consultas/ESI/ESISExtranjerasSuc.aspx?tipo=CSU&numero=120&vista=0&fs=08/04/2019"
-                                                class="btn btn-mex mex-m-r-15">License link</a>
-                                            <a href="../../../multibankfx/public_files/images/documents/pdf/CNMV-license.pdf"
-                                                class="btn btn-mex-black mex-m-r-15">License PDF</a>
-                                        </div>
-                                    </section>
-                                </div>
-                                <div class="swiper-slide"
-                                    data-img="../../../public_files/images/about_us/regulations/regulations_fsc.jpg"
-                                    data-swiper-slide-index="6" style="width: 975px;">
-                                    <section class="mex-block-card-not-img">
-                                        <div class="card-content bg-white">
-                                            <div class="mex-h3-s mex-m-b-15">
-                                                FSC<br>Multibank FX International </div>
-                                            <div class="mex-content">
-                                                Multibank FX International Corporation is authorized and regulated by
-                                                the Financial Services Commission of the British Virgin Islands (FSC)
-                                                with license number SIBA/L/14/1068. </div>
-                                            <a href="http://www.bvifsc.vg/search/site/multibank" target="_blank"
-                                                class="btn btn-mex mex-m-r-15">License link</a>
-                                            <a href="http://download.mexgroup.com/uploads/PDFs/FSC_Company_License.pdf"
-                                                target="_blank" class="btn btn-mex-black mex-m-r-15"> License PDF</a>
-                                        </div>
-                                    </section>
-                                </div>
-                                <div class="swiper-slide"
-                                    data-img="../../../public_files/images/about_us/regulations/regulations_cima.jpg"
-                                    data-swiper-slide-index="7" style="width: 975px;">
-                                    <section class="mex-block-card-not-img">
-                                        <div class="card-content bg-white">
-                                            <div class="mex-h3-s mex-m-b-15">
-                                                CIMA<br>MEX Wealth Management </div>
-                                            <div class="mex-content">
-                                                MEX Wealth Management is our subsidiary in the Cayman Islands, and is
-                                                regulated by the Cayman Islands Monetary Authority. </div>
-                                            <a href="http://www.cima.ky/search-entities" target="_blank"
-                                                class="btn btn-mex mex-m-r-15">License link</a>
-                                            <a href="http://download.mexgroup.com/uploads/PDFs/MEX_Wealth_Management_Corporation_Certificate.pdf"
-                                                target="_blank" class="btn btn-mex-black mex-m-r-15">License PDF</a>
-                                        </div>
-                                    </section>
-                                </div>
-
-                                <div class="swiper-slide swiper-slide-duplicate"
-                                    data-img="../../../public_files/images/about_us/regulations/regulations_asic.jpg"
-                                    data-swiper-slide-index="1" style="width: 975px;">
-                                    <section class="mex-block-card-not-img">
-                                        <div class="card-content bg-white">
-                                            <div class="mex-h3-s mex-m-b-15">
-                                                ASIC<br>MEX Exchange </div>
-                                            <div class="mex-content">
-                                                MEX Australia Pty Ltd (MEX Exchange), with Australian company number
-                                                (ACN) 155 084 058, is authorized and regulated by the Australian
-                                                Securities &amp; Investments Commission (“ASIC”) with AFSL number
-                                                416279. MEX Exchange is a registered business name of MEX Australia Pty
-                                                Ltd. </div>
-                                            <a href="http://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_adf.ctrl-state=vp4ojzdrf_4"
-                                                target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
-                                            <a href="http://download.mexgroup.com/uploads/PDFs/ASIC_Company_Certificate.pdf"
-                                                class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
-                                        </div>
-                                    </section>
-                                </div>
-                            </div>
-                            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                        <div class="row ">
+                            <a class="col-5 d-block"
+                                href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4"><img
+                                    class="w-100"
+                                    src="public_files/images/platforms/download_center/download_center_mobile_google_play.png"
+                                    alt="Get it on Google Play"></a>
+                            <a class="col-5 d-block"
+                                href="https://itunes.apple.com/us/app/metatrader-4/id496212596"><img class="w-100"
+                                    src="public_files/images/platforms/download_center/download_center_mobile_app_store.png"
+                                    alt="Doenload in the App Store"></a>
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+    <section class="st-section">
+        <img src="public_files/images/social_trading/st_earn_money_bg.jpg" alt="" />
+        <div class="container">
+            <div class="mex-h2 text-005190 mex-m-b-20 text-center">
+                How to Earn Money through Social Trading as a Trader
+            </div>
+            <div class="mex-m-b-50 row">
+                <div class="mex-m-b-20 col-4">
+                    <img src="public_files/images/social_trading/st_earn_money_step1.png" alt="" class="col-3-step" />
+                    <div class="text-left text-005190 mex-h3 mex-m-t-20">Open A Master Account</div>
+                    <div class="">Become a Signal Provider</div>
+                </div>
+                <div class="mex-m-b-20 col-4">
+                    <img src="public_files/images/social_trading/st_earn_money_step2.png" alt="" class="col-3-step" />
+                    <div class="text-left text-005190 mex-h3 mex-m-t-20">Performance Ranking</div>
+                    <div class="">Share your successful trading performance with the public</div>
+                </div>
+                <div class="mex-m-b-20 col-4">
+                    <img src="public_files/images/social_trading/st_earn_money_step3.png" alt="" class="col-3-step" />
+                    <div class="text-left text-005190 mex-h3 mex-m-t-20">Gain Subscribers</div>
+                    <div class="">Get Investors to copy your trades. The more Investors subscribing to your Master
+                        Account, the more you earn!</div>
+                </div>
+            </div>
 
-            <div class="swiper-button-next swiper-button-white" tabindex="0" role="button" aria-label="Next slide"
-                style="right: 370.5px;"></div>
-            <div class="swiper-button-prev swiper-button-white" tabindex="0" role="button" aria-label="Previous slide"
-                style="left: 370.5px;"></div>
+        </div>
+    </section>
+    <section class="st-section">
+        <img style="height: 50%;" class="mex-img-cover st-benefit-bg"
+            src="public_files/images/social_trading/st_benefit_bg.jpg" alt="Social Trading">
+        <div class="container text-center">
+            <div class="mex-h2 text-fff text-center">
+                Benefits of MultiBank Social Trading
+            </div>
+            <div class="row mex-m-t-120 mex-m-b-10">
+                <div class="col-12 col-sm-6 col-xl-3 st_benefit_container st-mb-xl-100">
+                    <div class="st_benefit_card benefit">
+                        <div class="st_benefit_icon"><img src="public_files/images/social_trading/st_benefit_icon1.png"
+                                alt="Professional" /></div>
+                        <p class="text-left text-005190 mex-h3">Professional</p>
+                        <p class="text-left">Professional global brokerage operating No Dealing Desk (NDD) execution on
+                            aggregated executable prices, offering the lowest spreads in the industry</p>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-xl-3 st_benefit_container st-mb-xl-100">
+                    <div class="st_benefit_card benefit">
+                        <div class="st_benefit_icon"><img src="public_files/images/social_trading/st_benefit_icon2.png"
+                                alt="Fast" /></div>
+                        <p class="text-left text-005190 mex-h3">Fast</p>
+                        <p class="text-left">Simple and copy function to copy transactions within a few milliseconds. We
+                            have a complete network of servers spread across the major interbank liquidity centers such
+                            as OneZero and Equinix</p>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-xl-3 st_benefit_container st-mb-xl-100">
+                    <div class="st_benefit_card benefit">
+                        <div class="st_benefit_icon"><img src="public_files/images/social_trading/st_benefit_icon3.png"
+                                alt="Profitable" /></div>
+                        <p class="text-left text-005190 mex-h3">Profitable</p>
+                        <p class="text-left">We offer the best conditions to money managers and our 320,000 customers,
+                            who can invest with ease in successful strategies and make significant profits</p>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-xl-3 st_benefit_container st-mb-xl-100">
+                    <div class="st_benefit_card benefit">
+                        <div class="st_benefit_icon"><img src="public_files/images/social_trading/st_benefit_icon4.png"
+                                alt="Automatic" /></div>
+                        <p class="text-left text-005190 mex-h3">Automatic</p>
+                        <p class="text-left">When Investors subscribe to a Master Account, the investment amount will be
+                            automatically calculated in proportion to equity invested</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center btn-container">
+                <a href="social-trading/trader.html" class="btn-single btn-st-1ba6df text-fff ">Become A Signal
+                    Provider</a>
+                <a href="social-trading/investor.html" class="btn-single btn-st-006AD0 text-fff">Become An Investor</a>
+            </div>
+        </div>
+    </section>
+    <section style="background-color: #041E35">
+        <div class="container">
+            <div class="row mex-m-x-80">
+                <div class="col-12 col-lg-6">
+                    <img style="width: 90%; height: auto; margin-bottom: 50px;"
+                        src="public_files/images/social_trading/st_grow_wealth_pad.png" />
+                </div>
+                <div class="col-12 col-lg-6">
+                    <p class="text-fff">Become a Signal Provider & Expand Your Income Stream</p>
+                    <p class="text-fff mex-h2 st-h2">Increase Your Profits with No Extra Effort</p>
+                    <p class="text-fff st-h4">Social trading provides successful Signal Providers with a unique
+                        opportunity to trade as they normally do, while increasing earnings by receiving Payouts from
+                        Investors who subscribe to their accounts.</p>
+                    <ul class="text-1ba6df st-grow-wealth-list fa-ul">
+                        <li><span class="fa-li"><i class="fa fa-check-circle"></i></span>Share your trading strategies
+                            with Investors</li>
+                        <li><span class="fa-li"><i class="fa fa-check-circle"></i></span>Earn a portion of profits from
+                            Investor who copy your successful trades</li>
+                        <li><span class="fa-li"><i class="fa fa-check-circle"></i></span>Over 320,000 potential
+                            Investors</li>
+                        <li><span class="fa-li"><i class="fa fa-check-circle"></i></span>Maximize your profits with no
+                            additional effort</li>
+                    </ul>
+                    <div class="row mx-0"><a href="social-trading/trader.html"
+                            class="btn-st-1ba6df ml-0 text-fff">Become A Signal Provider</a></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="st-section" style="background-color: #EBEBEB;">
+        <div class="container text-center">
+            <div class="mex-h2 text-005190 text-center mex-m-b-10">
+                Invest Smarter
+            </div>
+            <div class="mex-m-b-20">
+                Follow the Success of Consistently Profitable Traders
+            </div>
+            <div class="row">
+                <div class="col-12 col-md-6 col-xl-3 st_benefit_container mex-m-b-40">
+                    <div class="st_benefit_card invest">
+                        <img src="public_files/images/social_trading/st_invest1.jpg" />
+                        <p class="text-left mex-p-15">It's easy, just browse our Leaderboard and look for successful
+                            Signal Providers to copy.</p>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3 st_benefit_container mex-m-b-40">
+                    <div class="st_benefit_card invest">
+                        <img src="public_files/images/social_trading/st_invest2.jpg" />
+                        <p class="text-left mex-p-15">Create your own investment portolio based on a range of Signal
+                            Providers you'd like to copy.</p>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3 st_benefit_container mex-m-b-40">
+                    <div class="st_benefit_card invest">
+                        <img src="public_files/images/social_trading/st_invest3.jpg" />
+                        <p class="text-left mex-p-15">Simply subscribe to the Master Accounts of Signal Providers you're
+                            interested in following, and you will automatically start copying their new positions in
+                            your trading account</p>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-3 st_benefit_container mex-m-b-40">
+                    <div class="st_benefit_card invest">
+                        <img src="public_files/images/social_trading/st_invest4.jpg" />
+                        <p class="text-left mex-p-10 mex-p-15">Through your account panel, unsubscribe from any Master
+                            Account with a simply click, and establish risk protection levels and access many more
+                            features</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <a href="social-trading/investor.html" class="btn-st-006AD0 text-fff">BECOME AN INVESTOR</a>
+            </div>
+        </div>
+    </section>
+    <section style="background-color: #fff">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-6 col-xl-8">
+                    <p class="text-005190 mex-h2 st-h2">Improve Your Trading Knowledge Through Social Trading</p>
+                    <p class="st-h4">Signal Providers already have a proven track record of stellar trading performance.
+                        Copy their trades and leave the professional trading decisions to them.</p>
+                    <ul class="text-005190 st-grow-wealth-list fa-ul">
+                        <li><span class="fa-li"><i class="fa fa-check-circle"></i></span>Copy profitable trade from the
+                            best performing traders in the industry</li>
+                        <li><span class="fa-li"><i class="fa fa-check-circle"></i></span>Automatically copy signals from
+                            the most profitable accounts</li>
+                        <li><span class="fa-li"><i class="fa fa-check-circle"></i></span>Learn how Signal Providers
+                            trade with success</li>
+                    </ul>
+                    <div class="row mx-0"><a href="social-trading/investor.html"
+                            class="btn-st-006AD0 text-fff ml-0">Become An Investor</a></div>
+                </div>
+                <div class="col-12 col-lg-6 col-xl-4 text-right">
+                    <img class="w-100" src="public_files/images/social_trading/st_improve_pc.png" />
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="st-section">
+        <img style="object-fit: cover;" src="public_files/images/social_trading/st_earn_money_bg.jpg" alt="" />
+        <div class="container text-center">
+            <div class="mex-h2 mex-m-b-20 text-005190">Still Have Questions About MultiBank Social Trading?</div>
+            <div class="">Check out our <a href="social-trading/faq.html" class="text-005190">FAQ</a> or <a
+                    class="text-005190">Request</a> a Call Back Now!</div>
+        </div>
+    </section>
+    <style>
+        .btn-banner {
+            width: 100%;
+            display: block;
+            margin: 0 auto 5%;
+        }
 
+        .slider-title h2 {
+            color: #fff;
+            font-size: 36px;
+            font-style: "Oswald", Helvetica, Arial, sans-serif;
+            letter-spacing: .011em;
+            line-height: 47px;
+        }
 
-            <img class="regulations-hidden-image"
-                src="../../../public_files/images/about_us/regulations/regulations_asic.jpg" />
-            <img class="regulations-hidden-image"
-                src="../../../public_files/images/about_us/regulations/regulations_rak.jpg" />
-            <img class="regulations-hidden-image"
-                src="../../../public_files/images/about_us/regulations/regulations_bafin.jpg" />
-            <img class="regulations-hidden-image"
-                src="../../../public_files/images/about_us/regulations/regulations_cnmv.jpg" />
-            <img class="regulations-hidden-image"
-                src="../../../public_files/images/about_us/regulations/regulations_cima.jpg" />
-            <img class="regulations-hidden-image"
-                src="../../../public_files/images/about_us/regulations/regulations_fsc.jpg" />
-            <img class="regulations-hidden-image"
-                src="../../../public_files/images/about_us/regulations/regulations_fma.jpg" />
-        </section>
-        <script data-cfasync="false"
-            src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-        <script type="a6230ba13658041f0e1db4b9-text/javascript">
-$(function() {
-var icons = [
-'ic_why_multibank',
-'ic_security_of_funds',
-'ic_our_milestones',
-'ic_our_products',
-'ic_Call_Our_24_7_Hotline',
-'ic_live_chat_support',
-'ic_compare_our_trading_platforms',
-'ic_download_mt4',
-'ic_bonus_programs_for_ibs',
-'ic_Bonus_Programs_for_Individual_Clients',
-'ic_trading_tools',
-'ic_partnership_programs'
-];
+        .slider-title .silder-title-bold {
+            font-size: 56px;
+            font-weight: bold;
+        }
 
-whereToGoItem.injectIcons('.target-icon', icons);
-});
+        .slider-title .silder-title-uptext {
+            display: inline-block;
+            vertical-align: top;
+            line-height: 30px;
+            padding-left: 38px;
+        }
+
+        .slider-desc {
+            color: #fff;
+            font-size: 16px;
+            display: block;
+            max-width: 480px;
+        }
+
+        .slider-icons {
+            margin: 10px 0 0 -15px;
+        }
+
+        .slider-icons a {
+            color: #fff;
+            font-size: 18px;
+            letter-spacing: -1px;
+        }
+
+        .slider-icons .slider-icon {
+            display: inline-block;
+            text-align: center;
+            width: 120px;
+        }
+
+        .mex-img-cover {
+            min-height: 380px
+        }
+
+        .col-3-step {
+            width: 100%;
+            height: auto;
+            max-width: 420px;
+        }
+
+        .btn-container {
+            margin-top: 40px;
+        }
+
+        .btn-container .btn-single {
+            min-width: 300px;
+        }
+
+        @media only screen and (max-width: 1200px) {
+            .slider-title h2 {
+                font-size: 24px;
+                line-height: 35px;
+            }
+
+            .slider-title .silder-title-bold {
+                font-size: 44px;
+            }
+
+            .slider-desc {
+                font-size: 14px;
+                max-width: 390px;
+                line-height: 22px;
+            }
+
+            .slider-icons img {
+                max-width: 66px;
+                height: auto;
+            }
+
+            .slider-icons a {
+                font-size: 16px;
+            }
+
+            .slider-icons .slider-icon {
+                width: 105px;
+            }
+
+            .btn-banner {
+                font-size: 16px;
+                padding: 15px 15px;
+            }
+
+            .btn-container {
+                margin-top: -40px;
+            }
+        }
+
+        @media only screen and (max-width: 1024px) {
+            .btn-banner {
+                font-size: 14px;
+                padding: 10px 10px;
+            }
+
+            .slider-icons img {
+                max-width: 55px;
+            }
+
+            .slider-icons a {
+                font-size: 14px;
+            }
+
+            .slider-icons .slider-icon {
+                width: 95px;
+            }
+        }
+
+        @media only screen and (max-width: 860px) {
+            .slider-title h2 {
+                font-size: 18px;
+                line-height: 29px;
+                margin-left: -20px;
+            }
+
+            .slider-title .silder-title-bold {
+                font-size: 38px;
+            }
+
+            .slider-desc {
+                font-size: 12px;
+                max-width: 340px;
+                margin-left: -20px;
+                line-height: 18px;
+            }
+
+            .btn-banner {
+                font-size: 12px;
+                padding: 8px 8px;
+            }
+
+            .slider-icons {
+                margin-left: -30px;
+            }
+
+            .slider-icons img {
+                max-width: 45px;
+            }
+
+            .slider-icons a {
+                font-size: 13px;
+            }
+
+            .slider-icons .slider-icon {
+                width: 86px;
+            }
+
+        }
+
+        @media only screen and (max-width: 768px) {
+            .slider-title h2 {
+                font-size: 15px;
+                line-height: 26px;
+                margin-left: -60px;
+            }
+
+            .slider-title .silder-title-bold {
+                font-size: 35px;
+            }
+
+            .slider-icons {
+                margin-left: -70px;
+            }
+
+            .slider-desc {
+                margin-left: -60px;
+                max-width: 400px;
+            }
+        }
+
+        @media only screen and (max-width: 680px) {
+            .slider-title h2 {
+                margin-left: -80px;
+            }
+
+            .slider-desc {
+                margin-left: -80px;
+            }
+
+            .slider-icons {
+                margin-left: -90px;
+            }
+
+            .slider-icons img {
+                max-width: 40px;
+            }
+
+            .slider-icons a {
+                font-size: 12px;
+            }
+
+            .slider-icons .slider-icon {
+                width: 80px;
+            }
+        }
+
+        @media only screen and (max-width: 576px) {
+            .slider-title h2 {
+                margin-left: -240px;
+                margin-top: -40px;
+            }
+
+            .slider-icons {
+                margin-left: -250px;
+            }
+
+            .slider-desc {
+                margin-left: -240px;
+                max-width: 460px;
+            }
+
+            .btn-banner {
+                margin: 0 0 5px 0;
+                width: 100%;
+            }
+
+            .banner_overlay {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                left: 0;
+                display: block;
+                background-color: rgba(0, 0, 0, 0.6);
+            }
+
+        }
+    </style>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script type="bdaa9b02232eaa47ac948bf3-text/javascript">
+/*$(function() {
+    $('.nav-link').click(function() {
+        $('.nav-link.active').removeClass('active');
+        $(this).addClass('active');
+        
+        $('.st-nav-panel.active').removeClass('active');
+        $('#st_nav_panel_' + $(this).data('index')).addClass('active');
+    });
+})*/
 </script>
-        <section class="p0 choose-next-background subject-box-bg-light">
-            <div class="container mex-m-b-80">
-                <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable"
-                        data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
-                        data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE"
-                        data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน"
-                        data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
-                    <div class="icon-next-list">
-                        <ul class="bg-white target-icon">
-                            <li><a href="regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span></a>
-                                <div class="mex-content mex-clamp-3">Our Regulations</div>
-                            </li>
-                            <li><a href="../../../products.html"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../products.html">Our Products</a>
-                                </div>
-                                <a href="../../../products.html"> </a>
-                            </li>
-                            <li><a href="../../../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                                <div class="mex-content mex-clamp-3">Trading Tools</div>
-                                <a href="../../../tools.html"> </a>
-                            </li>
-                            <li><a href="../../../about/why-multibank-group.html"><span
-                                        class="ico-ic_why_multibank"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a
-                                        href="../../../about/why-multibank-group.html">Why Multibank</a></div>
-                                <a href="../../../about/why-multibank-group.html"> </a>
-                            </li>
-                            <li><a href="regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="regulations.html">Our Regulations</a>
-                                </div>
-                                <a href="regulations.html"> </a>
-                            </li>
-                            <li><a href="../../../about/security-of-funds.html"><span
-                                        class="ico-ic_security_of_funds"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a
-                                        href="../../../about/security-of-funds.html">Security of Funds</a></div>
-                                <a href="../../../about/security-of-funds.html"> </a>
-                            </li>
-                            <li><a href="../../../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../account.html">Accounts and
-                                        Funding</a></div>
-                                <a href="../../../account.html"> </a>
-                            </li>
-                            <li><a href="../../../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../account/bonus.html">Bonus
-                                        Programs</a></div>
-                                <a href="../../../account/bonus.html"> </a>
-                            </li>
-                            <li><a href="../../../investor-relations.html"><span
-                                        class="ico-ic_partnership_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a
-                                        href="../../../investor-relations.html">Partnership Programs</a></div>
-                                <a href="../../../investor-relations.html"> </a>
-                            </li>
-                            <li><a href="../../../partnership/introducing-brokers.html#introducing-brokers-form"><span
-                                        class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a
-                                        href="../../../partnership/introducing-brokers.html#introducing-brokers-form">Become
-                                        an IB</a></div>
-                                <a href="../../../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
-                            </li>
-                            <li><a href="../../../about/milestones.html"><span class="ico-ic_our_milestones"></span>
-                                </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../about/milestones.html">Our
-                                        Milestones</a></div>
-                                <a href="../../../about/milestones.html"> </a>
-                            </li>
-                            <li><a href="../../../index.html#"
-                                    onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                    data-cf-modified-a6230ba13658041f0e1db4b9-=""><span
-                                        class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../index.html#"
-                                        onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                        data-cf-modified-a6230ba13658041f0e1db4b9-="">Live Chat Support</a></div>
-                                <a href="../../../index.html#"
-                                    onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                    data-cf-modified-a6230ba13658041f0e1db4b9-=""> </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
     <section class="bg-gray contact-us">
         <div class="container">
             <div class="row justify-content-center">
@@ -494,27 +1024,27 @@ whereToGoItem.injectIcons('.target-icon', icons);
                         <ul class="contact-country">
                             <li class="d-none d-md-block"><a href="tel:+12139924748?call"><img alt="US"
                                         class="country-icon" data-entity-type="" data-entity-uuid=""
-                                        src="../../../public_files/images/common/country/usa_big.png" />
+                                        src="public_files/images/common/country/usa_big.png" />
                                     <span> <strong>US:</strong> +1 213 992 4748 </span> </a></li>
                             <li class="d-none d-md-block"><a href="tel:+34931220671?call"><img alt="Spain"
                                         class="country-icon" data-entity-type="" data-entity-uuid=""
-                                        src="../../../public_files/images/common/country/spain_big.png" />
+                                        src="public_files/images/common/country/spain_big.png" />
                                     <span> <strong>Spain:</strong> +34 931220671</span></a></li>
                             <li class="d-none d-md-block"><a href="tel:+390230578823?call"><img alt="Italy"
                                         class="country-icon" data-entity-type="" data-entity-uuid=""
-                                        src="../../../public_files/images/common/country/italy_big.png" />
+                                        src="public_files/images/common/country/italy_big.png" />
                                     <span> <strong>Italy:</strong> +39 0230578823 </span> </a></li>
                             <li class="d-none d-md-block"><a href="tel:+6202129264151?call"><img alt="Indonesia"
                                         class="country-icon" data-entity-type="" data-entity-uuid=""
-                                        src="../../../public_files/images/common/country/indonesia_big.png" />
+                                        src="public_files/images/common/country/indonesia_big.png" />
                                     <span> <strong>Indonesia:</strong> +62 02129264151 </span> </a></li>
                             <li class="d-none d-md-block"><a href="tel:+60322010966?call"><img alt="Malaysia"
                                         class="country-icon" data-entity-type="" data-entity-uuid=""
-                                        src="../../../public_files/images/common/country/malaysia_big.png" />
+                                        src="public_files/images/common/country/malaysia_big.png" />
                                     <span> <strong>Malaysia:</strong> +60 32 201 0966</span> </a></li>
 
                         </ul>
-                        <a class="btn btn-mex " href="../../../contact.html">Find your Country here</a>
+                        <a class="btn btn-mex " href="contact.html">Find your Country here</a>
                     </div>
                     <div class="border-line col-md-6 col-lg-4 col-sm-12 col-xs-12">
                         <ul class="contact-social-media d-none d-md-block">
@@ -522,64 +1052,63 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                 <div class="mex-h3  mex-p-v-15 ">Follow us on</div>
                                 <a href="https://www.facebook.com/multibank.official" target="_blank">
                                     <img alt="" data-entity-type="" data-entity-uuid=""
-                                        src="../../../public_files/images/common/en_foote_btn_01.png"
+                                        src="public_files/images/common/en_foote_btn_01.png"
                                         style="width:20px; height:auto" />
                                 </a>
                                 <a href="https://twitter.com/multibankgroup" target="_blank">
                                     <img alt="" data-entity-type="" data-entity-uuid=""
-                                        src="../../../public_files/images/common/en_foote_btn_02.png"
+                                        src="public_files/images/common/en_foote_btn_02.png"
                                         style="width:20px; height:auto" />
                                 </a>
                                 <a href="https://www.youtube.com/c/MultiBankGoup" target="_blank">
                                     <img alt="" data-entity-type="" data-entity-uuid=""
-                                        src="../../../public_files/images/common/en_foote_btn_03.png"
+                                        src="public_files/images/common/en_foote_btn_03.png"
                                         style="width:20px; height:auto" />
                                 </a>
                                 <a href="https://www.linkedin.com/company/multibankgroup/" target="_blank">
                                     <img alt="" data-entity-type="" data-entity-uuid=""
-                                        src="../../../public_files/images/common/en_foote_btn_04.png"
+                                        src="public_files/images/common/en_foote_btn_04.png"
                                         style="width:20px; height:auto" />
                                 </a>
                                 <a href="https://www.instagram.com/multibank_group/" target="_blank">
                                     <img alt="" data-entity-type="" data-entity-uuid=""
-                                        src="../../../public_files/images/common/en_foote_btn_05.png"
+                                        src="public_files/images/common/en_foote_btn_05.png"
                                         style="width:20px; height:auto" />
                                 </a>
                             </li>
                             <li class="ForIts">
                                 <div class="mex-h3  mex-p-v-15  mex-m-t-10">Email Us</div>
                                 <div class="contact-email"><a class="text-000033"
-                                        href="../../../cdn-cgi/l/email-protection.html#c9aaba89a4bca5bda0aba8a7a2afb1e7aaa6a4"><span
+                                        href="cdn-cgi/l/email-protection.html#15766655786079617c77747b7e736d3b767a78"><span
                                             class="__cf_email__"
-                                            data-cfemail="274454674a524b534e4546494c415f0944484a">[email&#160;protected]</span></a>
+                                            data-cfemail="3d5e4e7d50485149545f5c53565b45135e5250">[email&#160;protected]</span></a>
                                 </div>
                             </li>
                             <li class="ForIts">
                                 <div class="mex-h3 mex-m-t-20 ">Live Chat</div>
-                                <a href="regulations.html#"
+                                <a href="social-trading.html#"
                                     onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                    data-cf-modified-a6230ba13658041f0e1db4b9-=""><img alt="chat"
+                                    data-cf-modified-bdaa9b02232eaa47ac948bf3-=""><img alt="chat"
                                         class="home_contact_us_chat_now" data-entity-type="" data-entity-uuid=""
-                                        src="../../../public_files/images/common/footer_btn_chat_now.png" />
+                                        src="public_files/images/common/footer_btn_chat_now.png" />
                                 </a>
                             </li>
                         </ul>
                         <div class="d-flex d-md-none row py-4 row-eq-height">
                             <div class="col-4 text-center mx-auto">
                                 <div class="mex-h3 mb-2 footer-mb-social-media">EMAIL US</div>
-                                <a
-                                    href="../../../cdn-cgi/l/email-protection.html#5c3f2f1c31293028353e3d32373a24723f3331">
+                                <a href="cdn-cgi/l/email-protection.html#600313200d150c140902010e0b06184e030f0d">
                                     <img class="footer-contact-ic"
-                                        src="../../../public_files/images/common/icon_contact_mail.png" />
+                                        src="public_files/images/common/icon_contact_mail.png" />
                                 </a>
                             </div>
                             <div class="col-4 text-center mx-auto">
                                 <div class="mex-h3 mb-2 footer-mb-social-media">LIVE CHAT</div>
-                                <a href="regulations.html#"
+                                <a href="social-trading.html#"
                                     onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                    data-cf-modified-a6230ba13658041f0e1db4b9-="">
+                                    data-cf-modified-bdaa9b02232eaa47ac948bf3-="">
                                     <img class="footer-contact-ic"
-                                        src="../../../public_files/images/common/icon_contact_wechat.png" />
+                                        src="public_files/images/common/icon_contact_wechat.png" />
                                 </a>
                             </div>
                         </div>
@@ -590,11 +1119,11 @@ whereToGoItem.injectIcons('.target-icon', icons);
                             <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form'
                                 class='multibank-form row mx-0 w-100 new' method='post' enctype=''
                                 id='call_back_footer_form' target='' autocomplete='on'>
-                                <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo1MzozMA==' />
+                                <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToyOQ==' />
                                 <input type='hidden' name='token'
-                                    value='$2y$10$Kdmo88RNENnQdsvd4Wi97e51IJnYHPfUnaNsx0YlmCS7gPP0ioeX.' />
+                                    value='$2y$10$OcEAxOfbB0Jx2DE0Gvrkme.ImErNwCIrPp2iTDngQAKlEXR4ty7WK' />
                                 <input type='hidden' name='source'
-                                    value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:53:20] https://www.multibankfx.com/about<br/><br/>[2020-06-27 02:53:22] https://www.multibankfx.com/about<br/><br/>[2020-06-27 02:53:24] https://www.multibankfx.com/about<br/><br/>[2020-06-27 02:53:30] https://www.multibankfx.com/about<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/regulations?web=true' />
+                                    value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:27] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:28] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:29] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:29] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/social-trading?web=true' />
                                 <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                     <label for='' class='m-0'>
                                     </label>
@@ -980,18 +1509,18 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                         id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
                                 </div><button type='submit' class='btn btn-mex mx-auto'
                                     onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                                    data-cf-modified-a6230ba13658041f0e1db4b9-="">CALL ME</button>
+                                    data-cf-modified-bdaa9b02232eaa47ac948bf3-="">CALL ME</button>
                             </form>
                             <div class="px-1 font-10" style="padding:0px;">
                                 <div class="form-check form-check-inline">
                                     <label class="form-check-label label-1 " for="terms_conditions">By submitting this
                                         form,
-                                        you agree to accept the <a href="../../../terms-conditions.html" target="_blank"
+                                        you agree to accept the <a href="terms-conditions.html" target="_blank"
                                             class="text-22A0C4" style="padding:0 !important;">Terms &amp;
                                             Conditions</a>,
-                                        <a href="../../../privacy-policy.html" target="_blank" class="text-22A0C4"
+                                        <a href="privacy-policy.html" target="_blank" class="text-22A0C4"
                                             style="padding:0 !important;">Privacy Policy</a>, and <a
-                                            href="../../../cookie-policy.html" target="_blank" class="text-22A0C4"
+                                            href="cookie-policy.html" target="_blank" class="text-22A0C4"
                                             style="padding:0 !important;">Cookie Policy</a>.
                                     </label>
                                 </div>
@@ -1008,38 +1537,38 @@ whereToGoItem.injectIcons('.target-icon', icons);
                 <div class="row justify-content-between"
                     style="padding-bottom: 25px; border-bottom: 1px solid #808080;">
                     <div class="col-xs-12 col-sm-12 col-md-8 footer_other_left align-self-center">
-                        <a class="footer_logo" href="../../../index.html" target="_parent">
+                        <a class="footer_logo" href="index.html" target="_parent">
                             <img alt="logo" data-entity-type="" data-entity-uuid=""
-                                src="../../../public_files/images/common/logo_black_360.png" width="200" />
+                                src="public_files/images/common/logo_black_360.png" width="200" />
                         </a>
                         <a href="https://my.multibankfx.com/en/traders/login" target="_blank">MyMultibank</a>
-                        <a href="../../../contact.html" target="_parent">Contact Us</a>
-                        <a href="regulations.html#"
+                        <a href="contact.html" target="_parent">Contact Us</a>
+                        <a href="social-trading.html#"
                             onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                            data-cf-modified-a6230ba13658041f0e1db4b9-="">Support</a>
-                        <a href="../../../article/hiring-now-cyprus.html" target="_parent">Career</a>
-                        <a href="../../../investor-relations.html" target="_parent">Investor&nbsp;Relations</a>
+                            data-cf-modified-bdaa9b02232eaa47ac948bf3-="">Support</a>
+                        <a href="article/hiring-now-cyprus.html" target="_parent">Career</a>
+                        <a href="investor-relations.html" target="_parent">Investor&nbsp;Relations</a>
                     </div>
                     <div class="footer_btn col-xs-12  col-sm-12 col-md-4 align-self-center">
                         <a href="https://www.facebook.com/multibank.official" target="_blank">
                             <img alt="facebook" data-entity-type="" data-entity-uuid="" height="30"
-                                src="../../../public_files/images/common/en_foote_btn_01.png" width="30" />
+                                src="public_files/images/common/en_foote_btn_01.png" width="30" />
                         </a>
                         <a href="https://twitter.com/multibankgroup" target="_blank">
                             <img alt="twitter" data-entity-type="" data-entity-uuid="" height="30"
-                                src="../../../public_files/images/common/en_foote_btn_02.png" width="30" />
+                                src="public_files/images/common/en_foote_btn_02.png" width="30" />
                         </a>
                         <a href="https://www.youtube.com/c/MultiBankGoup" target="_blank">
                             <img alt="youtube" data-entity-type="" data-entity-uuid="" height="30"
-                                src="../../../public_files/images/common/en_foote_btn_03.png" width="30" />
+                                src="public_files/images/common/en_foote_btn_03.png" width="30" />
                         </a>
                         <a href="https://www.linkedin.com/company/multibankgroup/" target="_blank">
                             <img alt="linkedin" data-entity-type="" data-entity-uuid="" height="30"
-                                src="../../../public_files/images/common/en_foote_btn_04.png" width="30" />
+                                src="public_files/images/common/en_foote_btn_04.png" width="30" />
                         </a>
                         <a href="https://www.instagram.com/multibank_group/" target="_blank">
                             <img alt="instagram" data-entity-type="" data-entity-uuid="" height="30"
-                                src="../../../public_files/images/common/en_foote_btn_05.png" width="30" />
+                                src="public_files/images/common/en_foote_btn_05.png" width="30" />
                         </a>
                     </div>
                 </div>
@@ -1047,84 +1576,78 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     <div class="row">
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../../../about.html"><strong>About us</strong></a> <a
-                                        href="../../../about/why-multibank-group.html" target="_parent">Why
-                                        Multibank</a> <a href="../../../about/global-presence.html"
-                                        target="_parent">Global Presence</a> <a href="regulations.html"
-                                        target="_parent">Regulations</a> <a href="../../../about/security-of-funds.html"
-                                        target="_parent">Security of Funds</a> <a href="../../../about/milestones.html"
-                                        target="_parent">Milestones</a> <a href="../../../about/management.html"
-                                        target="_parent">Management</a>
-                                    <a href="../../../about/awards.html" target="_parent">Awards</a> <a
-                                        href="../../../about/sponsorship.html" target="_parent">Sponsorship</a>
-                                    <a href="../../../article/news_20180916.html" target="_parent">Company News</a> <a
-                                        href="../../../article/hiring-now-cyprus.html" target="_parent">Career</a>
+                                <li><a href="about.html"><strong>About us</strong></a> <a
+                                        href="about/why-multibank-group.html" target="_parent">Why Multibank</a> <a
+                                        href="about/global-presence.html" target="_parent">Global Presence</a> <a
+                                        href="mfx/v1/about/regulations.html" target="_parent">Regulations</a> <a
+                                        href="about/security-of-funds.html" target="_parent">Security of Funds</a> <a
+                                        href="about/milestones.html" target="_parent">Milestones</a> <a
+                                        href="about/management.html" target="_parent">Management</a>
+                                    <a href="about/awards.html" target="_parent">Awards</a> <a
+                                        href="about/sponsorship.html" target="_parent">Sponsorship</a>
+                                    <a href="article/news_20180916.html" target="_parent">Company News</a> <a
+                                        href="article/hiring-now-cyprus.html" target="_parent">Career</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../../../products.html"><strong>Products</strong></a> <a
-                                        href="../../../products/forex.html" target="_parent">Forex</a> <a
-                                        href="../../../products/metals.html" target="_parent">Metals</a> <a
-                                        href="../../../products/shares.html" target="_parent">Shares</a>
-                                    <a href="../../../products/indices.html" target="_parent">Indices</a> <a
-                                        href="../../../products/commodities.html" target="_parent">Commodities</a>
+                                <li><a href="products.html"><strong>Products</strong></a> <a href="products/forex.html"
+                                        target="_parent">Forex</a> <a href="products/metals.html"
+                                        target="_parent">Metals</a> <a href="products/shares.html"
+                                        target="_parent">Shares</a>
+                                    <a href="products/indices.html" target="_parent">Indices</a> <a
+                                        href="products/commodities.html" target="_parent">Commodities</a>
 
                                 </li>
                             </ul>
                         </div>
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../../../platforms.html"><strong>Platforms</strong></a>
-                                    <a href="../../../platforms/compare-platforms.html" target="_parent">Compare
-                                        Platforms</a>
-                                    <a href="../../../platforms/ecn-pro.html" target="_parent">ECN Pro</a>
-                                    <a href="../../../platforms/multibank-pro.html" target="_parent">MultiBank Pro </a>
-                                    <a href="../../../platforms/maximus.html" target="_parent">Maximus</a>
-                                    <a href="../../../platforms/mt5-platform.html" target="_parent">MT5 Platform </a>
-                                    <a href="../../../social-trading.html" target="_parent">Social Trading</a>
-                                    <a href="../../../platforms/download-center.html" target="_parent">Download Center
-                                    </a></li>
+                                <li><a href="platforms.html"><strong>Platforms</strong></a>
+                                    <a href="platforms/compare-platforms.html" target="_parent">Compare Platforms</a>
+                                    <a href="platforms/ecn-pro.html" target="_parent">ECN Pro</a>
+                                    <a href="platforms/multibank-pro.html" target="_parent">MultiBank Pro </a>
+                                    <a href="platforms/maximus.html" target="_parent">Maximus</a>
+                                    <a href="platforms/mt5-platform.html" target="_parent">MT5 Platform </a>
+                                    <a href="social-trading.html" target="_parent">Social Trading</a>
+                                    <a href="platforms/download-center.html" target="_parent">Download Center </a></li>
                             </ul>
                         </div>
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../../../account.html"><strong>Accounts &amp; Funding</strong></a> <a
-                                        href="../../../account/live-account.html" target="_parent">Live Account </a> <a
-                                        href="../../../demo_competition.html" target="_parent">Demo Account </a> <a
-                                        href="../../../account/islamic-account.html" target="_parent">Islamic Account
-                                    </a> <a href="../../../account/account-funding.html" target="_parent">Account
-                                        Funding </a> <a href="../../../account/withdrawals.html"
-                                        target="_parent">Withdrawals</a> <a href="../../../account/account-forms.html"
-                                        target="_parent">Account Forms </a> <a href="../../../account/bonus.html"
-                                        target="_parent">Bonuses</a></li>
+                                <li><a href="account.html"><strong>Accounts &amp; Funding</strong></a> <a
+                                        href="account/live-account.html" target="_parent">Live Account </a> <a
+                                        href="demo_competition.html" target="_parent">Demo Account </a> <a
+                                        href="account/islamic-account.html" target="_parent">Islamic Account </a> <a
+                                        href="account/account-funding.html" target="_parent">Account Funding </a> <a
+                                        href="account/withdrawals.html" target="_parent">Withdrawals</a> <a
+                                        href="account/account-forms.html" target="_parent">Account Forms </a> <a
+                                        href="account/bonus.html" target="_parent">Bonuses</a></li>
                             </ul>
                         </div>
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../../../tools.html"><strong>Tools</strong></a> <a
-                                        href="../../../tools/trading-tools.html" target="_parent">Trading Tools </a> <a
-                                        href="../../../tools/trading-conditions.html" target="_parent">Trading
-                                        Conditions </a> <a href="../../../tools/holiday-hours-notices.html"
-                                        target="_parent">Trading Hours &amp; Holiday
-                                        Notice </a> <a href="../../../cfd-expiration-dates.html" target="_parent">CFD
-                                        Expiration Dates</a>
+                                <li><a href="tools.html"><strong>Tools</strong></a> <a href="tools/trading-tools.html"
+                                        target="_parent">Trading Tools </a> <a href="tools/trading-conditions.html"
+                                        target="_parent">Trading Conditions </a> <a
+                                        href="tools/holiday-hours-notices.html" target="_parent">Trading Hours &amp;
+                                        Holiday
+                                        Notice </a> <a href="cfd-expiration-dates.html" target="_parent">CFD Expiration
+                                        Dates</a>
 
-                                    <a href="../../../scalping-policy.html" target="_parent">Scalping Policy</a></li>
+                                    <a href="scalping-policy.html" target="_parent">Scalping Policy</a></li>
                             </ul>
                         </div>
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../../../investor-relations.html"><strong>Partnership</strong></a> <a
-                                        href="../../../partnership/introducing-brokers.html"
-                                        target="_parent">Introducing Brokers </a> <a
-                                        href="../../../partnership/franchise-program.html" target="_parent">Franchise
-                                        Program </a> <a href="../../../partnership/white-label.html"
-                                        target="_parent">White Label </a> <a
-                                        href="../../../partnership/prime-of-primes.html" target="_parent">Prime of
-                                        Primes</a> <a href="../../../partnership/cpa-affiliate-program.html"
-                                        target="_parent">CPA Affiliate Program</a>
+                                <li><a href="investor-relations.html"><strong>Partnership</strong></a> <a
+                                        href="partnership/introducing-brokers.html" target="_parent">Introducing Brokers
+                                    </a> <a href="partnership/franchise-program.html" target="_parent">Franchise Program
+                                    </a> <a href="partnership/white-label.html" target="_parent">White Label </a> <a
+                                        href="partnership/prime-of-primes.html" target="_parent">Prime of Primes</a> <a
+                                        href="partnership/cpa-affiliate-program.html" target="_parent">CPA Affiliate
+                                        Program</a>
                                 </li>
                             </ul>
                         </div>
@@ -1134,34 +1657,34 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     <div class="container">
                         <div class="row">
                             <img class="w-100 h-auto d-block d-lg-none"
-                                src="../../../public_files/images/common/icons/payment_partners-201906.jpg">
+                                src="public_files/images/common/icons/payment_partners-201906.jpg">
                             <div class="footer-icon-list d-none d-lg-block">
                                 <img class="footer-icon" alt="nab"
-                                    src="../../../public_files/images/common/icons/logo_footer_nab.png"
+                                    src="public_files/images/common/icons/logo_footer_nab.png"
                                     style="width: auto; height: 30px;">
                                 <img class="footer-icon" alt="neteller"
-                                    src="../../../public_files/images/common/icons/logo_footer_neteller.png"
+                                    src="public_files/images/common/icons/logo_footer_neteller.png"
                                     style="width: auto; height: 20px;">
                                 <img class="footer-icon" alt="skrill"
-                                    src="../../../public_files/images/common/icons/logo_footer_skrill.png"
+                                    src="public_files/images/common/icons/logo_footer_skrill.png"
                                     style="width: auto; height: 25px;">
                                 <img class="footer-icon" alt="swift"
-                                    src="../../../public_files/images/common/icons/logo_footer_swift.png"
+                                    src="public_files/images/common/icons/logo_footer_swift.png"
                                     style="width: auto; height: 25px;">
                                 <img class="footer-icon" alt="visa"
-                                    src="../../../public_files/images/common/icons/logo_footer_visa.png"
+                                    src="public_files/images/common/icons/logo_footer_visa.png"
                                     style="width: auto; height: 25px;">
                                 <img class="footer-icon" alt="mastercard"
-                                    src="../../../public_files/images/common/icons/logo_footer_mastercard.png"
+                                    src="public_files/images/common/icons/logo_footer_mastercard.png"
                                     style="width: auto; height: 25px;">
                             </div>
                         </div>
                     </div>
-                    <p><a href="../../../privacy-policy.html" target="_parent">Privacy Policy </a> | <a
-                            href="../../../cookie-policy.html" target="_parent"> Cookie
-                            Policy</a> | <a href="../../../terms-conditions.html" target="_parent">Terms &amp;
-                            Conditions </a> | <a href="../../../website-disclaimer.html" target="_parent"> Website
-                            Disclaimer </a> | <a href="../../../risk-warning.html" target="_parent"> Risk
+                    <p><a href="privacy-policy.html" target="_parent">Privacy Policy </a> | <a href="cookie-policy.html"
+                            target="_parent"> Cookie
+                            Policy</a> | <a href="terms-conditions.html" target="_parent">Terms &amp; Conditions </a> |
+                        <a href="website-disclaimer.html" target="_parent"> Website Disclaimer </a> | <a
+                            href="risk-warning.html" target="_parent"> Risk
                             Warning</a></p>
                     <p>Copyright © : 2005-2020 MEX Group Worldwide Limited. All rights reserved. MultiBank Exchange is
                         the
@@ -1182,22 +1705,22 @@ whereToGoItem.injectIcons('.target-icon', icons);
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
             <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""
-                    src="../../../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+                    src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
             <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid=""
-                    src="../../../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+                    src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn"
-            href="../../../cdn-cgi/l/email-protection.html#b9dacaf9d4ccd5cdd0dbd8d7d2dfc197dad6d4">
+            href="cdn-cgi/l/email-protection.html#e08393a08d958c948982818e8b8698ce838f8d">
             <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid=""
-                    src="../../../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+                    src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn"
             onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-            data-cf-modified-a6230ba13658041f0e1db4b9-="">
+            data-cf-modified-bdaa9b02232eaa47ac948bf3-="">
             <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid=""
-                    src="../../../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+                    src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1299,11 +1822,11 @@ whereToGoItem.injectIcons('.target-icon', icons);
                 <form action="https://www.multibankfx.com/form/contactus?" name='email_us_form'
                     class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='email_us_form' target=''
                     autocomplete='on'>
-                    <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo1MzozMA==' />
+                    <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToyOQ==' />
                     <input type='hidden' name='token'
-                        value='$2y$10$AUW9wa5LzWxDax/ehGScFO49qTK3r4pwGVj9MvM6cgh9jS359ypVa' />
+                        value='$2y$10$A0W2Y38.KYFi.mabW/RahO2eK2r/XQBm/f1p/h0BcoxXJvZAp4.Xa' />
                     <input type='hidden' name='source'
-                        value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:53:20] https://www.multibankfx.com/about<br/><br/>[2020-06-27 02:53:22] https://www.multibankfx.com/about<br/><br/>[2020-06-27 02:53:24] https://www.multibankfx.com/about<br/><br/>[2020-06-27 02:53:30] https://www.multibankfx.com/about<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/regulations?web=true' />
+                        value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:27] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:28] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:29] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:30] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/social-trading?web=true' />
                     <div class='col-12 p-0'>
                         <label for='' class='mex-h3'>
                             EMAIL US</label>
@@ -1635,7 +2158,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                             placeholder=''>Hello, I am interested in learning more about MultiBank products and services. Could you please contact me</textarea>
                     </div><button type='submit' class='btn btn-mex ml-auto btn-submit'
                         onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                        data-cf-modified-a6230ba13658041f0e1db4b9-="">SEND</button>
+                        data-cf-modified-bdaa9b02232eaa47ac948bf3-="">SEND</button>
                 </form>
             </div>
         </div>
@@ -1688,8 +2211,8 @@ whereToGoItem.injectIcons('.target-icon', icons);
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script type="a6230ba13658041f0e1db4b9-text/javascript">
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script type="bdaa9b02232eaa47ac948bf3-text/javascript">
     $(function(){
         $('.email-us-tg').click(function(e){
             e.preventDefault();
@@ -1701,18 +2224,15 @@ whereToGoItem.injectIcons('.target-icon', icons);
         });
     })
 </script>
-    <script src="../../../public_files/static_js/lang_data/en.js"
-        type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/jquery.dataTables.min.js"
-        type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/lazysizes.min.js"
-        type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/jquery.validate.min.js"
-        type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/intlTelInput.min.js"
-        type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/app.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script type="a6230ba13658041f0e1db4b9-text/javascript" async>
+    <script src="public_files/static_js/lang_data/en.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js"
+        type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js"
+        type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script type="bdaa9b02232eaa47ac948bf3-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {
         window.__lc = window.__lc || {};
@@ -1742,7 +2262,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
     })();
   }
 </script>
-    <script type="a6230ba13658041f0e1db4b9-text/javascript">
+    <script type="bdaa9b02232eaa47ac948bf3-text/javascript">
 $(function() {
     $('.mex-translatable').each(function() {
         var url_parts = location.hostname.split('.');
@@ -1776,12 +2296,12 @@ $(function() {
 });
 
 </script>
-    <script type="a6230ba13658041f0e1db4b9-text/javascript">
+    <script type="bdaa9b02232eaa47ac948bf3-text/javascript">
 $(function() {
         $('form:not("#demo_competition_form_2019_08_13") .sms_verif_code').val('215121');
 });
 </script>
-    <script type="a6230ba13658041f0e1db4b9-text/javascript">
+    <script type="bdaa9b02232eaa47ac948bf3-text/javascript">
 $(function(){
 var iframe_ibnum =getUrlVars()['ibNum'];
 var is_iframe = getUrlVars()['is_iframe'];
@@ -1799,71 +2319,16 @@ if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
 }
 });
 </script>
-    <script src="../../../public_files/static_js/swiper-4.3.5.min.js"
-        type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/app_home.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script type="a6230ba13658041f0e1db4b9-text/javascript">
+    <script type="bdaa9b02232eaa47ac948bf3-text/javascript">
 $(function() {
-//icons we need
-var icons = [
-'ic_why_multibank',
-'ic_security_of_funds',
-'ic_our_regulations',
-'ic_our_products',
-'ic_become_an_ib',
-'ic_live_chat_support',
-'ic_bonus_programs',
-'ic_trading_tools',
-'ic_compare_our_trading_platforms',
-'ic_download_mt4',
-'ic_partnership_programs',
-'ic_mymultibank_account_panel'
-];
-//inject them
-whereToGoItem.injectIcons('.target-icon', icons);
+    $('.st-slide-header').click(function() {
+        $(this).next().slideToggle("slow");
+    });
 });
+
 </script>
-    <style>
-        .ensure-fund-security-wrapper {
-            width: 100%;
-
-
-            display: grid;
-            grid-template-columns: 33.333% 33.333% 33.333%;
-            grid-template-rows: 1fr 1fr;
-            grid-template-areas:
-                "s1 s2 s3"
-                "s1 s4 s5";
-            grid-gap: 15px 15px;
-            justify-items: stretch;
-            align-items: stretch;
-        }
-
-        .ensure-fund-security:first-child .card-img {
-            width: auto;
-        }
-
-        .ensure-fund-security .card-img-box {
-            height: 100% !important;
-        }
-
-        @media (max-width: 1199px) {
-            .ensure-fund-security-wrapper {
-                grid-template-columns: 1fr 1fr;
-                grid-template-rows: 40% 30% 30%;
-                grid-template-areas:
-                    "s1 s1"
-                    "s2 s3"
-                    "s4 s5";
-            }
-
-            .ensure-fund-security:first-child .card-img {
-                width: 100%;
-            }
-        }
-    </style>
     <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js"
-        data-cf-settings="a6230ba13658041f0e1db4b9-|49" defer=""></script>
+        data-cf-settings="bdaa9b02232eaa47ac948bf3-|49" defer=""></script>
 </body>
 
 </html>

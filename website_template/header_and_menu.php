@@ -90,16 +90,16 @@ $siteurl = "http://localhost/multibankfx";
                                 <h4 class="uppercase mb0"><a class="font-24" href="../about.html">About us</a></h4>
                             </div>
                             <ul class="nav-menu-list">
-                                <li><a href="why-multibank-group.php">Why Multibank</a></li>
-                                <li><a href="global-presence.php">Global Presence</a></li>
-                                <li><a href="../mfx/v1/about/regulations.php">Regulations</a></li>
-                                <li><a href="security-of-funds.php">Security of Funds</a></li>
-                                <li><a href="milestones.php">Milestones</a></li>
-                                <li><a href="management.php">Management</a></li>
-                                <li><a href="awards.php">Awards</a></li>
-                                <li><a href="sponsorship.php">Sponsorship</a></li>
-                                <li><a href="../article/news_20180916.php">Company News</a></li>
-                                <li><a href="../article/hiring-now-cyprus.php">Career</a></li>
+                                <li><a href="/multibankfx/about/why-multibank-group.php">Why Multibank</a></li>
+                                <li><a href="/multibankfx/about/global-presence.php">Global Presence</a></li>
+                                <li><a href="/multibankfx/about//mfx/v1/about/regulations.php">Regulations</a></li>
+                                <li><a href="/multibankfx/about/security-of-funds.php">Security of Funds</a></li>
+                                <li><a href="/multibankfx/about/milestones.php">Milestones</a></li>
+                                <li><a href="/multibankfx/about/management.php">Management</a></li>
+                                <li><a href="/multibankfx/about/awards.php">Awards</a></li>
+                                <li><a href="/multibankfx/about/sponsorship.php">Sponsorship</a></li>
+                                <li><a href="/multibankfx/article/news_20180916.php">Company News</a></li>
+                                <li><a href="/multibankfx/article/hiring-now-cyprus.php">Career</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4 col-sm-12 col-xs-12 ">
