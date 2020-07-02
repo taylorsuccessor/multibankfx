@@ -109,7 +109,7 @@
                     <input type='hidden' name='source' value=' <br/><br/> posted From: www.multibankfx.com/?web=true'/>
                     <div class='bg-000 text-center mex-m-x-n15 w-110'>
                         <label for='' class='mex-h3 text-white py-2 mb-0'>
-                            CONTACT US FOR INQUIRIES</label>
+                        <?php translate('GET A CALL BACK'); ?></label>
                         <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' form-control'
                                name='label_title' placeholder='' value=''/>
                     </div>
@@ -120,7 +120,7 @@
                                                                          data-extra-message="Account type Invalid."
                                                                          class='   ' name='account_type' type='radio'
                                                                          required value='1' checked/>
-                            <label class='  ' for=''>INDIVIDUAL</label>
+                            <label class='  ' for=''><?php translate('INDIVIDUAL'); ?></label>
                         </div>
                     </div>
                     <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
@@ -130,37 +130,37 @@
                                                                          data-extra-message="Account Type Invalid."
                                                                          class='   ' name='account_type' type='radio'
                                                                          required value='2'/>
-                            <label class='  ' for=''>PARTNERSHIP</label>
+                            <label class='  ' for=''><?php translate('PARTNERSHIP'); ?></label>
                         </div>
                     </div>
                     <div class='mex-form-item col-12 p-1'>
                         <label for='' class='d-none'>
-                            Full Name</label>
+                        <?php translate('Full Name'); ?></label>
                         <input type="text" data-message="Full Name is Required." data-extra-message="Full Name Invalid."
                                data-regex="" class="form-control mb-0" name="name" $field_id_code
                                placeholder="Full Name" required value=""/>
                     </div>
                     <div class='mex-form-item col-12 p-1'>
                         <label for='' class='d-none'>
-                            Email</label>
+                        <?php translate('Email'); ?></label>
                         <input type='email' data-message='Email is Required.' data-extra-message="Email is Invalid."
                                data-regex='' class='form-control mb-0' name='email' placeholder='Email' required
                                value=''/>
                     </div>
                     <div class='mex-form-item col-12 p-1'>
                         <label for='' class='d-none'>
-                            Confirm Email</label>
+                        <?php translate('Confirm Email'); ?></label>
                         <input type='email' data-message='Confirm Email is Required.'
                                data-extra-message="Email Mismatched." data-regex='' class='form-control mb-0'
                                name='confirm_email' placeholder='Confirm Email' required value=''/>
                     </div>
                     <div class='d-none'>
                         <label for='' class='d-none'>
-                            Country</label>
+                        <?php translate(' Country'); ?></label>
                         <select data-message='Country is Required.' data-extra-message="Country Name Invalid"
                                 class='selection-country form-control  mb-0 select_with_country select_with_country'
                                 name='country_name' required>
-                            <option value='' selected='selected'>Select Country</option>
+                            <option value='' selected='selected'><?php translate('Select Country'); ?></option>
                             <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
                             <option data-country_iso_code="AL" data-name='AL' value='AL'>ALBANIA</option>
                             <option data-country_iso_code="DZ" data-name='DZ' value='DZ'>ALGERIA</option>
@@ -450,45 +450,45 @@
                     </div>
                     <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
                         <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset '
-                                id='button-send-callme_form' type='button' title='Send Code'>Send Code
+                                id='button-send-callme_form' type='button' title='Send Code'><?php translate('Send Code'); ?>
                         </button>
                     </div>
                     <button type='submit' class='btn-contact mx-1 mt-2 mb-0'
                             onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                            data-cf-modified-785e4eb336bec21b04c19cf7-="">SUBMIT
+                            data-cf-modified-785e4eb336bec21b04c19cf7-=""><?php translate('SUBMIT'); ?>
                     </button>
                 </form>
                 <hr class="mx-1 my-2 bg-dark">
                 <div class="px-1 contact-form-button-container">
                     <a href="account/live-account.html"
                        class="d-flex btn btn-mex-red mex-m-b-5 col-md-12 col-xs-12 align-items-center">
-                        <span>&#xe91d;</span>
+                        <span>&#xe91d;</span> 
                         <div class="btn-vr"></div>
-                        OPEN LIVE ACCOUNT</a>
+                        <?php translate('OPEN LIVE ACCOUNT'); ?></a>
                     <a href="demo_competition.html"
                        class="d-flex btn btn-mex-blue mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                         <span>&#xe918;</span>
                         <div class="btn-vr"></div>
-                        OPEN DEMO ACCOUNT</a>
+                        <?php translate('OPEN DEMO ACCOUNT'); ?></a>
                     <a href="partnership/introducing-brokers.html#introducing-brokers-form"
                        class="d-flex btn btn-mex-gray mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                         <span>&#xe920;</span>
                         <div class="btn-vr"></div>
-                        IB REGISTRATION</a>
+                        <?php translate('IB REGISTRATION'); ?></a>
                     <a href="account/account-funding.html"
                        class="d-flex btn btn-mex mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                         <span>&#xe921;</span>
                         <div class="btn-vr"></div>
-                        FUND YOUR ACCOUNT</a>
+                        <?php translate('FUND YOUR ACCOUNT'); ?></a>
                     <div class="px-1 font-10" style="padding:0px;">
                         <div class="form-check form-check-inline">
-                            <label class="form-check-label label-1 " for="terms_conditions">By submitting this form, you
-                                agree to accept the <a href="terms-conditions.html" target="_blank" class="text-22A0C4"
-                                                       style="padding:0 !important;">Terms &amp; Conditions</a>, <a
+                            <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you
+                                agree to accept the'); ?> <a href="terms-conditions.html" target="_blank" class="text-22A0C4"
+                                                       style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a
                                         href="privacy-policy.html" target="_blank" class="text-22A0C4"
-                                        style="padding:0 !important;">Privacy Policy</a>, and <a
+                                        style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a
                                         href="cookie-policy.html" target="_blank" class="text-22A0C4"
-                                        style="padding:0 !important;">Cookie Policy</a>.
+                                        style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                             </label>
                         </div>
                     </div>
@@ -584,14 +584,14 @@
     <div class="container d-block d-md-none">
         <div class="row">
             <div class="col-12">
-                <h3 class="mex-h1 text-1e32a3 mex-m-t-50 mex-m-b-40 text-center">Our Products</h3>
+                <h3 class="mex-h1 text-1e32a3 mex-m-t-50 mex-m-b-40 text-center"><?php translate('Our Products'); ?></h3>
             </div>
         </div>
     </div>
     <div class="container d-none d-md-block">
         <div class="row">
             <div class="col-md-12 ">
-                <h3 class="mex-h1 text-1e32a3 mex-m-t-50 mex-m-b-40 text-center">Choose Your Product</h3>
+                <h3 class="mex-h1 text-1e32a3 mex-m-t-50 mex-m-b-40 text-center"><?php translate('Choose Your Product'); ?></h3>
             </div>
             <div class="col-12 col-md-6 col-lg-3 mex-m-b-30">
                 <section class="mex-block-card-v mex-qtr box-animate">
@@ -602,10 +602,10 @@
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
-                                Forex
+                            <?php translate('Forex'); ?>
                             </div>
                             <div class="mex-content text-overflow-2 mb0">
-                                Trade forex on the largest market in the world
+                            <?php translate('Trade forex on the largest market in the world'); ?>
                             </div>
                         </div>
                     </a>
@@ -620,10 +620,10 @@
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
-                                Metals
+                            <?php translate('Metals'); ?>
                             </div>
                             <div class="mex-content text-overflow-2 mb0">
-                                Trade gold and silver on the tightest spreads
+                            <?php translate('Trade gold and silver on the tightest spreads'); ?>
                             </div>
                         </div>
                     </a>
@@ -638,10 +638,10 @@
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
-                                Shares
+                            <?php translate('Shares'); ?>
                             </div>
                             <div class="mex-content text-overflow-2 mb0">
-                                Trade shares of top performing companies from around the world
+                            <?php translate('Trade shares of top performing companies from around the world'); ?>
                             </div>
                         </div>
                     </a>
@@ -656,10 +656,10 @@
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
-                                Indices
+                            <?php translate('Indices'); ?>
                             </div>
                             <div class="mex-content text-overflow-2 mb0">
-                                Trade global stock indices such as US Wall Street 30, NASDAQ, and German DAX
+                            <?php translate('Trade global stock indices such as US Wall Street 30, NASDAQ, and German DAX'); ?>
                             </div>
                         </div>
                     </a>
@@ -674,10 +674,10 @@
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
-                                Commodities
+                            <?php translate('Commodities'); ?>
                             </div>
                             <div class="mex-content text-overflow-2 mb0">
-                                Trade commodity CFDs such as natural gas, crude oil and copper
+                            <?php translate('Trade commodity CFDs such as natural gas, crude oil and copper'); ?>
                             </div>
                         </div>
                     </a>
@@ -693,10 +693,10 @@
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
-                                White Label
+                            <?php translate('White Label'); ?>
                             </div>
                             <div class="mex-content text-overflow-2 mb0">
-                                MultiBank Group offers a full white label technology package for institutional customer
+                            <?php translate('MultiBank Group offers a full white label technology package for institutional customer'); ?>
                             </div>
                         </div>
                     </a>
@@ -711,10 +711,10 @@
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
-                                Prime of Primes
+                            <?php translate('Prime of Primes'); ?>
                             </div>
                             <div class="mex-content text-overflow-2 mb0">
-                                Complete A to Z White Label solution for MultiBank’s institutional partners
+                            <?php translate(' Complete A to Z White Label solution for MultiBank’s institutional partners'); ?>
                             </div>
                         </div>
                     </a>
@@ -730,11 +730,11 @@
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
-                                Social Trading Platform
+                            <?php translate('Social Trading Platform'); ?>
                             </div>
                             <div class="mex-content text-overflow-2 mb0">
-                                Join thousands of investors and earn money by following our successful traders! No
-                                knowledge or experience required
+                            <?php translate('Join thousands of investors and earn money by following our successful traders! No
+                                knowledge or experience required'); ?>
                             </div>
                         </div>
                     </a>
@@ -746,20 +746,20 @@
          style="background-image: url(public_files/images/home/bg_our_product.jpg)">
         <div class="d-flex mex-h3 text-1e32a3">
             <ul class="mr-2" style="list-style: disc;">
-                <li>Forex</li>
-                <li>Metals</li>
-                <li>Shares</li>
-                <li>Indices</li>
+                <li><?php translate('Forex'); ?></li>
+                <li><?php translate('Metals'); ?></li>
+                <li><?php translate('Shares'); ?></li>
+                <li><?php translate('Indices'); ?></li>
             </ul>
             <ul style="list-style: disc;">
-                <li>Commodities</li>
+                <li><?php translate('Commodities'); ?></li>
 
-                <li>Prime of Primes</li>
-                <li>Social Trading Platform</li>
+                <li><?php translate('Prime of Primes'); ?></li>
+                <li><?php translate('Social Trading Platform'); ?></li>
             </ul>
         </div>
-        <a class="btn btn-mex text-fff" style="margin-left: 20px; padding: 10px 20px;" href="products.html">Learn
-            More</a>
+        <a class="btn btn-mex text-fff" style="margin-left: 20px; padding: 10px 20px;" href="products.html"><?php translate('Learn
+            More'); ?></a>
     </div>
 </section>
 <section class="p0 mex-block-full d-none d-md-block">
@@ -1811,7 +1811,7 @@
                              data-src="/public_files/images/home/home_trade_fund_account.jpg" alt="Fund Your Account">
                     </div>
                     <div class="col-9 py-2">
-                        <div class="mex-h3">Fund Your Account</div>
+                        <div class="mex-h3"><?php translate('Fund Your Account'); ?></div>
                         <div class="font-weight-bold font-16 mex-m-b-15" style="line-height: 1;">
                             Choose from a selection of instant, simple and secure payment options for deposits and ...
                         </div>

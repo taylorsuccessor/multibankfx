@@ -59,8 +59,10 @@ function translate($text,$page_name=''){
     $original_text_key=strtolower($original_text_key);
     $exist=db_select($dbConnection,"select * from language where original_text_key='".$original_text_key."'");
     $row = $exist->fetch();
+   
     if(isset($row['id'])){
-        return $row['en'];
+        echo $row['ar'];
+      
     }else{
         db_insert($dbConnection,'language',[
             'page_name'=>$page_name,
@@ -69,6 +71,6 @@ function translate($text,$page_name=''){
             'ar'=>'',
 
         ]);
-        return $text;
+        echo $text;
     }
 }
