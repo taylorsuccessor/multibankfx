@@ -1,7 +1,67 @@
 <!DOCTYPE html>
 <html lang='en'>
-<head>
-    <?php include_from_root('website_template/head.php');?>
+<head><meta charset='UTF-8'><meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Share Trading - Trade Global Shares with MultiBank As Low As 5% Margin</title>
+<meta name='description' content="With margins as low as 5%, invest your shares in the top 1,000+ companies: Apple, Google, Microsoft, Alibaba, Amazon, Baidu, Facebook, Tesla, Nike, Sina">
+<meta name='keywords' content="multibank shares, shares trading, trade shares, shares trade, trading shares, stocks trading, list of stock options, download company shares, top company shares list, trade top stocks, stocks by industry, stock symbols, choose and order top company shares">
+<meta property='og:title' content="Share Trading - Trade Global Shares with MultiBank As Low As 5% Margin">
+<meta property='og:description' content="With margins as low as 5%, invest your shares in the top 1,000+ companies: Apple, Google, Microsoft, Alibaba, Amazon, Baidu, Facebook, Tesla, Nike, Sina">
+<link rel='canonical' href="shares.html">
+<link rel="alternate" href="https://es.multibankfx.com/products/shares" hreflang="es-ES" />
+<link rel="alternate" href="https://ru.multibankfx.com/products/shares" hreflang="ru-RU" />
+<link rel="alternate" href="https://ae.multibankfx.com/products/shares" hreflang="en-ae" />
+<link rel="alternate" href="https://vn.multibankfx.com/products/shares" hreflang="vi-VN" />
+<link rel="alternate" href="https://id.multibankfx.com/products/shares" hreflang="id-ID" />
+<link rel="alternate" href="https://mys.multibankfx.com/products/shares" hreflang="ms-MY" />
+<link rel="alternate" href="https://ph.multibankfx.com/products/shares" hreflang="tl-PH" />
+<link rel="alternate" href="https://th.multibankfx.com/products/shares" hreflang="th-TH" />
+<link rel="alternate" href="https://fr.multibankfx.com/products/shares" hreflang="fr-FR" />
+<link rel="alternate" href="shares.html" hreflang="x-default" />
+
+<script type="f5b848ca5980c39ab5799fb0-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNJQJTN');</script>
+<link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
+<link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
+<link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
+<link rel="stylesheet" href="../public_files/static_css/custom.css">
+<style>
+    form {
+        position: relative;
+    }
+
+    .form-loader-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 50;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+form:not(#demo_competition_form_2019_08_13) .sms-code-container{
+display:none;
+
+}
+form:not(#demo_competition_form_2019_08_13) .send-code-container{display:none;}
+
+.multibank-form label.error {
+    font-size: 1.1rem;
+
+}
+
+.h-00 {
+    height: 0;
+}
+</style>
+<script src="../public_files/static_js/jquery-3.3.1.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
+<script type="f5b848ca5980c39ab5799fb0-text/javascript">const page_dir = 'ltr';</script>
 </head>
 <body>
 
@@ -5968,8 +6028,8 @@ Phone</label>
 <script src="../public_files/static_js/lang_data/en.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script><script src="../public_files/static_js/jquery.dataTables.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
 <script src="../public_files/static_js/lazysizes.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
 <script src="../public_files/static_js/jquery.validate.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
-<script src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
-<script src="../public_files/static_js/app.js%3Fversion=20200612" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
+<script src="../public_files/static_js/intlTelInput.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
+<script src="../public_files/static_js/app.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
 <script type="f5b848ca5980c39ab5799fb0-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {

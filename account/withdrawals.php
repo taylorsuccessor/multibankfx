@@ -1,7 +1,78 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-    <?php include_from_root('website_template/head.php');?>
+    <meta charset='UTF-8'>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Withdrawal Options for your Trading Account | Withdraw Funds</title>
+    <meta name='description'
+          content="MultiBank Group provides you with easy and instant access to your money with different withdrawal options including bank wire, credit cards, Neteller.">
+    <meta name='keywords'
+          content="withdraw, withdrawal options, options to withdraw, withdraw via multibank, fund withdrawal form, forex account withdrawal options, withdraw your trades, easy access to your trade funds">
+    <meta property='og:title' content="Withdrawal Options for your Trading Account | Withdraw Funds">
+    <meta property='og:description'
+          content="MultiBank Group provides you with easy and instant access to your money with different withdrawal options including bank wire, credit cards, Neteller.">
+    <link rel='canonical' href="withdrawals.html">
+    <link rel="alternate" href="https://es.multibankfx.com/account/withdrawals" hreflang="es-ES"/>
+    <link rel="alternate" href="https://ru.multibankfx.com/account/withdrawals" hreflang="ru-RU"/>
+    <link rel="alternate" href="https://ae.multibankfx.com/account/withdrawals" hreflang="en-ae"/>
+    <link rel="alternate" href="https://vn.multibankfx.com/account/withdrawals" hreflang="vi-VN"/>
+    <link rel="alternate" href="https://id.multibankfx.com/account/withdrawals" hreflang="id-ID"/>
+    <link rel="alternate" href="https://mys.multibankfx.com/account/withdrawals" hreflang="ms-MY"/>
+    <link rel="alternate" href="https://ph.multibankfx.com/account/withdrawals" hreflang="tl-PH"/>
+    <link rel="alternate" href="https://th.multibankfx.com/account/withdrawals" hreflang="th-TH"/>
+    <link rel="alternate" href="https://fr.multibankfx.com/account/withdrawals" hreflang="fr-FR"/>
+    <link rel="alternate" href="withdrawals.html" hreflang="x-default"/>
+
+    <script type="159ad7768bd13813ab411a2b-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNJQJTN');
+    </script>
+    <link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
+    <link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
+    <link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
+    <link rel="stylesheet" href="../public_files/static_css/custom.css">
+    <style>
+        form {
+            position: relative;
+        }
+
+        .form-loader-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 50;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        form:not(#demo_competition_form_2019_08_13) .sms-code-container {
+            display: none;
+
+        }
+
+        form:not(#demo_competition_form_2019_08_13) .send-code-container {
+            display: none;
+        }
+
+        .multibank-form label.error {
+            font-size: 1.1rem;
+
+        }
+
+        .h-00 {
+            height: 0;
+        }
+    </style>
+    <script src="../public_files/static_js/jquery-3.3.1.min.js"
+            type="159ad7768bd13813ab411a2b-text/javascript"></script>
+    <script type="159ad7768bd13813ab411a2b-text/javascript">const page_dir = 'ltr';</script>
 </head>
 <body>
 
@@ -2083,9 +2154,9 @@ $(function() {
         type="159ad7768bd13813ab411a2b-text/javascript"></script>
 <script src="../public_files/static_js/lazysizes.min.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
 <script src="../public_files/static_js/jquery.validate.min.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
-<script src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
+<script src="../public_files/static_js/intlTelInput.min.js"
         type="159ad7768bd13813ab411a2b-text/javascript"></script>
-<script src="../public_files/static_js/app.js%3Fversion=20200612"
+<script src="../public_files/static_js/app.js"
         type="159ad7768bd13813ab411a2b-text/javascript"></script>
 <script type="159ad7768bd13813ab411a2b-text/javascript" async>
     url = new URL(window.location.href);

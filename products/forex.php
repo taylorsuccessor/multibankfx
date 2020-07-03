@@ -1,7 +1,69 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-    <?php include_from_root('website_template/head.php');?>
+<head><meta charset='UTF-8'><meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Tightest Forex Spreads - Trade Over 45 Currency Pairs with the Tightest Spreads with MultiBank</title>
+<meta name='description' content="MultiBank offers the lowest spreads on forex, including majors pairs, cross currencies and exotic currencies. No restrictions on EA.">
+<meta name='keywords' content="multibank forex, forex trading, trade forex, forex trade, trading forex, trade forex with multibank group, forex trading broker, forex broker, advantages of forex trading, trade majors and cross currencies, how to trade forex, start trading forex, forex s">
+<meta property='og:title' content="Tightest Forex Spreads - Trade Over 45 Currency Pairs with the Tightest Spreads with MultiBank">
+<meta property='og:description' content="MultiBank offers the lowest spreads on forex, including majors pairs, cross currencies and exotic currencies. No restrictions on EA.">
+<link rel='canonical' href="forex.html">
+<link rel="alternate" href="https://es.multibankfx.com/products/forex" hreflang="es-ES" />
+<link rel="alternate" href="https://ru.multibankfx.com/products/forex" hreflang="ru-RU" />
+<link rel="alternate" href="https://ae.multibankfx.com/products/forex" hreflang="en-ae" />
+<link rel="alternate" href="https://vn.multibankfx.com/products/forex" hreflang="vi-VN" />
+<link rel="alternate" href="https://id.multibankfx.com/products/forex" hreflang="id-ID" />
+<link rel="alternate" href="https://mys.multibankfx.com/products/forex" hreflang="ms-MY" />
+<link rel="alternate" href="https://ph.multibankfx.com/products/forex" hreflang="tl-PH" />
+<link rel="alternate" href="https://th.multibankfx.com/products/forex" hreflang="th-TH" />
+<link rel="alternate" href="https://fr.multibankfx.com/products/forex" hreflang="fr-FR" />
+<link rel="alternate" href="forex.html" hreflang="x-default" />
+
+<script type="4fe19c5a57e80b762e441d20-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNJQJTN');</script>
+<link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
+<link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
+<link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
+<link rel="stylesheet" href="../public_files/static_css/custom.css">
+<style>
+    form {
+        position: relative;
+    }
+
+    .form-loader-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 50;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+form:not(#demo_competition_form_2019_08_13) .sms-code-container{
+display:none;
+
+}
+form:not(#demo_competition_form_2019_08_13) .send-code-container{display:none;}
+
+.multibank-form label.error {
+    font-size: 1.1rem;
+
+}
+
+.h-00 {
+    height: 0;
+}
+</style>
+<script src="../public_files/static_js/jquery-3.3.1.min.js" type="4fe19c5a57e80b762e441d20-text/javascript"></script>
+<script type="4fe19c5a57e80b762e441d20-text/javascript">const page_dir = 'ltr';</script>
+</head>
 </head>
 <body>
 
@@ -1470,8 +1532,8 @@ Phone</label>
 <script src="../public_files/static_js/lang_data/en.js" type="4fe19c5a57e80b762e441d20-text/javascript"></script><script src="../public_files/static_js/jquery.dataTables.min.js" type="4fe19c5a57e80b762e441d20-text/javascript"></script>
 <script src="../public_files/static_js/lazysizes.min.js" type="4fe19c5a57e80b762e441d20-text/javascript"></script>
 <script src="../public_files/static_js/jquery.validate.min.js" type="4fe19c5a57e80b762e441d20-text/javascript"></script>
-<script src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128" type="4fe19c5a57e80b762e441d20-text/javascript"></script>
-<script src="../public_files/static_js/app.js%3Fversion=20200612" type="4fe19c5a57e80b762e441d20-text/javascript"></script>
+<script src="../public_files/static_js/intlTelInput.min.js" type="4fe19c5a57e80b762e441d20-text/javascript"></script>
+<script src="../public_files/static_js/app.js" type="4fe19c5a57e80b762e441d20-text/javascript"></script>
 <script type="4fe19c5a57e80b762e441d20-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {

@@ -2,31 +2,32 @@
 <html lang='en'>
 <head><meta charset='UTF-8'><meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 <meta name='viewport' content='width=device-width, initial-scale=1'>
-<title>Latest CFD Expiration and Last Dealing Dates - Multibank Group</title>
-<meta name='description' content="CFD expiration dates including WTI Crude oil, Natural Gas OTC, and Brent Crude oil.  See all the MultiBank's open trade dates, and the last dealing dates.">
-<meta name='keywords' content="cfd expiration, cfd expiration dates, crude oil open trading date, crude oil last dealing, natural gas open trade date, last dealing date, CFD open trading date, natural gas expiration date, Brent oil, brent crude open trade date, brent trade expiration,">
-<meta property='og:title' content="Latest CFD Expiration and Last Dealing Dates - Multibank Group">
-<meta property='og:description' content="CFD expiration dates including WTI Crude oil, Natural Gas OTC, and Brent Crude oil.  See all the MultiBank's open trade dates, and the last dealing dates.">
-<link rel='canonical' href="cfd-expiration-dates.html">
-<link rel="alternate" href="https://es.multibankfx.com/cfd-expiration-dates" hreflang="es-ES" />
-<link rel="alternate" href="https://ru.multibankfx.com/cfd-expiration-dates" hreflang="ru-RU" />
-<link rel="alternate" href="https://ae.multibankfx.com/cfd-expiration-dates" hreflang="en-ae" />
-<link rel="alternate" href="https://vn.multibankfx.com/cfd-expiration-dates" hreflang="vi-VN" />
-<link rel="alternate" href="https://id.multibankfx.com/cfd-expiration-dates" hreflang="id-ID" />
-<link rel="alternate" href="https://mys.multibankfx.com/cfd-expiration-dates" hreflang="ms-MY" />
-<link rel="alternate" href="https://ph.multibankfx.com/cfd-expiration-dates" hreflang="tl-PH" />
-<link rel="alternate" href="https://th.multibankfx.com/cfd-expiration-dates" hreflang="th-TH" />
-<link rel="alternate" href="https://fr.multibankfx.com/cfd-expiration-dates" hreflang="fr-FR" />
-<link rel="alternate" href="cfd-expiration-dates.html" hreflang="x-default" />
+<title>Forex Scalping Policy for Introducing Brokers and Customers</title>
+<meta name='description' content="When traders open and close trades within 120 seconds, it is scalping transactions. See MultiBank's restrictions on scalping, tale trading, and idle prices.">
+<meta name='keywords' content="scalping policy, scalping, forex scalping, what is scalping, regulations of scalping, multibank's scalping policy, IB scalping policy, customer scalping policy, stale trading, idle price trades, liquidity providers misquotes, skewed trading strategy, 120">
+<meta property='og:title' content="Forex Scalping Policy for Introducing Brokers and Customers">
+<meta property='og:description' content="When traders open and close trades within 120 seconds, it is scalping transactions. See MultiBank's restrictions on scalping, tale trading, and idle prices.">
+<link rel='canonical' href="scalping-policy.html">
+<link rel="alternate" href="https://es.multibankfx.com/scalping-policy" hreflang="es-ES" />
+<link rel="alternate" href="https://ru.multibankfx.com/scalping-policy" hreflang="ru-RU" />
+<link rel="alternate" href="https://ae.multibankfx.com/scalping-policy" hreflang="en-ae" />
+<link rel="alternate" href="https://vn.multibankfx.com/scalping-policy" hreflang="vi-VN" />
+<link rel="alternate" href="https://id.multibankfx.com/scalping-policy" hreflang="id-ID" />
+<link rel="alternate" href="https://mys.multibankfx.com/scalping-policy" hreflang="ms-MY" />
+<link rel="alternate" href="https://ph.multibankfx.com/scalping-policy" hreflang="tl-PH" />
+<link rel="alternate" href="https://th.multibankfx.com/scalping-policy" hreflang="th-TH" />
+<link rel="alternate" href="https://fr.multibankfx.com/scalping-policy" hreflang="fr-FR" />
+<link rel="alternate" href="scalping-policy.html" hreflang="x-default" />
 
-<script type="18a24c1a3f6f09b64a2fc557-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script type="cfe2afa3cef830cddce79852-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KNJQJTN');</script>
 <link rel="shortcut icon" href="public_files/images/common/icons/favicon.ico">
 <link rel="stylesheet" href="public_files/static_min_css/library.min.css">
-<link rel="stylesheet" href="public_files/static_min_css/custom.min.css%3Fv=20200618-2.css">
+<link rel="stylesheet" href="public_files/static_min_css/custom.min.css">
+<link rel="stylesheet" href="public_files/static_css/custom.css">
 <style>
     form {
         position: relative;
@@ -59,358 +60,11 @@ form:not(#demo_competition_form_2019_08_13) .send-code-container{display:none;}
     height: 0;
 }
 </style>
-<script src="public_files/static_js/jquery-3.3.1.min.js" type="18a24c1a3f6f09b64a2fc557-text/javascript"></script>
-<script type="18a24c1a3f6f09b64a2fc557-text/javascript">const page_dir = 'ltr';</script>
-</head><body><div class="header">
-<div class="header-top d-none d-md-block">
-<div class="row">
-<div class="col-sm-6">
-<ul class="header-top-left-menu hide-1024">
-<li class="border-right hide-1200"><a href="cdn-cgi/l/email-protection.html#dbb8a89bb6aeb7afb2b9bab5b0bda3f5b8b4b6"><i class="ti-email">&nbsp;</i> <span>EMAIL</span> </a></li>
-<li class="border-right hide-1024"><i class="ti-world">&nbsp;</i> <span>Global Alexa Ranking:
-14261</span></li>
-<li class="hide-1280"><span><a href="tel:+12139924748?call">US: +1 213 992 4748</a> </span></li>
-</ul>
-</div>
-<div class="col-md-6 col-12 header-top-right-menu text-nowrap"><a class="hide-1200 btn btn-sm btn-navy mr-1 d-flex align-items-center" href="https://my.multibankfx.com/en/traders/login"><span class="small-M-logo"><img alt="" data-entity-type="" data-entity-uuid="" height="12px" src="public_files/images/common/icons/btn_mymex_icon.png" width="auto;" /> </span>&nbsp;MyMultibank </a>
-<a class="btn btn-sm btn-gold mr-1 header-mb-btn d-md-flex d-none align-items-center" href="contact.html"><i class="ti-headphone-alt">&nbsp;</i>Contact Us</a> <a class="btn btn-sm btn-red mr-1 header-mb-btn d-md-flex d-none align-items-center" href="account/live-account.html"><i class="ti-user">&nbsp;</i>Live Account</a> <a class="btn btn-sm btn-blue hide-768 mr-1 d-flex align-items-center" href="demo_competition.html"><i class="ti-desktop">&nbsp;</i>Demo Account</a>
-
-<a class="btn btn-sm btn-grey hide-768 mr-1 d-flex align-items-center" href="partnership/introducing-brokers.html"><i style="font-family: 'icomoon' !important; font-size:9px; font-style: normal; margin-right: 5px;">&nbsp;&#xe920;</i>IB Registration</a></div>
-</div>
-</div>
-<div class="header-bottom">
-<div class="position-relative">
-<div class="row nav-bar justify-content-between mx-0">
-<div class="line-height-75 line-height-1280-55 header-bottom-left-container">
-<div class="header-boottom-logo">
-<a href="index.html">
-<img alt="logo" class="logo logo-dark header-logo" src="public_files/images/common/logo_black_360.png" />
-</a>
-</div>
-</div>
-<div class="line-height-75 hide-1200 d-flex">
-<div class="header-bottom-nav">
-<div class="nav-item"><a class="header-menu-trigger" data-type="about">ABOUT US</a></div>
-<div class="nav-item"><a class="header-menu-trigger" data-type="products">PRODUCTS</a></div>
-<div class="nav-item"><a class="header-menu-trigger" data-type="platforms">PLATFORMS</a></div>
-<div class="nav-item"><a class="header-menu-trigger" data-type="accounts">ACCOUNT &amp;
-FUNDING</a></div>
-<div class="nav-item"><a class="header-menu-trigger" data-type="tools">TOOLS</a></div>
-<div class="nav-item"><a class="header-menu-trigger" data-type="partnership">PARTNERSHIP</a>
-</div>
-</div>
-<div class="lang-menu">
-<div class="lang-menu-current">
-<a>EN</a>
-</div>
-<div class="lang-menu-dropdown">
-<a href="https://es.multibankfx.com">Español</a>
-
-<a href="https://ru.multibankfx.com">русский</a>
-<a href="https://ar.multibankfx.com">العربية</a>
-<a href="https://vn.multibankfx.com">Việt Nam</a>
-<a href="https://id.multibankfx.com">Bahasa Indonesia</a>
-<a href="https://mys.multibankfx.com">Bahasa Melayu</a>
-<a href="https://ph.multibankfx.com">Tagalog</a>
-<a href="https://fr.multibankfx.com">Français</a>
-<a href="https://th.multibankfx.com">ไทย</a>
-</div>
-</div>
-</div>
-<div class="show-1200-flex align-items-center">
-<a class="nav-menu-mymex" style="min-width: unset !important;" href="https://my.multibankfx.com/en/traders/login">
-<img alt="" src="public_files/images/common/icons/btn_mymex_icon.png" />
-</a>
-<div class="nav-menu-hamburger">
-<i class="ti-menu" style="font-size: 20px; color: #FFF;"></i>
-</div>
-</div>
-</div>
-<ul class="nav-menu py-3">
-<li class="nav-about-menu header-nav-menu">
-<div class="w-75 mx-auto row">
-<div class="col-md-4 col-sm-12 col-xs-12">
-<div class="menu_txt_content">
-<div class="mex-h2 uppercase mb0 "><a class="font-40  text-left mex-p-l-none mex-p-r-none" href="about.html">About us</a>
-</div>
-<p class="line-height-30">MultiBank was established in California, USA in 2005. Since
-its launch MultiBank has evolved into one of the largest financial derivatives
-companies worldwide, with a current paid up capital of over US $322 million.</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-12 col-xs-12 nav-col-hr">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0"><a class="font-24" href="about.html">About us</a></h4>
-</div>
-<ul class="nav-menu-list">
-<li><a href="about/why-multibank-group.html">Why Multibank</a></li>
-<li><a href="about/global-presence.html">Global Presence</a></li>
-<li><a href="mfx/v1/about/regulations.html">Regulations</a></li>
-<li><a href="about/security-of-funds.html">Security of Funds</a></li>
-<li><a href="about/milestones.html">Milestones</a></li>
-<li><a href="about/management.html">Management</a></li>
-<li><a href="about/awards.html">Awards</a></li>
-<li><a href="about/sponsorship.html">Sponsorship</a></li>
-<li><a href="article/news_20180916.html">Company News</a></li>
-<li><a href="article/hiring-now-cyprus.html">Career</a></li>
-</ul>
-</div>
-<div class="col-md-4 col-sm-12 col-xs-12 ">
-<div class="menu_ad">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-</div>
-<a class="d-block w-75 mx-auto" href="account/live-account.html"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="public_files/images/common/menu_ads_banner.png%3Fv=0327" /></a>
-</div>
-</div>
-</div>
-</li>
-<li class="nav-products-menu header-nav-menu" style="display: none;">
-<div class="w-75 mx-auto row">
-<div class="col-md-4 col-sm-12 col-xs-12">
-<div class="menu_txt_content">
-<div class="mex-h2 uppercase mb0"><a class="font-40  text-left mex-p-l-none mex-p-r-none" href="products.html">Products</a></div>
-<p class="line-height-30">Trade MultiBank’s wide range of financial products.</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-12 col-xs-12 nav-col-hr">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0"><a class="font-24" href="products.html">Products</a></h4>
-</div>
-<ul class="nav-menu-list">
-<li><a href="products/forex.html">Forex</a></li>
-<li><a href="products/metals.html">Metals</a></li>
-<li><a href="products/shares.html">Shares</a></li>
-<li><a href="products/indices.html">Indices</a></li>
-<li><a href="products/commodities.html">Commodities</a></li>
-
-</ul>
-</div>
-<div class="col-md-4 col-sm-12 col-xs-12">
-<div class="menu_ad">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-</div>
-<a class="d-block w-75 mx-auto" href="account/live-account.html"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="public_files/images/common/menu_ads_banner.png%3Fv=0327" /></a>
-</div>
-</div>
-</div>
-</li>
-<li class="nav-platforms-menu header-nav-menu" style="display: none;">
-<div class="w-75 mx-auto row">
-<div class="col-md-4 col-sm-12 col-xs-12">
-<div class="menu_txt_content">
-<div class="mex-h2 uppercase mb0"><a class="font-40  text-left mex-p-l-none mex-p-r-none" href="platforms.html">Platforms</a></div>
-<p class="line-height-30">Trade on MultiBank’s award-winning MT4 & MT5 platforms.</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-12 col-xs-12 nav-col-hr">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0"><a class="font-24" href="platforms.html">Platforms</a></h4>
-</div>
-<ul class="nav-menu-list">
-<li><a href="platforms/compare-platforms.html">Compare Platforms</a></li>
-<li><a href="platforms/ecn-pro.html">ECN Pro</a></li>
-<li><a href="platforms/multibank-pro.html">MultiBank Pro</a></li>
-<li><a href="platforms/maximus.html">Maximus</a></li>
-<li><a href="platforms/mt5-platform.html">MT5 Platform</a></li>
-<li><a href="social-trading.html">Social Trading</a></li>
-<li><a href="platforms/download-center.html">Download Center</a></li>
-</ul>
-</div>
-<div class="col-md-4 col-sm-12 col-xs-12">
-<div class="menu_ad">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-</div>
-<a class="d-block w-75 mx-auto" href="account/live-account.html"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="public_files/images/common/menu_ads_banner.png%3Fv=0327" /></a>
-</div>
-</div>
-</div>
-</li>
-<li class="nav-accounts-menu header-nav-menu" style="display: none;">
-<div class="w-75 mx-auto row">
-<div class="col-md-4 col-sm-12 col-xs-12">
-<div class="menu_txt_content">
-<div class="mex-h2 uppercase mb0"><a class="font-40  text-left mex-p-l-none mex-p-r-none" href="account.html">Accounts
-&amp; Funding</a></div>
-<p class="line-height-30">MultiBank offers customers direct access to banks and
-exchanges through its advanced trading platforms.</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-12  col-xs-12 nav-col-hr">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0"><a class="font-24" href="account.html">Accounts &amp; Funding</a>
-</h4>
-</div>
-<ul class="nav-menu-list">
-<li><a href="account/live-account.html">Live Account</a></li>
-<li><a href="demo_competition.html">Demo Account</a></li>
-<li><a href="account/islamic-account.html">Islamic Account</a></li>
-<li><a href="account/account-funding.html">Account Funding</a></li>
-<li><a href="account/withdrawals.html">Withdrawals</a></li>
-<li><a href="account/account-forms.html">Account Forms</a></li>
-<li><a href="account/bonus.html">Bonuses</a></li>
-</ul>
-</div>
-<div class="col-md-4 col-sm-12  col-xs-12 ">
-<div class="menu_ad">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-</div>
-<a class="d-block w-75 mx-auto" href="account/live-account.html"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="public_files/images/common/menu_ads_banner.png%3Fv=0327" /></a>
-</div>
-</div>
-</div>
-</li>
-<li class="nav-tools-menu header-nav-menu" style="display: none;">
-<div class="w-75 mx-auto row">
-<div class="col-md-4 col-sm-12  col-xs-12 ">
-<div class="menu_txt_content">
-<div class="mex-h2 uppercase mb0"><a class="font-40  text-left mex-p-l-none mex-p-r-none" href="tools.html">Tools</a>
-</div>
-<p class="line-height-30">MultiBank offers simple yet powerful trading tools to help you
-manage your trade with ease and full control- all free of charge!</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-12  col-xs-12 nav-col-hr">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0"><a class="font-24" href="tools.html">Tools</a></h4>
-</div>
-<ul class="nav-menu-list">
-<li><a href="tools/trading-tools.html">Trading Tools</a></li>
-<li><a href="tools/trading-conditions.html">Trading Conditions</a></li>
-<li><a href="tools/holiday-hours-notices.html">Trading Hours &amp; Holiday Notice</a></li>
-<li><a href="cfd-expiration-dates.html">CFD Expiration Dates</a></li>
-
-<li><a href="scalping-policy.html">Scalping Policy</a></li>
-</ul>
-</div>
-<div class="col-md-4 col-sm-12  col-xs-12 ">
-<div class="menu_ad">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-</div>
-<a class="d-block w-75 mx-auto" href="account/live-account.html"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="public_files/images/common/menu_ads_banner.png%3Fv=0327" /></a>
-</div>
-</div>
-</div>
-</li>
-<li class="nav-partnership-menu header-nav-menu" style="display: none;">
-<div class="w-75 mx-auto row">
-<div class="col-md-4 col-sm-12  col-xs-12 ">
-<div class="menu_txt_content">
-<div class="mex-h2 uppercase mb0"><a class="font-40 text-left mex-p-l-none mex-p-r-none" href="investor-relations.html">Partnership</a></div>
-<p class="line-height-30">Join MultiBank’s network of over 30,000 Introducing Brokers
-and enjoy the highest levels of personalized customer care.</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-12  col-xs-12 nav-col-hr">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0"><a class="font-24" href="investor-relations.html">Partnership</a></h4>
-</div>
-<ul class="nav-menu-list">
-<li><a href="partnership/introducing-brokers.html">Introducing Brokers</a></li>
-<li><a href="partnership/franchise-program.html">Franchise Program</a></li>
-<li><a href="partnership/white-label.html">White Label</a></li>
-<li><a href="partnership/prime-of-primes.html">Prime of Primes</a></li>
-<li><a href="partnership/cpa-affiliate-program.html">CPA Affiliate Program</a></li>
-</ul>
-</div>
-<div class="col-md-4 col-sm-12  col-xs-12 ">
-<div class="menu_ad">
-<div class="nav-menu-heading">
-<h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
-</div>
-<a class="d-block w-75 mx-auto" href="account/live-account.html"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="public_files/images/common/menu_ads_banner.png%3Fv=0327" /></a>
-</div>
-</div>
-</div>
-</li>
-</ul>
-<ul class="nav-menu-mobile text-uppercase">
-<li class="nav-menu-mobile-section py-1 mx-4"><a href="about.html">About us</a>
-<ul class="text-center">
-<li><a href="about/why-multibank-group.html">Why Multibank</a></li>
-<li><a href="about/global-presence.html">Global Presence</a></li>
-<li><a href="mfx/v1/about/regulations.html">Regulations</a></li>
-<li><a href="about/security-of-funds.html">Security of Funds</a></li>
-<li><a href="about/milestones.html">Milestones</a></li>
-<li><a href="about/management.html">Management</a></li>
-<li><a href="about/awards.html">Awards</a></li>
-<li><a href="about/sponsorship.html">Sponsorship</a></li>
-<li><a href="article/news_20180916.html">Company News</a></li>
-<li><a href="article/hiring-now-cyprus.html">Career</a></li>
-</ul>
-</li>
-<li class="nav-menu-mobile-section py-1 mx-4"><a href="products.html">Products</a>
-<ul class="text-center">
-<li><a href="products/forex.html">Forex</a></li>
-<li><a href="products/metals.html">Metals</a></li>
-<li><a href="products/shares.html">Shares</a></li>
-<li><a href="products/indices.html">Indices</a></li>
-<li><a href="products/commodities.html">Commodities</a></li>
-
-</ul>
-</li>
-<li class="nav-menu-mobile-section py-1 mx-4"><a href="platforms.html">Platforms</a>
-<ul class="text-center">
-<li><a href="platforms/compare-platforms.html">Compare Platforms</a></li>
-<li><a href="platforms/ecn-pro.html">ECN Pro</a></li>
-<li><a href="platforms/multibank-pro.html">MultiBank Pro</a></li>
-<li><a href="platforms/maximus.html">Maximus</a></li>
-<li><a href="platforms/mt5-platform.html">MT5 Platform</a></li>
-<li><a href="social-trading.html">Social Trading</a></li>
-<li><a href="platforms/download-center.html">Download Center</a></li>
-</ul>
-</li>
-<li class="nav-menu-mobile-section py-1 mx-4"><a href="account.html">Account &amp; Funding</a>
-<ul class="text-center">
-<li><a href="account/live-account.html">Live Account</a></li>
-<li><a href="demo_competition.html">Demo Account</a></li>
-<li><a href="account/islamic-account.html">Islamic Account</a></li>
-<li><a href="account/account-funding.html">Account Funding</a></li>
-<li><a href="account/withdrawals.html">Withdrawals</a></li>
-<li><a href="account/account-forms.html">Account Forms</a></li>
-<li><a href="account/bonus.html">Bonuses</a></li>
-</ul>
-</li>
-<li class="nav-menu-mobile-section py-1 mx-4"><a href="tools.html">Tools</a>
-<ul class="text-center">
-<li><a href="tools/trading-tools.html">Trading Tools</a></li>
-<li><a href="tools/trading-conditions.html">Trading Conditions</a></li>
-<li><a href="tools/holiday-hours-notices.html">Trading Hours &amp; Holiday Notice</a></li>
-<li><a href="cfd-expiration-dates.html">CFD Expiration Dates</a></li>
-
-<li><a href="scalping-policy.html">Scalping Policy</a></li>
-</ul>
-</li>
-<li class="nav-menu-mobile-section py-1 mx-4"><a href="investor-relations.html">Partnership</a>
-<ul class="text-center">
-<li><a href="partnership/introducing-brokers.html">Introducing Brokers</a></li>
-<li><a href="partnership/franchise-program.html">Franchise Program</a></li>
-<li><a href="partnership/white-label.html">White Label</a></li>
-<li><a href="partnership/prime-of-primes.html">Prime of Primes</a></li>
-<li><a href="partnership/cpa-affiliate-program.html">CPA Affiliate Program</a></li>
-</ul>
-</li>
-<li class="nav-menu-mobile-section py-1 px-4 lang-mobile-menu" style="border-top: 1px solid #ccc;"><a href="investor-relations.html">EN</a>
-<ul class="text-center">
-<li><a href="https://es.multibankfx.com">Español</a></li>
-
-<li><a href="https://ru.multibankfx.com">русский</a></li>
-<li><a href="https://ae.multibankfx.com">العربية</a></li>
-<li><a href="https://vn.multibankfx.com">Việt Nam</a></li>
-<li><a href="https://id.multibankfx.com">Bahasa Indonesia</a></li>
-<li><a href="https://mys.multibankfx.com">Bahasa Melayu</a></li>
-<li><a href="https://ph.multibankfx.com">Tagalog</a></li>
-<li><a href="https://fr.multibankfx.com">Français</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</div>
+<script src="public_files/static_js/jquery-3.3.1.min.js" type="cfe2afa3cef830cddce79852-text/javascript"></script>
+<script type="cfe2afa3cef830cddce79852-text/javascript">const page_dir = 'ltr';</script>
+</head>
+<body>
+    <?php include_from_root('website_template/header_and_menu.php');?>
 <style>
     .nav-menu-hamburger, .nav-menu-mymex {
         width: 35px;
@@ -464,252 +118,77 @@ and enjoy the highest levels of personalized customer care.</p>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<section class="flex-center page-top-banner">
-<img src="public_files/images/tools/img_topbanner_cfd.jpg" alt="Introducing Brokers" class="mex-img-cover" />
+<section class="table-background plants">
 <div class="container">
 <div class="row">
-<div class="col-md-6 col-sm-12">
-<h1 class="text-fff mex-h1 text-left">CFD Expiration Dates</h1>
-<div class="mex-content mex-m-b-30 text-fff">
-<p class="mex-m-t-15">Please see below a list of upcoming CFD expiration dates.</p>
+<div class="col-md-12 col-sm-12"><h1 class="mex-h1 text-1e32a3 mex-m-b-40 text-center">Scalping Policy</h1>
 </div>
 </div>
 </div>
-</div>
-</section>
-<style>
-    .grapesjs-editable-field-item[data-grapesjs-field="field_component_01"][data-grapesjs-delta="0"] * { box-sizing: border-box; } 
-    .grapesjs-editable-field-item[data-grapesjs-field="field_component_01"][data-grapesjs-delta="0"] * {box-sizing:border-box;}div.div{padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;min-height:25px;}
-    .font-18{font-size:18px;}
-</style><section class="flex-center page-top-banner">
-<div class="container text-center">
-<div class="row d-block">
-<div class="col-xs-12 mb30 mb-sm-16 p0">
-<div class="uppercase title text-center text-1e32a3  mex-h2 col-xs-12 mb20 mb-sm-16 ">June 2020</div>
-<div class="uppercase title text-center text-1e32a3 mex-h2 col-xs-12 mb40 mb-sm-16 mex-m-b-0 font-20">
-<div class="offset-md-2 col-md-8 text-left font-20">Last Dealing Date</div>
-</div>
-<div class="col-xs-12 col-md-8 offset-md-2">
-
-<div class="table-responsive table-content">
-<table class="table table-striped mex-table mex-has-type">
-<thead>
-<tr>
-<th class="uppercase">CFD</th>
-<th class="uppercase">Symbol</th>
-<th class="uppercase">Close Only Date</th>
-<th class="uppercase">Last Dealing Date</th>
-</tr>
-</thead>
-<tbody class="table-tbody">
-<tr>
-<td><p>CHINA50 CFD Futures</p></td>
-<td><p>CHINA50M0</p></td>
-<td><p>25/06/2020</p></td>
-<td><p>26/06/2020</p></td>
-</tr>
-<tr>
-<td><p>WTI Crude Oil</p></td>
-<td><p>CLN0</p></td>
-<td><p>16/06/2020</p></td>
-<td><p>17/06/2020</p></td>
-</tr>
-<tr>
-<td><p>Natural Gas OTC</p></td>
-<td><p>NGN0</p></td>
-<td><p>23/06/2020</p></td>
-<td><p>24/06/2020</p></td>
-</tr>
-<tr>
-<td><p>Brent</p></td>
-<td><p>LCOQ0</p></td>
-<td><p>26/06/2020</p></td>
-<td><p>29/06/2020</p></td>
-</tr>
-<tr>
-<td><p>Mini Dow</p></td>
-<td><p>WS30_M0</p></td>
-<td><p>16/06/2020</p></td>
-<td><p>17/06/2020</p></td>
-</tr>
-<tr>
-<td><p>Mini NASDAQ</p></td>
-<td><p>NAS100_M0</p></td>
-<td><p>16/06/2020</p></td>
-<td><p>17/06/2020</p></td>
-</tr>
-<tr>
-<td><p>E-mini S&amp;P 500</p></td>
-<td><p>US500_M0</p></td>
-<td><p>16/06/2020</p></td>
-<td><p>17/06/2020</p></td>
-</tr>
-<tr>
-<td><p>DAX30</p></td>
-<td><p>DAX30_M0</p></td>
-<td><p>16/06/2020</p></td>
-<td><p>17/06/2020</p></td>
-</tr>
-<tr>
-<td><p>FTSE100</p></td>
-<td><p>UK100_M0</p></td>
-<td><p>16/06/2020</p></td>
-<td><p>17/06/2020</p></td>
-</tr>
-</tbody>
-</table>
+<div class="container">
+<div class="row">
+<div class="col-md-12 col-sm-12">
+<div class="mex-h3 mex-m-b-30"><strong>What is Scalping?</strong></div>
+<div class="mex-content mex-m-b-30"><p class="mex-m-b-10">In order to ensure the stability of the MultiBank platforms and products, we define "Scalping" as a method traders use where they open and close trades within 120 seconds trades.</p></div>
 </div>
 </div>
-</div>
-<div class="col-xs-12 mb48 mb-sm-16 p0">
-<div class="uppercase title text-center text-1e32a3 mex-h2 col-xs-12 mb40 mb-sm-16 mex-m-b-0 font-20">
-<div class="offset-md-2 col-md-8 text-left">Open Trading Date</div>
-</div>
-<div class="col-xs-12 col-md-8 offset-md-2">
-<div class="table-content">
-<table class="table table-striped mex-table mex-has-type">
-<thead>
-<tr>
-<th class="uppercase">CFD</th>
-<th class="uppercase">Symbol</th>
-<th class="uppercase">Open Trading Date</th>
-</tr>
-</thead>
-<tbody class="table-tbody">
-<tr>
-<td><p>CHINA50 CFD Futures</p></td>
-<td><p>CHINA50N0</p></td>
-<td><p>25/06/2020</p></td>
-</tr>
-<tr>
-<td><p>WTI Crude Oil</p></td>
-<td><p>CLQ0</p></td>
-<td><p>16/06/2020</p></td>
-</tr>
-<tr>
-<td><p>Natural Gas OTC</p></td>
-<td><p>NGQ0</p></td>
-<td><p>23/06/2020</p></td>
-</tr>
-<tr>
-<td><p>Brent</p></td>
-<td><p>LCOU0</p></td>
-<td><p>26/06/2020</p></td>
-</tr>
-<tr>
-<td><p>Mini Dow</p></td>
-<td><p>WS30_U0</p></td>
-<td><p>16/06/2020</p></td>
-</tr>
-<tr>
-<td><p>Mini NASDAQ</p></td>
-<td><p>NAS100_U0</p></td>
-<td><p>16/06/2020</p></td>
-</tr>
-<tr>
-<td><p>E-mini S&amp;P 500</p></td>
-<td><p>US500_U0</p></td>
-<td><p>16/06/2020</p></td>
-</tr>
-<tr>
-<td><p>DAX30</p></td>
-<td><p>DAX30_U0</p></td>
-<td><p>16/06/2020</p></td>
-</tr>
-<tr>
-<td><p>FTSE100</p></td>
-<td><p>UK100_U0</p></td>
-<td><p>16/06/2020</p></td>
-</tr>
-</tbody>
-</table>
+<div class="row">
+<div class="col-md-12 col-sm-12">
+<div class="mex-content mex-m-b-30"><p class="mex-m-b-10"><strong>IB Scalping policy:</strong>Introducing Brokers cannot receive any Fees for transactions that are defined as Scalping transactions.</p></div>
 </div>
 </div>
-</div>
-
-<div class="col-xs-12  mb48 mb-sm-16  p0">
-<div class="col-xs-12 offset-md-2 col-md-8 text-left font-18">
-*Please note these dates provided are subject to change.
-</div>
-<div class="col-xs-12 offset-md-2 col-md-8 text-left font-18">
-*Close only means client can close trades but not open new ones.
-</div>
-<div class="col-xs-12 offset-md-2 col-md-8 text-left font-18">
-*Last Dealing Date means the day all positions will be closed.
-</div>
-<div class="col-xs-12 offset-md-2 col-md-8 text-left font-18">
-*Please note that there could be unexpected periods of volatility, low liquidity, and some LP’s will increase the spreads during expiry dates.
-</div>
-<div class="col-xs-12 offset-md-2 col-md-8 text-left font-18">
-*Dates are subject to change by the respective markets.
+<div class="row">
+<div class="col-md-12 col-sm-12">
+<div class="mex-content mex-m-b-30"><p class="mex-m-b-10"><strong>Customer Scalping policy:</strong> Scalping is not allowed for Individual Clients on all our trading platforms.</p></div>
 </div>
 </div>
-<div class="col-xs-12 p0">
-<div class="uppercase title text-center text-1e32a3 mex-h2 mex-m-b-15">Symbols</div>
-<div class="mex-content mb40 mb-sm-16 col-xs-12">
-MultiBank Symbols use the following format: Symbol Root + Month Code + Year final digit<br>Ex: Brent Crude Oil Jan 2020 would use the symbol LCOF0
-</div>
-<div class="col-xs-12 col-md-8 offset-md-2">
-<div class="table-responsive table-content">
-<table class="table table-striped mex-table mex-has-type">
-<thead>
-<tr>
-<th class="uppercase th-width-50" colspan="2">Month Code</th>
-</tr>
-</thead>
-<tbody class="table-tbody">
-<tr>
-<td><p><b>Jan</b></p></td>
-<td><p>F</p></td>
-</tr>
-<tr>
-<td><p><b>Feb</b></p></td>
-<td><p>G</p></td>
-</tr>
-<tr>
-<td><p><b>Mar</b></p></td>
-<td><p>H</p></td>
-</tr>
-<tr>
-<td><p><b>Apr</b></p></td>
-<td><p>J</p></td>
-</tr>
-<tr>
-<td><p><b>May</b></p></td>
-<td><p>K</p></td>
-</tr>
-<tr>
-<td><p><b>Jun</b></p></td>
-<td><p>M</p></td>
-</tr>
-<tr>
-<td><p><b>Jul</b></p></td>
-<td><p>N</p></td>
-</tr>
-<tr>
-<td><p><b>Aug</b></p></td>
-<td><p>Q</p></td>
-</tr>
-<tr>
-<td><p><b>Sep</b></p></td>
-<td><p>U</p></td>
-</tr>
-<tr>
-<td><p><b>Oct</b></p></td>
-<td><p>V</p></td>
-</tr>
-<tr>
-<td><p><b>Nov</b></p></td>
-<td><p>X</p></td>
-</tr>
-<tr>
-<td><p><b>Dec</b></p></td>
-<td><p>Z</p></td>
-</tr>
-</tbody>
-</table>
+<div class="row">
+<div class="col-md-12 col-sm-12">
+<div class="mex-h3 mex-m-b-30"><strong>Stale Trading</strong></div>
+<div class="mex-content mex-m-b-30"><p class="mex-m-b-30">In order to ensure the stability of the MultiBank platforms and products, we define "Stale Trading" as a method traders use where they open and close trades within 10 seconds. MultiBank considers these trades abusive and does not allow these trades on its platforms and products. Should Stale Trades occur in your account, MultiBank reserves the right to cancel them immediately.</p></div>
 </div>
 </div>
+<div class="row">
+<div class="col-md-12 col-sm-12">
+<div class="mex-h3 mex-m-b-30"><strong>Idle Prices</strong></div>
+<div class="mex-content mex-m-b-30"><p class="mex-m-b-30">We have an agency execution model and
+automatically cover all client positions with executing brokers and liquidity providers. On rare
+occasions the aggregated price feed which we provide to clients can become “idle”. We reserve the
+right to reverse the profit and loss realized from orders where idle stroke happened. We will
+investigate these cases and notify the client via e-mail or telephone that trades are cancelled. We
+will always check to ensure that the reversal does not generate an unintended position. If the order
+is executed and subsequently reversed to open a position, any subsequent order(s) closing this
+position would also be reversed leaving the net P&amp;L at zero, this way the client will not be
+disadvantaged by this reversal due to our invalid price delivery.</p></div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12 col-sm-12">
+<div class="mex-h3 mex-m-b-30"><strong>Misquotes</strong></div>
+<div class="mex-content mex-m-b-30"><p class="mex-m-b-30">We have an agency execution model and
+automatically cover all client positions with executing brokers and liquidity providers. Although we
+mitigate the risk of invalid price feeds reaching clients through utilizing a price aggregation
+system which generates a price from multiple liquidity providers (typically in excess of 10
+liquidity providers). There are rare occasions where the price can become “skewed”. In such rare
+instances, if orders are filled at that price, we reserve the right to reverse orders where misquote
+occurred. We will investigate these cases and notify the client via e-mail or telephone that trades
+are cancelled. We will always check to ensure that the reversal does not generate an unintended
+position. If the order is executed and subsequently reversed to open a position, any subsequent
+order(s) closing this position would also be reversed leaving the net P&amp;L at zero, this way the
+client will not be disadvantaged by this reversal due to our invalid price delivery.</p></div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12 col-sm-12">
+<div class="mex-h3 mex-m-b-30"><strong>Stale quotes and misquotes policy</strong></div>
+<div class="mex-content mex-m-b-30"><p class="mex-m-b-30">MultiBank quoted prices on rare occasions may
+become “stale” or “skewed”. MultiBank reserves the right to cancel orders executed at idle or skewed
+prices. MultiBank will actively monitor/report and investigate such trading activity and if those
+trades were cancelled will notify the client accordingly. MultiBank will pursue the fair treatment
+of its Customers and will use its best endeavors to make sure cancellations are performed fairly and
+that the client is not disadvantaged by the cancellation i.e. there are no inadvertent positions
+left open and the client's Net Position is in line with the client's positions at the time of
+correction.</p></div>
 </div>
 </div>
 </div>
@@ -794,7 +273,7 @@ to contact our 24/5 professional multilingual Customer Service</p>
 <img alt="" data-entity-type="" data-entity-uuid="" src="public_files/images/common/en_foote_btn_01.png" style="width:20px; height:auto" />
 </a>
 <a href="https://twitter.com/multibankgroup" target="_blank">
-<img alt="" data-entity-type="" data-entity-uuid="" src="public_files/images/common/en_foote_btn_02.png" style="width:20px; height:auto" />
+ <img alt="" data-entity-type="" data-entity-uuid="" src="public_files/images/common/en_foote_btn_02.png" style="width:20px; height:auto" />
 </a>
 <a href="https://www.youtube.com/c/MultiBankGoup" target="_blank">
 <img alt="" data-entity-type="" data-entity-uuid="" src="public_files/images/common/en_foote_btn_03.png" style="width:20px; height:auto" />
@@ -808,24 +287,24 @@ to contact our 24/5 professional multilingual Customer Service</p>
 </li>
 <li class="ForIts">
 <div class="mex-h3  mex-p-v-15  mex-m-t-10">Email Us</div>
-<div class="contact-email"><a class="text-000033" href="cdn-cgi/l/email-protection.html#a6c5d5e6cbd3cad2cfc4c7c8cdc0de88c5c9cb"><span class="__cf_email__" data-cfemail="472434072a322b332e2526292c213f6924282a">[email&#160;protected]</span></a>
+<div class="contact-email"><a class="text-000033" href="cdn-cgi/l/email-protection.html#264555664b534a524f4447484d405e0845494b"><span class="__cf_email__" data-cfemail="c3a0b083aeb6afb7aaa1a2ada8a5bbeda0acae">[email&#160;protected]</span></a>
 </div>
 </li>
 <li class="ForIts">
 <div class="mex-h3 mex-m-t-20 ">Live Chat</div>
-<a href="cfd-expiration-dates.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-18a24c1a3f6f09b64a2fc557-=""><img alt="chat" class="home_contact_us_chat_now" data-entity-type="" data-entity-uuid="" src="public_files/images/common/footer_btn_chat_now.png" />
+<a href="scalping-policy.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-cfe2afa3cef830cddce79852-=""><img alt="chat" class="home_contact_us_chat_now" data-entity-type="" data-entity-uuid="" src="public_files/images/common/footer_btn_chat_now.png" />
 </a></li>
 </ul>
 <div class="d-flex d-md-none row py-4 row-eq-height">
 <div class="col-4 text-center mx-auto">
 <div class="mex-h3 mb-2 footer-mb-social-media">EMAIL US</div>
- <a href="cdn-cgi/l/email-protection.html#15766655786079617c77747b7e736d3b767a78">
+<a href="cdn-cgi/l/email-protection.html#ceadbd8ea3bba2baa7acafa0a5a8b6e0ada1a3">
 <img class="footer-contact-ic" src="public_files/images/common/icon_contact_mail.png" />
 </a>
 </div>
 <div class="col-4 text-center mx-auto">
 <div class="mex-h3 mb-2 footer-mb-social-media">LIVE CHAT</div>
-<a href="cfd-expiration-dates.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-18a24c1a3f6f09b64a2fc557-="">
+<a href="scalping-policy.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-cfe2afa3cef830cddce79852-="">
 <img class="footer-contact-ic" src="public_files/images/common/icon_contact_wechat.png" />
 </a>
 </div>
@@ -835,9 +314,9 @@ to contact our 24/5 professional multilingual Customer Service</p>
 <div class="mex-h3  mex-p-v-15 text-sm-center text-md-left">GET A CALL BACK</div>
 <div style="width: 100%;">
 <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form' class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='call_back_footer_form' target='' autocomplete='on'>
-<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTo0MA==' />
-<input type='hidden' name='token' value='$2y$10$rCU888Y4MEIcrRhFELGnjelRsrJsGNz5xSS2nVFcMAXZrg1dQuQj6' />
-<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:37] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:38] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:39] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:40] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/cfd-expiration-dates?web=true' />
+<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTo0MQ==' />
+<input type='hidden' name='token' value='$2y$10$V6LnWI/P7fDeKCiSsRUEDeIUsCyNDuCCqs4G0hvDuoMJghe9wBAtm' />
+<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:38] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:39] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:40] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:41] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/scalping-policy?web=true' />
 <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
 <label for='' class='m-0'>
 </label>
@@ -1115,7 +594,7 @@ to contact our 24/5 professional multilingual Customer Service</p>
 </div>
 <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
 <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset ' id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
-</div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-18a24c1a3f6f09b64a2fc557-="">CALL ME</button>
+</div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-cfe2afa3cef830cddce79852-="">CALL ME</button>
 </form>
 <div class="px-1 font-10" style="padding:0px;">
 <div class="form-check form-check-inline">
@@ -1141,7 +620,7 @@ you agree to accept the <a href="terms-conditions.html" target="_blank" class="t
 </a>
 <a href="https://my.multibankfx.com/en/traders/login" target="_blank">MyMultibank</a>
 <a href="contact.html" target="_parent">Contact Us</a>
-<a href="cfd-expiration-dates.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-18a24c1a3f6f09b64a2fc557-="">Support</a>
+<a href="scalping-policy.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-cfe2afa3cef830cddce79852-="">Support</a>
 <a href="article/hiring-now-cyprus.html" target="_parent">Career</a>
 <a href="investor-relations.html" target="_parent">Investor&nbsp;Relations</a>
 </div>
@@ -1249,10 +728,10 @@ risk warning for each regulated entity during the account opening process.</p>
 <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
 <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
 </a>
-<a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#4f2c3c0f223a233b262d2e21242937612c2022">
+<a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#f99a8ab9948c958d909b9897929f81d79a9694">
 <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
 </a>
-<a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-18a24c1a3f6f09b64a2fc557-="">
+<a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-cfe2afa3cef830cddce79852-="">
 <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
 </a>
 </div>
@@ -1349,9 +828,9 @@ risk warning for each regulated entity during the account opening process.</p>
 <div class="col-12 col-md-7 mx-auto bg-white p-4">
 <span class="btn-modal-close fa fa-times"></span>
 <form action="https://www.multibankfx.com/form/contactus?" name='email_us_form' class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='email_us_form' target='' autocomplete='on'>
-<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTo0MA==' />
-<input type='hidden' name='token' value='$2y$10$/oiCrPe/Xd1jrnSNykpgwevvQaWY6HSE78Pn0Cmw4PDgEdfinS3NS' />
-<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:37] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:38] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:39] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:40] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/cfd-expiration-dates?web=true' />
+<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTo0MQ==' />
+<input type='hidden' name='token' value='$2y$10$K2KDCkZuyhdNw5j9bWdeF.bnleLdh//CGcKxm7HYSp0mtyk4F3JYm' />
+<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:38] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:39] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:40] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:41] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/scalping-policy?web=true' />
 <div class='col-12 p-0'>
 <label for='' class='mex-h3'>
 EMAIL US</label>
@@ -1433,7 +912,7 @@ Full Name</label>
 <option data-country_iso_code="CZ" data-name='CZ' value='CZ'>CZECH REPUBLIC</option>
 <option data-country_iso_code="DK" data-name='DK' value='DK'>DENMARK</option>
 <option data-country_iso_code="DJ" data-name='DJ' value='DJ'>DJIBOUTI</option>
-<option data-country_iso_code="DM" data-name='DM' value='DM'>DOMINICA</option> 
+<option data-country_iso_code="DM" data-name='DM' value='DM'>DOMINICA</option>
 <option data-country_iso_code="DO" data-name='DO' value='DO'>DOMINICAN REPUBLIC</option>
 <option data-country_iso_code="EC" data-name='EC' value='EC'>ECUADOR</option>
 <option data-country_iso_code="EG" data-name='EG' value='EG'>EGYPT</option>
@@ -1632,7 +1111,7 @@ Phone</label>
 <label for='order_message' class='d-block'>
 </label>
 <textarea data-message='Message is Required.' data-extra-message="Message is Invalid." data-regex='' class=' form-control w-100 ta-message' name='message' id='order_message' placeholder=''>Hello, I am interested in learning more about MultiBank products and services. Could you please contact me</textarea>
-</div><button type='submit' class='btn btn-mex ml-auto btn-submit' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-18a24c1a3f6f09b64a2fc557-="">SEND</button>
+</div><button type='submit' class='btn btn-mex ml-auto btn-submit' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-cfe2afa3cef830cddce79852-="">SEND</button>
 </form>
 </div>
 </div>
@@ -1685,7 +1164,7 @@ Phone</label>
         border-radius: 0;
     }
 </style>
-<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="18a24c1a3f6f09b64a2fc557-text/javascript">
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="cfe2afa3cef830cddce79852-text/javascript">
     $(function(){
         $('.email-us-tg').click(function(e){
             e.preventDefault();
@@ -1697,12 +1176,12 @@ Phone</label>
         });
     })
 </script>
-<script src="public_files/static_js/lang_data/en.js" type="18a24c1a3f6f09b64a2fc557-text/javascript"></script><script src="public_files/static_js/jquery.dataTables.min.js" type="18a24c1a3f6f09b64a2fc557-text/javascript"></script>
-<script src="public_files/static_js/lazysizes.min.js" type="18a24c1a3f6f09b64a2fc557-text/javascript"></script>
-<script src="public_files/static_js/jquery.validate.min.js" type="18a24c1a3f6f09b64a2fc557-text/javascript"></script>
-<script src="public_files/static_js/intlTelInput.min.js%3Fversion=20191128" type="18a24c1a3f6f09b64a2fc557-text/javascript"></script>
-<script src="public_files/static_js/app.js%3Fversion=20200612" type="18a24c1a3f6f09b64a2fc557-text/javascript"></script>
-<script type="18a24c1a3f6f09b64a2fc557-text/javascript" async>
+<script src="public_files/static_js/lang_data/en.js" type="cfe2afa3cef830cddce79852-text/javascript"></script><script src="public_files/static_js/jquery.dataTables.min.js" type="cfe2afa3cef830cddce79852-text/javascript"></script>
+<script src="public_files/static_js/lazysizes.min.js" type="cfe2afa3cef830cddce79852-text/javascript"></script>
+<script src="public_files/static_js/jquery.validate.min.js" type="cfe2afa3cef830cddce79852-text/javascript"></script>
+<script src="public_files/static_js/intlTelInput.min.js" type="cfe2afa3cef830cddce79852-text/javascript"></script>
+<script src="public_files/static_js/app.js" type="cfe2afa3cef830cddce79852-text/javascript"></script>
+<script type="cfe2afa3cef830cddce79852-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {
         window.__lc = window.__lc || {};
@@ -1732,7 +1211,7 @@ Phone</label>
     })();
   }
 </script>
-<script type="18a24c1a3f6f09b64a2fc557-text/javascript">
+<script type="cfe2afa3cef830cddce79852-text/javascript">
 $(function() {
     $('.mex-translatable').each(function() {
         var url_parts = location.hostname.split('.');
@@ -1766,12 +1245,12 @@ $(function() {
 });
 
 </script>
-<script type="18a24c1a3f6f09b64a2fc557-text/javascript">
+<script type="cfe2afa3cef830cddce79852-text/javascript">
 $(function() {
         $('form:not("#demo_competition_form_2019_08_13") .sms_verif_code').val('215121');
 });
 </script>
-<script type="18a24c1a3f6f09b64a2fc557-text/javascript">
+<script type="cfe2afa3cef830cddce79852-text/javascript">
 $(function(){
 var iframe_ibnum =getUrlVars()['ibNum'];
 var is_iframe = getUrlVars()['is_iframe'];
@@ -1821,7 +1300,7 @@ if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
 }
                    
 </style>
-<script type="18a24c1a3f6f09b64a2fc557-text/javascript">
+<script type="cfe2afa3cef830cddce79852-text/javascript">
     $(function() {
        $('.hh-modal-toggle').click(function() {
            var num = $(this).data('num');
@@ -1836,4 +1315,4 @@ if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
           $('.hh-modal-box').hide(); 
        });
     });
-</script><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="18a24c1a3f6f09b64a2fc557-|49" defer=""></script></body></html>
+</script><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="cfe2afa3cef830cddce79852-|49" defer=""></script></body></html>

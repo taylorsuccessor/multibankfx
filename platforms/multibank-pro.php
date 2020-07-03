@@ -5,24 +5,24 @@
     <meta charset='UTF-8'>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <title>Forex Mobile App - Trade Forex On The Go with MultiBank FX mobile App</title>
-    <meta name='description' content="Trade MultiBank's wide range of MT4 platforms with unbeatable spreads starting from 0.1">
-    <meta name='keywords' content="download trading platform, download forex platform, download forex trading platform, mobile trading app, MEX mobile trader, multibank's forex mobile app, trade forex on mobile, mobile app for forex, download forex trading app, forex mobile platform, multi">
-    <meta property='og:title' content="Forex Mobile App - Trade Forex On The Go with MultiBank FX mobile App">
-    <meta property='og:description' content="Trade MultiBank's wide range of MT4 platforms with unbeatable spreads starting from 0.1">
-    <link rel='canonical' href="download-center.html">
-    <link rel="alternate" href="https://es.multibankfx.com/platforms/download-center" hreflang="es-ES" />
-    <link rel="alternate" href="https://ru.multibankfx.com/platforms/download-center" hreflang="ru-RU" />
-    <link rel="alternate" href="https://ae.multibankfx.com/platforms/download-center" hreflang="en-ae" />
-    <link rel="alternate" href="https://vn.multibankfx.com/platforms/download-center" hreflang="vi-VN" />
-    <link rel="alternate" href="https://id.multibankfx.com/platforms/download-center" hreflang="id-ID" />
-    <link rel="alternate" href="https://mys.multibankfx.com/platforms/download-center" hreflang="ms-MY" />
-    <link rel="alternate" href="https://ph.multibankfx.com/platforms/download-center" hreflang="tl-PH" />
-    <link rel="alternate" href="https://th.multibankfx.com/platforms/download-center" hreflang="th-TH" />
-    <link rel="alternate" href="https://fr.multibankfx.com/platforms/download-center" hreflang="fr-FR" />
-    <link rel="alternate" href="download-center.html" hreflang="x-default" />
+    <title>Trade Forex with the MultiBank Pro Platform (Metatrader 4)</title>
+    <meta name='description' content="Trade on our MultiBank Pro Platform, ideal for traders looking for a virtual ECN experience on the MT4 platform without the high investment commitment">
+    <meta name='keywords' content="download multibank pro mt4, trading platforms, forex trading platforms, mt4 trader, mt5 trader, mt4 platform, mt4 download, mt5 platform download, metatrader, ecn pro, maximus, multibank pro mt4, advantages of mt4 trader, mt4 trading,  trade with ecn, mul">
+    <meta property='og:title' content="Trade Forex with the MultiBank Pro Platform (Metatrader 4)">
+    <meta property='og:description' content="Trade on our MultiBank Pro Platform, ideal for traders looking for a virtual ECN experience on the MT4 platform without the high investment commitment">
+    <link rel='canonical' href="multibank-pro.html">
+    <link rel="alternate" href="https://es.multibankfx.com/platforms/multibank-pro" hreflang="es-ES" />
+    <link rel="alternate" href="https://ru.multibankfx.com/platforms/multibank-pro" hreflang="ru-RU" />
+    <link rel="alternate" href="https://ae.multibankfx.com/platforms/multibank-pro" hreflang="en-ae" />
+    <link rel="alternate" href="https://vn.multibankfx.com/platforms/multibank-pro" hreflang="vi-VN" />
+    <link rel="alternate" href="https://id.multibankfx.com/platforms/multibank-pro" hreflang="id-ID" />
+    <link rel="alternate" href="https://mys.multibankfx.com/platforms/multibank-pro" hreflang="ms-MY" />
+    <link rel="alternate" href="https://ph.multibankfx.com/platforms/multibank-pro" hreflang="tl-PH" />
+    <link rel="alternate" href="https://th.multibankfx.com/platforms/multibank-pro" hreflang="th-TH" />
+    <link rel="alternate" href="https://fr.multibankfx.com/platforms/multibank-pro" hreflang="fr-FR" />
+    <link rel="alternate" href="multibank-pro.html" hreflang="x-default" />
 
-    <script type="9ca329a262d339b1caf83797-text/javascript">
+    <script type="81fd1278d9ff4cfee588db82-text/javascript">
         (function(w, d, s, l, i) {
             w[l] = w[l] || [];
             w[l].push({
@@ -78,14 +78,14 @@
             height: 0;
         }
     </style>
-    <script src="../public_files/static_js/jquery-3.3.1.min.js" type="9ca329a262d339b1caf83797-text/javascript"></script>
-    <script type="9ca329a262d339b1caf83797-text/javascript">
+    <script src="../public_files/static_js/jquery-3.3.1.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script type="81fd1278d9ff4cfee588db82-text/javascript">
         const page_dir = 'ltr';
     </script>
 </head>
 
 <body>
-    <?php include_from_root('website_template/header_and_menu.php'); ?>
+<?php include_from_root('website_template/header_and_menu.php');?>
     <style>
         .nav-menu-hamburger,
         .nav-menu-mymex {
@@ -140,12 +140,467 @@
     </style>
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <section class="flex-center page-top-banner"><img alt="MULTIBANK PRO PLATFORM" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/platforms/multibank_pro/mutibank_bg.jpg" />
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-12">
+                    <h1 class="mex-h1 text-fff text-left">MULTIBANK PRO PLATFORM</h1>
+                    <div class="mex-content text-fff mex-m-b-30">
+                        <p class="mex-m-t-15 mex-m-b-15">Ideal for traders looking for an ECN experience on the MT4 platform without the high investment commitment</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="choose-next-background avant-pad mex-p-b-none">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="col-sm-12">
+                        <div class="container">
+                            <div class="mex-h1 text-fff text-center uppercase mex-p-b-40">PLATFORM ADVANTAGES</div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 book-content avant-pad-contianer">
+                        <div class="container">
+                            <div class="book-content-inner ">
+                                <div class="col-sm-12">
+                                    <ul class="mex-list-conditions new-product">
+                                        <li>Access to the most liquid market in the world</li>
+                                        <li>24 hours instant and stable nano-second execution</li>
+                                        <li>Leverage up to 500:1</li>
+                                        <li>Over 45 forex pairs available</li>
+                                        <li>Up to 5 levels of Market Depth</li>
+                                        <li>No restrictions on EA</li>
+                                        <li>Negative balance protection</li>
+                                        <li>Guaranteed no price slippage, no requotes and no rejections</li>
+                                        <li>Free VPS, MAM and PAMM accounts</li>
+                                        <li>Companies licensed and regulated by ASIC, BaFin, FMA, CNMV, FSC, and CIMA</li>
+                                        <li>Automatic Trading Desk wherein all trades go through ECN to the market, eliminating any conflict of interest</li>
+                                        <li>Complete transparency of market with only the best bid/offers being displayed</li>
+                                        <li>Award-winning MT4 platforms recognized for excellence in technology and liquidity</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-5 hidden-xs">&nbsp;</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="bg-gray platforms choose-next-background square">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="mex-h1 text-center mex-m-b-40 uppercase text-1e32a3 mex-translatable" data-es="DIFUSIÓN DE LA TABLA FX" data-de="FX SPREAD-TABELLE" data-ph="" data-vn="BẢNG SPREAD FX" data-id="TABEL SPREAD FX" data-pt="TABELA DE SPREAD FX" data-ru="ТАБЛИЦА СПРЕДОВ FX" data-it="TABELLA SPREAD FX" data-fr="" data-mys="Jadual Spread FX" data-th="ตารางฟอเร็กซ์สเปรด" data-ae="جدول سبريد الفوركس">FX SPREAD TABLE</div>
+                    <div class="table-incomplete table-responsive security-of-funds-table">
+                        <table class="fx-spread-table table mex-table mex-has-type table-striped-blue">
+                            <thead>
+                                <tr>
+                                    <th class="mex-translatable" data-es="Pares de monedas" data-de="Währungspaare" data-ph="" data-vn="Cặp tiền tệ" data-id="Pasangan mata uang" data-pt="Pares de moedas" data-ru="Валютные пары" data-it="Coppia di valute" data-fr="Paires de devises" data-mys="Pasangan matawang" data-th="คู่สกุลเงิน" data-ae="أزواج العملات">Currency Pairs
+                                        <div class="border-right-blue"></div>
+                                    </th>
+                                    <th>ECN Pro
+                                        <div class="border-right-blue"></div>
+                                    </th>
+                                    <th>MultiBank Pro
+                                        <div class="border-right-blue"></div>
+                                    </th>
+                                    <th>Maximus</th>
+                                </tr>
+                            </thead>
+                            <tbody class="table-tbody">
+                                <tr>
+                                    <td>EUR/USD
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td>0.1
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td>0.8
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td>1.5</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">USD/JPY
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.2
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.6</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">AUD/USD
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.2
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.6</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">GBP/USD
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.3
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.1
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.7</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">USD/CHF
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.3
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.1
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.7</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">USD/CAD
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.3
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.1
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.7</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">NZD/USD
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.3
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.1
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.7</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">EUR/JPY
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.3
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.1
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.7</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">EUR/CHF
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.4
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.2
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.8</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">EUR/GBP
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.4
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.2
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.8</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">GBP/JPY
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.6
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.4
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.0</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">AUD/JPY
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.6
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.4
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.0</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">CAD/JPY
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.6
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.4
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.0</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">EUR/AUD
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.7
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.5
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.1</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">AUD/CHF
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.8
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.6
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.2</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">CAD/CHF
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.9
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.7
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.3</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">NZD/JPY
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.9
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.7
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.3</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">AUD/CAD
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.8
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.4</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">CHF/JPY
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.8
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.4</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">AUD/NZD
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.1
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.9
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.5</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">NZD/CAD
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.1
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.9
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.5</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">NZD/CHF
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.1
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.9
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.5</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">EUR/NZD
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.3
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.1
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.7</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">GBP/AUD
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.4
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.2
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.8</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">GBP/CAD
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.5
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.3
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.9</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">GBP/CHF
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.5
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.3
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.9</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;">GBP/NZD
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">2.2
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">3
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">3.6</td>
+                                </tr>
+                                <tr>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="bg-gray platforms platforms-black">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 mex-m-b-40">
-                    <h1 class="mex-h1 mex-h1-color text-white text-center mex-translatable" data-es="PLATAFORMAS DESCARGA" data-de="PLATTFORM HERUNTERLADEN" data-ph="" data-vn="DOWNLOAD PLATFORM" data-id="PUSAT UNDUHAN" data-pt="TRANSFERIR PLATAFORMA" data-ru="DOWNLOAD PLATFORM" data-it="SCARICA LA PIATTAFORMA" data-fr="Télécharger la plateforme" data-mys="Muat turun Platform" data-th="ดาวน์โหลดแพลตฟอร์ม" data-ae="تحميل منصة">Download
-                        Platform</h1>
+                    <h1 class="mex-h1 mex-h1-color text-white text-center mex-translatable" data-es="PLATAFORMAS DESCARGA" data-de="PLATTFORM HERUNTERLADEN" data-ph="" data-vn="DOWNLOAD PLATFORM" data-id="PUSAT UNDUHAN" data-pt="TRANSFERIR PLATAFORMA" data-ru="DOWNLOAD PLATFORM" data-it="SCARICA LA PIATTAFORMA" data-fr="Télécharger la plateforme" data-mys="Muat turun Platform" data-th="ดาวน์โหลดแพลตฟอร์ม" data-ae="تحميل منصة">Download Platform</h1>
                 </div>
                 <div class="col-md-12 col-sm-12">
                     <div class="mex-m-b-30 text-center">
@@ -261,7 +716,7 @@
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-th="เดสก์ทอป" data-mys="Desktop" data-ae="أجهزة ويندوز">Desktop
+                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز">Desktop
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="https://download.mql5.com/cdn/web/mex.international.group/mt5/mexintgroup5setup.exe" target="_blank"><img src="../public_files/images/common/windows.png" alt="windows"></a>
@@ -276,29 +731,139 @@
             </div>
         </div>
     </section>
-    <section class="mex-block-h600 flex-center">
-        <img alt="MultiBank Web Trader" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/platforms/download_center/download_center_web_trader_banner.jpg" />
+    <section class="bg-gray platforms choose-next-background square">
         <div class="container">
             <div class="row">
-                <div class="col-sm-10 col-md-8 col-xl-6 col-10 mex-content">
-                    <div class="mex-h1 text-1e32a3 text-left">MultiBank Web Trader</div>
-                    <p class="mex-m-t-30">Trade on our web platform optimized with high performance and speedy
-                        execution.</p>
-                    <p class="mex-m-t-30">MultiBank Web Trader allow you to trade our full suite of products from any
-                        browser and operating system with the click of a button. Access your account and start trading
-                        now!</p>
-                    <div class="mex-h3 mex-m-b-30 mex-m-t-30">Features:</div>
-                    <ul class="mex-list-icon-check">
-                        <li>Trade directly online- no need to download software!</li>
-                        <li>Compatible with all operating systems</li>
-                        <li>Fully secure and encrypted application</li>
-                        <li>Access advanced trading tools, 24-hour market news, technical and fundamental analysis,
-                            economic calendar</li>
-                        <li>Advanced charting features, with wide range of technical indicators and drawing tools</li>
-                        <li>Easy to use account management, deposits and withdrawals</li>
+                <div class="col-sm-12">
+                    <h2 class="mex-h1 text-center mex-m-b-40 uppercase text-1e32a3 mex-translatable" data-es="Comparativa plataformas MT4" data-de="MT4 PLATTFORM VERGLEICH" data-ph="" data-vn="" data-id="" data-pt="COMPARAÇÃO DE PLATAFORMAS MT4" data-ru="Сравнение платформ MT4" data-it="CONFRONTO DELLE PIATTAFORME MT4" data-fr="Comparaison des plateformes MT4" data-mys="Perbandingan Platform MT4:" data-th="เปรียบเทียบแพลตฟอร์มของ MT4" data-ae="مقارنة المنصات">MT4 Platform Comparison</h2>
+                    <div class="table-responsive">
+                        <table class="fx-spread-table table mex-table mex-has-type table-striped-blue">
+                            <thead>
+                                <tr>
+                                    <th style="position: sticky;">
+                                        <div class="border-right-blue"></div>
+                                    </th>
+                                    <th style="position: sticky;">ECN Pro
+                                        <div class="border-right-blue"></div>
+                                    </th>
+                                    <th style="position: sticky;">MultiBank Pro
+                                        <div class="border-right-blue"></div>
+                                    </th>
+                                    <th style="position: sticky;">Maximus</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="position: sticky;"><b class="mex-translatable" data-es="Spread Medio" data-de="Durchschnittliche Spreads" data-ph="" data-vn="Spreads Trung Bình" data-id="" data-pt="Spreads médios" data-ru="Средние спреды" data-it="Spread medi" data-fr="Spreads Moyens" data-mys="Spread Purata" data-th="สเปรดเฉลี่ย" data-ae="متوسط السبريد">Average Spreads</b>
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.1
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">0.8
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">1.4</td>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;"><b class="mex-translatable" data-es="Tamaño mínimo de cuenta " data-de="Mindestgröße des Kontos" data-ph="" data-vn="Số dư tài khoản tối thiểu" data-id="" data-pt="Tamanho mínimo de conta" data-ru="Минимальный размер счета	" data-it="Deposito minimo sul conto" data-fr="Taille minimale du compte" data-mys="Saiz Akaun Minimum" data-th="ขนาดบัญชีขั้นต่ำ" data-ae="الحد الأدنى لحجم الحساب">Minimum Account Size</b>
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">$5,000
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">$1,000
+                                        <div class="border-right-blue"></div>
+                                    </td>
+                                    <td style="position: sticky;">$50</td>
+                                </tr>
+                                <tr>
+                                    <td style="position: sticky;"><b class="mex-translatable" data-es="" data-de="" data-ph="" data-vn="" data-id="" data-pt="" data-ru="" data-it="" data-fr="" data-th="" data-mys="" data-ae="">Bonus Promotions</b>
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">
+                                        <span class="mex-translatable" data-es="Bono 25%<br />Bono Imperial<br />Bono de Referido" data-de="25% Bonus<br />Imperial Bonus<br />“Freunde werben” Bonus" data-ph="" data-vn="" data-id="" data-pt="bónus de 25%<br />Bónus Imperial<br />Refer a Friend Bonus" data-ru="бонус 25%<br />Имперский бонус<br />Бонус «Пригласи друга»" data-it="25% Bonus<br />Bonus Imperiale<br />Refer a Friend Bonus" data-fr="25% Bonus<br />Bonus Impérial<br />Bonus de Parrainage" data-mys="25% Bonus<br />Bonus Imperial<br />Bonus Rujuk Rakan" data-th="25% โบนัส><br />อิมพีเรียลโบนัส<br />โบนัสแนะนำเพื่อน" data-ae="
+بونص السوبر 20%<br />
+البونص الملكي<br />
+بونص إحالة صديق">25% Bonus<br />Imperial Bonus<br />Refer a Friend Bonus</span>
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;">
+                                        <span class="mex-translatable" data-es="Bono 25%<br />Bono Imperial<br />Bono de Referido" data-de="25% Bonus<br />Imperial Bonus<br />“Freunde werben” Bonus" data-ph="" data-vn="" data-id="" data-pt="bónus de 25%<br />Bónus Imperial<br />Refer a Friend Bonus" data-ru="бонус 25%<br />Имперский бонус<br />Бонус «Пригласи друга»" data-it="25% Bonus<br />Bonus Imperiale<br />Refer a Friend Bonus" data-fr="25% Bonus<br />Bonus Impérial<br />Bonus de Parrainage" data-mys="25% Bonus<br />Bonus Imperial<br />Bonus Rujuk Rakan" data-th="25% โบนัส><br />อิมพีเรียลโบนัส<br />โบนัสแนะนำเพื่อน" data-ae="
+بونص السوبر 20%<br />
+البونص الملكي<br />
+بونص إحالة صديق">25% Bonus<br />Imperial Bonus<br />Refer a Friend Bonus</span>
+                                        <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    </td>
+                                    <td style="position: sticky;" class="mex-translatable" data-es="Bono del 100%<br />Bono 25%<br />Bono Imperial<br />Bono de Referido" data-de="100% Bonus<br />25% Bonus<br />Imperial Bonus<br />“Freunde werben” Bonus" data-ph="" data-vn="" data-id="" data-pt="Bónus 100%<br />bónus de 25%<br />Bónus Imperial<br />Refer a Friend Bonus" data-ru="Бонус 100%<br />бонус 25%<br />Имперский бонус<br />Бонус «Пригласи друга»" data-it="100% Bonus<br />25% Bonus<br />Bonus Imperiale<br />Refer a Friend Bonus" data-fr="100% Bonus<br />25% Bonus<br />Bonus Impérial<br />Bonus de Parrainage" data-mys="100% Bonus<br />25% Bonus<br />Bonus Imperial<br />Bonus Rujuk Rakan" data-th="100% โบนัส<br /25% โบนัส><br />อิมพีเรียลโบนัส<br />โบนัสแนะนำเพื่อน" data-ae="
+بونص 100%<br />
+بونص السوبر 20%<br />
+البونص الملكي<br />
+بونص إحالة صديق">100% Bonus<br />25% Bonus<br />Imperial Bonus<br />Refer a Friend Bonuss</td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="p0 choose-next-background subject-box-bg-light">
+        <div class="container mex-m-b-80">
+            <div class="col-md-12">
+                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                <div class="icon-next-list">
+                    <ul class="bg-white target-icon">
+                        <li><a href="compare-platforms.html"><span class="ico-ic_compare_our_trading_platforms"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="compare-platforms.html">Compare our Trading Platforms</a></div>
+                            <a href="compare-platforms.html"> </a>
+                        </li>
+                        <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
+                            <a href="../products.html"> </a>
+                        </li>
+                        <li><a href="download-center.html"><span class="ico-ic_download_mt4"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="download-center.html">Download MT4</a></div>
+                            <a href="download-center.html"> </a>
+                        </li>
+                        <li><a href="../about/why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../about/why-multibank-group.html">Why Multibank</a></div>
+                            <a href="../about/why-multibank-group.html"> </a>
+                        </li>
+                        <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our Regulations</a></div>
+                            <a href="../mfx/v1/about/regulations.html"> </a>
+                        </li>
+                        <li><a href="../about/security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../about/security-of-funds.html">Security of Funds</a></div>
+                            <a href="../about/security-of-funds.html"> </a>
+                        </li>
+                        <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a></div>
+                            <a href="../account.html"> </a>
+                        </li>
+                        <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../tools.html">Trading Tools</a></div>
+                            <a href="../tools.html"> </a>
+                        </li>
+                        <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html">Bonus Programs</a></div>
+                            <a href="../account/bonus.html"> </a>
+                        </li>
+                        <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership Programs</a></div>
+                            <a href="../investor-relations.html"> </a>
+                        </li>
+                        <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an IB</a></div>
+                            <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
+                        </li>
+                        <li><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-81fd1278d9ff4cfee588db82-=""><span class="ico-ic_live_chat_support"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-81fd1278d9ff4cfee588db82-="">Live Chat Support</a></div>
+                            <a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-81fd1278d9ff4cfee588db82-=""> </a>
+                        </li>
                     </ul>
-                    <div class="mex-h3 mex-m-b-30 mex-m-t-30">Launch MultiBank Web Trader:</div>
-                    <div class="browser-list"><a href="../mql5.html"><img alt="Google" class="mex-m-b-10" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/chrome.png" /> </a> <a href="../mql5.html"> <img alt="O" class="mex-m-b-10 browser-list-img" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/oprea.png" /> </a> <a href="../mql5.html"> <img alt="Firefox" class="mex-m-b-10 browser-list-img" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/firefox.png" /> </a> <a href="../mql5.html"> <img alt="Safari" class="mex-m-b-10 browser-list-img" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/safari.png" /> </a></div>
                 </div>
             </div>
         </div>
@@ -308,8 +873,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12 pb32">
                     <h3 class="mex-h1 text-1e32a3 text-center mex-m-b-5">contact us</h3>
-                    <p class="mex-content text-center mex-m-b-none d-none d-md-block">For any questions or inquiries,
-                        please do not hesitate
+                    <p class="mex-content text-center mex-m-b-none d-none d-md-block">For any questions or inquiries, please do not hesitate
                         to contact our 24/5 professional multilingual Customer Service</p>
                 </div>
                 <div class="col-lg-12 row ">
@@ -352,25 +916,25 @@
                             </li>
                             <li class="ForIts">
                                 <div class="mex-h3  mex-p-v-15  mex-m-t-10">Email Us</div>
-                                <div class="contact-email"><a class="text-000033" href="../cdn-cgi/l/email-protection.html#b5d6c6f5d8c0d9c1dcd7d4dbded3cd9bd6dad8"><span class="__cf_email__" data-cfemail="9ffcecdff2eaf3ebf6fdfef1f4f9e7b1fcf0f2">[email&#160;protected]</span></a>
+                                <div class="contact-email"><a class="text-000033" href="../cdn-cgi/l/email-protection.html#93f0e0d3fee6ffe7faf1f2fdf8f5ebbdf0fcfe"><span class="__cf_email__" data-cfemail="1a79695a776f766e73787b74717c6234797577">[email&#160;protected]</span></a>
                                 </div>
                             </li>
                             <li class="ForIts">
                                 <div class="mex-h3 mex-m-t-20 ">Live Chat</div>
-                                <a href="download-center.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-9ca329a262d339b1caf83797-=""><img alt="chat" class="home_contact_us_chat_now" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/footer_btn_chat_now.png" />
+                                <a href="multibank-pro.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-81fd1278d9ff4cfee588db82-=""><img alt="chat" class="home_contact_us_chat_now" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/footer_btn_chat_now.png" />
                                 </a>
                             </li>
                         </ul>
                         <div class="d-flex d-md-none row py-4 row-eq-height">
                             <div class="col-4 text-center mx-auto">
                                 <div class="mex-h3 mb-2 footer-mb-social-media">EMAIL US</div>
-                                <a href="../cdn-cgi/l/email-protection.html#513222113c243d253833303f3a37297f323e3c">
+                                <a href="../cdn-cgi/l/email-protection.html#5f3c2c1f322a332b363d3e31343927713c3032">
                                     <img class="footer-contact-ic" src="../public_files/images/common/icon_contact_mail.png" />
                                 </a>
                             </div>
                             <div class="col-4 text-center mx-auto">
                                 <div class="mex-h3 mb-2 footer-mb-social-media">LIVE CHAT</div>
-                                <a href="download-center.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-9ca329a262d339b1caf83797-="">
+                                <a href="multibank-pro.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-81fd1278d9ff4cfee588db82-="">
                                     <img class="footer-contact-ic" src="../public_files/images/common/icon_contact_wechat.png" />
                                 </a>
                             </div>
@@ -380,9 +944,9 @@
                         <div class="mex-h3  mex-p-v-15 text-sm-center text-md-left">GET A CALL BACK</div>
                         <div style="width: 100%;">
                             <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form' class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='call_back_footer_form' target='' autocomplete='on'>
-                                <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTozMA==' />
-                                <input type='hidden' name='token' value='$2y$10$u0hlBTIQhLhi03xt6plyau1pvdVJ/1DRy24NzAzALOkMeRlgzCOgm' />
-                                <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:28] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:29] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:30] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/platforms/download-center?web=true' />
+                                <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToyNw==' />
+                                <input type='hidden' name='token' value='$2y$10$KsHmQmKFTPELeJ5qp7MHi.tBCAcCLHjE6BM/XkbPX.scBxDqwPmhm' />
+                                <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:24] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:25] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:26] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:27] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/platforms/multibank-pro?web=true' />
                                 <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                     <label for='' class='m-0'>
                                     </label>
@@ -417,18 +981,15 @@
                                     </label>
                                     <select data-message='Country Name is Required.' data-extra-message="Country Name Invalid." class='selection-country form-control  mb-0 select_with_country select_with_country' name='country_name' required>
                                         <option value='' selected='selected'>Select Country</option>
-                                        <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN
-                                        </option>
+                                        <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
                                         <option data-country_iso_code="AL" data-name='AL' value='AL'>ALBANIA</option>
                                         <option data-country_iso_code="DZ" data-name='DZ' value='DZ'>ALGERIA</option>
-                                        <option data-country_iso_code="AS" data-name='AS' value='AS'>AMERICAN SAMOA
-                                        </option>
+                                        <option data-country_iso_code="AS" data-name='AS' value='AS'>AMERICAN SAMOA</option>
                                         <option data-country_iso_code="AD" data-name='AD' value='AD'>ANDORRA</option>
                                         <option data-country_iso_code="AO" data-name='AO' value='AO'>ANGOLA</option>
                                         <option data-country_iso_code="AI" data-name='AI' value='AI'>ANGUILLA</option>
                                         <option data-country_iso_code="AQ" data-name='AQ' value='AQ'>ANTARCTICA</option>
-                                        <option data-country_iso_code="AG" data-name='AG' value='AG'>ANTIGUA AND BARBUDA
-                                        </option>
+                                        <option data-country_iso_code="AG" data-name='AG' value='AG'>ANTIGUA AND BARBUDA</option>
                                         <option data-country_iso_code="AR" data-name='AR' value='AR'>ARGENTINA</option>
                                         <option data-country_iso_code="AM" data-name='AM' value='AM'>ARMENIA</option>
                                         <option data-country_iso_code="AW" data-name='AW' value='AW'>ARUBA</option>
@@ -446,77 +1007,56 @@
                                         <option data-country_iso_code="BM" data-name='BM' value='BM'>BERMUDA</option>
                                         <option data-country_iso_code="BT" data-name='BT' value='BT'>BHUTAN</option>
                                         <option data-country_iso_code="BO" data-name='BO' value='BO'>BOLIVIA</option>
-                                        <option data-country_iso_code="BA" data-name='BA' value='BA'>BOSNIA AND
-                                            HERZEGOVINA</option>
+                                        <option data-country_iso_code="BA" data-name='BA' value='BA'>BOSNIA AND HERZEGOVINA</option>
                                         <option data-country_iso_code="BW" data-name='BW' value='BW'>BOTSWANA</option>
-                                        <option data-country_iso_code="BV" data-name='BV' value='BV'>BOUVET ISLAND
-                                        </option>
+                                        <option data-country_iso_code="BV" data-name='BV' value='BV'>BOUVET ISLAND</option>
                                         <option data-country_iso_code="BR" data-name='BR' value='BR'>BRAZIL</option>
-                                        <option data-country_iso_code="IO" data-name='IO' value='IO'>BRITISH INDIAN
-                                            OCEAN TERRITORY</option>
-                                        <option data-country_iso_code="BN" data-name='BN' value='BN'>BRUNEI DARUSSALAM
-                                        </option>
+                                        <option data-country_iso_code="IO" data-name='IO' value='IO'>BRITISH INDIAN OCEAN TERRITORY</option>
+                                        <option data-country_iso_code="BN" data-name='BN' value='BN'>BRUNEI DARUSSALAM</option>
                                         <option data-country_iso_code="BG" data-name='BG' value='BG'>BULGARIA</option>
-                                        <option data-country_iso_code="BF" data-name='BF' value='BF'>BURKINA FASO
-                                        </option>
+                                        <option data-country_iso_code="BF" data-name='BF' value='BF'>BURKINA FASO</option>
                                         <option data-country_iso_code="BI" data-name='BI' value='BI'>BURUNDI</option>
                                         <option data-country_iso_code="KH" data-name='KH' value='KH'>CAMBODIA</option>
                                         <option data-country_iso_code="CM" data-name='CM' value='CM'>CAMEROON</option>
                                         <option data-country_iso_code="CA" data-name='CA' value='CA'>CANADA</option>
                                         <option data-country_iso_code="CV" data-name='CV' value='CV'>CAPE VERDE</option>
-                                        <option data-country_iso_code="KY" data-name='KY' value='KY'>CAYMAN ISLANDS
-                                        </option>
-                                        <option data-country_iso_code="CF" data-name='CF' value='CF'>CENTRAL AFRICAN
-                                            REPUBLIC</option>
+                                        <option data-country_iso_code="KY" data-name='KY' value='KY'>CAYMAN ISLANDS</option>
+                                        <option data-country_iso_code="CF" data-name='CF' value='CF'>CENTRAL AFRICAN REPUBLIC</option>
                                         <option data-country_iso_code="TD" data-name='TD' value='TD'>CHAD</option>
                                         <option data-country_iso_code="CL" data-name='CL' value='CL'>CHILE</option>
                                         <option data-country_iso_code="CN" data-name='CN' value='CN'>CHINA</option>
-                                        <option data-country_iso_code="CX" data-name='CX' value='CX'>CHRISTMAS ISLAND
-                                        </option>
-                                        <option data-country_iso_code="CC" data-name='CC' value='CC'>COCOS (KEELING)
-                                            ISLANDS</option>
+                                        <option data-country_iso_code="CX" data-name='CX' value='CX'>CHRISTMAS ISLAND</option>
+                                        <option data-country_iso_code="CC" data-name='CC' value='CC'>COCOS (KEELING) ISLANDS</option>
                                         <option data-country_iso_code="CO" data-name='CO' value='CO'>COLOMBIA</option>
                                         <option data-country_iso_code="KM" data-name='KM' value='KM'>COMOROS</option>
                                         <option data-country_iso_code="CG" data-name='CG' value='CG'>CONGO</option>
-                                        <option data-country_iso_code="CD" data-name='CD' value='CD'>CONGO, THE
-                                            DEMOCRATIC REPUBLIC OF THE</option>
-                                        <option data-country_iso_code="CK" data-name='CK' value='CK'>COOK ISLANDS
-                                        </option>
+                                        <option data-country_iso_code="CD" data-name='CD' value='CD'>CONGO, THE DEMOCRATIC REPUBLIC OF THE</option>
+                                        <option data-country_iso_code="CK" data-name='CK' value='CK'>COOK ISLANDS</option>
                                         <option data-country_iso_code="CR" data-name='CR' value='CR'>COSTA RICA</option>
-                                        <option data-country_iso_code="CI" data-name='CI' value='CI'>COTE D'IVOIRE
-                                        </option>
+                                        <option data-country_iso_code="CI" data-name='CI' value='CI'>COTE D'IVOIRE</option>
                                         <option data-country_iso_code="HR" data-name='HR' value='HR'>CROATIA</option>
                                         <option data-country_iso_code="CU" data-name='CU' value='CU'>CUBA</option>
                                         <option data-country_iso_code="CY" data-name='CY' value='CY'>CYPRUS</option>
-                                        <option data-country_iso_code="CZ" data-name='CZ' value='CZ'>CZECH REPUBLIC
-                                        </option>
+                                        <option data-country_iso_code="CZ" data-name='CZ' value='CZ'>CZECH REPUBLIC</option>
                                         <option data-country_iso_code="DK" data-name='DK' value='DK'>DENMARK</option>
                                         <option data-country_iso_code="DJ" data-name='DJ' value='DJ'>DJIBOUTI</option>
                                         <option data-country_iso_code="DM" data-name='DM' value='DM'>DOMINICA</option>
-                                        <option data-country_iso_code="DO" data-name='DO' value='DO'>DOMINICAN REPUBLIC
-                                        </option>
+                                        <option data-country_iso_code="DO" data-name='DO' value='DO'>DOMINICAN REPUBLIC</option>
                                         <option data-country_iso_code="EC" data-name='EC' value='EC'>ECUADOR</option>
                                         <option data-country_iso_code="EG" data-name='EG' value='EG'>EGYPT</option>
-                                        <option data-country_iso_code="SV" data-name='SV' value='SV'>EL SALVADOR
-                                        </option>
-                                        <option data-country_iso_code="GQ" data-name='GQ' value='GQ'>EQUATORIAL GUINEA
-                                        </option>
+                                        <option data-country_iso_code="SV" data-name='SV' value='SV'>EL SALVADOR</option>
+                                        <option data-country_iso_code="GQ" data-name='GQ' value='GQ'>EQUATORIAL GUINEA</option>
                                         <option data-country_iso_code="ER" data-name='ER' value='ER'>ERITREA</option>
                                         <option data-country_iso_code="EE" data-name='EE' value='EE'>ESTONIA</option>
                                         <option data-country_iso_code="ET" data-name='ET' value='ET'>ETHIOPIA</option>
-                                        <option data-country_iso_code="FK" data-name='FK' value='FK'>FALKLAND ISLANDS
-                                            (MALVINAS)</option>
-                                        <option data-country_iso_code="FO" data-name='FO' value='FO'>FAROE ISLANDS
-                                        </option>
+                                        <option data-country_iso_code="FK" data-name='FK' value='FK'>FALKLAND ISLANDS (MALVINAS)</option>
+                                        <option data-country_iso_code="FO" data-name='FO' value='FO'>FAROE ISLANDS</option>
                                         <option data-country_iso_code="FJ" data-name='FJ' value='FJ'>FIJI</option>
                                         <option data-country_iso_code="FI" data-name='FI' value='FI'>FINLAND</option>
                                         <option data-country_iso_code="FR" data-name='FR' value='FR'>FRANCE</option>
-                                        <option data-country_iso_code="GF" data-name='GF' value='GF'>FRENCH GUIANA
-                                        </option>
-                                        <option data-country_iso_code="PF" data-name='PF' value='PF'>FRENCH POLYNESIA
-                                        </option>
-                                        <option data-country_iso_code="TF" data-name='TF' value='TF'>FRENCH SOUTHERN
-                                            TERRITORIES</option>
+                                        <option data-country_iso_code="GF" data-name='GF' value='GF'>FRENCH GUIANA</option>
+                                        <option data-country_iso_code="PF" data-name='PF' value='PF'>FRENCH POLYNESIA</option>
+                                        <option data-country_iso_code="TF" data-name='TF' value='TF'>FRENCH SOUTHERN TERRITORIES</option>
                                         <option data-country_iso_code="GA" data-name='GA' value='GA'>GABON</option>
                                         <option data-country_iso_code="GM" data-name='GM' value='GM'>GAMBIA</option>
                                         <option data-country_iso_code="GE" data-name='GE' value='GE'>GEORGIA</option>
@@ -530,22 +1070,18 @@
                                         <option data-country_iso_code="GU" data-name='GU' value='GU'>GUAM</option>
                                         <option data-country_iso_code="GT" data-name='GT' value='GT'>GUATEMALA</option>
                                         <option data-country_iso_code="GN" data-name='GN' value='GN'>GUINEA</option>
-                                        <option data-country_iso_code="GW" data-name='GW' value='GW'>GUINEA-BISSAU
-                                        </option>
+                                        <option data-country_iso_code="GW" data-name='GW' value='GW'>GUINEA-BISSAU</option>
                                         <option data-country_iso_code="GY" data-name='GY' value='GY'>GUYANA</option>
                                         <option data-country_iso_code="HT" data-name='HT' value='HT'>HAITI</option>
-                                        <option data-country_iso_code="HM" data-name='HM' value='HM'>HEARD ISLAND AND
-                                            MCDONALD ISLANDS</option>
-                                        <option data-country_iso_code="VA" data-name='VA' value='VA'>HOLY SEE (VATICAN
-                                            CITY STATE)</option>
+                                        <option data-country_iso_code="HM" data-name='HM' value='HM'>HEARD ISLAND AND MCDONALD ISLANDS</option>
+                                        <option data-country_iso_code="VA" data-name='VA' value='VA'>HOLY SEE (VATICAN CITY STATE)</option>
                                         <option data-country_iso_code="HN" data-name='HN' value='HN'>HONDURAS</option>
                                         <option data-country_iso_code="HK" data-name='HK' value='HK'>HONG KONG</option>
                                         <option data-country_iso_code="HU" data-name='HU' value='HU'>HUNGARY</option>
                                         <option data-country_iso_code="IS" data-name='IS' value='IS'>ICELAND</option>
                                         <option data-country_iso_code="IN" data-name='IN' value='IN'>INDIA</option>
                                         <option data-country_iso_code="ID" data-name='ID' value='ID'>INDONESIA</option>
-                                        <option data-country_iso_code="IR" data-name='IR' value='IR'>IRAN, ISLAMIC
-                                            REPUBLIC OF</option>
+                                        <option data-country_iso_code="IR" data-name='IR' value='IR'>IRAN, ISLAMIC REPUBLIC OF</option>
                                         <option data-country_iso_code="IQ" data-name='IQ' value='IQ'>IRAQ</option>
                                         <option data-country_iso_code="IE" data-name='IE' value='IE'>IRELAND</option>
                                         <option data-country_iso_code="IL" data-name='IL' value='IL'>ISRAEL</option>
@@ -556,44 +1092,35 @@
                                         <option data-country_iso_code="KZ" data-name='KZ' value='KZ'>KAZAKHSTAN</option>
                                         <option data-country_iso_code="KE" data-name='KE' value='KE'>KENYA</option>
                                         <option data-country_iso_code="KI" data-name='KI' value='KI'>KIRIBATI</option>
-                                        <option data-country_iso_code="KP" data-name='KP' value='KP'>KOREA, DEMOCRATIC
-                                            PEOPLE'S REPUBLIC OF</option>
-                                        <option data-country_iso_code="KR" data-name='KR' value='KR'>KOREA, REPUBLIC OF
-                                        </option>
+                                        <option data-country_iso_code="KP" data-name='KP' value='KP'>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</option>
+                                        <option data-country_iso_code="KR" data-name='KR' value='KR'>KOREA, REPUBLIC OF</option>
                                         <option data-country_iso_code="KW" data-name='KW' value='KW'>KUWAIT</option>
                                         <option data-country_iso_code="KG" data-name='KG' value='KG'>KYRGYZSTAN</option>
-                                        <option data-country_iso_code="LA" data-name='LA' value='LA'>LAO PEOPLE'S
-                                            DEMOCRATIC REPUBLIC</option>
+                                        <option data-country_iso_code="LA" data-name='LA' value='LA'>LAO PEOPLE'S DEMOCRATIC REPUBLIC</option>
                                         <option data-country_iso_code="LV" data-name='LV' value='LV'>LATVIA</option>
                                         <option data-country_iso_code="LB" data-name='LB' value='LB'>LEBANON</option>
                                         <option data-country_iso_code="LS" data-name='LS' value='LS'>LESOTHO</option>
                                         <option data-country_iso_code="LR" data-name='LR' value='LR'>LIBERIA</option>
-                                        <option data-country_iso_code="LY" data-name='LY' value='LY'>LIBYAN ARAB
-                                            JAMAHIRIYA</option>
-                                        <option data-country_iso_code="LI" data-name='LI' value='LI'>LIECHTENSTEIN
-                                        </option>
+                                        <option data-country_iso_code="LY" data-name='LY' value='LY'>LIBYAN ARAB JAMAHIRIYA</option>
+                                        <option data-country_iso_code="LI" data-name='LI' value='LI'>LIECHTENSTEIN</option>
                                         <option data-country_iso_code="LT" data-name='LT' value='LT'>LITHUANIA</option>
                                         <option data-country_iso_code="LU" data-name='LU' value='LU'>LUXEMBOURG</option>
                                         <option data-country_iso_code="MO" data-name='MO' value='MO'>MACAO</option>
-                                        <option data-country_iso_code="MK" data-name='MK' value='MK'>MACEDONIA, THE
-                                            FORMER YUGOSLAV REPUBLIC OF</option>
+                                        <option data-country_iso_code="MK" data-name='MK' value='MK'>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</option>
                                         <option data-country_iso_code="MG" data-name='MG' value='MG'>MADAGASCAR</option>
                                         <option data-country_iso_code="MW" data-name='MW' value='MW'>MALAWI</option>
                                         <option data-country_iso_code="MY" data-name='MY' value='MY'>MALAYSIA</option>
                                         <option data-country_iso_code="MV" data-name='MV' value='MV'>MALDIVES</option>
                                         <option data-country_iso_code="ML" data-name='ML' value='ML'>MALI</option>
                                         <option data-country_iso_code="MT" data-name='MT' value='MT'>MALTA</option>
-                                        <option data-country_iso_code="MH" data-name='MH' value='MH'>MARSHALL ISLANDS
-                                        </option>
+                                        <option data-country_iso_code="MH" data-name='MH' value='MH'>MARSHALL ISLANDS</option>
                                         <option data-country_iso_code="MQ" data-name='MQ' value='MQ'>MARTINIQUE</option>
                                         <option data-country_iso_code="MR" data-name='MR' value='MR'>MAURITANIA</option>
                                         <option data-country_iso_code="MU" data-name='MU' value='MU'>MAURITIUS</option>
                                         <option data-country_iso_code="YT" data-name='YT' value='YT'>MAYOTTE</option>
                                         <option data-country_iso_code="MX" data-name='MX' value='MX'>MEXICO</option>
-                                        <option data-country_iso_code="FM" data-name='FM' value='FM'>MICRONESIA,
-                                            FEDERATED STATES OF</option>
-                                        <option data-country_iso_code="MD" data-name='MD' value='MD'>MOLDOVA, REPUBLIC
-                                            OF</option>
+                                        <option data-country_iso_code="FM" data-name='FM' value='FM'>MICRONESIA, FEDERATED STATES OF</option>
+                                        <option data-country_iso_code="MD" data-name='MD' value='MD'>MOLDOVA, REPUBLIC OF</option>
                                         <option data-country_iso_code="MC" data-name='MC' value='MC'>MONACO</option>
                                         <option data-country_iso_code="MN" data-name='MN' value='MN'>MONGOLIA</option>
                                         <option data-country_iso_code="ME" data-name='ME' value='ME'>MONTENEGRO</option>
@@ -604,132 +1131,93 @@
                                         <option data-country_iso_code="NA" data-name='NA' value='NA'>NAMIBIA</option>
                                         <option data-country_iso_code="NR" data-name='NR' value='NR'>NAURU</option>
                                         <option data-country_iso_code="NP" data-name='NP' value='NP'>NEPAL</option>
-                                        <option data-country_iso_code="NL" data-name='NL' value='NL'>NETHERLANDS
-                                        </option>
-                                        <option data-country_iso_code="AN" data-name='AN' value='AN'>NETHERLANDS
-                                            ANTILLES</option>
-                                        <option data-country_iso_code="NC" data-name='NC' value='NC'>NEW CALEDONIA
-                                        </option>
-                                        <option data-country_iso_code="NZ" data-name='NZ' value='NZ'>NEW ZEALAND
-                                        </option>
+                                        <option data-country_iso_code="NL" data-name='NL' value='NL'>NETHERLANDS</option>
+                                        <option data-country_iso_code="AN" data-name='AN' value='AN'>NETHERLANDS ANTILLES</option>
+                                        <option data-country_iso_code="NC" data-name='NC' value='NC'>NEW CALEDONIA</option>
+                                        <option data-country_iso_code="NZ" data-name='NZ' value='NZ'>NEW ZEALAND</option>
                                         <option data-country_iso_code="NI" data-name='NI' value='NI'>NICARAGUA</option>
                                         <option data-country_iso_code="NE" data-name='NE' value='NE'>NIGER</option>
                                         <option data-country_iso_code="NG" data-name='NG' value='NG'>NIGERIA</option>
                                         <option data-country_iso_code="NU" data-name='NU' value='NU'>NIUE</option>
-                                        <option data-country_iso_code="NF" data-name='NF' value='NF'>NORFOLK ISLAND
-                                        </option>
-                                        <option data-country_iso_code="MP" data-name='MP' value='MP'>NORTHERN MARIANA
-                                            ISLANDS</option>
+                                        <option data-country_iso_code="NF" data-name='NF' value='NF'>NORFOLK ISLAND</option>
+                                        <option data-country_iso_code="MP" data-name='MP' value='MP'>NORTHERN MARIANA ISLANDS</option>
                                         <option data-country_iso_code="NO" data-name='NO' value='NO'>NORWAY</option>
                                         <option data-country_iso_code="OM" data-name='OM' value='OM'>OMAN</option>
                                         <option data-country_iso_code="PK" data-name='PK' value='PK'>PAKISTAN</option>
                                         <option data-country_iso_code="PW" data-name='PW' value='PW'>PALAU</option>
-                                        <option data-country_iso_code="PS" data-name='PS' value='PS'>PALESTINE, STATE OF
-                                        </option>
+                                        <option data-country_iso_code="PS" data-name='PS' value='PS'>PALESTINE, STATE OF</option>
                                         <option data-country_iso_code="PA" data-name='PA' value='PA'>PANAMA</option>
-                                        <option data-country_iso_code="PG" data-name='PG' value='PG'>PAPUA NEW GUINEA
-                                        </option>
+                                        <option data-country_iso_code="PG" data-name='PG' value='PG'>PAPUA NEW GUINEA</option>
                                         <option data-country_iso_code="PY" data-name='PY' value='PY'>PARAGUAY</option>
                                         <option data-country_iso_code="PE" data-name='PE' value='PE'>PERU</option>
-                                        <option data-country_iso_code="PH" data-name='PH' value='PH'>PHILIPPINES
-                                        </option>
+                                        <option data-country_iso_code="PH" data-name='PH' value='PH'>PHILIPPINES</option>
                                         <option data-country_iso_code="PN" data-name='PN' value='PN'>PITCAIRN</option>
                                         <option data-country_iso_code="PL" data-name='PL' value='PL'>POLAND</option>
                                         <option data-country_iso_code="PT" data-name='PT' value='PT'>PORTUGAL</option>
-                                        <option data-country_iso_code="PR" data-name='PR' value='PR'>PUERTO RICO
-                                        </option>
+                                        <option data-country_iso_code="PR" data-name='PR' value='PR'>PUERTO RICO</option>
                                         <option data-country_iso_code="QA" data-name='QA' value='QA'>QATAR</option>
                                         <option data-country_iso_code="RE" data-name='RE' value='RE'>REUNION</option>
                                         <option data-country_iso_code="RO" data-name='RO' value='RO'>ROMANIA</option>
-                                        <option data-country_iso_code="RU" data-name='RU' value='RU'>RUSSIAN FEDERATION
-                                        </option>
+                                        <option data-country_iso_code="RU" data-name='RU' value='RU'>RUSSIAN FEDERATION</option>
                                         <option data-country_iso_code="RW" data-name='RW' value='RW'>RWANDA</option>
-                                        <option data-country_iso_code="SH" data-name='SH' value='SH'>SAINT HELENA
-                                        </option>
-                                        <option data-country_iso_code="KN" data-name='KN' value='KN'>SAINT KITTS AND
-                                            NEVIS</option>
-                                        <option data-country_iso_code="LC" data-name='LC' value='LC'>SAINT LUCIA
-                                        </option>
-                                        <option data-country_iso_code="PM" data-name='PM' value='PM'>SAINT PIERRE AND
-                                            MIQUELON</option>
-                                        <option data-country_iso_code="VC" data-name='VC' value='VC'>SAINT VINCENT AND
-                                            THE GRENADINES</option>
+                                        <option data-country_iso_code="SH" data-name='SH' value='SH'>SAINT HELENA</option>
+                                        <option data-country_iso_code="KN" data-name='KN' value='KN'>SAINT KITTS AND NEVIS</option>
+                                        <option data-country_iso_code="LC" data-name='LC' value='LC'>SAINT LUCIA</option>
+                                        <option data-country_iso_code="PM" data-name='PM' value='PM'>SAINT PIERRE AND MIQUELON</option>
+                                        <option data-country_iso_code="VC" data-name='VC' value='VC'>SAINT VINCENT AND THE GRENADINES</option>
                                         <option data-country_iso_code="WS" data-name='WS' value='WS'>SAMOA</option>
                                         <option data-country_iso_code="SM" data-name='SM' value='SM'>SAN MARINO</option>
-                                        <option data-country_iso_code="ST" data-name='ST' value='ST'>SAO TOME AND
-                                            PRINCIPE</option>
-                                        <option data-country_iso_code="SA" data-name='SA' value='SA'>SAUDI ARABIA
-                                        </option>
+                                        <option data-country_iso_code="ST" data-name='ST' value='ST'>SAO TOME AND PRINCIPE</option>
+                                        <option data-country_iso_code="SA" data-name='SA' value='SA'>SAUDI ARABIA</option>
                                         <option data-country_iso_code="SN" data-name='SN' value='SN'>SENEGAL</option>
                                         <option data-country_iso_code="RS" data-name='RS' value='RS'>SERBIA</option>
                                         <option data-country_iso_code="SC" data-name='SC' value='SC'>SEYCHELLES</option>
-                                        <option data-country_iso_code="SL" data-name='SL' value='SL'>SIERRA LEONE
-                                        </option>
+                                        <option data-country_iso_code="SL" data-name='SL' value='SL'>SIERRA LEONE</option>
                                         <option data-country_iso_code="SG" data-name='SG' value='SG'>SINGAPORE</option>
                                         <option data-country_iso_code="SK" data-name='SK' value='SK'>SLOVAKIA</option>
                                         <option data-country_iso_code="SI" data-name='SI' value='SI'>SLOVENIA</option>
-                                        <option data-country_iso_code="SB" data-name='SB' value='SB'>SOLOMON ISLANDS
-                                        </option>
+                                        <option data-country_iso_code="SB" data-name='SB' value='SB'>SOLOMON ISLANDS</option>
                                         <option data-country_iso_code="SO" data-name='SO' value='SO'>SOMALIA</option>
-                                        <option data-country_iso_code="ZA" data-name='ZA' value='ZA'>SOUTH AFRICA
-                                        </option>
-                                        <option data-country_iso_code="GS" data-name='GS' value='GS'>SOUTH GEORGIA AND
-                                            THE SOUTH SANDWICH ISLANDS</option>
+                                        <option data-country_iso_code="ZA" data-name='ZA' value='ZA'>SOUTH AFRICA</option>
+                                        <option data-country_iso_code="GS" data-name='GS' value='GS'>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</option>
                                         <option data-country_iso_code="ES" data-name='ES' value='ES'>SPAIN</option>
                                         <option data-country_iso_code="LK" data-name='LK' value='LK'>SRI LANKA</option>
                                         <option data-country_iso_code="SD" data-name='SD' value='SD'>SUDAN</option>
                                         <option data-country_iso_code="SR" data-name='SR' value='SR'>SURINAME</option>
-                                        <option data-country_iso_code="SJ" data-name='SJ' value='SJ'>SVALBARD AND JAN
-                                            MAYEN</option>
+                                        <option data-country_iso_code="SJ" data-name='SJ' value='SJ'>SVALBARD AND JAN MAYEN</option>
                                         <option data-country_iso_code="SZ" data-name='SZ' value='SZ'>SWAZILAND</option>
                                         <option data-country_iso_code="SE" data-name='SE' value='SE'>SWEDEN</option>
-                                        <option data-country_iso_code="CH" data-name='CH' value='CH'>SWITZERLAND
-                                        </option>
-                                        <option data-country_iso_code="SY" data-name='SY' value='SY'>SYRIAN ARAB
-                                            REPUBLIC</option>
-                                        <option data-country_iso_code="TW" data-name='TW' value='TW'>TAIWAN, PROVINCE OF
-                                            CHINA</option>
+                                        <option data-country_iso_code="CH" data-name='CH' value='CH'>SWITZERLAND</option>
+                                        <option data-country_iso_code="SY" data-name='SY' value='SY'>SYRIAN ARAB REPUBLIC</option>
+                                        <option data-country_iso_code="TW" data-name='TW' value='TW'>TAIWAN, PROVINCE OF CHINA</option>
                                         <option data-country_iso_code="TJ" data-name='TJ' value='TJ'>TAJIKISTAN</option>
-                                        <option data-country_iso_code="TZ" data-name='TZ' value='TZ'>TANZANIA, UNITED
-                                            REPUBLIC OF</option>
+                                        <option data-country_iso_code="TZ" data-name='TZ' value='TZ'>TANZANIA, UNITED REPUBLIC OF</option>
                                         <option data-country_iso_code="TH" data-name='TH' value='TH'>THAILAND</option>
-                                        <option data-country_iso_code="TL" data-name='TL' value='TL'>TIMOR-LESTE
-                                        </option>
+                                        <option data-country_iso_code="TL" data-name='TL' value='TL'>TIMOR-LESTE</option>
                                         <option data-country_iso_code="TG" data-name='TG' value='TG'>TOGO</option>
                                         <option data-country_iso_code="TK" data-name='TK' value='TK'>TOKELAU</option>
                                         <option data-country_iso_code="TO" data-name='TO' value='TO'>TONGA</option>
-                                        <option data-country_iso_code="TT" data-name='TT' value='TT'>TRINIDAD AND TOBAGO
-                                        </option>
+                                        <option data-country_iso_code="TT" data-name='TT' value='TT'>TRINIDAD AND TOBAGO</option>
                                         <option data-country_iso_code="TN" data-name='TN' value='TN'>TUNISIA</option>
                                         <option data-country_iso_code="TR" data-name='TR' value='TR'>TURKEY</option>
-                                        <option data-country_iso_code="TM" data-name='TM' value='TM'>TURKMENISTAN
-                                        </option>
-                                        <option data-country_iso_code="TC" data-name='TC' value='TC'>TURKS AND CAICOS
-                                            ISLANDS</option>
+                                        <option data-country_iso_code="TM" data-name='TM' value='TM'>TURKMENISTAN</option>
+                                        <option data-country_iso_code="TC" data-name='TC' value='TC'>TURKS AND CAICOS ISLANDS</option>
                                         <option data-country_iso_code="TV" data-name='TV' value='TV'>TUVALU</option>
                                         <option data-country_iso_code="UG" data-name='UG' value='UG'>UGANDA</option>
                                         <option data-country_iso_code="UA" data-name='UA' value='UA'>UKRAINE</option>
-                                        <option data-country_iso_code="AE" data-name='AE' value='AE'>UNITED ARAB
-                                            EMIRATES</option>
-                                        <option data-country_iso_code="GB" data-name='GB' value='GB'>UNITED KINGDOM
-                                        </option>
-                                        <option data-country_iso_code="US" data-name='US' value='US'>UNITED STATES
-                                        </option>
-                                        <option data-country_iso_code="UM" data-name='UM' value='UM'>UNITED STATES MINOR
-                                            OUTLYING ISLANDS</option>
+                                        <option data-country_iso_code="AE" data-name='AE' value='AE'>UNITED ARAB EMIRATES</option>
+                                        <option data-country_iso_code="GB" data-name='GB' value='GB'>UNITED KINGDOM</option>
+                                        <option data-country_iso_code="US" data-name='US' value='US'>UNITED STATES</option>
+                                        <option data-country_iso_code="UM" data-name='UM' value='UM'>UNITED STATES MINOR OUTLYING ISLANDS</option>
                                         <option data-country_iso_code="UY" data-name='UY' value='UY'>URUGUAY</option>
                                         <option data-country_iso_code="UZ" data-name='UZ' value='UZ'>UZBEKISTAN</option>
                                         <option data-country_iso_code="VU" data-name='VU' value='VU'>VANUATU</option>
                                         <option data-country_iso_code="VE" data-name='VE' value='VE'>VENEZUELA</option>
                                         <option data-country_iso_code="VN" data-name='VN' value='VN'>VIET NAM</option>
-                                        <option data-country_iso_code="VG" data-name='VG' value='VG'>VIRGIN ISLANDS,
-                                            BRITISH</option>
-                                        <option data-country_iso_code="VI" data-name='VI' value='VI'>VIRGIN ISLANDS,
-                                            U.S.</option>
-                                        <option data-country_iso_code="WF" data-name='WF' value='WF'>WALLIS AND FUTUNA
-                                        </option>
-                                        <option data-country_iso_code="EH" data-name='EH' value='EH'>WESTERN SAHARA
-                                        </option>
+                                        <option data-country_iso_code="VG" data-name='VG' value='VG'>VIRGIN ISLANDS, BRITISH</option>
+                                        <option data-country_iso_code="VI" data-name='VI' value='VI'>VIRGIN ISLANDS, U.S.</option>
+                                        <option data-country_iso_code="WF" data-name='WF' value='WF'>WALLIS AND FUTUNA</option>
+                                        <option data-country_iso_code="EH" data-name='EH' value='EH'>WESTERN SAHARA</option>
                                         <option data-country_iso_code="YE" data-name='YE' value='YE'>YEMEN</option>
                                         <option data-country_iso_code="ZM" data-name='ZM' value='ZM'>ZAMBIA</option>
                                         <option data-country_iso_code="ZW" data-name='ZW' value='ZW'>ZIMBABWE</option>
@@ -745,14 +1233,12 @@
                                 </div>
                                 <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
                                     <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset ' id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
-                                </div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-9ca329a262d339b1caf83797-="">CALL ME</button>
+                                </div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-81fd1278d9ff4cfee588db82-="">CALL ME</button>
                             </form>
                             <div class="px-1 font-10" style="padding:0px;">
                                 <div class="form-check form-check-inline">
-                                    <label class="form-check-label label-1 " for="terms_conditions">By submitting this
-                                        form,
-                                        you agree to accept the <a href="../terms-conditions.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp;
-                                            Conditions</a>,
+                                    <label class="form-check-label label-1 " for="terms_conditions">By submitting this form,
+                                        you agree to accept the <a href="../terms-conditions.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp; Conditions</a>,
                                         <a href="../privacy-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a href="../cookie-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Cookie Policy</a>.
                                     </label>
                                 </div>
@@ -773,7 +1259,7 @@
                         </a>
                         <a href="https://my.multibankfx.com/en/traders/login" target="_blank">MyMultibank</a>
                         <a href="../contact.html" target="_parent">Contact Us</a>
-                        <a href="download-center.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-9ca329a262d339b1caf83797-="">Support</a>
+                        <a href="multibank-pro.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-81fd1278d9ff4cfee588db82-="">Support</a>
                         <a href="../article/hiring-now-cyprus.html" target="_parent">Career</a>
                         <a href="../investor-relations.html" target="_parent">Investor&nbsp;Relations</a>
                     </div>
@@ -832,21 +1318,15 @@
                         </div>
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../tools.html"><strong>Tools</strong></a> <a href="../tools/trading-tools.html" target="_parent">Trading Tools </a> <a href="../tools/trading-conditions.html" target="_parent">Trading Conditions </a>
-                                    <a href="../tools/holiday-hours-notices.html" target="_parent">Trading Hours &amp;
-                                        Holiday
-                                        Notice </a> <a href="../cfd-expiration-dates.html" target="_parent">CFD
-                                        Expiration Dates</a>
+                                <li><a href="../tools.html"><strong>Tools</strong></a> <a href="../tools/trading-tools.html" target="_parent">Trading Tools </a> <a href="../tools/trading-conditions.html" target="_parent">Trading Conditions </a> <a href="../tools/holiday-hours-notices.html" target="_parent">Trading Hours &amp; Holiday
+                                        Notice </a> <a href="../cfd-expiration-dates.html" target="_parent">CFD Expiration Dates</a>
 
                                     <a href="../scalping-policy.html" target="_parent">Scalping Policy</a></li>
                             </ul>
                         </div>
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../investor-relations.html"><strong>Partnership</strong></a> <a href="../partnership/introducing-brokers.html" target="_parent">Introducing
-                                        Brokers </a> <a href="../partnership/franchise-program.html" target="_parent">Franchise Program </a> <a href="../partnership/white-label.html" target="_parent">White Label </a> <a href="../partnership/prime-of-primes.html" target="_parent">Prime of Primes</a>
-                                    <a href="../partnership/cpa-affiliate-program.html" target="_parent">CPA Affiliate
-                                        Program</a>
+                                <li><a href="../investor-relations.html"><strong>Partnership</strong></a> <a href="../partnership/introducing-brokers.html" target="_parent">Introducing Brokers </a> <a href="../partnership/franchise-program.html" target="_parent">Franchise Program </a> <a href="../partnership/white-label.html" target="_parent">White Label </a> <a href="../partnership/prime-of-primes.html" target="_parent">Prime of Primes</a> <a href="../partnership/cpa-affiliate-program.html" target="_parent">CPA Affiliate Program</a>
                                 </li>
                             </ul>
                         </div>
@@ -867,19 +1347,13 @@
                         </div>
                     </div>
                     <p><a href="../privacy-policy.html" target="_parent">Privacy Policy </a> | <a href="../cookie-policy.html" target="_parent"> Cookie
-                            Policy</a> | <a href="../terms-conditions.html" target="_parent">Terms &amp; Conditions </a>
-                        | <a href="../website-disclaimer.html" target="_parent"> Website Disclaimer </a> | <a href="../risk-warning.html" target="_parent"> Risk
+                            Policy</a> | <a href="../terms-conditions.html" target="_parent">Terms &amp; Conditions </a> | <a href="../website-disclaimer.html" target="_parent"> Website Disclaimer </a> | <a href="../risk-warning.html" target="_parent"> Risk
                             Warning</a></p>
-                    <p>Copyright © : 2005-2020 MEX Group Worldwide Limited. All rights reserved. MultiBank Exchange is
-                        the
-                        trading name of MultiBank Forex Exchange Corporation incorporated in California, USA with
-                        Company
-                        No. 3918038. MultibankFX is the trading name of Multibank FX International Corporation (BVI)
-                        Company
-                        No. 1377324. High Risk Investment Warning: Trading foreign exchange and/or contracts for
-                        differences
-                        on margin carries a high level of risk, and may not be suitable for all investors. The
-                        possibility
+                    <p>Copyright © : 2005-2020 MEX Group Worldwide Limited. All rights reserved. MultiBank Exchange is the
+                        trading name of MultiBank Forex Exchange Corporation incorporated in California, USA with Company
+                        No. 3918038. MultibankFX is the trading name of Multibank FX International Corporation (BVI) Company
+                        No. 1377324. High Risk Investment Warning: Trading foreign exchange and/or contracts for differences
+                        on margin carries a high level of risk, and may not be suitable for all investors. The possibility
                         exists that you could sustain a loss in excess of your deposited funds. Please refer to specific
                         risk warning for each regulated entity during the account opening process.</p>
                 </div>
@@ -893,10 +1367,10 @@
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
             <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="../cdn-cgi/l/email-protection.html#016272416c746d756863606f6a67792f626e6c">
+        <a class="email-us-tg demo-account-btn email-btn" href="../cdn-cgi/l/email-protection.html#05667645687069716c67646b6e637d2b666a68">
             <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
-        <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-9ca329a262d339b1caf83797-="">
+        <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-81fd1278d9ff4cfee588db82-="">
             <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
@@ -997,9 +1471,9 @@
             <div class="col-12 col-md-7 mx-auto bg-white p-4">
                 <span class="btn-modal-close fa fa-times"></span>
                 <form action="https://www.multibankfx.com/form/contactus?" name='email_us_form' class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='email_us_form' target='' autocomplete='on'>
-                    <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTozMA==' />
-                    <input type='hidden' name='token' value='$2y$10$2Kj/ya4PbRXAHJ2FSh4.x.LljgDI/yOjN28XIz5YPytN8xunDNdhG' />
-                    <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:28] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:29] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:30] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/platforms/download-center?web=true' />
+                    <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToyNw==' />
+                    <input type='hidden' name='token' value='$2y$10$qPtB6s2.cFJnOs9wArwjCuQ086AkLS8U2BYlC6So9OZQ/niKqI5Nq' />
+                    <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:24] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:25] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:26] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:27] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/platforms/multibank-pro?web=true' />
                     <div class='col-12 p-0'>
                         <label for='' class='mex-h3'>
                             EMAIL US</label>
@@ -1057,8 +1531,7 @@
                             <option data-country_iso_code="BW" data-name='BW' value='BW'>BOTSWANA</option>
                             <option data-country_iso_code="BV" data-name='BV' value='BV'>BOUVET ISLAND</option>
                             <option data-country_iso_code="BR" data-name='BR' value='BR'>BRAZIL</option>
-                            <option data-country_iso_code="IO" data-name='IO' value='IO'>BRITISH INDIAN OCEAN TERRITORY
-                            </option>
+                            <option data-country_iso_code="IO" data-name='IO' value='IO'>BRITISH INDIAN OCEAN TERRITORY</option>
                             <option data-country_iso_code="BN" data-name='BN' value='BN'>BRUNEI DARUSSALAM</option>
                             <option data-country_iso_code="BG" data-name='BG' value='BG'>BULGARIA</option>
                             <option data-country_iso_code="BF" data-name='BF' value='BF'>BURKINA FASO</option>
@@ -1068,19 +1541,16 @@
                             <option data-country_iso_code="CA" data-name='CA' value='CA'>CANADA</option>
                             <option data-country_iso_code="CV" data-name='CV' value='CV'>CAPE VERDE</option>
                             <option data-country_iso_code="KY" data-name='KY' value='KY'>CAYMAN ISLANDS</option>
-                            <option data-country_iso_code="CF" data-name='CF' value='CF'>CENTRAL AFRICAN REPUBLIC
-                            </option>
+                            <option data-country_iso_code="CF" data-name='CF' value='CF'>CENTRAL AFRICAN REPUBLIC</option>
                             <option data-country_iso_code="TD" data-name='TD' value='TD'>CHAD</option>
                             <option data-country_iso_code="CL" data-name='CL' value='CL'>CHILE</option>
                             <option data-country_iso_code="CN" data-name='CN' value='CN'>CHINA</option>
                             <option data-country_iso_code="CX" data-name='CX' value='CX'>CHRISTMAS ISLAND</option>
-                            <option data-country_iso_code="CC" data-name='CC' value='CC'>COCOS (KEELING) ISLANDS
-                            </option>
+                            <option data-country_iso_code="CC" data-name='CC' value='CC'>COCOS (KEELING) ISLANDS</option>
                             <option data-country_iso_code="CO" data-name='CO' value='CO'>COLOMBIA</option>
                             <option data-country_iso_code="KM" data-name='KM' value='KM'>COMOROS</option>
                             <option data-country_iso_code="CG" data-name='CG' value='CG'>CONGO</option>
-                            <option data-country_iso_code="CD" data-name='CD' value='CD'>CONGO, THE DEMOCRATIC REPUBLIC
-                                OF THE</option>
+                            <option data-country_iso_code="CD" data-name='CD' value='CD'>CONGO, THE DEMOCRATIC REPUBLIC OF THE</option>
                             <option data-country_iso_code="CK" data-name='CK' value='CK'>COOK ISLANDS</option>
                             <option data-country_iso_code="CR" data-name='CR' value='CR'>COSTA RICA</option>
                             <option data-country_iso_code="CI" data-name='CI' value='CI'>COTE D'IVOIRE</option>
@@ -1099,16 +1569,14 @@
                             <option data-country_iso_code="ER" data-name='ER' value='ER'>ERITREA</option>
                             <option data-country_iso_code="EE" data-name='EE' value='EE'>ESTONIA</option>
                             <option data-country_iso_code="ET" data-name='ET' value='ET'>ETHIOPIA</option>
-                            <option data-country_iso_code="FK" data-name='FK' value='FK'>FALKLAND ISLANDS (MALVINAS)
-                            </option>
+                            <option data-country_iso_code="FK" data-name='FK' value='FK'>FALKLAND ISLANDS (MALVINAS)</option>
                             <option data-country_iso_code="FO" data-name='FO' value='FO'>FAROE ISLANDS</option>
                             <option data-country_iso_code="FJ" data-name='FJ' value='FJ'>FIJI</option>
                             <option data-country_iso_code="FI" data-name='FI' value='FI'>FINLAND</option>
                             <option data-country_iso_code="FR" data-name='FR' value='FR'>FRANCE</option>
                             <option data-country_iso_code="GF" data-name='GF' value='GF'>FRENCH GUIANA</option>
                             <option data-country_iso_code="PF" data-name='PF' value='PF'>FRENCH POLYNESIA</option>
-                            <option data-country_iso_code="TF" data-name='TF' value='TF'>FRENCH SOUTHERN TERRITORIES
-                            </option>
+                            <option data-country_iso_code="TF" data-name='TF' value='TF'>FRENCH SOUTHERN TERRITORIES</option>
                             <option data-country_iso_code="GA" data-name='GA' value='GA'>GABON</option>
                             <option data-country_iso_code="GM" data-name='GM' value='GM'>GAMBIA</option>
                             <option data-country_iso_code="GE" data-name='GE' value='GE'>GEORGIA</option>
@@ -1125,18 +1593,15 @@
                             <option data-country_iso_code="GW" data-name='GW' value='GW'>GUINEA-BISSAU</option>
                             <option data-country_iso_code="GY" data-name='GY' value='GY'>GUYANA</option>
                             <option data-country_iso_code="HT" data-name='HT' value='HT'>HAITI</option>
-                            <option data-country_iso_code="HM" data-name='HM' value='HM'>HEARD ISLAND AND MCDONALD
-                                ISLANDS</option>
-                            <option data-country_iso_code="VA" data-name='VA' value='VA'>HOLY SEE (VATICAN CITY STATE)
-                            </option>
+                            <option data-country_iso_code="HM" data-name='HM' value='HM'>HEARD ISLAND AND MCDONALD ISLANDS</option>
+                            <option data-country_iso_code="VA" data-name='VA' value='VA'>HOLY SEE (VATICAN CITY STATE)</option>
                             <option data-country_iso_code="HN" data-name='HN' value='HN'>HONDURAS</option>
                             <option data-country_iso_code="HK" data-name='HK' value='HK'>HONG KONG</option>
                             <option data-country_iso_code="HU" data-name='HU' value='HU'>HUNGARY</option>
                             <option data-country_iso_code="IS" data-name='IS' value='IS'>ICELAND</option>
                             <option data-country_iso_code="IN" data-name='IN' value='IN'>INDIA</option>
                             <option data-country_iso_code="ID" data-name='ID' value='ID'>INDONESIA</option>
-                            <option data-country_iso_code="IR" data-name='IR' value='IR'>IRAN, ISLAMIC REPUBLIC OF
-                            </option>
+                            <option data-country_iso_code="IR" data-name='IR' value='IR'>IRAN, ISLAMIC REPUBLIC OF</option>
                             <option data-country_iso_code="IQ" data-name='IQ' value='IQ'>IRAQ</option>
                             <option data-country_iso_code="IE" data-name='IE' value='IE'>IRELAND</option>
                             <option data-country_iso_code="IL" data-name='IL' value='IL'>ISRAEL</option>
@@ -1147,13 +1612,11 @@
                             <option data-country_iso_code="KZ" data-name='KZ' value='KZ'>KAZAKHSTAN</option>
                             <option data-country_iso_code="KE" data-name='KE' value='KE'>KENYA</option>
                             <option data-country_iso_code="KI" data-name='KI' value='KI'>KIRIBATI</option>
-                            <option data-country_iso_code="KP" data-name='KP' value='KP'>KOREA, DEMOCRATIC PEOPLE'S
-                                REPUBLIC OF</option>
+                            <option data-country_iso_code="KP" data-name='KP' value='KP'>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</option>
                             <option data-country_iso_code="KR" data-name='KR' value='KR'>KOREA, REPUBLIC OF</option>
                             <option data-country_iso_code="KW" data-name='KW' value='KW'>KUWAIT</option>
                             <option data-country_iso_code="KG" data-name='KG' value='KG'>KYRGYZSTAN</option>
-                            <option data-country_iso_code="LA" data-name='LA' value='LA'>LAO PEOPLE'S DEMOCRATIC
-                                REPUBLIC</option>
+                            <option data-country_iso_code="LA" data-name='LA' value='LA'>LAO PEOPLE'S DEMOCRATIC REPUBLIC</option>
                             <option data-country_iso_code="LV" data-name='LV' value='LV'>LATVIA</option>
                             <option data-country_iso_code="LB" data-name='LB' value='LB'>LEBANON</option>
                             <option data-country_iso_code="LS" data-name='LS' value='LS'>LESOTHO</option>
@@ -1163,8 +1626,7 @@
                             <option data-country_iso_code="LT" data-name='LT' value='LT'>LITHUANIA</option>
                             <option data-country_iso_code="LU" data-name='LU' value='LU'>LUXEMBOURG</option>
                             <option data-country_iso_code="MO" data-name='MO' value='MO'>MACAO</option>
-                            <option data-country_iso_code="MK" data-name='MK' value='MK'>MACEDONIA, THE FORMER YUGOSLAV
-                                REPUBLIC OF</option>
+                            <option data-country_iso_code="MK" data-name='MK' value='MK'>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</option>
                             <option data-country_iso_code="MG" data-name='MG' value='MG'>MADAGASCAR</option>
                             <option data-country_iso_code="MW" data-name='MW' value='MW'>MALAWI</option>
                             <option data-country_iso_code="MY" data-name='MY' value='MY'>MALAYSIA</option>
@@ -1177,8 +1639,7 @@
                             <option data-country_iso_code="MU" data-name='MU' value='MU'>MAURITIUS</option>
                             <option data-country_iso_code="YT" data-name='YT' value='YT'>MAYOTTE</option>
                             <option data-country_iso_code="MX" data-name='MX' value='MX'>MEXICO</option>
-                            <option data-country_iso_code="FM" data-name='FM' value='FM'>MICRONESIA, FEDERATED STATES OF
-                            </option>
+                            <option data-country_iso_code="FM" data-name='FM' value='FM'>MICRONESIA, FEDERATED STATES OF</option>
                             <option data-country_iso_code="MD" data-name='MD' value='MD'>MOLDOVA, REPUBLIC OF</option>
                             <option data-country_iso_code="MC" data-name='MC' value='MC'>MONACO</option>
                             <option data-country_iso_code="MN" data-name='MN' value='MN'>MONGOLIA</option>
@@ -1199,8 +1660,7 @@
                             <option data-country_iso_code="NG" data-name='NG' value='NG'>NIGERIA</option>
                             <option data-country_iso_code="NU" data-name='NU' value='NU'>NIUE</option>
                             <option data-country_iso_code="NF" data-name='NF' value='NF'>NORFOLK ISLAND</option>
-                            <option data-country_iso_code="MP" data-name='MP' value='MP'>NORTHERN MARIANA ISLANDS
-                            </option>
+                            <option data-country_iso_code="MP" data-name='MP' value='MP'>NORTHERN MARIANA ISLANDS</option>
                             <option data-country_iso_code="NO" data-name='NO' value='NO'>NORWAY</option>
                             <option data-country_iso_code="OM" data-name='OM' value='OM'>OMAN</option>
                             <option data-country_iso_code="PK" data-name='PK' value='PK'>PAKISTAN</option>
@@ -1223,10 +1683,8 @@
                             <option data-country_iso_code="SH" data-name='SH' value='SH'>SAINT HELENA</option>
                             <option data-country_iso_code="KN" data-name='KN' value='KN'>SAINT KITTS AND NEVIS</option>
                             <option data-country_iso_code="LC" data-name='LC' value='LC'>SAINT LUCIA</option>
-                            <option data-country_iso_code="PM" data-name='PM' value='PM'>SAINT PIERRE AND MIQUELON
-                            </option>
-                            <option data-country_iso_code="VC" data-name='VC' value='VC'>SAINT VINCENT AND THE
-                                GRENADINES</option>
+                            <option data-country_iso_code="PM" data-name='PM' value='PM'>SAINT PIERRE AND MIQUELON</option>
+                            <option data-country_iso_code="VC" data-name='VC' value='VC'>SAINT VINCENT AND THE GRENADINES</option>
                             <option data-country_iso_code="WS" data-name='WS' value='WS'>SAMOA</option>
                             <option data-country_iso_code="SM" data-name='SM' value='SM'>SAN MARINO</option>
                             <option data-country_iso_code="ST" data-name='ST' value='ST'>SAO TOME AND PRINCIPE</option>
@@ -1241,8 +1699,7 @@
                             <option data-country_iso_code="SB" data-name='SB' value='SB'>SOLOMON ISLANDS</option>
                             <option data-country_iso_code="SO" data-name='SO' value='SO'>SOMALIA</option>
                             <option data-country_iso_code="ZA" data-name='ZA' value='ZA'>SOUTH AFRICA</option>
-                            <option data-country_iso_code="GS" data-name='GS' value='GS'>SOUTH GEORGIA AND THE SOUTH
-                                SANDWICH ISLANDS</option>
+                            <option data-country_iso_code="GS" data-name='GS' value='GS'>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</option>
                             <option data-country_iso_code="ES" data-name='ES' value='ES'>SPAIN</option>
                             <option data-country_iso_code="LK" data-name='LK' value='LK'>SRI LANKA</option>
                             <option data-country_iso_code="SD" data-name='SD' value='SD'>SUDAN</option>
@@ -1252,11 +1709,9 @@
                             <option data-country_iso_code="SE" data-name='SE' value='SE'>SWEDEN</option>
                             <option data-country_iso_code="CH" data-name='CH' value='CH'>SWITZERLAND</option>
                             <option data-country_iso_code="SY" data-name='SY' value='SY'>SYRIAN ARAB REPUBLIC</option>
-                            <option data-country_iso_code="TW" data-name='TW' value='TW'>TAIWAN, PROVINCE OF CHINA
-                            </option>
+                            <option data-country_iso_code="TW" data-name='TW' value='TW'>TAIWAN, PROVINCE OF CHINA</option>
                             <option data-country_iso_code="TJ" data-name='TJ' value='TJ'>TAJIKISTAN</option>
-                            <option data-country_iso_code="TZ" data-name='TZ' value='TZ'>TANZANIA, UNITED REPUBLIC OF
-                            </option>
+                            <option data-country_iso_code="TZ" data-name='TZ' value='TZ'>TANZANIA, UNITED REPUBLIC OF</option>
                             <option data-country_iso_code="TH" data-name='TH' value='TH'>THAILAND</option>
                             <option data-country_iso_code="TL" data-name='TL' value='TL'>TIMOR-LESTE</option>
                             <option data-country_iso_code="TG" data-name='TG' value='TG'>TOGO</option>
@@ -1266,23 +1721,20 @@
                             <option data-country_iso_code="TN" data-name='TN' value='TN'>TUNISIA</option>
                             <option data-country_iso_code="TR" data-name='TR' value='TR'>TURKEY</option>
                             <option data-country_iso_code="TM" data-name='TM' value='TM'>TURKMENISTAN</option>
-                            <option data-country_iso_code="TC" data-name='TC' value='TC'>TURKS AND CAICOS ISLANDS
-                            </option>
+                            <option data-country_iso_code="TC" data-name='TC' value='TC'>TURKS AND CAICOS ISLANDS</option>
                             <option data-country_iso_code="TV" data-name='TV' value='TV'>TUVALU</option>
                             <option data-country_iso_code="UG" data-name='UG' value='UG'>UGANDA</option>
                             <option data-country_iso_code="UA" data-name='UA' value='UA'>UKRAINE</option>
                             <option data-country_iso_code="AE" data-name='AE' value='AE'>UNITED ARAB EMIRATES</option>
                             <option data-country_iso_code="GB" data-name='GB' value='GB'>UNITED KINGDOM</option>
                             <option data-country_iso_code="US" data-name='US' value='US'>UNITED STATES</option>
-                            <option data-country_iso_code="UM" data-name='UM' value='UM'>UNITED STATES MINOR OUTLYING
-                                ISLANDS</option>
+                            <option data-country_iso_code="UM" data-name='UM' value='UM'>UNITED STATES MINOR OUTLYING ISLANDS</option>
                             <option data-country_iso_code="UY" data-name='UY' value='UY'>URUGUAY</option>
                             <option data-country_iso_code="UZ" data-name='UZ' value='UZ'>UZBEKISTAN</option>
                             <option data-country_iso_code="VU" data-name='VU' value='VU'>VANUATU</option>
                             <option data-country_iso_code="VE" data-name='VE' value='VE'>VENEZUELA</option>
                             <option data-country_iso_code="VN" data-name='VN' value='VN'>VIET NAM</option>
-                            <option data-country_iso_code="VG" data-name='VG' value='VG'>VIRGIN ISLANDS, BRITISH
-                            </option>
+                            <option data-country_iso_code="VG" data-name='VG' value='VG'>VIRGIN ISLANDS, BRITISH</option>
                             <option data-country_iso_code="VI" data-name='VI' value='VI'>VIRGIN ISLANDS, U.S.</option>
                             <option data-country_iso_code="WF" data-name='WF' value='WF'>WALLIS AND FUTUNA</option>
                             <option data-country_iso_code="EH" data-name='EH' value='EH'>WESTERN SAHARA</option>
@@ -1311,7 +1763,7 @@
                         <label for='order_message' class='d-block'>
                         </label>
                         <textarea data-message='Message is Required.' data-extra-message="Message is Invalid." data-regex='' class=' form-control w-100 ta-message' name='message' id='order_message' placeholder=''>Hello, I am interested in learning more about MultiBank products and services. Could you please contact me</textarea>
-                    </div><button type='submit' class='btn btn-mex ml-auto btn-submit' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-9ca329a262d339b1caf83797-="">SEND</button>
+                    </div><button type='submit' class='btn btn-mex ml-auto btn-submit' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-81fd1278d9ff4cfee588db82-="">SEND</button>
                 </form>
             </div>
         </div>
@@ -1365,7 +1817,7 @@
         }
     </style>
     <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script type="9ca329a262d339b1caf83797-text/javascript">
+    <script type="81fd1278d9ff4cfee588db82-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
                 e.preventDefault();
@@ -1377,13 +1829,13 @@
             });
         })
     </script>
-    <script src="../public_files/static_js/lang_data/en.js" type="9ca329a262d339b1caf83797-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.dataTables.min.js" type="9ca329a262d339b1caf83797-text/javascript"></script>
-    <script src="../public_files/static_js/lazysizes.min.js" type="9ca329a262d339b1caf83797-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.validate.min.js" type="9ca329a262d339b1caf83797-text/javascript"></script>
-    <script src="../public_files/static_js/intlTelInput.min.js" type="9ca329a262d339b1caf83797-text/javascript"></script>
-    <script src="../public_files/static_js/app.js" type="9ca329a262d339b1caf83797-text/javascript"></script>
-    <script type="9ca329a262d339b1caf83797-text/javascript" async>
+    <script src="../public_files/static_js/lang_data/en.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script src="../public_files/static_js/jquery.dataTables.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script src="../public_files/static_js/lazysizes.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script src="../public_files/static_js/jquery.validate.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script src="../public_files/static_js/intlTelInput.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script src="../public_files/static_js/app.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script type="81fd1278d9ff4cfee588db82-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
             window.__lc = window.__lc || {};
@@ -1413,7 +1865,7 @@
             })();
         }
     </script>
-    <script type="9ca329a262d339b1caf83797-text/javascript">
+    <script type="81fd1278d9ff4cfee588db82-text/javascript">
         $(function() {
             $('.mex-translatable').each(function() {
                 var url_parts = location.hostname.split('.');
@@ -1446,12 +1898,12 @@
             }
         });
     </script>
-    <script type="9ca329a262d339b1caf83797-text/javascript">
+    <script type="81fd1278d9ff4cfee588db82-text/javascript">
         $(function() {
             $('form:not("#demo_competition_form_2019_08_13") .sms_verif_code').val('215121');
         });
     </script>
-    <script type="9ca329a262d339b1caf83797-text/javascript">
+    <script type="81fd1278d9ff4cfee588db82-text/javascript">
         $(function() {
             var iframe_ibnum = getUrlVars()['ibNum'];
             var is_iframe = getUrlVars()['is_iframe'];
@@ -1469,7 +1921,7 @@
             }
         });
     </script>
-    <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="9ca329a262d339b1caf83797-|49" defer=""></script>
+    <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="81fd1278d9ff4cfee588db82-|49" defer=""></script>
 </body>
 
 </html>

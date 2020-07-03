@@ -86,7 +86,7 @@
 
 }
 .mex-side-full >div > div {
-    display: block;
+    /* display: block; */
     text-align: right;
 }
 .text-left{
@@ -240,20 +240,20 @@ section.bg-white{
     margin-left: 100% !important;
 }
 .mex-img-cover{
-    transform: rotate3d(0,82,0,180deg);
+    transform: rotate3d(0,1,0,180deg);
 }
 .mex-h1.text-left{
     text-align: right !important;
 }
 .mex-content.mex-m-b-30{
-    text-align: right !important;
+    /* text-align: right !important; */
 }
 .mex-content.mb0.text-left{
     text-align: right !important;
 }
 
 .container .row:first-child{
-    /* direction: rtl; */
+    direction: rtl;
 }
 .st-grow-wealth-list{
     direction: rtl;
@@ -266,7 +266,7 @@ section.bg-white{
 }
 
 .mex-img-cover{
-    transform: rotateX(0deg);
+    /* transform: rotateX(0deg); */
 }
 
 .st-banner-text-container div:first-child{
@@ -327,7 +327,7 @@ section.bg-white{
 }
 
 .mex-img-cover{
-    transform: rotate3d(0, 1, 0, 180deg);
+    /* transform: rotate3d(0, 1, 0, 180deg); */
 }
 
 .mex-list-icon-check li {
@@ -344,11 +344,80 @@ section.bg-white{
 .browser-list{
     text-align: right;
 }
+
+.book-content-ul {
+    list-style: disc;
+    margin-right: 15px;
+    direction: rtl;
+}
+.row.book-content-inner{
+    direction: rtl;
+}
+
+.avant-memo-contianer{
+    text-align: right;
+    direction: rtl;
+}
+
+.form-group{
+    text-align: right !important;
+}
+
+.table-background.islamic .container .row:nth-child(2) div .mex-content{
+    direction: rtl;
+}
+.withdraw-header::after{
+    right: auto !important;
+}
+
+#exchange_table tbody tr td,#multibank_table tbody tr td{
+    text-align: right !important;
+}
+#exchange_table thead tr th,#multibank_table thead tr th{
+    text-align: right !important;
+}
+
+.border-right-blue{
+    position: absolute;
+    border: 1px solid #818CCB;
+    height: 80%;
+    left: 0;
+    top: 10%;
+    right: 100% !important;
+}
+
+.container .row .col-xs-12.col-md-8.offset-md-2{
+    margin-left: auto;
+    margin-right: auto;
+}
+.container .row .col-xs-12.col-md-8.offset-md-2:nth-child(4){
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-xs-12.col-md-8.offset-md-2{
+    margin: auto;
+}
+
+.offset-md-2.col-md-8.text-left{
+    text-align: right !important;
+    margin: auto;
+}
+
+.mex-h3.mex-m-b-30 strong{
+    text-align: right !important;
+    align-self: flex-end;
+    display: flex;
+    margin-left: auto;
+    width: max-content;
+}
 /* Paragraphs to align right */
 p{
     text-align: right;
 }
 
+.text-center p {
+    text-align: center !important;
+}
 @media (min-width: 992px){
 .milestone-container img{
     padding-left: 1rem!important;

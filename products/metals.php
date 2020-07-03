@@ -1,7 +1,67 @@
 <!DOCTYPE html>
 <html lang='en'>
-<head>
-    <?php include_from_root('website_template/head.php');?>
+<head><meta charset='UTF-8'><meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Trade Metals - Trade Gold and Silver with MultiBank</title>
+<meta name='description' content="Access instant executions, position tracking, account management and narrow spreads with MultiBank. Tight spreads from 8 cents on Gold & 3 cents on Silver.">
+<meta name='keywords' content="multibank metals, metals trading, trade metals, metals trade, trading metals, trade gold with multibank, multibank precious metals trade, gold and silver trading broker, advantages of metals trading, gold and silver spreads, tightest spreads on metals, be">
+<meta property='og:title' content="Trade Metals - Trade Gold and Silver with MultiBank">
+<meta property='og:description' content="Access instant executions, position tracking, account management and narrow spreads with MultiBank. Tight spreads from 8 cents on Gold & 3 cents on Silver.">
+<link rel='canonical' href="metals.html">
+<link rel="alternate" href="https://es.multibankfx.com/products/metals" hreflang="es-ES" />
+<link rel="alternate" href="https://ru.multibankfx.com/products/metals" hreflang="ru-RU" />
+<link rel="alternate" href="https://ae.multibankfx.com/products/metals" hreflang="en-ae" />
+<link rel="alternate" href="https://vn.multibankfx.com/products/metals" hreflang="vi-VN" />
+<link rel="alternate" href="https://id.multibankfx.com/products/metals" hreflang="id-ID" />
+<link rel="alternate" href="https://mys.multibankfx.com/products/metals" hreflang="ms-MY" />
+<link rel="alternate" href="https://ph.multibankfx.com/products/metals" hreflang="tl-PH" />
+<link rel="alternate" href="https://th.multibankfx.com/products/metals" hreflang="th-TH" />
+<link rel="alternate" href="https://fr.multibankfx.com/products/metals" hreflang="fr-FR" />
+<link rel="alternate" href="metals.html" hreflang="x-default" />
+
+<script type="861480a3e7e307a7a0686a5e-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNJQJTN');</script>
+<link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
+<link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
+<link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
+<link rel="stylesheet" href="../public_files/static_css/custom.css">
+<style>
+    form {
+        position: relative;
+    }
+
+    .form-loader-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 50;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+form:not(#demo_competition_form_2019_08_13) .sms-code-container{
+display:none;
+
+}
+form:not(#demo_competition_form_2019_08_13) .send-code-container{display:none;}
+
+.multibank-form label.error {
+    font-size: 1.1rem;
+
+}
+
+.h-00 {
+    height: 0;
+}
+</style>
+<script src="../public_files/static_js/jquery-3.3.1.min.js" type="861480a3e7e307a7a0686a5e-text/javascript"></script>
+<script type="861480a3e7e307a7a0686a5e-text/javascript">const page_dir = 'ltr';</script>
 </head>
 <body>
 
@@ -1146,8 +1206,8 @@ Phone</label>
 <script src="../public_files/static_js/lang_data/en.js" type="861480a3e7e307a7a0686a5e-text/javascript"></script><script src="../public_files/static_js/jquery.dataTables.min.js" type="861480a3e7e307a7a0686a5e-text/javascript"></script>
 <script src="../public_files/static_js/lazysizes.min.js" type="861480a3e7e307a7a0686a5e-text/javascript"></script>
 <script src="../public_files/static_js/jquery.validate.min.js" type="861480a3e7e307a7a0686a5e-text/javascript"></script>
-<script src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128" type="861480a3e7e307a7a0686a5e-text/javascript"></script>
-<script src="../public_files/static_js/app.js%3Fversion=20200612" type="861480a3e7e307a7a0686a5e-text/javascript"></script>
+<script src="../public_files/static_js/intlTelInput.min.js" type="861480a3e7e307a7a0686a5e-text/javascript"></script>
+<script src="../public_files/static_js/app.js" type="861480a3e7e307a7a0686a5e-text/javascript"></script>
 <script type="861480a3e7e307a7a0686a5e-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {

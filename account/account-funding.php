@@ -1,7 +1,78 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-    <?php include_from_root('website_template/head.php');?>
+    <meta charset='UTF-8'>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Methods to Deposit Funds to Your MultiBank Trading Account</title>
+    <meta name='description'
+          content="MultiBank offers a wide selection of instant, simple and secure payment options for deposits and withdrawals. Fund your trading account with ease.">
+    <meta name='keywords'
+          content="account funding, fund forex account, fund trading account, transfer fund to trading account, forex deposit account, fund your live account, transfer forex funds,  secure forex deposits, forex account payment option, fx deposit options, deposit via multiba">
+    <meta property='og:title' content="Methods to Deposit Funds to Your MultiBank Trading Account">
+    <meta property='og:description'
+          content="MultiBank offers a wide selection of instant, simple and secure payment options for deposits and withdrawals. Fund your trading account with ease.">
+    <link rel='canonical' href="account-funding.html">
+    <link rel="alternate" href="https://es.multibankfx.com/account/account-funding" hreflang="es-ES"/>
+    <link rel="alternate" href="https://ru.multibankfx.com/account/account-funding" hreflang="ru-RU"/>
+    <link rel="alternate" href="https://ae.multibankfx.com/account/account-funding" hreflang="en-ae"/>
+    <link rel="alternate" href="https://vn.multibankfx.com/account/account-funding" hreflang="vi-VN"/>
+    <link rel="alternate" href="https://id.multibankfx.com/account/account-funding" hreflang="id-ID"/>
+    <link rel="alternate" href="https://mys.multibankfx.com/account/account-funding" hreflang="ms-MY"/>
+    <link rel="alternate" href="https://ph.multibankfx.com/account/account-funding" hreflang="tl-PH"/>
+    <link rel="alternate" href="https://th.multibankfx.com/account/account-funding" hreflang="th-TH"/>
+    <link rel="alternate" href="https://fr.multibankfx.com/account/account-funding" hreflang="fr-FR"/>
+    <link rel="alternate" href="account-funding.html" hreflang="x-default"/>
+
+    <script type="6864ba4d28184620dfa2cc29-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNJQJTN');
+    </script>
+    <link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
+    <link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
+    <link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
+    <link rel="stylesheet" href="../public_files/static_css/custom.css">
+    <style>
+        form {
+            position: relative;
+        }
+
+        .form-loader-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 50;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        form:not(#demo_competition_form_2019_08_13) .sms-code-container {
+            display: none;
+
+        }
+
+        form:not(#demo_competition_form_2019_08_13) .send-code-container {
+            display: none;
+        }
+
+        .multibank-form label.error {
+            font-size: 1.1rem;
+
+        }
+
+        .h-00 {
+            height: 0;
+        }
+    </style>
+    <script src="../public_files/static_js/jquery-3.3.1.min.js"
+            type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script type="6864ba4d28184620dfa2cc29-text/javascript">const page_dir = 'ltr';</script>
 </head>
 <body>
 
@@ -292,7 +363,7 @@
                                             </tr>
                                             <tr>
                                                 <td><img
-                                                        src="../public_files/images/payment_gateway/thunderx_logo.png%3Ft=1"
+                                                        src="../public_files/images/payment_gateway/thunderx_logo.png"
                                                         alt="Thunder X Pay"></td>
                                                 <td>KHR, LAK, MMK, THB</td>
                                                 <td>Processed within 24 hours</td>
@@ -2109,9 +2180,9 @@ $(function() {
         type="6864ba4d28184620dfa2cc29-text/javascript"></script>
 <script src="../public_files/static_js/lazysizes.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
 <script src="../public_files/static_js/jquery.validate.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-<script src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
+<script src="../public_files/static_js/intlTelInput.min.js"
         type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-<script src="../public_files/static_js/app.js%3Fversion=20200612"
+<script src="../public_files/static_js/app.js"
         type="6864ba4d28184620dfa2cc29-text/javascript"></script>
 <script type="6864ba4d28184620dfa2cc29-text/javascript" async>
     url = new URL(window.location.href);

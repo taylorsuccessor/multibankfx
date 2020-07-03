@@ -1,7 +1,205 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-    <?php include_from_root('website_template/head.php');?>
+<head>
+    <meta charset='UTF-8'>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Open Forex Live Account with MultiBank Group</title>
+    <meta name='description'
+          content="Open a live trading account with as little as US$50. Quick and easy sign up to start trading forex, metals, shares, indices, commodities, oil and stocks.">
+    <meta name='keywords'
+          content="live account, multibank live account, real account, real trading account, trading account, open live forex account, live trading account, trade forex account, multibank forex account, start trading forex, online forex broker, instant application for tradi">
+    <meta property='og:title' content="Open Forex Live Account with MultiBank Group">
+    <meta property='og:description'
+          content="Open a live trading account with as little as US$50. Quick and easy sign up to start trading forex, metals, shares, indices, commodities, oil and stocks.">
+    <link rel='canonical' href="live-account.html">
+    <link rel="alternate" href="https://es.multibankfx.com/account/live-account" hreflang="es-ES"/>
+    <link rel="alternate" href="https://ru.multibankfx.com/account/live-account" hreflang="ru-RU"/>
+    <link rel="alternate" href="https://ae.multibankfx.com/account/live-account" hreflang="en-ae"/>
+    <link rel="alternate" href="https://vn.multibankfx.com/account/live-account" hreflang="vi-VN"/>
+    <link rel="alternate" href="https://id.multibankfx.com/account/live-account" hreflang="id-ID"/>
+    <link rel="alternate" href="https://mys.multibankfx.com/account/live-account" hreflang="ms-MY"/>
+    <link rel="alternate" href="https://ph.multibankfx.com/account/live-account" hreflang="tl-PH"/>
+    <link rel="alternate" href="https://th.multibankfx.com/account/live-account" hreflang="th-TH"/>
+    <link rel="alternate" href="https://fr.multibankfx.com/account/live-account" hreflang="fr-FR"/>
+    <link rel="alternate" href="live-account.html" hreflang="x-default"/>
+
+    <script type="b9b486becb7a1226308afcfc-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNJQJTN');
+    </script>
+    <link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
+    <link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
+    <link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
+    <link rel="stylesheet" href="../public_files/static_css/custom.css">
+    <style>
+        form {
+            position: relative;
+        }
+
+        .form-loader-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 50;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        form:not(#demo_competition_form_2019_08_13) .sms-code-container {
+            display: none;
+
+        }
+
+        form:not(#demo_competition_form_2019_08_13) .send-code-container {
+            display: none;
+        }
+
+        .multibank-form label.error {
+            font-size: 1.1rem;
+
+        }
+
+        .h-00 {
+            height: 0;
+        }
+    </style>
+    <script src="../public_files/static_js/jquery-3.3.1.min.js"
+            type="b9b486becb7a1226308afcfc-text/javascript"></script>
+    <script type="b9b486becb7a1226308afcfc-text/javascript">const page_dir = 'ltr';</script>
+    <style>
+        .file-dropzone__container {
+            width: 100%;
+        }
+
+        .file-dropzone {
+            width: 100%;
+            min-height: 120px;
+
+            position: relative;
+
+            padding: 32px 20px;
+
+            border-radius: 10px;
+            border: 1px dashed rgba(0, 0, 0, 0.3);
+
+            box-sizing: border-box;
+            cursor: pointer;
+
+            background-color: #E3E3E3;
+        }
+
+        .file-dropzone__label {
+            position: absolute;
+            bottom: 50%;
+            left: 50%;
+            transform: translate(-50%, 50%);
+
+            margin-bottom: 0;
+            line-height: 1;
+
+            transition: all 0.4s;
+        }
+
+        .file-dropzone__label.yield-files {
+            top: unset;
+            bottom: 5px;
+            left: 20px;
+            transform: translate(0, 0);
+        }
+
+        .file-dropzone.disabled {
+            background-color: #FFF;
+            border-color: rgba(0, 0, 0, 0.3);
+        }
+
+        .file-dropzone.disabled .file-dropzone__label {
+            color: rgba(255, 0, 0, 0.7);
+        }
+
+        .file-dropzone__files {
+            width: 100%;
+
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-start;
+
+            z-index: 2;
+        }
+
+        .file-dropzone__file {
+            padding: 15px 25px;
+            margin-right: 15px;
+            margin-bottom: 15px;
+
+            background-color: #BEBEBE;
+            border-radius: 4px;
+        }
+
+        .file-dropzone__file--name {
+            font-size: 16px;
+            line-height: 1;
+            margin-bottom: 5px;
+        }
+
+        .file-dropzone__file--size {
+            font-size: 12px;
+            color: rgba(0, 0, 0, 0.6);
+            line-height: 1;
+        }
+
+        .file-dropzone__input {
+            position: absolute;
+            top: 0;
+            left: 0;
+            opacity: 0;
+            width: 100%;
+            height: 100%;
+            display: block;
+
+            z-index: 10;
+
+            cursor: pointer;
+        }
+
+        /* Clear All Button */
+        .file-dropzone__btn-clear {
+            height: 25px;
+
+            display: none;
+            align-items: center;
+
+            position: absolute;
+            bottom: 5px;
+            right: 5px;
+
+            padding: 0 7px;
+            border-radius: 4px;
+            border: 2px solid rgba(0, 0, 0, 0.7);
+
+            font-size: 12px;
+            line-height: 1;
+            z-index: 11;
+
+            transition: background-color 0.3s;
+        }
+
+        .file-dropzone__btn-clear.show {
+            display: flex;
+        }
+
+        .file-dropzone__btn-clear:hover {
+            background-color: rgba(0, 0, 0, 0.3);
+        }
+    </style>
+</head>
 </head>
 <body>
 
@@ -12,7 +210,7 @@
         width: 35px;
         height: 35px;
 
-        display: flex;
+        display: flex; 
         justify-content: center;
         align-items: center;
 
@@ -2313,9 +2511,9 @@
         type="b9b486becb7a1226308afcfc-text/javascript"></script>
 <script src="../public_files/static_js/lazysizes.min.js" type="b9b486becb7a1226308afcfc-text/javascript"></script>
 <script src="../public_files/static_js/jquery.validate.min.js" type="b9b486becb7a1226308afcfc-text/javascript"></script>
-<script src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
+<script src="../public_files/static_js/intlTelInput.min.js"
         type="b9b486becb7a1226308afcfc-text/javascript"></script>
-<script src="../public_files/static_js/app.js%3Fversion=20200612"
+<script src="../public_files/static_js/app.js"
         type="b9b486becb7a1226308afcfc-text/javascript"></script>
 <script type="b9b486becb7a1226308afcfc-text/javascript" async>
     url = new URL(window.location.href);

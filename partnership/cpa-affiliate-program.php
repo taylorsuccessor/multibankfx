@@ -1,7 +1,69 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-    <?php include_from_root('website_template/head.php');?>
+<head><meta charset='UTF-8'><meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Forex CPA Affiliate Program - Join MultiBank Now and Earn Referral Commission</title>
+<meta name='description' content="MultiBank’s CPA Affiliate Program allows digital marketers and influences of the forex community to earn commission for every active trader they introduce.">
+<meta name='keywords' content="cpa affiliate program, cpa affiliate, affiliates, affiliate programs, cpa, cpa affiliate, multibank affiliate, multibank cpa affiliate program, multibank brand guidelines, download multibank brand, forex affiliate program, forex marketing program, financi">
+<meta property='og:title' content="Forex CPA Affiliate Program - Join MultiBank Now and Earn Referral Commission">
+<meta property='og:description' content="MultiBank’s CPA Affiliate Program allows digital marketers and influences of the forex community to earn commission for every active trader they introduce.">
+<link rel='canonical' href="cpa-affiliate-program.html">
+<link rel="alternate" href="https://es.multibankfx.com/partnership/cpa-affiliate-program" hreflang="es-ES" />
+<link rel="alternate" href="https://ru.multibankfx.com/partnership/cpa-affiliate-program" hreflang="ru-RU" />
+<link rel="alternate" href="https://ae.multibankfx.com/partnership/cpa-affiliate-program" hreflang="en-ae" />
+<link rel="alternate" href="https://vn.multibankfx.com/partnership/cpa-affiliate-program" hreflang="vi-VN" />
+<link rel="alternate" href="https://id.multibankfx.com/partnership/cpa-affiliate-program" hreflang="id-ID" />
+<link rel="alternate" href="https://mys.multibankfx.com/partnership/cpa-affiliate-program" hreflang="ms-MY" />
+<link rel="alternate" href="https://ph.multibankfx.com/partnership/cpa-affiliate-program" hreflang="tl-PH" />
+<link rel="alternate" href="https://th.multibankfx.com/partnership/cpa-affiliate-program" hreflang="th-TH" />
+<link rel="alternate" href="https://fr.multibankfx.com/partnership/cpa-affiliate-program" hreflang="fr-FR" />
+<link rel="alternate" href="cpa-affiliate-program.html" hreflang="x-default" />
+
+<script type="2623d498cdd94b5e7a00da13-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNJQJTN');</script>
+<link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
+<link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
+<link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
+<link rel="stylesheet" href="../public_files/static_min_css/custom.css">
+<style>
+    form {
+        position: relative;
+    }
+
+    .form-loader-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 50;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+form:not(#demo_competition_form_2019_08_13) .sms-code-container{
+display:none;
+
+}
+form:not(#demo_competition_form_2019_08_13) .send-code-container{display:none;}
+
+.multibank-form label.error {
+    font-size: 1.1rem;
+
+}
+
+.h-00 {
+    height: 0;
+}
+</style>
+<script src="../public_files/static_js/jquery-3.3.1.min.js" type="2623d498cdd94b5e7a00da13-text/javascript"></script>
+<script type="2623d498cdd94b5e7a00da13-text/javascript">const page_dir = 'ltr';</script>
+</head>
 </head>
 <body>
 
@@ -1398,8 +1460,8 @@ Phone</label>
 <script src="../public_files/static_js/lang_data/en.js" type="2623d498cdd94b5e7a00da13-text/javascript"></script><script src="../public_files/static_js/jquery.dataTables.min.js" type="2623d498cdd94b5e7a00da13-text/javascript"></script>
 <script src="../public_files/static_js/lazysizes.min.js" type="2623d498cdd94b5e7a00da13-text/javascript"></script>
 <script src="../public_files/static_js/jquery.validate.min.js" type="2623d498cdd94b5e7a00da13-text/javascript"></script>
-<script src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128" type="2623d498cdd94b5e7a00da13-text/javascript"></script>
-<script src="../public_files/static_js/app.js%3Fversion=20200612" type="2623d498cdd94b5e7a00da13-text/javascript"></script>
+<script src="../public_files/static_js/intlTelInput.min.js" type="2623d498cdd94b5e7a00da13-text/javascript"></script>
+<script src="../public_files/static_js/app.js" type="2623d498cdd94b5e7a00da13-text/javascript"></script>
 <script type="2623d498cdd94b5e7a00da13-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {

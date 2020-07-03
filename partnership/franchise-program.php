@@ -3,11 +3,68 @@
 
 
 <html lang='en'>
-<head>
-    <?php include_from_root('website_template/head.php');
-      
-    
-    ?>
+<head><meta charset='UTF-8'><meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Forex Franchise Partnership - Join MultiBank Franchise Program To Enjoy Exclusive Benefits</title>
+<meta name='description' content="MultiBank provides our partners the chance to become a part of our Group and not just an Introducing Broker.">
+<meta name='keywords' content="multibank franchise program, multibank partnership, multibank partner program, franchise in forex, forex franchise,  forex partner, multibank forex program, grow your business with multibank, introducing broker partner, experienced IB manager, IB business">
+<meta property='og:title' content="Forex Franchise Partnership - Join MultiBank Franchise Program To Enjoy Exclusive Benefits">
+<meta property='og:description' content="MultiBank provides our partners the chance to become a part of our Group and not just an Introducing Broker.">
+<link rel='canonical' href="franchise-program.html">
+<link rel="alternate" href="https://es.multibankfx.com/partnership/franchise-program" hreflang="es-ES" />
+<link rel="alternate" href="https://ru.multibankfx.com/partnership/franchise-program" hreflang="ru-RU" />
+<link rel="alternate" href="https://ae.multibankfx.com/partnership/franchise-program" hreflang="en-ae" />
+<link rel="alternate" href="https://vn.multibankfx.com/partnership/franchise-program" hreflang="vi-VN" />
+<link rel="alternate" href="https://id.multibankfx.com/partnership/franchise-program" hreflang="id-ID" />
+<link rel="alternate" href="https://mys.multibankfx.com/partnership/franchise-program" hreflang="ms-MY" />
+<link rel="alternate" href="https://ph.multibankfx.com/partnership/franchise-program" hreflang="tl-PH" />
+<link rel="alternate" href="https://th.multibankfx.com/partnership/franchise-program" hreflang="th-TH" />
+<link rel="alternate" href="https://fr.multibankfx.com/partnership/franchise-program" hreflang="fr-FR" />
+<link rel="alternate" href="franchise-program.html" hreflang="x-default" />
+
+<script type="9362f7f3cd03477831e71834-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNJQJTN');</script>
+<link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
+<link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
+<link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
+<link rel="stylesheet" href="../public_files/static_css/custom.css">
+<style>
+    form {
+        position: relative;
+    }
+
+    .form-loader-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 50;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+form:not(#demo_competition_form_2019_08_13) .sms-code-container{
+display:none;
+
+}
+form:not(#demo_competition_form_2019_08_13) .send-code-container{display:none;}
+
+.multibank-form label.error {
+    font-size: 1.1rem;
+
+}
+
+.h-00 {
+    height: 0;
+}
+</style>
+<script src="../public_files/static_js/jquery-3.3.1.min.js" type="9362f7f3cd03477831e71834-text/javascript"></script>
+<script type="9362f7f3cd03477831e71834-text/javascript">const page_dir = 'ltr';</script>
 </head>
 <body>
 
@@ -4525,11 +4582,11 @@ Hello, I am interested in learning more about MultiBank products and services. C
       type="9362f7f3cd03477831e71834-text/javascript"
     ></script>
     <script
-      src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
+      src="../public_files/static_js/intlTelInput.min.js"
       type="9362f7f3cd03477831e71834-text/javascript"
     ></script>
     <script
-      src="../public_files/static_js/app.js%3Fversion=20200612"
+      src="../public_files/static_js/app.js"
       type="9362f7f3cd03477831e71834-text/javascript"
     ></script>
     <script type="9362f7f3cd03477831e71834-text/javascript" async>

@@ -33,7 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
     <link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
     <link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
-    <link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
+    <link rel="stylesheet" href="../public_files/static_css/custom.css">
 
     <style>
         form {

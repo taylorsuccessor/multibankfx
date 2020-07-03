@@ -1,7 +1,78 @@
 <!DOCTYPE html>
 <html lang='en'>
-<head>
-    <?php include_from_root('website_template/head.php');?>
+   <head>
+    <meta charset='UTF-8'>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Forex Bonus – Get Bonuses when Trading with MultiBank</title>
+    <meta name='description'
+          content="For new clients trading financial products, MultiBank Group offers exclusive promotions and bonuses including tradable and withdrawable bonuses. Please refer to bonus terms.">
+    <meta name='keywords'
+          content="no deposit bonus, no deposit bonus forex, forex deposit bonus, free bonus forex, free no deposit bonus forex, trade account bonus, live account deposit bonus, bonus when you deposit, deposit to receive bonus,  withdraw your bonus, multibank bonus">
+    <meta property='og:title' content="Forex Deposit Bonus – Get Lucrative Bonuses with MultiBank">
+    <meta property='og:description'
+          content="For new clients trading financial products, MultiBank Group offers exclusive promotions and bonuses including tradable and withdrawable bonuses. Please refer to bonus terms.">
+    <link rel='canonical' href="bonus.html">
+    <link rel="alternate" href="https://es.multibankfx.com/account/bonus" hreflang="es-ES"/>
+    <link rel="alternate" href="https://ru.multibankfx.com/account/bonus" hreflang="ru-RU"/>
+    <link rel="alternate" href="https://ae.multibankfx.com/account/bonus" hreflang="en-ae"/>
+    <link rel="alternate" href="https://vn.multibankfx.com/account/bonus" hreflang="vi-VN"/>
+    <link rel="alternate" href="https://id.multibankfx.com/account/bonus" hreflang="id-ID"/>
+    <link rel="alternate" href="https://mys.multibankfx.com/account/bonus" hreflang="ms-MY"/>
+    <link rel="alternate" href="https://ph.multibankfx.com/account/bonus" hreflang="tl-PH"/>
+    <link rel="alternate" href="https://th.multibankfx.com/account/bonus" hreflang="th-TH"/>
+    <link rel="alternate" href="https://fr.multibankfx.com/account/bonus" hreflang="fr-FR"/>
+    <link rel="alternate" href="bonus.html" hreflang="x-default"/>
+
+    <script type="ca783208542e411d19700e4f-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNJQJTN');
+    </script>
+    <link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
+    <link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
+    <link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
+    <link rel="stylesheet" href="../public_files/static_css/custom.css">
+    <style>
+        form {
+            position: relative;
+        }
+
+        .form-loader-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 50;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        form:not(#demo_competition_form_2019_08_13) .sms-code-container {
+            display: none;
+
+        }
+
+        form:not(#demo_competition_form_2019_08_13) .send-code-container {
+            display: none;
+        }
+
+        .multibank-form label.error {
+            font-size: 1.1rem;
+
+        }
+
+        .h-00 {
+            height: 0;
+        }
+    </style>
+    <script src="../public_files/static_js/jquery-3.3.1.min.js"
+            type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script type="ca783208542e411d19700e4f-text/javascript">const page_dir = 'ltr';</script>
 </head>
 <body>
 
@@ -109,7 +180,7 @@
             </div>
         </div>
     </section>
-    <div class="container">
+    <!-- <div class="container">
         <div class="row">
             <div class="home-banner-form" style="background: none;">
                 <div class="mex-p-h-15" style="background-color: rgba(255, 255, 255, 0.75); padding-bottom: 15px;">
@@ -571,7 +642,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <style>.grapesjs-editable-field-item[data-grapesjs-field="field_component_01"][data-grapesjs-delta="0"] * {
         box-sizing: border-box;
     }
@@ -2712,9 +2783,9 @@
         type="ca783208542e411d19700e4f-text/javascript"></script>
 <script src="../public_files/static_js/lazysizes.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
 <script src="../public_files/static_js/jquery.validate.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
-<script src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
+<script src="../public_files/static_js/intlTelInput.min.js"
         type="ca783208542e411d19700e4f-text/javascript"></script>
-<script src="../public_files/static_js/app.js%3Fversion=20200612"
+<script src="../public_files/static_js/app.js"
         type="ca783208542e411d19700e4f-text/javascript"></script>
 <script type="ca783208542e411d19700e4f-text/javascript" async>
     url = new URL(window.location.href);

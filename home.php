@@ -767,7 +767,7 @@
             <div class="col-md-12 col-lg-6">
                 <div class="row trade-with-confidence-card">
                     <img class="mex-img-cover col-12 px-0 lazyload"
-                         data-src="/public_files/images/home/home_trade_start_trading.png " alt="Start Trading">
+                         data-src="/multibankfx/public_files/images/home/home_trade_start_trading.png " alt="Start Trading">
                     <div class="col-12 both-content mx-lg-4 my-lg-5">
                         <div class="col-lg-8 col-12 px-3 px-3 p-lg-0">
                             <div class="mex-h2 mex-m-b-10">Start Trading</div>
@@ -790,7 +790,7 @@
             <div class="col-md-12 col-lg-6">
                 <div class="row trade-with-confidence-card">
                     <img class="mex-img-cover col-12 px-0 lazyload" style="z-index: -1;"
-                         data-src="/public_files/images/home/home_trade_fund_account.jpg" alt="Fund Your Account">
+                         data-src="/multibankfx/public_files/images/home/home_trade_fund_account.jpg" alt="Fund Your Account">
                     <div class="col-12 both-content mx-lg-4 my-lg-5 px-3 px-3 p-lg-0">
                         <div class="mex-h2 mex-m-b-15 text-fff">Fund Your Account</div>
                         <div class="row">
@@ -821,20 +821,20 @@
                 <div class="col-4 d-flex align-items-center flex-column text-center text-uppercase mex-h3 font-16"
                      style="line-height: 20px;">
                     <img class="lazyload mb-platform-icon mb-2"
-                         data-src="/public_files/images/home/home_platforms_ecn_icon.png" alt="ECN Pro Platform">
+                         data-src="/multibankfx/public_files/images/home/home_platforms_ecn_icon.png" alt="ECN Pro Platform">
                     ECN Pro<br/>Platform
                 </div>
                 <div class="col-4 d-flex align-items-center flex-column text-center text-uppercase mex-h3 font-16"
                      style="line-height: 20px;">
                     <img class="lazyload mb-platform-icon mb-2"
-                         data-src="/public_files/images/home/home_platforms_multibank_pro_icon.png"
+                         data-src="/multibankfx/public_files/images/home/home_platforms_multibank_pro_icon.png"
                          alt="MultiBank Pro Platform">
                     MultiBank Pro<br/>Platform
                 </div>
                 <div class="col-4 d-flex align-items-center flex-column text-center text-uppercase mex-h3 font-16"
                      style="line-height: 20px;">
                     <img class="lazyload mb-platform-icon mb-2"
-                         data-src="/public_files/images/home/home_platforms_maximus_icon.png" alt="Maximus Platform">
+                         data-src="/multibankfx/public_files/images/home/home_platforms_maximus_icon.png" alt="Maximus Platform">
                     Maximus<br/>Platform
                 </div>
                 <div class="col-12 d-flex justify-content-center my-4">
@@ -855,30 +855,30 @@
             <div class="swiper-slide">
                 <a href="account/bonus.html">
                     <div class="min1 d-none d-lg-block">
-                        <img class="lazyload" data-src="/public_files/images/home/home_bonus_extra.jpg" alt="image"/>
+                        <img class="lazyload" data-src="/multibankfx/public_files/images/home/home_bonus_extra.jpg" alt="image"/>
                     </div>
                     <div class="min2 d-block d-lg-none">
-                        <img class="lazyload" data-src="/public_files/images/home/home_bonus_extra_mb.jpg" alt="image"/>
+                        <img class="lazyload" data-src="/multibankfx/public_files/images/home/home_bonus_extra_mb.jpg" alt="image"/>
                     </div>
                 </a>
             </div>
             <div class="swiper-slide">
                 <a href="account/bonus%3Fdefault_bonus=refer_bonus.html">
                     <div class="min1 d-none d-lg-block">
-                        <img class="lazyload" data-src="/public_files/images/home/home_bonus_400.jpg" alt="image"/>
+                        <img class="lazyload" data-src="/multibankfx/public_files/images/home/home_bonus_400.jpg" alt="image"/>
                     </div>
                     <div class="min2 d-block d-lg-none">
-                        <img class="lazyload" data-src="/public_files/images/home/home_bonus_400_mb.jpg" alt="image"/>
+                        <img class="lazyload" data-src="/multibankfx/public_files/images/home/home_bonus_400_mb.jpg" alt="image"/>
                     </div>
                 </a>
             </div>
             <div class="swiper-slide">
                 <a href="account/bonus-ib.html">
                     <div class="min1 d-none d-lg-block">
-                        <img class="lazyload" data-src="/public_files/images/home/home_bonus_5000.jpg" alt="image"/>
+                        <img class="lazyload" data-src="/multibankfx/public_files/images/home/home_bonus_5000.jpg" alt="image"/>
                     </div>
                     <div class="min2 d-block d-lg-none">
-                        <img class="lazyload" data-src="/public_files/images/home/home_bonus_5000_mb.jpg" alt="image"/>
+                        <img class="lazyload" data-src="/multibankfx/public_files/images/home/home_bonus_5000_mb.jpg" alt="image"/>
                     </div>
                 </a>
             </div>
@@ -896,7 +896,7 @@
                 <section class="mex-block-card bg-white shadow-box-animate">
                     <div class="card-img-box hover-img-zoom">
                         <img class="home-about-multibank card-img mex-img-cover lazyload"
-                             data-src="/public_files/images/home/home_about_advantage.png" alt="OUR ADVANTAGES">
+                             data-src="/multibankfx/public_files/images/home/home_about_advantage.png" alt="OUR ADVANTAGES">
                     </div>
                     <div class="card-content-box">
                         <div class=" card-content bg-white text-center">
@@ -917,7 +917,7 @@
                 <section class="mex-block-card bg-white shadow-box-animate">
                     <div class="card-img-box hover-img-zoom">
                         <img class="home-about-multibank card-img mex-img-cover lazyload"
-                             data-src="/public_files/images/home/home_about_regulations.png" alt="REGULATIONS">
+                             data-src="/multibankfx/public_files/images/home/home_about_regulations.png" alt="REGULATIONS">
                     </div>
                     <div class="card-content-box">
                         <div class=" card-content bg-white text-center">
@@ -1304,7 +1304,7 @@
                 <section class="mex-block-card bg-white shadow-box-animate">
                     <div class="card-img-box">
                         <img class="card-img mex-img-cover lazyload"
-                             data-src="/public_files/images/home/home_security_of_funds_banner.jpg"
+                             data-src="/multibankfx/public_files/images/home/home_security_of_funds_banner.jpg"
                              alt="SECURITY OF FUNDS">
                     </div>
                     <div class="card-content-box">
@@ -1325,7 +1325,7 @@
                 <section class="mex-block-card bg-white shadow-box-animate">
                     <div class="card-img-box">
                         <img class="card-img mex-img-cover lazyload"
-                             data-src="/public_files/images/home/home_milestones_banner.png" alt="MILESTONES">
+                             data-src="/multibankfx/public_files/images/home/home_milestones_banner.png" alt="MILESTONES">
                     </div>
                     <div class="card-content-box">
                         <div class=" card-content bg-white text-center">
@@ -1362,7 +1362,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/Best_Forex_CFD_Broker_JFEX_Award.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/Best_Forex_CFD_Broker_JFEX_Award.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex and CFD Broker 2019</span>
                                 <span class="mex-content ">16th Jordan Forex Expo & Awards</span>
                             </a>
@@ -1370,7 +1370,7 @@
                         <div class="swiper-slide">
                             <a href="article/multibank-wins-financial-services-provider-asia-award-2019.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/Financial_Services_Provider_of_the_Year_Asia_2019.jpg"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/Financial_Services_Provider_of_the_Year_Asia_2019.jpg"/>
                                 <span class="mex-h3 mex-m-b-5 ">Financial Services Provider of the Year (Asia) 2019</span>
                                 <span class="mex-content ">Global Brands Magazine</span>
                             </a>
@@ -1378,7 +1378,7 @@
                         <div class="swiper-slide">
                             <a href="article/multibank-chosen-best-FX-CFD-broker-2019.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_fx_broker_euas_2019.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_fx_broker_euas_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best FX & CFD Broker (Europe & Asia) 2019</span>
                                 <span class="mex-content ">International Investor</span>
                             </a>
@@ -1386,7 +1386,7 @@
                         <div class="swiper-slide">
                             <a href="article/multibank-wins-ecn-broker-best-forex-platform-2019.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/ecn_broker_eu_2019.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/ecn_broker_eu_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">ECN Broker of the Year (Europe) 2019</span>
                                 <span class="mex-content ">International Business Magazine</span>
                             </a>
@@ -1394,7 +1394,7 @@
                         <div class="swiper-slide">
                             <a href="article/multibank-wins-ecn-broker-best-forex-platform-2019.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_mena_2019.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_mena_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Platform MENA 2019</span>
                                 <span class="mex-content ">International Business Magazine</span>
                             </a>
@@ -1402,7 +1402,7 @@
                         <div class="swiper-slide">
                             <a href="article/multibank-named-best-financial-derivatives-broker-2019.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/2019best_financial_derivatives_broker_europe.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/2019best_financial_derivatives_broker_europe.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Financial Derivatives Broker 2019</span>
                                 <span class="mex-content ">Global Banking & Finance Review</span>
                             </a>
@@ -1410,7 +1410,7 @@
                         <div class="swiper-slide">
                             <a href="article/multibank-selected-best-forex-broker-forex-expo-dubai-2019.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_broker_2019.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Broker 2019</span>
                                 <span class="mex-content ">The Forex Expo Dubai</span>
                             </a>
@@ -1418,7 +1418,7 @@
                         <div class="swiper-slide">
                             <a href="article/milestones_multibank-chairman-naser-taher-awarded-ceo-of-the-year-2019.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/2019CEO_of_the_year_financial_services_asia_europe.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/2019CEO_of_the_year_financial_services_asia_europe.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">CEO of the Year (Financial Services) (Asia & Europe) 2019</span>
                                 <span class="mex-content ">Le Fonti Awards (International Alternative Investment Review)</span>
                             </a>
@@ -1426,7 +1426,7 @@
                         <div class="swiper-slide">
                             <a href="article/multibank-honored-best-ecn-broker-asia-2019.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_ecn_broker_asia_2019.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_asia_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best ECN Broker of the Year (Asia) 2019</span>
                                 <span class="mex-content ">Finance Derivative</span>
                             </a>
@@ -1434,7 +1434,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_education_provider_2019.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_education_provider_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Education Provider 2019</span>
                                 <span class="mex-content ">FX Daily Info</span>
                             </a>
@@ -1442,7 +1442,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_platform_2018.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2018.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform (Hong Kong) 2018</span>
                                 <span class="mex-content ">International Finance Magazine</span>
                             </a>
@@ -1450,7 +1450,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_ecn_broker_2018.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2018.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best ECN Broker Europe 2018</span>
                                 <span class="mex-content ">International Business Magazine</span>
                             </a>+
@@ -1458,7 +1458,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_ecn_platform_2018.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_ecn_platform_2018.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex ECN Platform (Europe & Asia)</span>
                                 <span class="mex-content ">Capital Finance International</span>
                             </a>
@@ -1466,7 +1466,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/most_admired_2017.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/most_admired_2017.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">30 Most Admired Companies of 2017</span>
                                 <span class="mex-content ">Insights Success Magazine</span>
                             </a>
@@ -1474,7 +1474,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/broker_of_the_year_2017.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/broker_of_the_year_2017.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Financial Derivatives Broker of the Year (Asia & Europe) 2017</span>
                                 <span class="mex-content ">International Alternative Investment Review</span>
                             </a>
@@ -1482,7 +1482,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/ceo_of_the_year_2017.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/ceo_of_the_year_2017.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">CEO of the Year-- Financial Services (Asia & Europe) 2017</span>
                                 <span class="mex-content ">International Alternative Investment Review</span>
                             </a>
@@ -1490,7 +1490,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_platform_2016.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2016.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Exchange Platform (Hong Kong) 2016</span>
                                 <span class="mex-content ">Global Brands Magazine</span>
                             </a>
@@ -1498,7 +1498,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_ceo_2016.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_ceo_2016.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Financial Services CEO (Hong Kong) 2016</span>
                                 <span class="mex-content ">Global Brands Magazine</span>
                             </a>
@@ -1506,7 +1506,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_china_2016.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_china_2016.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Platform 2016</span>
                                 <span class="mex-content ">China Forex Expo</span>
                             </a>
@@ -1514,7 +1514,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_execution_broker_2016.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_execution_broker_2016.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Execution Broker 2016</span>
                                 <span class="mex-content ">China Forex Expo</span>
                             </a>
@@ -1522,7 +1522,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_broker_2015.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_2015.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Broker 2015</span>
                                 <span class="mex-content ">IFeng</span>
                             </a>
@@ -1530,7 +1530,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_platform_2015.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2015.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform (Asia & Europe) 2015</span>
                                 <span class="mex-content ">Capital Finance International</span>
                             </a>
@@ -1538,7 +1538,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_broker_europe_2015.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_europe_2015.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Broker Europe 2015</span>
                                 <span class="mex-content ">International Alternative Investment Review</span>
                             </a>
@@ -1546,7 +1546,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_platform_2014.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_platform_2014.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Institutional FX Platform 2014</span>
                                 <span class="mex-content ">7th Saudi Money Expo</span>
                             </a>
@@ -1554,7 +1554,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/top_provider_2014.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/top_provider_2014.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Top FX Liquidity Provider 2014</span>
                                 <span class="mex-content ">6th Saudi Money Expo</span>
                             </a>
@@ -1562,7 +1562,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/most_secure_broker_2014.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/most_secure_broker_2014.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Most Secure Broker 2014</span>
                                 <span class="mex-content ">KG Forex World Conference</span>
                             </a>
@@ -1570,7 +1570,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_ecn_broker_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best ECN Forex Broker Asia 2013<br> Best ECN Forex Broker Europe 2013</span>
                                 <span class="mex-content ">Global Banking & FinanceReview</span>
                             </a>
@@ -1578,7 +1578,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_company_leadership_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_company_leadership_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Company for Leadership 2013</span>
                                 <span class="mex-content ">International Alternative Investment Review</span>
                             </a>
@@ -1586,7 +1586,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/most_secure_broker_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/most_secure_broker_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Most Secure Forex Broker 2013</span>
                                 <span class="mex-content ">Shanghai Financial Investment Management Association</span>
                             </a>
@@ -1594,7 +1594,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_broker_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_broker_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Broker 2013</span>
                                 <span class="mex-content ">Shanghai Financial Investment Management Association</span>
                             </a>
@@ -1602,7 +1602,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/broker_of_the_year_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/broker_of_the_year_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Broker of the Year 2013</span>
                                 <span class="mex-content ">China International Online Trading Expo</span>
                             </a>
@@ -1610,7 +1610,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_trading_platform_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_trading_platform_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform 2013</span>
                                 <span class="mex-content ">CNFOL</span>
                             </a>
@@ -1618,21 +1618,21 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/most_powerful_team_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/most_powerful_team_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Most Powerful Forex Technical Research & Development Team 2013</span>
                                 <span class="mex-content ">CNFOL</span>
                             </a>
                         </div>
                         <div class="swiper-slide">
                             <a href="about/awards.html">
-                                <img class="lazyload" data-src="/public_files/images/about_us/awards/2013Asia.png"/>
+                                <img class="lazyload" data-src="/multibankfx/public_files/images/about_us/awards/2013Asia.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Most Secure Forex Broker 2013</span>
                                 <span class="mex-content ">Asia Franchise Industry Association</span>
                             </a>
                         </div>
                         <div class="swiper-slide">
                             <a href="about/awards.html">
-                                <img class="lazyload" data-src="/public_files/images/about_us/awards/2013Asia.png"/>
+                                <img class="lazyload" data-src="/multibankfx/public_files/images/about_us/awards/2013Asia.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Broker 2013</span>
                                 <span class="mex-content ">Asia Franchise Industry Association</span>
                             </a>
@@ -1640,7 +1640,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_trading_platform_2012.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_trading_platform_2012.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform 2012</span>
                                 <span class="mex-content ">Jinrongjie</span>
                             </a>
@@ -1648,7 +1648,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/rtb_china_awards_2012.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/rtb_china_awards_2012.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">RTB China Awards 2012</span>
                                 <span class="mex-content ">Global RTB Summit</span>
                             </a>
@@ -1656,7 +1656,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_2012_11china.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_2012_11china.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform 2012</span>
                                 <span class="mex-content ">11th China International Investment & Finance Expo</span>
                             </a>
@@ -1664,7 +1664,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_ecn_broker_2012.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2012.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best ECN Broker (Asia) 2012</span>
                                 <span class="mex-content ">Global Banking & Finance Review</span>
                             </a>
@@ -1672,7 +1672,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_provider_2011.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Service Provider 2011</span>
                                 <span class="mex-content ">Hexun</span>
                             </a>
@@ -1680,7 +1680,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_provider_2011.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png"/>
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform 2011</span>
                                 <span class="mex-content ">Hexun</span>
                             </a>
@@ -1708,7 +1708,7 @@
                 <div class="col-lg-6 mex-p-l-0 p0-xs mb-3">
                     <div class="platforms_content mex-box-shadow">
                         <h4 class="uppercase  mb16 mb-xs-8 "><img class="lazyload"
-                                                                  data-src="/public_files/images/home/home_platforms_ecn_icon.png"
+                                                                  data-src="/multibankfx/public_files/images/home/home_platforms_ecn_icon.png"
                                                                   alt="ECN Pro Platform"><span>ECN Pro Platform</span>
                         </h4>
                         <p class=" platforms_box_txt mex-clamp-4 mex-content">Enjoy raw price feed directly through our
@@ -1723,7 +1723,7 @@
                 <div class="col-lg-6 mex-p-l-0 p0-xs mb-3">
                     <div class="platforms_content mex-box-shadow">
                         <h4 class="uppercase  mb16  mb-xs-8  "><img class="lazyload"
-                                                                    data-src="/public_files/images/home/home_platforms_multibank_pro_icon.png"
+                                                                    data-src="/multibankfx/public_files/images/home/home_platforms_multibank_pro_icon.png"
                                                                     alt="MultiBank Pro Platform"><span>MultiBank Pro Platform</span>
                         </h4>
                         <p class=" platforms_box_txt mex-clamp-4 mex-content">Ideal for traders looking for an ECN
@@ -1739,7 +1739,7 @@
                 <div class="col-lg-6 mex-p-l-0 p0-xs mb-3">
                     <div class="platforms_content mex-box-shadow">
                         <h4 class="uppercase  mb16  mb-xs-8  "><img class="lazyload"
-                                                                    data-src="/public_files/images/home/home_platforms_maximus_icon.png"
+                                                                    data-src="/multibankfx/public_files/images/home/home_platforms_maximus_icon.png"
                                                                     alt="Maximus Platform"><span>Maximus Platform</span>
                         </h4>
                         <p class=" platforms_box_txt mex-clamp-4 mex-content">Recommended for traders looking for no
@@ -1755,7 +1755,7 @@
                 <div class="col-lg-6 mex-p-l-0 p0-xs mb-3">
                     <div class="platforms_content mex-box-shadow">
                         <h4 class="uppercase  mb16  mb-xs-8  "><img class="lazyload"
-                                                                    data-src="/public_files/images/home/home_platforms_mt5_platform.png"
+                                                                    data-src="/multibankfx/public_files/images/home/home_platforms_mt5_platform.png"
                                                                     alt="MT5 Platform"><span>MT5 Platform</span>
                         </h4>
                         <p class=" platforms_box_txt mex-clamp-4 mex-content">Suitable for traders looking for enhanced
@@ -1798,7 +1798,7 @@
                     </div>
                     <div class="col-3 px-0">
                         <img style="object-position: 94% 0;" class="mex-img-cover px-0 lazyload w-100 h-auto"
-                             data-src="/public_files/images/home/home_trade_start_trading.png " alt="Start Trading">
+                             data-src="/multibankfx/public_files/images/home/home_trade_start_trading.png " alt="Start Trading">
                     </div>
                 </div>
             </div>
@@ -1806,7 +1806,7 @@
                 <div class="row trade-with-confidence-card d-flex px-0" style="margin: 0 .5rem!important;">
                     <div class="col-3 px-0">
                         <img class="mex-img-cover lazyload" style="z-index: -1; object-position: 85%;"
-                             data-src="/public_files/images/home/home_trade_fund_account.jpg" alt="Fund Your Account">
+                             data-src="/multibankfx/public_files/images/home/home_trade_fund_account.jpg" alt="Fund Your Account">
                     </div>
                     <div class="col-9 py-2">
                         <div class="mex-h3">Fund Your Account</div>
@@ -1831,7 +1831,7 @@
                 <section class="mex-card-cover box-animate">
                     <a href="partnership/introducing-brokers.html">
                         <img class="card-img mex-img-cover lazyload" alt="Introducing Brokers"
-                             data-src="/public_files/images/partnership/home_partnership_introducing_broker@2x.png">
+                             data-src="/multibankfx/public_files/images/partnership/home_partnership_introducing_broker@2x.png">
                         <div class="card-content text-left">
                             <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase text-fff">
                                 <?php translate('Introducing Brokers'); ?>
@@ -1848,7 +1848,7 @@
                 <section class="mex-card-cover box-animate">
                     <a href="partnership/franchise-program.html">
                         <img class="card-img mex-img-cover lazyload" alt="Franchise Program"
-                             data-src="/public_files/images/partnership/home_partnership_franchise_program@2x.png">
+                             data-src="/multibankfx/public_files/images/partnership/home_partnership_franchise_program@2x.png">
                         <div class="card-content text-left">
                             <div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">
                                 Franchise Program
@@ -1865,7 +1865,7 @@
                 <section class="mex-card-cover box-animate">
                     <a href="partnership/white-label.html">
                         <img class="card-img mex-img-cover lazyload" alt="White Label"
-                             data-src="/public_files/images/partnership/home_partnership_white_label@2x.png">
+                             data-src="/multibankfx/public_files/images/partnership/home_partnership_white_label@2x.png">
                         <div class="card-content text-left">
                             <div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">
                                 White Label
@@ -1882,7 +1882,7 @@
                 <section class="mex-card-cover box-animate">
                     <a href="partnership/prime-of-primes.html">
                         <img class="card-img mex-img-cover lazyload" alt="Prime of Primes"
-                             data-src="/public_files/images/partnership/home_partnership_prime_of_primes@2x.png">
+                             data-src="/multibankfx/public_files/images/partnership/home_partnership_prime_of_primes@2x.png">
                         <div class="card-content text-left">
                             <div class="font-34  mex-m-b-5 font-type-cap uppercase text-fff">
                                 Prime of Primes
@@ -1898,7 +1898,7 @@
                 <section class="mex-card-cover box-animate">
                     <a href="partnership/cpa-affiliate-program.html">
                         <img class="card-img mex-img-cover lazyload" alt="CPA Affiliate Program"
-                             data-src="/public_files/images/partnership/partnership_cpa_affiliate_program_newx.png">
+                             data-src="/multibankfx/public_files/images/partnership/partnership_cpa_affiliate_program_newx.png">
                         <div class="card-content text-left">
                             <div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">
                                 CPA Affiliate Program
@@ -1948,7 +1948,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">Winners Announced for the
                                             MultiBank Fast & Furious Trading Contest</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/2020_winners_announced_thumbnail.png"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/2020_winners_announced_thumbnail.png"
                                                                             alt="Winners Announced for the MultiBank Fast & Furious Trading Contest">
                                         </div>
                                     </li>
@@ -1959,7 +1959,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank Fast & Furious
                                             Trading Contest Starts Jan 6, 2020! </a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/MB_BMW_thumbnail_1.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/MB_BMW_thumbnail_1.jpg"
                                                                             alt="MultiBank Fast & Furious Trading Contest Starts Jan 6, 2020! ">
                                         </div>
                                     </li>
@@ -1970,7 +1970,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank Philippines Hosts
                                             Investors Night 2019</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/PH_Investor_Night_thumbnail.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/PH_Investor_Night_thumbnail.jpg"
                                                                             alt="MultiBank Philippines Hosts Investors Night 2019">
                                         </div>
                                     </li>
@@ -1981,7 +1981,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank Malaysia Hosted
                                             Successful Trading Seminar in Kuala Lumpur</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/malaysia_seminar_thumbnail_en.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/malaysia_seminar_thumbnail_en.jpg"
                                                                             alt="MultiBank Malaysia Hosted Successful Trading Seminar in Kuala Lumpur">
                                         </div>
                                     </li>
@@ -1992,7 +1992,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank Group Attends
                                             Macau Grand Prix 2019</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/macau_gp_2019_thumbnail.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/macau_gp_2019_thumbnail.jpg"
                                                                             alt="MultiBank Group Attends Macau Grand Prix 2019">
                                         </div>
                                     </li>
@@ -2003,7 +2003,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank FX Championship
                                             2019 Winners Announced!</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/1104_demo_competition_thumbnail.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/1104_demo_competition_thumbnail.jpg"
                                                                             alt="MultiBank FX Championship 2019 Winners Announced!">
                                         </div>
                                     </li>
@@ -2014,7 +2014,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank Attends the Forex
                                             Expo Dubai and Takes Home “Best Forex Broker” Award</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/dubai_expo_thumbnail.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/dubai_expo_thumbnail.jpg"
                                                                             alt="MultiBank Attends the Forex Expo Dubai and Takes Home “Best Forex Broker” Award">
                                         </div>
                                     </li>
@@ -2025,7 +2025,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">Diamond Sponsor MultiBank
                                             MENA Attends Jordan Expo 2019</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/jordan_expo_2019_thumbnail.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/jordan_expo_2019_thumbnail.jpg"
                                                                             alt="Diamond Sponsor MultiBank MENA Attends Jordan Expo 2019">
                                         </div>
                                     </li>
@@ -2037,7 +2037,7 @@
                                             “Financial Services Provider of the Year (Asia) 2019” Award from Global
                                             Brands Magazine</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/Financial_Services_Provider_of_the_Year_2019_thumbnail.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/Financial_Services_Provider_of_the_Year_2019_thumbnail.jpg"
                                                                             alt="MultiBank Group Wins “Financial Services Provider of the Year (Asia) 2019” Award from Global Brands Magazine">
                                         </div>
                                     </li>
@@ -2049,7 +2049,7 @@
                                             Starting Soon! USD 12,000 CASH Giveaway to Top 3 Demo Contest Winners</a>
                                         </div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/championship_small_en.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/championship_small_en.jpg"
                                                                             alt="MultiBank FX Championship Starting Soon">
                                         </div>
                                     </li>
@@ -2060,7 +2060,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank LATAM Launches in
                                             Mexico</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/LATAM_thumbnail_en.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/LATAM_thumbnail_en.jpg"
                                                                             alt="MultiBank LATAM Launches in Mexico">
                                         </div>
                                     </li>
@@ -2071,7 +2071,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank’s Dubai Office Now
                                             Hiring Forex Sales Managers. Join Us Today!</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/hiring-now-cyprus-banner_v2_26July_1.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/hiring-now-cyprus-banner_v2_26July_1.jpg"
                                                                             alt="MultiBank’s Dubai Office Now Hiring Forex Sales Managers. Join Us Today!">
                                         </div>
                                     </li>
@@ -2082,7 +2082,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">FX Veteran Artur Filipowicz
                                             Joins MultiBank as Head of Institutional Sales</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/news_20190704_t.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/news_20190704_t.jpg"
                                                                             alt="FX Veteran Artur Filipowicz Joins MultiBank as Head of Institutional Sales">
                                         </div>
                                     </li>
@@ -2093,7 +2093,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank Elite Sponsor at
                                             Forex Day Madrid 2019</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/the_forex_day_thumbnail.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/the_forex_day_thumbnail.jpg"
                                                                             alt="MultiBank Elite Sponsor at Forex Day Madrid 2019">
                                         </div>
                                     </li>
@@ -2105,7 +2105,7 @@
                                             & CFD Broker (Europe & Asia) 2019 by International Investor Magazine</a>
                                         </div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/news_best_fx_cfd_broker_europe_asia_2019_thumbnail.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/news_best_fx_cfd_broker_europe_asia_2019_thumbnail.jpg"
                                                                             alt="MultiBank Chosen as Best FX & CFD Broker (Europe & Asia) 2019 by International Investor Magazine">
                                         </div>
                                     </li>
@@ -2116,7 +2116,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank Makes an
                                             Appearance at the iFX Cyprus Expo</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/ifx-cyprus_thumb_v2.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/ifx-cyprus_thumb_v2.jpg"
                                                                             alt="MultiBank Makes an Appearance at the iFX Cyprus Expo">
                                         </div>
                                     </li>
@@ -2127,7 +2127,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank Adds Uber to Its
                                             Shares CFD Offerings</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/adds_uber_465x265.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/adds_uber_465x265.jpg"
                                                                             alt="MultiBank Adds Uber to Its Shares CFD Offerings">
                                         </div>
                                     </li>
@@ -2138,7 +2138,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">Visit Us at Booth 52 at iFX
                                             Expo 2019 in Cyprus</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/news_ifxexpo_s_0.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/news_ifxexpo_s_0.jpg"
                                                                             alt="Visit Us at Booth 52 at iFX Expo 2019 in Cyprus">
                                         </div>
                                     </li>
@@ -2149,7 +2149,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">MultiBank Group Is Now
                                             Hiring Senior Account Managers. Join us Today!</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/hiring-now-cyprus-thumbnail.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/hiring-now-cyprus-thumbnail.jpg"
                                                                             alt="MultiBank Group Is Now Hiring Senior Account Managers. Join us Today!">
                                         </div>
                                     </li>
@@ -2160,7 +2160,7 @@
                                                 class="text-222 mex-clamp-4 text-left pl-3">Finance Derivative Honors
                                             MultiBank Group as “Best ECN Broker of the Year (Asia) 2019”</a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
-                                                                            data-src="/public_files/blog/thumbnails/news_best_ecn_broker_of_the_year_asia_2019_thumbnail_0.jpg"
+                                                                            data-src="/multibankfx/public_files/blog/thumbnails/news_best_ecn_broker_of_the_year_asia_2019_thumbnail_0.jpg"
                                                                             alt="Finance Derivative Honors MultiBank Group as “Best ECN Broker of the Year (Asia) 2019”">
                                         </div>
                                     </li>
@@ -2706,13 +2706,15 @@
     })
 
 </script>
-<script src="public_files/static_js/lang_data/en.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
-<script src="public_files/static_js/jquery.dataTables.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
-<script src="public_files/static_js/lazysizes.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
-<script src="public_files/static_js/jquery.validate.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
-<script src="public_files/static_js/intlTelInput.min.js"
+<link rel="stylesheet" type="text/css" href="/multibankfx/public_files/static_css/swiper-3.4.2.min.css">
+<script src="/multibankfx/public_files/static_js/lang_data/en.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
+<script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
+<script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
+<script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
+<script src="/multibankfx/public_files/static_js/intlTelInput.min.js"
         type="785e4eb336bec21b04c19cf7-text/javascript"></script>
-<script src="public_files/static_js/app.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
+<script src="/multibankfx/public_files/static_js/app.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
+<script src="/multibankfx/public_files/static_js/swiper-4.3.5.min.js" type="bd9fa8aaa7d9728df9c131fe-text/javascript"></script>
 <script type="785e4eb336bec21b04c19cf7-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {
