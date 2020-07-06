@@ -1,33 +1,30 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-    <?php include_from_root('website_template/head.php');?>
-
     <!-- <meta charset='UTF-8'>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <title>Advantages of Trading Forex with MultiBank Group</title>
+    <title>MultiBank Group is a Regulated Trading Platform</title>
     <meta name='description'
-          content="Regulated by ASIC, BaFin, FSC, FMA, CNMV and CIMA, MultiBank services an extensive client-base of over 320,000 customers from across 90 countries.">
+          content="MultiBank is heavily regulated worldwide, with over 8 regulatory licenses from top financial bodies around the globe">
     <meta name='keywords'
-          content="why multibank, why multibank group, financial trading company, financial trading products,  about forex company, financial investing products, investment products, benefits of Multibank, advantages of forex broker, regulated forex broker">
-    <meta property='og:title' content="Advantages of Trading Forex with MultiBank Group">
+          content="regulations, regulators, forex regulations, forex regulators, trading regulations, trading regulators, financial trading regulators, financial trading license, license broker for forex, forex licensed broker, authorized and regulated broker, authorized fo">
+    <meta property='og:title' content="MultiBank Group is a Regulated Trading Platform">
     <meta property='og:description'
-          content="Regulated by ASIC, BaFin, FSC, FMA, CNMV and CIMA, MultiBank services an extensive client-base of over 320,000 customers from across 90 countries.">
-    <link rel='canonical' href="why-multibank-group.html">
-    <link rel="alternate" href="https://es.multibankfx.com/about/why-multibank-group" hreflang="es-ES"/>
-    <link rel="alternate" href="https://ru.multibankfx.com/about/why-multibank-group" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://ae.multibankfx.com/about/why-multibank-group" hreflang="en-ae"/>
-    <link rel="alternate" href="https://vn.multibankfx.com/about/why-multibank-group" hreflang="vi-VN"/>
-    <link rel="alternate" href="https://id.multibankfx.com/about/why-multibank-group" hreflang="id-ID"/>
-    <link rel="alternate" href="https://mys.multibankfx.com/about/why-multibank-group" hreflang="ms-MY"/>
-    <link rel="alternate" href="https://ph.multibankfx.com/about/why-multibank-group" hreflang="tl-PH"/>
-    <link rel="alternate" href="https://th.multibankfx.com/about/why-multibank-group" hreflang="th-TH"/>
-    <link rel="alternate" href="https://fr.multibankfx.com/about/why-multibank-group" hreflang="fr-FR"/>
-    <link rel="alternate" href="why-multibank-group.html" hreflang="x-default"/>
-    
+          content="MultiBank is heavily regulated worldwide, with over 8 regulatory licenses from top financial bodies around the globe">
+    <link rel='canonical' href="../mfx/v1/about/regulations.html">
+    <link rel="alternate" href="https://es.multibankfx.com/about/regulations" hreflang="es-ES"/>
+    <link rel="alternate" href="https://ru.multibankfx.com/about/regulations" hreflang="ru-RU"/>
+    <link rel="alternate" href="https://ae.multibankfx.com/about/regulations" hreflang="en-ae"/>
+    <link rel="alternate" href="https://vn.multibankfx.com/about/regulations" hreflang="vi-VN"/>
+    <link rel="alternate" href="https://id.multibankfx.com/about/regulations" hreflang="id-ID"/>
+    <link rel="alternate" href="https://mys.multibankfx.com/about/regulations" hreflang="ms-MY"/>
+    <link rel="alternate" href="https://ph.multibankfx.com/about/regulations" hreflang="tl-PH"/>
+    <link rel="alternate" href="https://th.multibankfx.com/about/regulations" hreflang="th-TH"/>
+    <link rel="alternate" href="https://fr.multibankfx.com/about/regulations" hreflang="fr-FR"/>
+    <link rel="alternate" href="../mfx/v1/about/regulations.html" hreflang="x-default"/>
 
-    <script type="aca9042ca4fa5ec4ab63856a-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script type="4697d1266f44080ba22ec4c5-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -73,19 +70,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         }
     </style>
     <script src="../public_files/static_js/jquery-3.3.1.min.js"
-            type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-    <script type="aca9042ca4fa5ec4ab63856a-text/javascript">const page_dir = 'ltr';</script> -->
+            type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+    <script type="4697d1266f44080ba22ec4c5-text/javascript">const page_dir = 'ltr';</script> -->
+    <?php include_from_root('website_template/head.php');?>
 </head>
 <body>
-    <?php include_from_root('website_template/header_and_menu.php');?>
-
 <!-- <div class="header">
     <div class="header-top d-none d-md-block">
         <div class="row">
             <div class="col-sm-6">
                 <ul class="header-top-left-menu hide-1024">
                     <li class="border-right hide-1200"><a
-                            href="../cdn-cgi/l/email-protection.html#7b18083b160e170f12191a15101d0355181416"><i
+                            href="../cdn-cgi/l/email-protection.html#f09383b09d859c849992919e9b9688de939f9d"><i
                             class="ti-email">&nbsp;</i> <span>EMAIL</span> </a></li>
                     <li class="border-right hide-1024"><i class="ti-world">&nbsp;</i> <span>Global Alexa Ranking:
 14261</span></li>
@@ -203,7 +199,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <a class="d-block w-75 mx-auto" href="../account/live-account.html"><img
                                         alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
                                         data-entity-uuid=""
-                                        src="../public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                        src="../public_files/images/common/menu_ads_banner.png"/></a>
                             </div>
                         </div>
                     </div>
@@ -482,6 +478,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </div>
 </div> -->
+<?php include_from_root('website_template/header_and_menu.php');?>
 <style>
     .nav-menu-hamburger, .nav-menu-mymex {
         width: 35px;
@@ -539,357 +536,248 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript>
 <div class="main-container">
-    <div class="banner-with-bg baout-banner-with-bg position-relative"><img alt="Why MultiBank" class="banner-bg"
-                                                                            data-entity-type="" data-entity-uuid=""
-                                                                            src="../public_files/images/about_us/why_multibank_top_banner.jpg"/>
-        <div class="container align-all">
-            <div class="row justify-content-center">
-                <div class="col-md-12  col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-offset-2">
-                    <h1 class="mex-h1 text-fff mex-m-b-15 text-center"><?php translate('Why MultiBank'); ?></h1>
-                    <div class="mex-content text-fff text-mex-h1 text-center"><?php translate('MultiBank was established in California,
-                        USA in 2005. Since its launch, MultiBank has evolved into one of the largest online financial
-                        derivatives providers worldwide, with a current paid up capital of over US $322 million.'); ?>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <section class="flex-center why-multibank-banner ">
-        <div class="container text-center mex-m-l-15 mex-m-r-15">
-            <div class="row mex-m-t-80 why-multibank-banner-card justify-content-center ">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 mex-m-b-10 mex-p-l-5 mex-p-r-5">
-                    <div class="shadow-box-smooth ">
-                        <div class="card-img-box"><img alt="Why MultiBank" class="card-img mex-img-cover"
-                                                       data-entity-type="" data-entity-uuid=""
-                                                       src="../public_files/images/about_us/why_multibank_image1.png"/>
-                        </div>
-                        <div class="card-content bg-white  mex-p-30">
-                            <div class="mex-content mb0 text-left"><?php translate('MultiBank maintains over 20 offices worldwide,
-                                including MEX Fintech (Hong Kong), MEX Exchange (Australia), MEX Asset Management
-                                (Germany), MEX Asset Management (Austria), MEX Spain, MultiBank Forex Exchange (USA),
-                                MultiBank LATAM (Mexico), MEX Group (China), MultiBank Vietnam, MultiBank Philippines,
-                                MultiBank Malaysia, MultiBank MENA (UAE), MEX Clearing (UAE), MultiBank Kuwait, MEX
-                                Prime (Cyprus), MEX Financial Technologies (Turkey), MultiBank FX International (BVI),
-                                MBG (BVI) and MEX Wealth Management (Cayman Islands).'); ?>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-12 col-md-12   col-lg-7 mex-m-b-10  mex-p-l-10 ">
-                    <div class="row mex-m-b-10">
-                        <div class="col-md-6 col-sm-12 mex-p-l-5 mex-p-r-5">
-                            <section class="mex-block-card-v mex-third">
-                                <div class="card-img-box"><img
-                                        alt="We service an extensive client-base of over 320,000 customers from across 90 countries worldwide."
-                                        class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/about_us/why_multibank_image2.png"/></div>
-                                <div class="card-content bg-white ">
-                                    <div class="mex-content text-overflow-3 mb0 text-left"><?php translate('We service an extensive
-                                        client-base of over 320,000 customers from across 90 countries worldwide.'); ?>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="col-md-6 col-sm-12 mex-p-l-5 mex-p-r-5">
-                            <section class="mex-block-card-v mex-third">
-                                <div class="card-img-box"><img
-                                        alt="In 2018, our average daily turnover exceeded UD$ 7 billion per day."
-                                        class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/about_us/why_multibank_image3.png"/></div>
-                                <div class="card-content bg-white ">
-                                    <div class="mex-content text-overflow-3 mb0 text-left"><?php translate('In 2018, our average daily
-                                        turnover exceeded US$ 4.6 billion per day.'); ?>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                    <div class="row ">
-                        <div class="col-md-12 mex-p-l-5 mex-p-r-5">
-                            <section class="mex-block-card-v mex-third">
-                                <div class="card-img-box"><img
-                                        alt="MultiBank is heavily regulated worldwide by ASIC in Australia, BaFin in Germany, FMA in Austria, CNMV in Spain, RAK in the UAE, the Tianjin Financial Government in China, FSC in the BVI, CIMA in the Caymans and others."
-                                        class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/about_us/why_multibank_image4.png"/></div>
-                                <div class="card-content bg-white ">
-                                    <div class="mex-content mb0 text-left"><?php translate('MultiBank comprises a number of companies
-                                        which are heavily regulated worldwide by ASIC in Australia, BaFin in Germany,
-                                        FMA in Austria and CNMV in Spain, FSC in the British Virgin Islands, CIMA in the
-                                        Cayman Islands.'); ?>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="p0 choose-next-background avant-pad about-our-advantages mex-p-t-80">
+    <link rel="stylesheet" type="text/css" href="../public_files/static_css/swiper-3.4.2.min.css">
+    <section class="pt64 pb16 table-background global-presence regulations-bg"
+             style="background-image: url(../public_files/images/about_us/regulations/regulations_fma.jpg);">
         <div class="container">
             <div class="row">
-                <div class="col-md-12 col-xs-12">
-                    <div class="container">
-                        <h2 class="mex-h1 text-fff text-center uppercase mex-p-b-40"><?php translate('OUR ADVANTAGES'); ?></h2>
+                <div class="col-xs-12 col-sm-9 clear-float mex-content">
+                    <h1 class="mex-h1 text-fff text-center"><?php translate('Regulations'); ?></h1>
+                    <p class="lead text-fff"><?php translate('At MultiBank, we are committed to providing transparency and the highest
+                        level of clients’ funds security. With licenses and regulations across 4 continents, we work
+                        with financial regulators across various jurisdictions to provide investor protection.'); ?></p>
+                    <p class="lead text-fff mex-m-b-30"><?php translate('Learn more about our various regulated entities'); ?></p>
+                </div>
+                <div class="col-xs-10 col-sm-9 clear-float">
+
+                    <div class="swiper-pagination swiper-pagination-white swiper-pagination-clickable swiper-pagination-bullets">
+<span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/australia.png" tabindex="0"
+      role="button" aria-label="Go to slide 1">
+<span>ASIC</span>
+<img src="../public_files/images/common/country/australia.png">
+</span>
+
+                        <span class="swiper-pagination-bullet"
+                              data-img="/public_files/images/common/country/germany.png" tabindex="0" role="button"
+                              aria-label="Go to slide 3">
+<span>BaFin</span>
+<img src="../public_files/images/common/country/germany.png">
+</span>
+                        <span class="swiper-pagination-bullet swiper-pagination-bullet-active"
+                              data-img="/public_files/images/common/country/austria.png" tabindex="0" role="button"
+                              aria-label="Go to slide 4">
+<span>FMA</span>
+<img src="../public_files/images/common/country/austria.png">
+</span>
+                        <span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/spain.png"
+                              tabindex="0" role="button" aria-label="Go to slide 5">
+<span>CNMV</span>
+<img src="../public_files/images/common/country/spain.png">
+</span>
+                        <span class="swiper-pagination-bullet"
+                              data-img="/public_files/images/common/country/british_virgin_islands.png" tabindex="0"
+                              role="button" aria-label="Go to slide 6">
+<span>FSC</span>
+<img src="../public_files/images/common/country/british_virgin_islands.png">
+</span>
+                        <span class="swiper-pagination-bullet"
+                              data-img="/public_files/images/common/country/cayman_islands.png" tabindex="0"
+                              role="button" aria-label="Go to slide 7">
+<span>CIMA</span>
+<img src="../public_files/images/common/country/cayman_islands.png">
+</span>
+                        <span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/uae.png"
+                              tabindex="0" role="button" aria-label="Go to slide 8">
+<span>RAK</span>
+<img src="../public_files/images/common/country/uae.png">
+</span>
                     </div>
-                </div>
-                <div class="col-md-12 col-xs-12 book-content avant-pad-contianer">
-                    <div class="container">
-                        <div class="book-content-inner">
-                            <div class="col-md-12">
-                                <ul class="mex-list-conditions">
-                                    <li><span class="mex-h1 li_left">01</span><span class="li_right"><?php translate('40+ awards, including “Best FX & CFD Broker (Europe & Asia) 2019” '); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">02</span><span class="li_right"><?php translate('Tightest spread in the industry with the most stable trading platforms'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">03</span><span class="li_right"><?php translate('Pure ECN processing with direct access to over 20 Interbank trading prices'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">04</span><span class="li_right"><?php translate('World class tailored financial services for Introducing Brokers including, but not limited to, 24/5 support and the development of customized account opening applications and trading back offices'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">05</span><span class="li_right"><?php translate('Two way 5 figure raw interbank price feeds with Instant sub-second trade capture/execution'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">06</span><span class="li_right"><?php translate('No price slippage on displayed prices when deals are being executed'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">07</span><span class="li_right"><?php translate('Complete transparency of market with only the best bid/offers being displayed'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">08</span><span class="li_right"><?php translate('Risk Management, Decision Support Tools, Dynamic position tracker, Point-and-choose position closeout and Back-office suite with strategic design and user-friendliness for the convenience of our valued clients and partners'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">09</span><span class="li_right"><?php translate('Award-winning MT4 & MT5 Platforms recognized for excellence in technology and liquidity'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">10</span><span class="li_right"><?php translate('Negative balance protection'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">11</span><span class="li_right"><?php translate('No trading restrictions on EA'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">12</span><span class="li_right"><?php translate('Up to 500:1 leverage'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">13</span><span class="li_right"><?php translate('No requotes'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">14</span><span class="li_right"><?php translate('No rejections'); ?></span></li>
-                                    <li><span class="mex-h1 li_left">15</span><span class="li_right"><?php translate('Free MAM, PAMM, VPS, API'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">16</span><span class="li_right"><?php translate('Client funds security'); ?></span>
-                                    </li>
-                                    <!-- <li><span class="mex-h1 li_left">17</span><span class="li_right"><?php translate('Paid up capital of over $322 million'); ?></span>
-                                    </li>
-                                    <li><span class="mex-h1 li_left">18</span><span class="li_right"><?php translate('Fully segregated client bank accounts'); ?></span>
-                                    </li> -->
-                                </ul>
+                    <div class="swiper-container swiper-container-horizontal" id="regulations-global-presence">
+                        <div class="swiper-wrapper mex-m-b-100 mex-m-t-15"
+                             style="transition-duration: 0ms; transform: translate3d(-2925px, 0px, 0px);">
+                            <div class="swiper-slide swiper-slide-duplicate"
+                                 data-img="/resource/newwebsite/v1_0/images/about_us/regulations/regulations_rak@2x.jpg"
+                                 data-swiper-slide-index="8" style="width: 975px;">
+                                <section class="mex-block-card-not-img">
+                                    <div class="card-content bg-white">
+                                        <div class="mex-h3-s mex-m-b-15">
+                                            RAK<br>MEX ClearingRAK<br>
+                                            MEX Clearing
+                                        </div>
+                                        <div class="mex-content">
+                                            MEX Clearing Limited is our subsidiary in the United Arab Emirates, and is
+                                            registered in the Ras Al Khaimah Free Trade Zone.
+                                        </div>
+
+                                        <a href="https://www.multibankfx.com/public_files/pdf/MEX_Clearing.pdf"
+                                           class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="swiper-slide"
+                                 data-img="/public_files/images/about_us/regulations/regulations_asic.jpg"
+                                 data-swiper-slide-index="1" style="width: 975px;">
+                                <section class="mex-block-card-not-img">
+                                    <div class="card-content bg-white">
+                                        <div class="mex-h3-s mex-m-b-15">
+                                            ASIC<br>MEX Exchange
+                                        </div>
+                                        <div class="mex-content">
+                                            MEX Australia Pty Ltd (MEX Exchange), with Australian company number (ACN)
+                                            155 084 058, is authorized and regulated by the Australian Securities &amp;
+                                            Investments Commission (“ASIC”) with AFSL number 416279. MEX Exchange is a
+                                            registered business name of MEX Australia Pty Ltd.
+                                        </div>
+                                        <a href="https://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_adf.ctrl-state=lffqbm9qo_36"
+                                           target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
+                                        <a href="http://download.mexgroup.com/uploads/PDFs/ASIC_Company_Certificate.pdf"
+                                           class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
+                                    </div>
+                                </section>
+                            </div>
+
+                            <div class="swiper-slide swiper-slide-prev"
+                                 data-img="/public_files/images/about_us/regulations/regulations_bafin.jpg"
+                                 data-swiper-slide-index="3" style="width: 975px;">
+                                <section class="mex-block-card-not-img">
+                                    <div class="card-content bg-white">
+                                        <div class="mex-h3-s mex-m-b-15">
+                                            BaFin<br>MEX Asset Management (Germany)
+                                        </div>
+                                        <div class="mex-content">
+                                            MEX Asset Management GmbH is authorized and regulated by the German Federal
+                                            Financial Supervisory Authority (“BaFin”) with license number HRB 73406.
+                                        </div>
+                                        <a href="https://www.bafin.de/SharedDocs/Standardartikel/EN/Unternehmensdatenbank/li_fidi_zugel_gesamt_en.html?nn=7856472"
+                                           target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
+                                        <a href="http://download.mexgroup.com/uploads/PDFs/MEXAM-BaFin.pdf"
+                                           class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="swiper-slide swiper-slide-active"
+                                 data-img="/public_files/images/about_us/regulations/regulations_fma.jpg"
+                                 data-swiper-slide-index="4" style="width: 975px;">
+                                <section class="mex-block-card-not-img">
+                                    <div class="card-content bg-white">
+                                        <div class="mex-h3-s mex-m-b-15">
+                                            FMA<br>MEX Asset Management (Austria)
+                                        </div>
+                                        <div class="mex-content">
+                                            MEX Asset Management GmbH (Austria) is the Austrian branch of our German
+                                            asset management company, with license number 491129z.
+                                        </div>
+                                        <a href="http://www.fma.gv.at/en/search-company-database/?cname=MEX+Asset+Management&amp;place=&amp;bic=&amp;category=&amp;per_page=10&amp;submitted=1"
+                                           target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
+
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="swiper-slide swiper-slide-next"
+                                 data-img="/public_files/images/about_us/regulations/regulations_cnmv.jpg"
+                                 data-swiper-slide-index="5" style="width: 975px;">
+                                <section class="mex-block-card-not-img">
+                                    <div class="card-content bg-white">
+                                        <div class="mex-h3-s mex-m-b-15">
+                                            CNMV<br>MEX Spain
+                                        </div>
+                                        <div class="mex-content">
+                                            MEX Spain is MultiBank’s Spanish branch based out of Barcelona, Spain, and
+                                            is regulated by the National Securities Market Commission (“CNMV”).
+                                        </div>
+                                        <a href="https://www.cnmv.es/Portal/Consultas/ESI/ESISExtranjerasSuc.aspx?tipo=CSU&numero=120&vista=0&fs=08/04/2019"
+                                           class="btn btn-mex mex-m-r-15">License link</a>
+                                        <a href="../public_files/images/documents/pdf/CNMV-license.pdf"
+                                           class="btn btn-mex-black mex-m-r-15">License PDF</a>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="swiper-slide"
+                                 data-img="/public_files/images/about_us/regulations/regulations_fsc.jpg"
+                                 data-swiper-slide-index="6" style="width: 975px;">
+                                <section class="mex-block-card-not-img">
+                                    <div class="card-content bg-white">
+                                        <div class="mex-h3-s mex-m-b-15">
+                                            FSC<br>Multibank FX International
+                                        </div>
+                                        <div class="mex-content">
+                                            Multibank FX International Corporation is authorized and regulated by the
+                                            Financial Services Commission of the British Virgin Islands (FSC) with
+                                            license number SIBA/L/14/1068.
+                                        </div>
+                                        <a href="http://www.bvifsc.vg/search/site/multibank" target="_blank"
+                                           class="btn btn-mex mex-m-r-15">License link</a>
+                                        <a href="http://download.mexgroup.com/uploads/PDFs/FSC_Company_License.pdf"
+                                           target="_blank" class="btn btn-mex-black mex-m-r-15"> License PDF</a>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="swiper-slide"
+                                 data-img="/public_files/images/about_us/regulations/regulations_cima.jpg"
+                                 data-swiper-slide-index="7" style="width: 975px;">
+                                <section class="mex-block-card-not-img">
+                                    <div class="card-content bg-white">
+                                        <div class="mex-h3-s mex-m-b-15">
+                                            CIMA<br>MEX Wealth Management
+                                        </div>
+                                        <div class="mex-content">
+                                            MEX Wealth Management is our subsidiary in the Cayman Islands, and is
+                                            regulated by the Cayman Islands Monetary Authority.
+                                        </div>
+                                        <a href="http://www.cima.ky/search-entities" target="_blank"
+                                           class="btn btn-mex mex-m-r-15">License link</a>
+                                        <a href="http://download.mexgroup.com/uploads/PDFs/MEX_Wealth_Management_Corporation_Certificate.pdf"
+                                           target="_blank" class="btn btn-mex-black mex-m-r-15">License PDF</a>
+                                    </div>
+                                </section>
+                            </div>
+
+                            <div class="swiper-slide swiper-slide-duplicate"
+                                 data-img="/public_files/images/about_us/regulations/regulations_asic.jpg"
+                                 data-swiper-slide-index="1" style="width: 975px;">
+                                <section class="mex-block-card-not-img">
+                                    <div class="card-content bg-white">
+                                        <div class="mex-h3-s mex-m-b-15">
+                                            ASIC<br>MEX Exchange
+                                        </div>
+                                        <div class="mex-content">
+                                            MEX Australia Pty Ltd (MEX Exchange), with Australian company number (ACN)
+                                            155 084 058, is authorized and regulated by the Australian Securities &amp;
+                                            Investments Commission (“ASIC”) with AFSL number 416279. MEX Exchange is a
+                                            registered business name of MEX Australia Pty Ltd.
+                                        </div>
+                                        <a href="http://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_adf.ctrl-state=vp4ojzdrf_4"
+                                           target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
+                                        <a href="http://download.mexgroup.com/uploads/PDFs/ASIC_Company_Certificate.pdf"
+                                           class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
+                                    </div>
+                                </section>
                             </div>
                         </div>
-                    </div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                 </div>
             </div>
         </div>
-    </section>
-    <section class="about-management">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-8 mb30 mb-sm-16">
-                    <section class="mex-card-cover"><img alt="Introducing Brokers" class="card-img mex-img-cover"
-                                                         data-entity-type="" data-entity-uuid=""
-                                                         src="../public_files/images/partnership/home_partnership_introducing_broker@2x.png"/>
-                        <div class="card-content text-left">
-                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('Introducing Brokers '); ?></div>
-                            <div class="hide-mex-content">
-                                <ul class="wm-partnership-mb">
-                                    <li><?php translate('Unbeatable IB conditions offering the maximum commission and rebate returns on
-                                        transactions'); ?>
-                                    </li>
-                                    <li><?php translate('Customized demo and live account opening applications'); ?></li>
-                                    <li><?php translate('Full set of marketing materials including brochures, calendars, educational
-                                        materials and account opening documents'); ?>
-                                    </li>
-                                    <li><?php translate('Year-round promotions, activities and bonuses including lucrative cash and
-                                        physical prizes'); ?>
-                                    </li>
-                                    <li><?php translate('Each Introducing Broker will be assigned an experienced IB manager to provide a
-                                        personal approach to the partnership experience'); ?>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4 mb30 mb-sm-16">
-                    <section class="mex-card-cover"><img alt="Franchise Program" class="card-img mex-img-cover"
-                                                         data-entity-type="" data-entity-uuid=""
-                                                         src="../public_files/images/partnership/home_partnership_franchise_program@2x.png"/>
-                        <div class="card-content text-left">
-                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('Franchise Program'); ?></div>
-                            <div class="hide-mex-content">
-                                <ul class="wm-partnership-mb">
-                                    <li><?php translate('Exclusive representation of MultiBank in your local region'); ?></li>
-                                    <li><?php translate('PL and expenses sharing agreements'); ?></li>
-                                    <li><?php translate('Full access to all trading data and Back Office'); ?></li>
-                                    <li><?php translate('Full marketing and technical support'); ?></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4 mb-sm-16">
-                    <section class="mex-card-cover"><img alt="White Label" class="card-img mex-img-cover"
-                                                         data-entity-type="" data-entity-uuid=""
-                                                         src="../public_files/images/partnership/home_partnership_white_label@2x.png"/>
-                        <div class="card-content text-left">
-                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('White Label'); ?></div>
-                            <div class="hide-mex-content">
-                                <ul class="wm-partnership-mb">
-                                    <li><?php translate('Full API integration and supplying liquidity'); ?></li>
-                                    <li><?php translate('Personalized Front Office and Back Office systems (MyMultiBank)'); ?></li>
-                                    <li><?php translate('Specialized tools for client administration, risk management and
-                                        real-time/end-of-day reporting'); ?>
-                                    </li>
-                                    <li><?php translate('Reliable hosting and system administration support'); ?></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-8 mb-sm-16">
-                    <section class="mex-card-cover"><img alt="Prime Broker Services" class="card-img mex-img-cover"
-                                                         data-entity-type="" data-entity-uuid=""
-                                                         src="../public_files/images/partnership/home_partnership_prime_of_primes.jpg"/>
-                        <div class="card-content text-left">
-                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('Prime Broker Services'); ?>
-                            </div>
-                            <div class="hide-mex-content">
-                                <ul class="wm-partnership-mb">
-                                    <li><?php translate('Agency execution'); ?></li>
-                                    <li><?php translate('Full technology support'); ?></li>
-                                    <li><?php translate('Low latency, co-located connectivity to bank and non-bank fees'); ?></li>
-                                    <li><?php translate('Deep liquidity to access the market from a wide range of banks, liquidity
-                                        providers and ECNs'); ?>
-                                    </li>
-                                    <li><?php translate('Connectivity infrastructures'); ?></li>
-                                    <li><?php translate('Full account management functionality, along with real-time position keeping'); ?>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="table-background customer_service">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2 class="mex-h1 text-1e32a3 text-center uppercase mex-p-b-40"><?php translate('first class customer service'); ?></h2>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-lg-3 mex-m-b-30">
-                    <section class="mex-block-card-v mex-qtr">
-                        <div class="card-img-box"><img
-                                alt="24 hour professional first class customer service in 10+ languages"
-                                class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="../public_files/images/about_us/why_multibank_first_class_customer_service.png"/>
-                        </div>
-                        <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0"><?php translate('24 hour professional first class customer
-                                service in 10+ languages'); ?>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-lg-3 mex-m-b-30">
-                    <section class="mex-block-card-v mex-qtr">
-                        <div class="card-img-box"><img
-                                alt="IT and operational support including service desk and on-boarding"
-                                class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="../public_files/images/about_us/why_multibank_it_support.png"/></div>
-                        <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0"><?php translate('IT and operational support including service
-                                desk, on-boarding and configuration and cash management'); ?>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-lg-3 mex-m-b-30">
-                    <section class="mex-block-card-v mex-qtr">
-                        <div class="card-img-box"><img alt=" Regulatory and corporate support"
-                                                       class="card-img mex-img-cover" data-entity-type=""
-                                                       data-entity-uuid=""
-                                                       src="../public_files/images/about_us/why_multibank_corporate_support.png"/>
-                        </div>
-                        <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0"><?php translate('Regulatory and corporate support'); ?></div>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-lg-3 mex-m-b-30">
-                    <section class="mex-block-card-v mex-qtr">
-                        <div class="card-img-box"><img
-                                alt="Sales and market support including educational materials, videos, tutorials and seminars"
-                                class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="../public_files/images/about_us/why_multibank_market_support.png"/></div>
-                        <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0"><?php translate('Sales and market support including educational
-                                materials, videos, tutorials and seminars'); ?>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-lg-3 mb-s-30">
-                    <section class="mex-block-card-v mex-qtr">
-                        <div class="card-img-box"><img
-                                alt="24/5 support from Technical Department and IT Trading specialists"
-                                class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="../public_files/images/about_us/why_multibank_technical_support.png"/></div>
-                        <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0"><?php translate('24/5 support from Technical Department and IT
-                                Trading specialists'); ?>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-lg-3 mb-s-30  mex-m-b-30">
-                    <section class="mex-block-card-v mex-qtr">
-                        <div class="card-img-box"><img
-                                alt="Around the clock, quick account opening and funding available"
-                                class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="../public_files/images/about_us/why_multibank_quick_account_opening.png"/></div>
-                        <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0"><?php translate('Around the clock, quick account opening and
-                                funding available'); ?>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-lg-3  mex-m-b-30">
-                    <section class="mex-block-card-v mex-qtr">
-                        <div class="card-img-box"><img
-                                alt="24 hours up-to-date online financial news in multiple languages"
-                                class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="../public_files/images/about_us/why_multibank_financial_news.png"/></div>
-                        <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0"><?php translate('24 hours up-to-date online financial news in
-                                multiple languages'); ?>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-lg-3  mex-m-b-30">
-                    <section class="mex-block-card-v mex-qtr">
-                        <div class="card-img-box"><img
-                                alt="Various funding methods including: credit card, wire transfer, Neteller, Skrill and more"
-                                class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="../public_files/images/about_us/why_multibank_funding_methods.png"/></div>
-                        <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0"><?php translate('Various funding methods including: credit card,
-                                wire transfer, Neteller, Skrill, etc'); ?>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
+
+        <div class="swiper-button-next swiper-button-white" tabindex="0" role="button" aria-label="Next slide"
+             style="right: 370.5px;"></div>
+        <div class="swiper-button-prev swiper-button-white" tabindex="0" role="button" aria-label="Previous slide"
+             style="left: 370.5px;"></div>
+
+
+        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_asic.jpg"/>
+        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_rak.jpg"/>
+        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_bafin.jpg"/>
+        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_cnmv.jpg"/>
+        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_cima.jpg"/>
+        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_fsc.jpg"/>
+        <img class="regulations-hidden-image" src="../public_files/images/about_us/regulations/regulations_fma.jpg"/>
     </section>
     <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script type="aca9042ca4fa5ec4ab63856a-text/javascript">
+    <script type="4697d1266f44080ba22ec4c5-text/javascript">
 $(function() {
 var icons = [
-'ic_our_regulations',
+'ic_why_multibank',
 'ic_security_of_funds',
 'ic_our_milestones',
 'ic_our_products',
@@ -902,25 +790,11 @@ var icons = [
 'ic_trading_tools',
 'ic_partnership_programs'
 ];
+
 whereToGoItem.injectIcons('.target-icon', icons);
 });
 
     </script>
-    <style>
-        .wm-partnership-mb {
-            list-style-type: disc;
-        }
-
-        .wm-partnership-mb li {
-            margin-left: -20px;
-
-        }
-
-        .about-management .mex-card-cover:hover .card-content {
-            background-color: rgba(0, 0, 0, 0.8) !important;
-
-        }
-    </style>
     <section class="p0 choose-next-background subject-box-bg-light">
         <div class="container mex-m-b-80">
             <div class="col-md-12">
@@ -928,69 +802,71 @@ whereToGoItem.injectIcons('.target-icon', icons);
                      data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
                      data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE"
                      data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน"
-                     data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?>
+                     data-ae="أختر أين تريد الذهاب">Choose Where to go next
                 </div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span></a>
-                            <div class="mex-content mex-clamp-3"><?php translate('Our Regulations'); ?></div>
+                            <div class="mex-content mex-clamp-3">Our Regulations</div>
                         </li>
                         <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../products.html"><?php translate('Our Products'); ?></a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
                             <a href="../products.html"> </a></li>
                         <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                            <div class="mex-content mex-clamp-3"><?php translate('Trading Tools'); ?></div>
+                            <div class="mex-content mex-clamp-3">Trading Tools</div>
                             <a href="../tools.html"> </a></li>
                         <li><a href="why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html"><?php translate('Why Multibank'); ?></a>
+                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html">Why Multibank</a>
                             </div>
                             <a href="why-multibank-group.html"> </a></li>
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html"><?php translate('Our Regulations'); ?></a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
+                                Regulations</a></div>
                             <a href="../mfx/v1/about/regulations.html"> </a></li>
                         <li><a href="security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html"><?php translate('Security of Funds'); ?></a>
+                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html">Security of Funds</a>
                             </div>
                             <a href="security-of-funds.html"> </a></li>
                         <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account.html"><?php translate('Accounts & Funding '); ?></a>
+                            <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
                             </div>
                             <a href="../account.html"> </a></li>
                         <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html"><?php translate('Bonus Programs'); ?></a>
+                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html">Bonus Programs</a>
                             </div>
                             <a href="../account/bonus.html"> </a></li>
                         <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html"><?php translate('Partnership Programs'); ?></a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
+                                Programs</a></div>
                             <a href="../investor-relations.html"> </a></li>
                         <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span
                                 class="ico-ic_become_an_ib"></span> </a>
                             <div class="mex-content mex-clamp-3"><a
-                                    href="../partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become an IB'); ?></a></div>
+                                    href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
+                                IB</a></div>
                             <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a></li>
                         <li><a href="milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="milestones.html"><?php translate('Our Milestones'); ?></a></div>
+                            <div class="mex-content mex-clamp-3"><a href="milestones.html">Our Milestones</a></div>
                             <a href="milestones.html"> </a></li>
                         <li><a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-aca9042ca4fa5ec4ab63856a-=""><span
+                               data-cf-modified-4697d1266f44080ba22ec4c5-=""><span
                                 class="ico-ic_live_chat_support"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../index.html#"
                                                                     onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                                                    data-cf-modified-aca9042ca4fa5ec4ab63856a-=""><?php translate('Live Chat Support'); ?></a></div>
+                                                                    data-cf-modified-4697d1266f44080ba22ec4c5-="">Live
+                                Chat Support</a></div>
                             <a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-aca9042ca4fa5ec4ab63856a-=""> </a></li>
+                               data-cf-modified-4697d1266f44080ba22ec4c5-=""> </a></li>
                     </ul>
                 </div>
             </div>
         </div>
     </section>
 </div>
-<?php include_from_root('website_template/page_footer.php');?>
-
 <!-- <section class="bg-gray contact-us">
     <div class="container">
         <div class="row justify-content-center">
@@ -1069,15 +945,15 @@ whereToGoItem.injectIcons('.target-icon', icons);
                         <li class="ForIts">
                             <div class="mex-h3  mex-p-v-15  mex-m-t-10">Email Us</div>
                             <div class="contact-email"><a class="text-000033"
-                                                          href="../cdn-cgi/l/email-protection.html#f49787b4998198809d96959a9f928cda979b99"><span
-                                    class="__cf_email__" data-cfemail="ef8c9caf829a839b868d8e81848997c18c8082">[email&#160;protected]</span></a>
+                                                          href="../cdn-cgi/l/email-protection.html#731000331e061f071a11121d18150b5d101c1e"><span
+                                    class="__cf_email__" data-cfemail="066575466b736a726f6467686d607e2865696b">[email&#160;protected]</span></a>
                             </div>
                         </li>
                         <li class="ForIts">
                             <div class="mex-h3 mex-m-t-20 ">Live Chat</div>
-                            <a href="why-multibank-group.html#"
+                            <a href="../mfx/v1/about/regulations.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-aca9042ca4fa5ec4ab63856a-=""><img alt="chat"
+                               data-cf-modified-4697d1266f44080ba22ec4c5-=""><img alt="chat"
                                                                                   class="home_contact_us_chat_now"
                                                                                   data-entity-type=""
                                                                                   data-entity-uuid=""
@@ -1087,16 +963,16 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     <div class="d-flex d-md-none row py-4 row-eq-height">
                         <div class="col-4 text-center mx-auto">
                             <div class="mex-h3 mb-2 footer-mb-social-media">EMAIL US</div>
-                            <a href="../cdn-cgi/l/email-protection.html#781b0b38150d140c111a1916131e00561b1715">
+                            <a href="../cdn-cgi/l/email-protection.html#75160635180019011c17141b1e130d5b161a18">
                                 <img class="footer-contact-ic"
                                      src="../public_files/images/common/icon_contact_mail.png"/>
                             </a>
                         </div>
                         <div class="col-4 text-center mx-auto">
                             <div class="mex-h3 mb-2 footer-mb-social-media">LIVE CHAT</div>
-                            <a href="why-multibank-group.html#"
+                            <a href="../mfx/v1/about/regulations.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-aca9042ca4fa5ec4ab63856a-="">
+                               data-cf-modified-4697d1266f44080ba22ec4c5-="">
                                 <img class="footer-contact-ic"
                                      src="../public_files/images/common/icon_contact_wechat.png"/>
                             </a>
@@ -1109,11 +985,11 @@ whereToGoItem.injectIcons('.target-icon', icons);
                         <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form'
                               class='multibank-form row mx-0 w-100 new' method='post' enctype=''
                               id='call_back_footer_form' target='' autocomplete='on'>
-                            <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTowOQ=='/>
+                            <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToxMQ=='/>
                             <input type='hidden' name='token'
-                                   value='$2y$10$6L1v0EgyfVzEkUTtMApUWeBDmfnP0gItNofMnMaZxF/p4EzIbSoI6'/>
+                                   value='$2y$10$7A0glBMxh/PZvRe3jUzeCeeWA8fyRuEmfK3kV7Sf/wvNjWv6N8B8W'/>
                             <input type='hidden' name='source'
-                                   value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:05] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:07] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:08] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:09] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/why-multibank-group?web=true'/>
+                                   value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:08] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:09] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:10] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:11] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/regulations?web=true'/>
                             <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                 <label for='' class='m-0'>
                                 </label>
@@ -1495,7 +1371,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                             </div>
                             <button type='submit' class='btn btn-mex mx-auto'
                                     onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                                    data-cf-modified-aca9042ca4fa5ec4ab63856a-="">CALL ME
+                                    data-cf-modified-4697d1266f44080ba22ec4c5-="">CALL ME
                             </button>
                         </form>
                         <div class="px-1 font-10" style="padding:0px;">
@@ -1528,9 +1404,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     </a>
                     <a href="https://my.multibankfx.com/en/traders/login" target="_blank">MyMultibank</a>
                     <a href="../contact.html" target="_parent">Contact Us</a>
-                    <a href="why-multibank-group.html#"
+                    <a href="../mfx/v1/about/regulations.html#"
                        onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                       data-cf-modified-aca9042ca4fa5ec4ab63856a-="">Support</a>
+                       data-cf-modified-4697d1266f44080ba22ec4c5-="">Support</a>
                     <a href="../article/hiring-now-cyprus.html" target="_parent">Career</a>
                     <a href="../investor-relations.html" target="_parent">Investor&nbsp;Relations</a>
                 </div>
@@ -1682,6 +1558,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
         </div>
     </div>
 </section> -->
+<?php include_from_root('website_template/page_footer.php');?>
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""
@@ -1692,13 +1569,13 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                 src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50"/> </span>
     </a>
     <a class="email-us-tg demo-account-btn email-btn"
-       href="../cdn-cgi/l/email-protection.html#a4c7d7e4c9d1c8d0cdc6c5cacfc2dc8ac7cbc9">
+       href="../cdn-cgi/l/email-protection.html#482b3b08253d243c212a2926232e30662b2725">
         <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/home/sidebar_icon/email.png" width="50"/> </span>
     </a>
     <a class="ib-registration-btn chat-btn"
        onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-       data-cf-modified-aca9042ca4fa5ec4ab63856a-="">
+       data-cf-modified-4697d1266f44080ba22ec4c5-="">
         <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/home/sidebar_icon/chat.png" width="50"/> </span>
     </a>
@@ -1802,10 +1679,10 @@ whereToGoItem.injectIcons('.target-icon', icons);
             <form action="https://www.multibankfx.com/form/contactus?" name='email_us_form'
                   class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='email_us_form' target=''
                   autocomplete='on'>
-                <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTowOQ=='/>
-                <input type='hidden' name='token' value='$2y$10$c/0Ut9L4btXDxvIKaDvG.OfZcie/Zq2YQCV0coYbAHa6flXUPLb4K'/>
+                <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToxMQ=='/>
+                <input type='hidden' name='token' value='$2y$10$ZOYtuuG4lilvSIjg4FzCM.0YWG4q2gR1YnHqpWW2bqEb.3xRALr2i'/>
                 <input type='hidden' name='source'
-                       value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:05] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:07] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:08] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:09] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/why-multibank-group?web=true'/>
+                       value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:08] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:09] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:10] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:11] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/regulations?web=true'/>
                 <div class='col-12 p-0'>
                     <label for='' class='mex-h3'>
                         EMAIL US</label>
@@ -2135,7 +2012,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                 </div>
                 <button type='submit' class='btn btn-mex ml-auto btn-submit'
                         onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                        data-cf-modified-aca9042ca4fa5ec4ab63856a-="">SEND
+                        data-cf-modified-4697d1266f44080ba22ec4c5-="">SEND
                 </button>
             </form>
         </div>
@@ -2190,7 +2067,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
     }
 </style>
 <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-<script type="aca9042ca4fa5ec4ab63856a-text/javascript">
+<script type="4697d1266f44080ba22ec4c5-text/javascript">
     $(function(){
         $('.email-us-tg').click(function(e){
             e.preventDefault();
@@ -2203,16 +2080,16 @@ whereToGoItem.injectIcons('.target-icon', icons);
     })
 
 </script>
-<script src="../public_files/static_js/lang_data/en.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
+<script src="../public_files/static_js/lang_data/en.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
 <script src="../public_files/static_js/jquery.dataTables.min.js"
-        type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script src="../public_files/static_js/lazysizes.min.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script src="../public_files/static_js/jquery.validate.min.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
+        type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+<script src="../public_files/static_js/lazysizes.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+<script src="../public_files/static_js/jquery.validate.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
 <script src="../public_files/static_js/intlTelInput.min.js"
-        type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
+        type="4697d1266f44080ba22ec4c5-text/javascript"></script>
 <script src="../public_files/static_js/app.js"
-        type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script type="aca9042ca4fa5ec4ab63856a-text/javascript" async>
+        type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+<script type="4697d1266f44080ba22ec4c5-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {
         window.__lc = window.__lc || {};
@@ -2243,7 +2120,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
   }
 
 </script>
-<script type="aca9042ca4fa5ec4ab63856a-text/javascript">
+<script type="4697d1266f44080ba22ec4c5-text/javascript">
 $(function() {
     $('.mex-translatable').each(function() {
         var url_parts = location.hostname.split('.');
@@ -2278,13 +2155,13 @@ $(function() {
 
 
 </script>
-<script type="aca9042ca4fa5ec4ab63856a-text/javascript">
+<script type="4697d1266f44080ba22ec4c5-text/javascript">
 $(function() {
         $('form:not("#demo_competition_form_2019_08_13") .sms_verif_code').val('215121');
 });
 
 </script>
-<script type="aca9042ca4fa5ec4ab63856a-text/javascript">
+<script type="4697d1266f44080ba22ec4c5-text/javascript">
 $(function(){
 var iframe_ibnum =getUrlVars()['ibNum'];
 var is_iframe = getUrlVars()['is_iframe'];
@@ -2303,9 +2180,9 @@ if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
 });
 
 </script>
-<script src="../public_files/static_js/swiper-4.3.5.min.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script src="../public_files/static_js/app_home.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script type="aca9042ca4fa5ec4ab63856a-text/javascript">
+<script src="../public_files/static_js/swiper-4.3.5.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+<script src="../public_files/static_js/app_home.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+<script type="4697d1266f44080ba22ec4c5-text/javascript">
 $(function() {
 //icons we need
 var icons = [
@@ -2330,8 +2207,6 @@ whereToGoItem.injectIcons('.target-icon', icons);
 <style>
     .ensure-fund-security-wrapper {
         width: 100%;
-
-
         display: grid;
         grid-template-columns: 33.333% 33.333% 33.333%;
         grid-template-rows: 1fr 1fr;
@@ -2363,6 +2238,6 @@ whereToGoItem.injectIcons('.target-icon', icons);
 
 </style>
 <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js"
-        data-cf-settings="aca9042ca4fa5ec4ab63856a-|49" defer=""></script>
+        data-cf-settings="4697d1266f44080ba22ec4c5-|49" defer=""></script>
 </body>
 </html>

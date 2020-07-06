@@ -11,7 +11,7 @@ $request_file = str_replace('/multibankfx/','',$request_url);
 
 $request_file =( $request_file=='' )?'home.php':$request_file;
 
-include $root_path.'database/db_driver.php';
+// include $root_path.'database/db_driver.php';
 
 
 function include_from_root($path){

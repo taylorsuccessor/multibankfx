@@ -8,9 +8,9 @@
         <div class="col-lg-12 footer">
             <div class="row justify-content-between" style="padding-bottom: 25px; border-bottom: 1px solid #808080;">
                 <div class="col-xs-12 col-sm-12 col-md-8 footer_other_left align-self-center">
-                    <a class="footer_logo" href="index.html" target="_parent">
+                    <a class="footer_logo" href="../index.html" target="_parent">
                         <img alt="logo" data-entity-type="" data-entity-uuid=""
-                             src="public_files/images/common/logo_black_360.png" width="200"/>
+                             src="../public_files/images/common/logo_black_360.png" width="200"/>
                     </a>
                     <a href="https://my.multibankfx.com/en/traders/login" target="_blank"><?php translate('MyMultibank'); ?></a>
                     <a href="contact.html" target="_parent"><?php translate('Contact Us'); ?></a>
@@ -23,23 +23,23 @@
                 <div class="footer_btn col-xs-12  col-sm-12 col-md-4 align-self-center">
                     <a href="https://www.facebook.com/multibank.official" target="_blank">
                         <img alt="facebook" data-entity-type="" data-entity-uuid="" height="30"
-                             src="public_files/images/common/en_foote_btn_01.png" width="30"/>
+                             src="../public_files/images/common/en_foote_btn_01.png" width="30"/>
                     </a>
                     <a href="https://twitter.com/multibankgroup" target="_blank">
                         <img alt="twitter" data-entity-type="" data-entity-uuid="" height="30"
-                             src="public_files/images/common/en_foote_btn_02.png" width="30"/>
+                             src="../public_files/images/common/en_foote_btn_02.png" width="30"/>
                     </a>
                     <a href="https://www.youtube.com/c/MultiBankGoup" target="_blank">
                         <img alt="youtube" data-entity-type="" data-entity-uuid="" height="30"
-                             src="public_files/images/common/en_foote_btn_03.png" width="30"/>
+                             src="../public_files/images/common/en_foote_btn_03.png" width="30"/>
                     </a>
                     <a href="https://www.linkedin.com/company/multibankgroup/" target="_blank">
                         <img alt="linkedin" data-entity-type="" data-entity-uuid="" height="30"
-                             src="public_files/images/common/en_foote_btn_04.png" width="30"/>
+                             src="../public_files/images/common/en_foote_btn_04.png" width="30"/>
                     </a>
                     <a href="https://www.instagram.com/multibank_group/" target="_blank">
                         <img alt="instagram" data-entity-type="" data-entity-uuid="" height="30"
-                             src="public_files/images/common/en_foote_btn_05.png" width="30"/>
+                             src="../public_files/images/common/en_foote_btn_05.png" width="30"/>
                     </a>
                 </div>
             </div>
@@ -128,25 +128,25 @@
                 <div class="container">
                     <div class="row">
                         <img class="w-100 h-auto d-block d-lg-none"
-                             src="public_files/images/common/icons/payment_partners-201906.jpg">
+                             src="../public_files/images/common/icons/payment_partners-201906.jpg">
                         <div class="footer-icon-list d-none d-lg-block">
                             <img class="footer-icon" alt="nab"
-                                 src="public_files/images/common/icons/logo_footer_nab.png"
+                                 src="../public_files/images/common/icons/logo_footer_nab.png"
                                  style="width: auto; height: 30px;">
                             <img class="footer-icon" alt="neteller"
-                                 src="public_files/images/common/icons/logo_footer_neteller.png"
+                                 src="../public_files/images/common/icons/logo_footer_neteller.png"
                                  style="width: auto; height: 20px;">
                             <img class="footer-icon" alt="skrill"
-                                 src="public_files/images/common/icons/logo_footer_skrill.png"
+                                 src="../public_files/images/common/icons/logo_footer_skrill.png"
                                  style="width: auto; height: 25px;">
                             <img class="footer-icon" alt="swift"
-                                 src="public_files/images/common/icons/logo_footer_swift.png"
+                                 src="../public_files/images/common/icons/logo_footer_swift.png"
                                  style="width: auto; height: 25px;">
                             <img class="footer-icon" alt="visa"
-                                 src="public_files/images/common/icons/logo_footer_visa.png"
+                                 src="../public_files/images/common/icons/logo_footer_visa.png"
                                  style="width: auto; height: 25px;">
                             <img class="footer-icon" alt="mastercard"
-                                 src="public_files/images/common/icons/logo_footer_mastercard.png"
+                                 src="../public_files/images/common/icons/logo_footer_mastercard.png"
                                  style="width: auto; height: 25px;">
                         </div>
                     </div>

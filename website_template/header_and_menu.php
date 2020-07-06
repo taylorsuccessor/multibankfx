@@ -1,3 +1,10 @@
+<?php
+
+
+$siteurl = "http://localhost/multibankfx";
+
+?>
+
 <div class="header">
     <div class="header-top d-none d-md-block">
         <div class="row">
@@ -37,9 +44,8 @@
             <div class="row nav-bar justify-content-between mx-0">
                 <div class="line-height-75 line-height-1280-55 header-bottom-left-container">
                     <div class="header-boottom-logo">
-                        <a href="index.html">
-                            <img alt="logo" class="logo logo-dark header-logo"
-                                 src="public_files/images/common/logo_black_360.png"/>
+                        <a href="/multibankfx/index.php">
+                            <img alt="logo" class="logo logo-dark header-logo" src="/multibankfx/public_files/images/common/logo_black_360.png" />
                         </a>
                     </div>
                 </div>
@@ -72,9 +78,8 @@
                     </div>
                 </div>
                 <div class="show-1200-flex align-items-center">
-                    <a class="nav-menu-mymex" style="min-width: unset !important;"
-                       href="https://my.multibankfx.com/en/traders/login">
-                        <img alt="" src="public_files/images/common/icons/btn_mymex_icon.png"/>
+                    <a class="nav-menu-mymex" style="min-width: unset !important;" href="https://my.multibankfx.com/en/traders/login">
+                        <img alt="" src="/multibankfx/public_files/images/common/icons/btn_mymex_icon.png" />
                     </a>
                     <div class="nav-menu-hamburger">
                         <i class="ti-menu" style="font-size: 20px; color: #FFF;"></i>
@@ -116,10 +121,7 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
                             </div>
                         </div>
                     </div>
@@ -152,10 +154,7 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
                             </div>
                         </div>
                     </div>
@@ -189,10 +188,7 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
                             </div>
                         </div>
                     </div>
@@ -229,10 +225,7 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
                             </div>
                         </div>
                     </div>
@@ -267,10 +260,7 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
                             </div>
                         </div>
                     </div>
@@ -304,10 +294,7 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
-                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
-                                        data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
                             </div>
                         </div>
                     </div>
@@ -379,8 +366,7 @@
                         <li><a href="partnership/cpa-affiliate-program.html"><?php translate('CPA Affiliate Program'); ?></a></li>
                     </ul>
                 </li>
-                <li class="nav-menu-mobile-section py-1 px-4 lang-mobile-menu" style="border-top: 1px solid #ccc;"><a
-                        href="investor-relations.html">EN</a>
+                <li class="nav-menu-mobile-section py-1 px-4 lang-mobile-menu" style="border-top: 1px solid #ccc;"><a href="/multibankfx/investor-relations.php">EN</a>
                     <ul class="text-center">
                         <li><a href="https://es.multibankfx.com">Español</a></li>
 
