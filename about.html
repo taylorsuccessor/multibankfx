@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang='en'>
-<head><meta charset='UTF-8'><meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<head>
+
+        <?php include_from_root('website_template/head.php');?>
+  
+    <!-- <meta charset='UTF-8'><meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <title>About MultiBank Group - World's Best Forex Broker</title>
 <meta name='description' content="MultiBank was established in California, USA, in 2005 and is the world's leading Forex & CFD broker.">
@@ -60,8 +64,13 @@ form:not(#demo_competition_form_2019_08_13) .send-code-container{display:none;}
 }
 </style>
 <script src="public_files/static_js/jquery-3.3.1.min.js" type="264a9d99fba7749106dd85a3-text/javascript"></script>
-<script type="264a9d99fba7749106dd85a3-text/javascript">const page_dir = 'ltr';</script>
-</head><body><div class="header">
+<script type="264a9d99fba7749106dd85a3-text/javascript">const page_dir = 'ltr';</script> -->
+</head>
+
+<body>
+    <?php include_from_root('website_template/header_and_menu.php');?>
+
+    <!-- <div class="header">
 <div class="header-top d-none d-md-block">
 <div class="row">
 <div class="col-sm-6">
@@ -410,7 +419,7 @@ and enjoy the highest levels of personalized customer care.</p>
 </ul>
 </div>
 </div>
-</div>
+</div> -->
 <style>
     .nav-menu-hamburger, .nav-menu-mymex {
         width: 35px;
@@ -470,8 +479,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="col-xl-10 padding-20 page-top-banner-video-bg">
 <div class="row">
 <div class="col-lg-7 col-sm-12 mb-sm-32">
-<h1 class="mex-h1 text-fff mex-m-b-15">ABOUT US</h1>
-<div class="mex-content text-fff text-justify">MultiBank was established in California, USA in 2005. Since its launch MultiBank has evolved into one of the largest online financial derivatives providers worldwide, with a current paid up capital of over US $322 million.</div>
+<h1 class="mex-h1 text-fff mex-m-b-15"><?php translate('ABOUT US'); ?></h1>
+<div class="mex-content text-fff text-justify"><?php translate('MultiBank was established in California, USA in 2005. Since its launch MultiBank has evolved into one of the largest online financial derivatives providers worldwide, with a current paid up capital of over US $322 million.'); ?></div>
 </div>
 <div class="col-lg-5 col-sm-12 page-top-banner-video">
 <video class="full-width html5_video_play" controls>
@@ -489,40 +498,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="col-xl-8 mex-m-b-30">
 <section class="mex-card-cover box-animate"><a href="about/why-multibank-group.html"><img alt="Why MultiBank" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/about_why_multibank.png" /> </a>
 <div class="card-content text-left">
-<div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase text-fff">Why MultiBank</div>
-<div class="mex-content  mb0 col-md-6 p0 col-xs-12 text-overflow-3">Learn more about MultiBank's award-winning platforms and comprehensive partnership programs</div>
+<div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase text-fff"><?php translate('Why MultiBank'); ?></div>
+<div class="mex-content  mb0 col-md-6 p0 col-xs-12 text-overflow-3"><?php translate("Learn more about MultiBank's award-winning platforms and comprehensive partnership programs"); ?></div>
 </div>
 <a href="about/why-multibank-group.html"> </a></section>
 </div>
 <div class="col-md-6 col-xl-4 mex-m-b-30">
 <section class="mex-card-cover box-animate"><a href="mfx/v1/about/regulations.html"><img alt="Regulations" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/about_regulations.png" /> </a>
 <div class="card-content text-left">
-<div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">Regulations</div>
-<div class="mex-content mb0 text-overflow-3">Companies regulated by top financial bodies worldwide including ASIC, BaFin, FMA, CNMV, FSC, and CIMA</div>
+<div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff"><?php translate('Regulations'); ?></div>
+<div class="mex-content mb0 text-overflow-3"><?php translate('Companies regulated by top financial bodies worldwide including ASIC, BaFin, FMA, CNMV, FSC, and CIMA'); ?></div>
 </div>
 <a href="mfx/v1/about/regulations.html"> </a></section>
 </div>
 <div class="col-md-6 col-xl-4 mex-m-b-30">
 <section class="mex-card-cover box-animate"><a href="about/global-presence.html"><img alt="Global Presence" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/about_global_presence.png" /> </a>
 <div class="card-content text-left">
-<div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">Global Presence</div>
-<div class="mex-content mb0 text-overflow-3">We maintain over 20 offices worldwide to cater to our international client base</div>
+<div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff"><?php translate('Global Presence'); ?></div>
+<div class="mex-content mb0 text-overflow-3"><?php translate('We maintain over 20 offices worldwide to cater to our international client base'); ?></div>
 </div>
 <a href="about/global-presence.html"> </a></section>
 </div>
 <div class="col-md-6 col-xl-4 mex-m-b-30">
 <section class="mex-card-cover box-animate"><a href="about/security-of-funds.html"><img alt="Security of Funds" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/about_security_of_funds.png" /> </a>
 <div class="card-content text-left">
-<div class="font-34  mex-m-b-5 font-type-cap uppercase text-fff">Security of Funds</div>
-<div class="mex-content  mb0 text-overflow-3">Clients can enjoy the highest level of funds security through MultiBank</div>
+<div class="font-34  mex-m-b-5 font-type-cap uppercase text-fff"><?php translate('Security of Funds'); ?></div>
+<div class="mex-content  mb0 text-overflow-3"><?php translate('Clients can enjoy the highest level of funds security through MultiBank'); ?></div>
 </div>
 <a href="about/security-of-funds.html"> </a></section>
 </div>
 <div class="col-md-6 col-xl-4 mex-m-b-30">
 <section class="mex-card-cover box-animate"><a href="about/management.html"><img alt="Management" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/management/about_management.png" /> </a>
 <div class="card-content text-left">
-<div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">Management</div>
-<div class="mex-content mb0 text-overflow-3">Meet our experienced and dedicated Management Team</div>
+<div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff"><?php translate('Management'); ?></div>
+<div class="mex-content mb0 text-overflow-3"><?php translate('Meet our experienced and dedicated Management Team'); ?></div>
 </div>
 <a href="about/management.html"> </a></section>
 </div>
@@ -534,9 +543,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="container">
 <div class="row">
 <div class="col-md-12 text-center mex-m-b-30">
-<h2 class="mex-h1 text-fff text-center">Awards</h2>
-<p class="text-fff mb15 text-center font-24">Find out more about our awards and recognitions as industry
-leader</p>
+<h2 class="mex-h1 text-fff text-center"><?php translate('Awards'); ?></h2>
+<p class="text-fff mb15 text-center font-24"><?php translate('Find out more about our awards and recognitions as industry leader'); ?></p>
 </div>
 </div>
 </div>
@@ -719,7 +727,8 @@ Best ECN Forex Broker Europe 2013
 </div>
 </div>
 </section>
-<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="264a9d99fba7749106dd85a3-text/javascript" src="public_files/static_js/slick.js"></script>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script type="264a9d99fba7749106dd85a3-text/javascript" src="public_files/static_js/slick.js"></script>
 <script type="264a9d99fba7749106dd85a3-text/javascript">
     $(function () {
 
@@ -747,17 +756,17 @@ Best ECN Forex Broker Europe 2013
 <div class="container">
 <div class="row">
 <div class="col-12 col-xl-8">
-<div class="mex-h2 text-1e32a3 text-center">Milestones</div>
-<div class="text-center font-18">Learn more about MultiBank's achievements from over the years</div>
+<div class="mex-h2 text-1e32a3 text-center"><?php translate('Milestones'); ?></div>
+<div class="text-center font-18"><?php translate("Learn more about MultiBank's achievements from over the years"); ?></div>
 <hr />
 <div class="about-milestones-content about-page-milestone-slides">
 <div class="card card-left mb-4">
 <a href="article/milestone-multibank-group-establishes-new-branch-in-turkey.html" target="_blank" class="row flex-column-reverse flex-md-row about-milestone-card">
 <div class="col-12 col-md-8 col-xl-9">
 <div class="card-body mex-content">
-<p class="card-title text-overflow-1">MultiBank Group Establishes New Branch in Turkey</p>
+<p class="card-title text-overflow-1"><?php translate('MultiBank Group Establishes New Branch in Turkey'); ?></p>
 <p class="card-time">2019-12-12</p>
-<p class="card-text text-overflow-2"><p>MultiBank is pleased to announce yet another addition to the Group’s global offices with the establishment of a new branch in Turkey.</p>
+<p class="card-text text-overflow-2"><p><?php translate('MultiBank is pleased to announce yet another addition to the Group’s global offices with the establishment of a new branch in Turkey.'); ?></p>
 </p>
 </div>
 </div>
@@ -766,27 +775,27 @@ Best ECN Forex Broker Europe 2013
 </a></div>
 <div class="card card-left mb-4"><a href="article/milestones_multibank-group-official-partner-bmw-m-motorsport.html" target="_blank" class="row flex-column-reverse flex-md-row about-milestone-card">
 <div class="col-12 col-md-8 col-xl-9">
-<div class="card-body mex-content"><p class="card-title text-overflow-1">MultiBank Group Signed as Official Partner of BMW M Motorsport</p>
+<div class="card-body mex-content"><p class="card-title text-overflow-1"><?php translate('MultiBank Group Signed as Official Partner of BMW M Motorsport'); ?></p>
 <p class="card-time">2019-10-23</p>
-<p class="card-text text-overflow-2">MultiBank Group has signed an agreement to become the Official Partner of BMW M Motorsport. The pact between BMW M Motorsport and MultiBank further builds on the list of milestones in the history of MultiBank Group. </p></div>
+<p class="card-text text-overflow-2"><?php translate('MultiBank Group has signed an agreement to become the Official Partner of BMW M Motorsport. The pact between BMW M Motorsport and MultiBank further builds on the list of milestones in the history of MultiBank Group.'); ?> </p></div>
 </div>
 <div class="col-12 col-md-4 col-xl-3"><img src="public_files/blog/thumbnails/MB_BMW_thumbnail.jpg" alt="" class="card-img-top milestone-thumbnail" />
 </div>
 </a></div>
 <div class="card card-left mb-4"><a href="article/milestones_multibank-kuwait-opened-in-middle-east.html" target="_blank" class="row flex-column-reverse flex-md-row about-milestone-card">
 <div class="col-12 col-md-8 col-xl-9">
-<div class="card-body mex-content"><p class="card-title text-overflow-1">MultiBank Group Kicks Off Kuwait Branch to Further Service the Middle East Market</p>
+<div class="card-body mex-content"><p class="card-title text-overflow-1"><?php translate('MultiBank Group Kicks Off Kuwait Branch to Further Service the Middle East Market'); ?></p>
 <p class="card-time">2019-09-15</p>
-<p class="card-text text-overflow-2">As part of its mission to expand further into the Middle East market, MultiBank Group has announced the opening of its new branch office in Kuwait. </p></div>
+<p class="card-text text-overflow-2"><?php translate('As part of its mission to expand further into the Middle East market, MultiBank Group has announced the opening of its new branch office in Kuwait.'); ?></p></div>
 </div>
 <div class="col-12 col-md-4 col-xl-3"><img src="public_files/blog/thumbnails/MB_Kuwait_banner_thumbnail_0.jpg" alt="" class="card-img-top milestone-thumbnail" />
 </div>
 </a></div>
 <div class="card card-left mb-4"><a href="article/milestones_interview-multibank-philippines-ceo-mark-mangulabnan.html" target="_blank" class="row flex-column-reverse flex-md-row about-milestone-card">
 <div class="col-12 col-md-8 col-xl-9">
-<div class="card-body mex-content"><p class="card-title text-overflow-1">Interview with MultiBank Philippines CEO Mark Mangulabnan</p>
+<div class="card-body mex-content"><p class="card-title text-overflow-1"><?php translate('Interview with MultiBank Philippines CEO Mark Mangulabnan'); ?></p>
 <p class="card-time">2019-09-02</p>
-<p class="card-text text-overflow-2">In September 2019, MultiBank Group opened its first branch office in the Philippines, located in the central business district of Manila. </p></div>
+<p class="card-text text-overflow-2"><?php translate('In September 2019, MultiBank Group opened its first branch office in the Philippines, located in the central business district of Manila.'); ?> </p></div>
 </div>
 <div class="col-12 col-md-4 col-xl-3"><img src="public_files/blog/thumbnails/multibank_philippines_thumbnail.jpg" alt="" class="card-img-top milestone-thumbnail" />
 </div>
@@ -794,12 +803,12 @@ Best ECN Forex Broker Europe 2013
 </div>
 </div>
 <div class="text-center mex-p-15">
-<a href="about/milestones.html" class="btn btn-mex">MORE</a>
+<a href="about/milestones.html" class="btn btn-mex"><?php translate('MORE'); ?></a>
 </div>
 </div>
 <div class="col-12 col-xl-4 mt-5 mt-xl-0">
-<div class="mex-h2 text-1e32a3 text-center">Company News</div>
-<div class="text-center font-18">Keep up to date with MultiBank's latest news</div>
+<div class="mex-h2 text-1e32a3 text-center"><?php translate('Company News'); ?></div>
+<div class="text-center font-18"><?php translate("Keep up to date with MultiBank's latest news"); ?></div>
 <hr />
 <div class="row flex-column justify-content-between">
 <div class="col-12 col-sm-12">
@@ -807,7 +816,7 @@ Best ECN Forex Broker Europe 2013
 <a href="article/multibank-fast-n-furious-trading-contest-announcement.html" target="_blank">
 <img src="public_files/blog/thumbnails/2020_winners_announced_thumbnail.png" alt="" class="mex-img-cover" />
 <div class="card-body mex-content mex-p-v-15">
-<p class="card-title text-overflow-2">Winners Announced for the MultiBank Fast & Furious Trading Contest</p>
+<p class="card-title text-overflow-2"><?php translate('Winners Announced for the MultiBank Fast & Furious Trading Contest'); ?></p>
 <p class="card-time">2020-02-18</p>
 </div>
 </a>
@@ -820,7 +829,7 @@ Best ECN Forex Broker Europe 2013
 <img src="public_files/blog/thumbnails/MB_BMW_thumbnail_1.jpg" alt="" class="mex-img-cover" />
 </div>
 <div class="card-body mex-content col-12 col-md-4 col-xl-6">
-<p class="card-title">MultiBank Fast & Furious Trading Contest Starts Jan 6, 2020! </p>
+<p class="card-title"><?php translate('MultiBank Fast & Furious Trading Contest Starts Jan 6, 2020!'); ?> </p>
 <p class="card-time">2019-12-27</p>
 </div>
 </a>
@@ -832,7 +841,7 @@ Best ECN Forex Broker Europe 2013
 <div class="col-12 col-md-8 col-xl-6 p0"><img src="public_files/blog/thumbnails/PH_Investor_Night_thumbnail.jpg" alt="" class="mex-img-cover" />
 </div>
 <div class="card-body mex-content col-12 col-md-4 col-xl-6">
-<p class="card-title">MultiBank Philippines Hosts Investors Night 2019</p>
+<p class="card-title"><?php translate('MultiBank Philippines Hosts Investors Night 2019'); ?></p>
 <p class="card-time">2019-12-07</p>
 </div>
 </a>
@@ -840,7 +849,7 @@ Best ECN Forex Broker Europe 2013
 </div>
 </div>
  <div class="text-center mex-p-15">
-<a href="article/news_20180916.html" class="btn btn-mex">MORE</a>
+<a href="article/news_20180916.html" class="btn btn-mex"><?php translate('MORE'); ?></a>
 </div>
 </div>
 </div>
@@ -871,44 +880,44 @@ div.div {
 <section class="p0 choose-next-background subject-box-bg-light">
 <div class="container mex-m-b-80">
 <div class="col-md-12">
-<div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+<div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
 <div class="icon-next-list">
 <ul class="bg-white target-icon">
 <li><a href="mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span></a>
-<div class="mex-content mex-clamp-3">Our Regulations</div>
+<div class="mex-content mex-clamp-3"><?php translate('Our Regulations'); ?></div>
 </li>
 <li><a href="products.html"><span class="ico-ic_our_products"></span> </a>
-<div class="mex-content mex-clamp-3"><a href="products.html">Our Products</a></div>
+<div class="mex-content mex-clamp-3"><a href="products.html"><?php translate('Our Products'); ?></a></div>
 <a href="products.html"> </a></li>
 <li><a href="tools.html"><span class="ico-ic_trading_tools"></span> </a>
-<div class="mex-content mex-clamp-3">Trading Tools</div>
+<div class="mex-content mex-clamp-3"><?php translate('Trading Tools'); ?></div>
 <a href="tools.html"> </a></li>
 <li><a href="about/why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-<div class="mex-content mex-clamp-3"><a href="about/why-multibank-group.html">Why Multibank</a></div>
+<div class="mex-content mex-clamp-3"><a href="about/why-multibank-group.html"><?php translate('Why Multibank'); ?></a></div>
 <a href="about/why-multibank-group.html"> </a></li>
 <li><a href="mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
-<div class="mex-content mex-clamp-3"><a href="mfx/v1/about/regulations.html">Our Regulations</a></div>
+<div class="mex-content mex-clamp-3"><a href="mfx/v1/about/regulations.html"><?php translate('Our Regulations'); ?></a></div>
 <a href="mfx/v1/about/regulations.html"> </a></li>
 <li><a href="about/security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-<div class="mex-content mex-clamp-3"><a href="about/security-of-funds.html">Security of Funds</a></div>
+<div class="mex-content mex-clamp-3"><a href="about/security-of-funds.html"><?php translate('Security of Funds'); ?></a></div>
 <a href="about/security-of-funds.html"> </a></li>
 <li><a href="account.html"><span class="ico-ic_accounts_funding"></span> </a>
-<div class="mex-content mex-clamp-3"><a href="account.html">Accounts and Funding</a></div>
+<div class="mex-content mex-clamp-3"><a href="account.html"><?php translate('Accounts & Funding '); ?></a></div>
 <a href="account.html"> </a></li>
 <li><a href="account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-<div class="mex-content mex-clamp-3"><a href="account/bonus.html">Bonus Programs</a></div>
+<div class="mex-content mex-clamp-3"><a href="account/bonus.html"><?php translate('Bonus Programs'); ?></a></div>
 <a href="account/bonus.html"> </a></li>
 <li><a href="investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-<div class="mex-content mex-clamp-3"><a href="investor-relations.html">Partnership Programs</a></div>
+<div class="mex-content mex-clamp-3"><a href="investor-relations.html"><?php translate('Partnership Programs'); ?></a></div>
 <a href="investor-relations.html"> </a></li>
 <li><a href="partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-<div class="mex-content mex-clamp-3"><a href="partnership/introducing-brokers.html#introducing-brokers-form">Become an IB</a></div>
+<div class="mex-content mex-clamp-3"><a href="partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become an IB'); ?></a></div>
 <a href="partnership/introducing-brokers.html#introducing-brokers-form"> </a></li>
 <li><a href="about/milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-<div class="mex-content mex-clamp-3"><a href="about/milestones.html">Our Milestones</a></div>
+<div class="mex-content mex-clamp-3"><a href="about/milestones.html"><?php translate('Our Milestones'); ?></a></div>
 <a href="about/milestones.html"> </a></li>
 <li><a href="index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-264a9d99fba7749106dd85a3-=""><span class="ico-ic_live_chat_support"></span> </a>
-<div class="mex-content mex-clamp-3"><a href="index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-264a9d99fba7749106dd85a3-="">Live Chat Support</a></div>
+<div class="mex-content mex-clamp-3"><a href="index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-264a9d99fba7749106dd85a3-=""><?php translate('Live Chat Support'); ?></a></div>
 <a href="index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-264a9d99fba7749106dd85a3-=""> </a></li>
 </ul>
 </div>
@@ -916,7 +925,7 @@ div.div {
 </div>
 </section>
 </div>
-<section class="bg-gray contact-us">
+<!-- <section class="bg-gray contact-us">
 <div class="container">
 <div class="row justify-content-center">
 <div class="col-lg-12 pb32">
@@ -1396,7 +1405,9 @@ risk warning for each regulated entity during the account opening process.</p>
 </div>
 </div>
 </div>
-</section>
+</section> -->
+
+<?php include_from_root('website_template/page_footer.php');?>
 <div class="slidebar">
 <a class="get-a-all-btn call-btn" href="tel:+12139924748">
 <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
@@ -2007,4 +2018,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
     }
     
 </style>
-<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="264a9d99fba7749106dd85a3-|49" defer=""></script></body></html>
+
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="264a9d99fba7749106dd85a3-|49" defer=""></script>
+</body>
+</html>

@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-    <meta charset='UTF-8'>
+    <?php include_from_root('website_template/head.php');?>
+
+    <!-- <meta charset='UTF-8'>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <title>Advantages of Trading Forex with MultiBank Group</title>
@@ -32,7 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </script>
     <link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
     <link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
-    <link rel="stylesheet" href="../public_files/static_min_css/custom.min.css%3Fv=20200618-2.css">
+    <link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
     <style>
         form {
             position: relative;
@@ -71,10 +73,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </style>
     <script src="../public_files/static_js/jquery-3.3.1.min.js"
             type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-    <script type="aca9042ca4fa5ec4ab63856a-text/javascript">const page_dir = 'ltr';</script>
+    <script type="aca9042ca4fa5ec4ab63856a-text/javascript">const page_dir = 'ltr';</script> -->
 </head>
 <body>
-<div class="header">
+    <?php include_from_root('website_template/header_and_menu.php');?>
+
+<!-- <div class="header">
     <div class="header-top d-none d-md-block">
         <div class="row">
             <div class="col-sm-6">
@@ -476,7 +480,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </ul>
         </div>
     </div>
-</div>
+</div> -->
 <style>
     .nav-menu-hamburger, .nav-menu-mymex {
         width: 35px;
@@ -540,10 +544,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="container align-all">
             <div class="row justify-content-center">
                 <div class="col-md-12  col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-offset-2">
-                    <h1 class="mex-h1 text-fff mex-m-b-15 text-center">Why MultiBank</h1>
-                    <div class="mex-content text-fff text-mex-h1 text-center">MultiBank was established in California,
+                    <h1 class="mex-h1 text-fff mex-m-b-15 text-center"><?php translate('Why MultiBank'); ?></h1>
+                    <div class="mex-content text-fff text-mex-h1 text-center"><?php translate('MultiBank was established in California,
                         USA in 2005. Since its launch, MultiBank has evolved into one of the largest online financial
-                        derivatives providers worldwide, with a current paid up capital of over US $322 million.
+                        derivatives providers worldwide, with a current paid up capital of over US $322 million.'); ?>
                     </div>
                 </div>
             </div>
@@ -559,13 +563,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                        src="../public_files/images/about_us/why_multibank_image1.png"/>
                         </div>
                         <div class="card-content bg-white  mex-p-30">
-                            <div class="mex-content mb0 text-left">MultiBank maintains over 20 offices worldwide,
+                            <div class="mex-content mb0 text-left"><?php translate('MultiBank maintains over 20 offices worldwide,
                                 including MEX Fintech (Hong Kong), MEX Exchange (Australia), MEX Asset Management
                                 (Germany), MEX Asset Management (Austria), MEX Spain, MultiBank Forex Exchange (USA),
                                 MultiBank LATAM (Mexico), MEX Group (China), MultiBank Vietnam, MultiBank Philippines,
                                 MultiBank Malaysia, MultiBank MENA (UAE), MEX Clearing (UAE), MultiBank Kuwait, MEX
                                 Prime (Cyprus), MEX Financial Technologies (Turkey), MultiBank FX International (BVI),
-                                MBG (BVI) and MEX Wealth Management (Cayman Islands).
+                                MBG (BVI) and MEX Wealth Management (Cayman Islands).'); ?>
                             </div>
                         </div>
                     </div>
@@ -579,8 +583,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
                                         src="../public_files/images/about_us/why_multibank_image2.png"/></div>
                                 <div class="card-content bg-white ">
-                                    <div class="mex-content text-overflow-3 mb0 text-left">We service an extensive
-                                        client-base of over 320,000 customers from across 90 countries worldwide.
+                                    <div class="mex-content text-overflow-3 mb0 text-left"><?php translate('We service an extensive
+                                        client-base of over 320,000 customers from across 90 countries worldwide.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -592,8 +596,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
                                         src="../public_files/images/about_us/why_multibank_image3.png"/></div>
                                 <div class="card-content bg-white ">
-                                    <div class="mex-content text-overflow-3 mb0 text-left">In 2018, our average daily
-                                        turnover exceeded US$ 4.6 billion per day.
+                                    <div class="mex-content text-overflow-3 mb0 text-left"><?php translate('In 2018, our average daily
+                                        turnover exceeded US$ 4.6 billion per day.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -607,10 +611,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
                                         src="../public_files/images/about_us/why_multibank_image4.png"/></div>
                                 <div class="card-content bg-white ">
-                                    <div class="mex-content mb0 text-left">MultiBank comprises a number of companies
+                                    <div class="mex-content mb0 text-left"><?php translate('MultiBank comprises a number of companies
                                         which are heavily regulated worldwide by ASIC in Australia, BaFin in Germany,
                                         FMA in Austria and CNMV in Spain, FSC in the British Virgin Islands, CIMA in the
-                                        Cayman Islands.
+                                        Cayman Islands.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -625,7 +629,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="row">
                 <div class="col-md-12 col-xs-12">
                     <div class="container">
-                        <h2 class="mex-h1 text-fff text-center uppercase mex-p-b-40">OUR ADVANTAGES</h2>
+                        <h2 class="mex-h1 text-fff text-center uppercase mex-p-b-40"><?php translate('OUR ADVANTAGES'); ?></h2>
                     </div>
                 </div>
                 <div class="col-md-12 col-xs-12 book-content avant-pad-contianer">
@@ -633,42 +637,41 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div class="book-content-inner">
                             <div class="col-md-12">
                                 <ul class="mex-list-conditions">
-                                    <li><span class="mex-h1 li_left">01</span><span class="li_right">40+ awards, including “Best FX & CFD Broker (Europe & Asia) 2019”</span>
+                                    <li><span class="mex-h1 li_left">01</span><span class="li_right"><?php translate('40+ awards, including “Best FX & CFD Broker (Europe & Asia) 2019” '); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">02</span><span class="li_right">Tightest spread in the industry with the most stable trading platforms</span>
+                                    <li><span class="mex-h1 li_left">02</span><span class="li_right"><?php translate('Tightest spread in the industry with the most stable trading platforms'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">03</span><span class="li_right">Pure ECN processing with direct access to over 20 Interbank trading prices</span>
+                                    <li><span class="mex-h1 li_left">03</span><span class="li_right"><?php translate('Pure ECN processing with direct access to over 20 Interbank trading prices'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">04</span><span class="li_right">World class tailored financial services for Introducing Brokers including, but not limited to, 24/5 support and the development of customized account opening applications and trading back offices</span>
+                                    <li><span class="mex-h1 li_left">04</span><span class="li_right"><?php translate('World class tailored financial services for Introducing Brokers including, but not limited to, 24/5 support and the development of customized account opening applications and trading back offices'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">05</span><span class="li_right">Two way 5 figure raw interbank price feeds with Instant sub-second trade capture/execution</span>
+                                    <li><span class="mex-h1 li_left">05</span><span class="li_right"><?php translate('Two way 5 figure raw interbank price feeds with Instant sub-second trade capture/execution'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">06</span><span class="li_right">No price slippage on displayed prices when deals are being executed</span>
+                                    <li><span class="mex-h1 li_left">06</span><span class="li_right"><?php translate('No price slippage on displayed prices when deals are being executed'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">07</span><span class="li_right">Complete transparency of market with only the best bid/offers being displayed</span>
+                                    <li><span class="mex-h1 li_left">07</span><span class="li_right"><?php translate('Complete transparency of market with only the best bid/offers being displayed'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">08</span><span class="li_right">Risk Management, Decision Support Tools, Dynamic position tracker, Point-and-choose position closeout and Back-office suite with strategic design and user-friendliness for the convenience of our valued clients and partners</span>
+                                    <li><span class="mex-h1 li_left">08</span><span class="li_right"><?php translate('Risk Management, Decision Support Tools, Dynamic position tracker, Point-and-choose position closeout and Back-office suite with strategic design and user-friendliness for the convenience of our valued clients and partners'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">09</span><span class="li_right">Award-winning MT4 &amp; MT5 Platforms recognized for excellence in technology and liquidity</span>
+                                    <li><span class="mex-h1 li_left">09</span><span class="li_right"><?php translate('Award-winning MT4 & MT5 Platforms recognized for excellence in technology and liquidity'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">10</span><span class="li_right">Negative balance protection</span>
+                                    <li><span class="mex-h1 li_left">10</span><span class="li_right"><?php translate('Negative balance protection'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">11</span><span class="li_right">No trading restrictions on EA</span>
+                                    <li><span class="mex-h1 li_left">11</span><span class="li_right"><?php translate('No trading restrictions on EA'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">12</span><span class="li_right">Up to 500:1 leverage</span>
+                                    <li><span class="mex-h1 li_left">12</span><span class="li_right"><?php translate('Up to 500:1 leverage'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">13</span><span class="li_right">No requotes</span>
+                                    <li><span class="mex-h1 li_left">13</span><span class="li_right"><?php translate('No requotes'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">14</span><span
-                                            class="li_right">No rejections</span></li>
-                                    <li><span class="mex-h1 li_left">15</span><span class="li_right">Free MAM, PAMM, VPS, API</span>
+                                    <li><span class="mex-h1 li_left">14</span><span class="li_right"><?php translate('No rejections'); ?></span></li>
+                                    <li><span class="mex-h1 li_left">15</span><span class="li_right"><?php translate('Free MAM, PAMM, VPS, API'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">16</span><span class="li_right">Client funds security</span>
+                                    <li><span class="mex-h1 li_left">16</span><span class="li_right"><?php translate('Client funds security'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">17</span><span class="li_right">Paid up capital of over $322 million</span>
+                                    <!-- <li><span class="mex-h1 li_left">17</span><span class="li_right"><?php translate('Paid up capital of over $322 million'); ?></span>
                                     </li>
-                                    <li><span class="mex-h1 li_left">18</span><span class="li_right">Fully segregated client bank accounts</span>
-                                    </li>
+                                    <li><span class="mex-h1 li_left">18</span><span class="li_right"><?php translate('Fully segregated client bank accounts'); ?></span>
+                                    </li> -->
                                 </ul>
                             </div>
                         </div>
@@ -685,21 +688,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                          data-entity-type="" data-entity-uuid=""
                                                          src="../public_files/images/partnership/home_partnership_introducing_broker@2x.png"/>
                         <div class="card-content text-left">
-                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase">Introducing Brokers</div>
+                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('Introducing Brokers '); ?></div>
                             <div class="hide-mex-content">
                                 <ul class="wm-partnership-mb">
-                                    <li>Unbeatable IB conditions offering the maximum commission and rebate returns on
-                                        transactions
+                                    <li><?php translate('Unbeatable IB conditions offering the maximum commission and rebate returns on
+                                        transactions'); ?>
                                     </li>
-                                    <li>Customized demo and live account opening applications</li>
-                                    <li>Full set of marketing materials including brochures, calendars, educational
-                                        materials and account opening documents
+                                    <li><?php translate('Customized demo and live account opening applications'); ?></li>
+                                    <li><?php translate('Full set of marketing materials including brochures, calendars, educational
+                                        materials and account opening documents'); ?>
                                     </li>
-                                    <li>Year-round promotions, activities and bonuses including lucrative cash and
-                                        physical prizes
+                                    <li><?php translate('Year-round promotions, activities and bonuses including lucrative cash and
+                                        physical prizes'); ?>
                                     </li>
-                                    <li>Each Introducing Broker will be assigned an experienced IB manager to provide a
-                                        personal approach to the partnership experience
+                                    <li><?php translate('Each Introducing Broker will be assigned an experienced IB manager to provide a
+                                        personal approach to the partnership experience'); ?>
                                     </li>
                                 </ul>
                             </div>
@@ -711,13 +714,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                          data-entity-type="" data-entity-uuid=""
                                                          src="../public_files/images/partnership/home_partnership_franchise_program@2x.png"/>
                         <div class="card-content text-left">
-                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase">Franchise Program</div>
+                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('Franchise Program'); ?></div>
                             <div class="hide-mex-content">
                                 <ul class="wm-partnership-mb">
-                                    <li>Exclusive representation of MultiBank in your local region</li>
-                                    <li>PL and expenses sharing agreements</li>
-                                    <li>Full access to all trading data and Back Office</li>
-                                    <li>Full marketing and technical support</li>
+                                    <li><?php translate('Exclusive representation of MultiBank in your local region'); ?></li>
+                                    <li><?php translate('PL and expenses sharing agreements'); ?></li>
+                                    <li><?php translate('Full access to all trading data and Back Office'); ?></li>
+                                    <li><?php translate('Full marketing and technical support'); ?></li>
                                 </ul>
                             </div>
                         </div>
@@ -728,15 +731,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                          data-entity-type="" data-entity-uuid=""
                                                          src="../public_files/images/partnership/home_partnership_white_label@2x.png"/>
                         <div class="card-content text-left">
-                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase">White Label</div>
+                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('White Label'); ?></div>
                             <div class="hide-mex-content">
                                 <ul class="wm-partnership-mb">
-                                    <li>Full API integration and supplying liquidity</li>
-                                    <li>Personalized Front Office and Back Office systems (MyMultiBank)</li>
-                                    <li>Specialized tools for client administration, risk management and
-                                        real-time/end-of-day reporting
+                                    <li><?php translate('Full API integration and supplying liquidity'); ?></li>
+                                    <li><?php translate('Personalized Front Office and Back Office systems (MyMultiBank)'); ?></li>
+                                    <li><?php translate('Specialized tools for client administration, risk management and
+                                        real-time/end-of-day reporting'); ?>
                                     </li>
-                                    <li>Reliable hosting and system administration support</li>
+                                    <li><?php translate('Reliable hosting and system administration support'); ?></li>
                                 </ul>
                             </div>
                         </div>
@@ -747,18 +750,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                          data-entity-type="" data-entity-uuid=""
                                                          src="../public_files/images/partnership/home_partnership_prime_of_primes.jpg"/>
                         <div class="card-content text-left">
-                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase">Prime Broker Services
+                            <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('Prime Broker Services'); ?>
                             </div>
                             <div class="hide-mex-content">
                                 <ul class="wm-partnership-mb">
-                                    <li>Agency execution</li>
-                                    <li>Full technology support</li>
-                                    <li>Low latency, co-located connectivity to bank and non-bank fees</li>
-                                    <li>Deep liquidity to access the market from a wide range of banks, liquidity
-                                        providers and ECNs
+                                    <li><?php translate('Agency execution'); ?></li>
+                                    <li><?php translate('Full technology support'); ?></li>
+                                    <li><?php translate('Low latency, co-located connectivity to bank and non-bank fees'); ?></li>
+                                    <li><?php translate('Deep liquidity to access the market from a wide range of banks, liquidity
+                                        providers and ECNs'); ?>
                                     </li>
-                                    <li>Connectivity infrastructures</li>
-                                    <li>Full account management functionality, along with real-time position keeping
+                                    <li><?php translate('Connectivity infrastructures'); ?></li>
+                                    <li><?php translate('Full account management functionality, along with real-time position keeping'); ?>
                                     </li>
                                 </ul>
                             </div>
@@ -772,7 +775,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 class="mex-h1 text-1e32a3 text-center uppercase mex-p-b-40">first class customer service</h2>
+                    <h2 class="mex-h1 text-1e32a3 text-center uppercase mex-p-b-40"><?php translate('first class customer service'); ?></h2>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-lg-3 mex-m-b-30">
                     <section class="mex-block-card-v mex-qtr">
@@ -782,8 +785,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 src="../public_files/images/about_us/why_multibank_first_class_customer_service.png"/>
                         </div>
                         <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0">24 hour professional first class customer
-                                service in 10+ languages
+                            <div class="mex-content text-overflow-3 mb0"><?php translate('24 hour professional first class customer
+                                service in 10+ languages'); ?>
                             </div>
                         </div>
                     </section>
@@ -795,8 +798,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/about_us/why_multibank_it_support.png"/></div>
                         <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0">IT and operational support including service
-                                desk, on-boarding and configuration and cash management
+                            <div class="mex-content text-overflow-3 mb0"><?php translate('IT and operational support including service
+                                desk, on-boarding and configuration and cash management'); ?>
                             </div>
                         </div>
                     </section>
@@ -809,7 +812,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                        src="../public_files/images/about_us/why_multibank_corporate_support.png"/>
                         </div>
                         <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0">Regulatory and corporate support</div>
+                            <div class="mex-content text-overflow-3 mb0"><?php translate('Regulatory and corporate support'); ?></div>
                         </div>
                     </section>
                 </div>
@@ -820,8 +823,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/about_us/why_multibank_market_support.png"/></div>
                         <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0">Sales and market support including educational
-                                materials, videos, tutorials and seminars
+                            <div class="mex-content text-overflow-3 mb0"><?php translate('Sales and market support including educational
+                                materials, videos, tutorials and seminars'); ?>
                             </div>
                         </div>
                     </section>
@@ -833,8 +836,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/about_us/why_multibank_technical_support.png"/></div>
                         <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0">24/5 support from Technical Department and IT
-                                Trading specialists
+                            <div class="mex-content text-overflow-3 mb0"><?php translate('24/5 support from Technical Department and IT
+                                Trading specialists'); ?>
                             </div>
                         </div>
                     </section>
@@ -846,8 +849,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/about_us/why_multibank_quick_account_opening.png"/></div>
                         <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0">Around the clock, quick account opening and
-                                funding available
+                            <div class="mex-content text-overflow-3 mb0"><?php translate('Around the clock, quick account opening and
+                                funding available'); ?>
                             </div>
                         </div>
                     </section>
@@ -859,8 +862,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/about_us/why_multibank_financial_news.png"/></div>
                         <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0">24 hours up-to-date online financial news in
-                                multiple languages
+                            <div class="mex-content text-overflow-3 mb0"><?php translate('24 hours up-to-date online financial news in
+                                multiple languages'); ?>
                             </div>
                         </div>
                     </section>
@@ -872,8 +875,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
                                 src="../public_files/images/about_us/why_multibank_funding_methods.png"/></div>
                         <div class="card-content bg-white ">
-                            <div class="mex-content text-overflow-3 mb0">Various funding methods including: credit card,
-                                wire transfer, Neteller, Skrill, etc
+                            <div class="mex-content text-overflow-3 mb0"><?php translate('Various funding methods including: credit card,
+                                wire transfer, Neteller, Skrill, etc'); ?>
                             </div>
                         </div>
                     </section>
@@ -926,53 +929,50 @@ whereToGoItem.injectIcons('.target-icon', icons);
                      data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
                      data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE"
                      data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน"
-                     data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                     data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?>
                 </div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span></a>
-                            <div class="mex-content mex-clamp-3">Our Regulations</div>
+                            <div class="mex-content mex-clamp-3"><?php translate('Our Regulations'); ?></div>
                         </li>
                         <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../products.html"><?php translate('Our Products'); ?></a></div>
                             <a href="../products.html"> </a></li>
                         <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                            <div class="mex-content mex-clamp-3">Trading Tools</div>
+                            <div class="mex-content mex-clamp-3"><?php translate('Trading Tools'); ?></div>
                             <a href="../tools.html"> </a></li>
                         <li><a href="why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html">Why Multibank</a>
+                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html"><?php translate('Why Multibank'); ?></a>
                             </div>
                             <a href="why-multibank-group.html"> </a></li>
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
-                                Regulations</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html"><?php translate('Our Regulations'); ?></a></div>
                             <a href="../mfx/v1/about/regulations.html"> </a></li>
                         <li><a href="security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html">Security of Funds</a>
+                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html"><?php translate('Security of Funds'); ?></a>
                             </div>
                             <a href="security-of-funds.html"> </a></li>
                         <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
+                            <div class="mex-content mex-clamp-3"><a href="../account.html"><?php translate('Accounts & Funding '); ?></a>
                             </div>
                             <a href="../account.html"> </a></li>
                         <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html">Bonus Programs</a>
+                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html"><?php translate('Bonus Programs'); ?></a>
                             </div>
                             <a href="../account/bonus.html"> </a></li>
                         <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
-                                Programs</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html"><?php translate('Partnership Programs'); ?></a></div>
                             <a href="../investor-relations.html"> </a></li>
                         <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span
                                 class="ico-ic_become_an_ib"></span> </a>
                             <div class="mex-content mex-clamp-3"><a
-                                    href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
-                                IB</a></div>
+                                    href="../partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become an IB'); ?></a></div>
                             <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a></li>
                         <li><a href="milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="milestones.html">Our Milestones</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="milestones.html"><?php translate('Our Milestones'); ?></a></div>
                             <a href="milestones.html"> </a></li>
                         <li><a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
@@ -980,8 +980,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                 class="ico-ic_live_chat_support"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../index.html#"
                                                                     onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                                                    data-cf-modified-aca9042ca4fa5ec4ab63856a-="">Live
-                                Chat Support</a></div>
+                                                                    data-cf-modified-aca9042ca4fa5ec4ab63856a-=""><?php translate('Live Chat Support'); ?></a></div>
                             <a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
                                data-cf-modified-aca9042ca4fa5ec4ab63856a-=""> </a></li>
@@ -991,7 +990,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
         </div>
     </section>
 </div>
-<section class="bg-gray contact-us">
+<?php include_from_root('website_template/page_footer.php');?>
+
+<!-- <section class="bg-gray contact-us">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 pb32">
@@ -1681,7 +1682,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""
@@ -2208,9 +2209,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
         type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
 <script src="../public_files/static_js/lazysizes.min.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
 <script src="../public_files/static_js/jquery.validate.min.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script src="../public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
+<script src="../public_files/static_js/intlTelInput.min.js"
         type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script src="../public_files/static_js/app.js%3Fversion=20200612"
+<script src="../public_files/static_js/app.js"
         type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
 <script type="aca9042ca4fa5ec4ab63856a-text/javascript" async>
     url = new URL(window.location.href);

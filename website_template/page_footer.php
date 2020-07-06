@@ -3,8 +3,6 @@
 
 <?php include_from_root('website_template/contact_us_footer.php');?>
 
-
-
 <section>
     <div class="container">
         <div class="col-lg-12 footer">
