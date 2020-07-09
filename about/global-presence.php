@@ -156,15 +156,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_cayman_islands.jpg"
                                                    alt="Cayman Islands"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Cayman Islands
+                        <?php translate('Cayman Islands'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MultiBank Wealth Management
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Regulation: CIMA<br/>Registration Number: HS-320499<br/>Phone: + 1 345 769 1891
+                        <?php translate('Regulation:'); ?> CIMA<br/><?php translate('Registration Number:'); ?> HS-320499<br/><?php translate('Phone:'); ?> + 1 345 769 1891
                         </div>
                     </div>
                 </section>
@@ -174,15 +174,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_hong_kong.jpg"
                                                    alt="Hong Kong"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Hong Kong
+                        <?php translate('Hong Kong'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MEX Fintech
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Company Number: 2205192
+                        <?php translate('Company Number:'); ?> 2205192
                         </div>
                     </div>
                 </section>
@@ -192,18 +192,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_australia.jpg"
                                                    alt="Australia"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Australia
+                        <?php translate('Australia'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MEX Exchange
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Regulation: ASIC<br/>
-                            ACN (Company Number): 155 084 058<br/>
-                            AFSL (License Number): 416279<br/>
-                            Phone: +61 291954000<br/>
+                        <?php translate('Regulation:'); ?> ASIC<br/>
+                            ACN <?php translate('(Company Number):'); ?> 155 084 058<br/>
+                            AFSL <?php translate('(License Number):');?> 416279<br/>
+                            <?php translate('Phone:');  ?> +61 291954000<br/>
                         </div>
                     </div>
                 </section>
@@ -214,17 +214,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_germany.jpg"
                                                    alt="Germany"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Germany
+                        <?php translate('Germany'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MEX Asset Management
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Regulation: BaFin<br/>
-                            HRB (License Number): 73406<br/>
-                            Phone: +49 69257377474
+                        <?php translate('Regulation:'); ?> BaFin<br/>
+                            HRB <?php translate('(License Number):'); ?> 73406<br/>
+                            <?php translate('Phone:'); ?> +49 69257377474
                         </div>
                     </div>
                 </section>
@@ -234,17 +234,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_austria.jpg"
                                                    alt="Austria"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Austria
+                        <?php translate('Austria'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MEX Asset Management (Austria)
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Regulation: FMA
-                            <br/>License Number: 491129z
-                            <br/>Phone: +43 720775835<br/>
+                        <?php translate('Regulation:'); ?> FMA
+                            <br/><?php translate('License Number:'); ?> 491129z
+                            <br/><?php translate('Phone:'); ?> +43 720775835<br/>
                         </div>
                     </div>
                 </section>
@@ -254,16 +254,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_spain.jpg"
                                                    alt="Spain"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Spain
+                        <?php translate(' Spain'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MEX Spain
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Regulation: CNMV<br/>
-                            License Number: 120<br/>
+                        <?php translate('Regulation:'); ?> CNMV<br/>
+                        <?php translate('License Number:')?> 120<br/>
                             Offices in: Barcelona & Marbella<br/>
                             Phone: + 34 931220671
                         </div>
@@ -275,15 +275,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_usa.jpg"
                                                    alt="USA"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            USA
+                        <?php translate('USA'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             Multibank Forex Exchange
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Company Number: 3918038<br/>Phone: +1 213 992 4748
+                        <?php translate('Company Number:'); ?> 3918038<br/><?php translate('Phone:'); ?> +1 213 992 4748
                         </div>
                     </div>
                 </section>
@@ -293,17 +293,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_mexico.jpg"
                                                    alt="Mexico"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Mexico
+                        <?php translate('Mexico'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MultiBank LATAM
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Registered as: Mex Capital Markets SA de CV<br/>
-                            Registration Number: 825403<br/>
-                            Phone: +52 558 880 8058
+                        <?php translate('Registered as:'); ?> Mex Capital Markets SA de CV<br/>
+                            <?php translate('Registration Number:'); ?> 825403<br/>
+                            <?php translate('Phone:'); ?> +52 558 880 8058
                         </div>
                     </div>
                 </section>
@@ -313,15 +313,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_china.jpg"
                                                    alt="China"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            China
+                        <?php translate('China'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MEX Group
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Toll Free Hotline: 400 120 8619
+                        <?php translate('Toll Free Hotline:'); ?> 400 120 8619
                         </div>
                     </div>
                 </section>
@@ -331,16 +331,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_vietnam.jpg"
                                                    alt="UAE"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Vietnam
+                        <?php translate('Vietnam'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             Multibank Vietnam
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Registration Number: 0315953856<br/>
-                            Phone: +84 28 77 77 65 65
+                        <?php translate('Registration Number:'); ?> 0315953856<br/>
+                        <?php translate('Phone:'); ?> +84 28 77 77 65 65
                         </div>
                     </div>
                 </section>
@@ -350,16 +350,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_philippines.jpg"
                                                    alt="UAE"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Philippines
+                        <?php translate('Philippines'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MultiBank Philippines
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Registered as: MBFX Business Consultancy<br/>
-                            Company Number: 1123633<br/>
+                        <?php translate('Registered as:'); ?> MBFX Business Consultancy<br/>
+                        <?php translate('Company Number:'); ?> 1123633<br/>
 
                         </div>
                     </div>
@@ -370,17 +370,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_malaysia.jpg"
                                                    alt="UAE"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Malaysia
+                        <?php translate('Malaysia'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MultiBank Malaysia
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Registered as: MBG Business Consultancy Sdn. Bhd<br/>
-                            Company Number: 201901042318<br/>
-                            Phone: +60 32 201 0966
+                        <?php translate('Registered as:'); ?> MBG Business Consultancy Sdn. Bhd<br/>
+                        <?php translate('Company Number:'); ?> 201901042318<br/>
+                        <?php translate('Phone:'); ?> +60 32 201 0966
                         </div>
                     </div>
                 </section>
@@ -390,17 +390,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_uae2.jpg"
                                                    alt="UAE"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            UAE
+                        <?php translate('UAE'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MultiBank MENA
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Registered as: Multibank FX International Corporation- Dubai Branch <br/>
-                            License Number: 825403<br/>
-                            Phone: +971 4875 1311
+                        <?php translate('Registered as:'); ?> Multibank FX International Corporation- Dubai Branch <br/>
+                        <?php translate('License Number:'); ?> 825403<br/>
+                        <?php translate('Phone:'); ?> +971 4875 1311
                         </div>
                     </div>
                 </section>
@@ -411,17 +411,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_kuwai.jpg"
                                                    alt="British Virgin Islands"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Kuwait
+                        <?php translate('Kuwait'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MultiBank Kuwait
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Registered as: Multibank International Company<br/>
-                            License Number: 2019/27087<br/>
-                            Phone: +971 4875 1311
+                        <?php translate('Registered as:'); ?> Multibank International Company<br/>
+                        <?php translate('License Number:'); ?> 2019/27087<br/>
+                        <?php translate('Phone:'); ?> +971 4875 1311
                         </div>
                     </div>
                 </section>
@@ -431,15 +431,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_cyprus.jpg"
                                                    alt="British Virgin Islands"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Cyprus
+                        <?php translate('Cyprus'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MEX Prime
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Company Number: 2713393<br/>Phone: +357 25262058
+                        <?php translate('Company Number:'); ?> 2713393<br/>Phone: +357 25262058
                         </div>
                     </div>
                 </section>
@@ -449,16 +449,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_turkey.jpg"
                                                    alt="British Virgin Islands"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            Turkey
+                        <?php translate('Turkey'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MEX Financial Technologies
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Registered as: MEX Yazilim Teknoloji ve Danismanlik Limited Sti<br/>
-                            Company Number: 210352-5
+                        <?php translate('Registered as:'); ?> MEX Yazilim Teknoloji ve Danismanlik Limited Sti<br/>
+                        <?php translate('Company Number:'); ?> 210352-5
                         </div>
                     </div>
                 </section>
@@ -468,15 +468,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_british_virgin_islands.jpg"
                                                    alt="British Virgin Islands"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            British Virgin Islands
+                        <?php translate('British Virgin Islands'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             Multibank FX International
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Regulation: FSC<br/>License Number: SIBA/L/14/1068
+                        <?php translate('Regulation:'); ?> FSC<br/><?php translate('License Number:'); ?> SIBA/L/14/1068
                         </div>
                     </div>
                 </section>
@@ -486,15 +486,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="card-img-box"><img class="card-img mex-img-cover"
                                                    src="../public_files/images/about_us/global_presence/global_presence_british_virgin_islands_mbg.jpg"
                                                    alt="British Virgin Islands MBG"/></div>
-                    <div class="card-content bg-white text-center">
+                                                   <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
-                            British Virgin Islands
+                        <?php translate('British Virgin Islands'); ?>
                         </div>
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                             MBG
                         </div>
                         <div class="mex-content mex-clamp-2 mb0">
-                            Regulation: FSC
+                        <?php translate('Regulation:'); ?> FSC
                         </div>
                     </div>
                 </section>
@@ -544,7 +544,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
 });
 
 </script>
-<section class="bg-gray contact-us">
+<!-- <section class="bg-gray contact-us">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 pb32">
@@ -1234,7 +1234,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
             </div>
         </div>
     </div>
-</section>
+</section> -->
+<?php include_from_root('website_template/page_footer.php');?>
+
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""

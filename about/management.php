@@ -139,10 +139,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="container text-center">
             <div class="row">
                 <div class="col-xs-12">
-                    <h1 class="mex-h1 text-fff mex-m-b-15">Management</h1>
-                    <div class="mex-content text-fff">One of the key factors contributing to the success of MultiBank is
+                    <h1 class="mex-h1 text-fff mex-m-b-15"><?php translate ('Management'); ?></h1>
+                    <div class="mex-content text-fff"><?php translate ('One of the key factors contributing to the success of MultiBank is
                         its seasoned Senior Management Team who have extensive experience in technology, finance,
-                        trading and marketing.
+                        trading and marketing.'); ?>
                     </div>
                 </div>
             </div>
@@ -157,20 +157,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                               style="width: 100%; max-width: 565px;"/>
                 </div>
                 <div class="col-md-12 text-center">
-                    <div class="mex-h3 mex-m-b-15">Naser Taher<br/>
-                        Founder &amp; Chairman, MultiBank Group
+                    <div class="mex-h3 mex-m-b-15"><?php translate ('Naser Taher'); ?><br/>
+                    <?php translate ('Founder & Chairman, MultiBank Group'); ?>
                     </div>
                     <div class="mex-content text-left">
-                        <p>Mr. Taher has over 28 years of unparalleled experience in the financial and commercial
+                        <p><?php translate ('Mr. Taher has over 28 years of unparalleled experience in the financial and commercial
                             industries worldwide. He has worked with many of the major global financial institutions
                             such as BNP Paribas, Barclays, UBS, Citibank, Merrill Lynch, Credit Suisse and many
-                            others.</p>
-                        <p>Mr. Taher is the Founder and Chairman of MultiBank Group. He is responsible for the complete
+                            others.'); ?></p>
+                        <p><?php translate ('Mr. Taher is the Founder and Chairman of MultiBank Group. He is responsible for the complete
                             management of the MultiBank Group and the development and marketing of the MultiBank brand
                             name worldwide. He is also involved in a number of strategic governmental projects in China,
                             Russia and Japan. In July 2013, Mr. Taher was appointed as the Honorary Chief Financial
                             Advisor to the Chinese Government of Tianjin. He was also awarded the Honorary Tianjin Haihe
-                            Friendship Award the same year.</p>
+                            Friendship Award the same year.'); ?></p>
                     </div>
                 </div>
             </div>
@@ -193,18 +193,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/y_taher.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Yahya Taher</div>
-                                    <div class="mex-content mb0 text-overflow-2">Chief Executive Officer, MultiBank
-                                        Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Yahya Taher'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Chief Executive Officer, MultiBank
+                                        Group'); ?>
                                     </div>
                                     <div class="hide-mex-content">
-                                        Mr. Yahya Taher is one of the key driving forces in MultiBank since its
+                                    <?php translate ('Mr. Yahya Taher is one of the key driving forces in MultiBank since its
                                         establishment in 2005. He currently plays a pivotal role in the business
                                         development and strategic partnerships of MultiBank, in addition to being
                                         responsible for the overall operations functions including risk management,
                                         finance and back office. He currently serves as a Director of MEX Exchange and
                                         was approved by the Australian Securities and Investment Commission (“ASIC”) as
-                                        a responsible manager and Director.
+                                        a responsible manager and Director.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -214,20 +214,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/s_kattoura.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Salem Kattoura</div>
-                                    <div class="mex-content mb0 text-overflow-2">Chief Operating Officer, MultiBank
-                                        Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Salem Kattoura'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Chief Operating Officer, MultiBank
+                                        Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Mr. Kattoura has over 10 years’ experience in the
+                                    <div class="hide-mex-content"><?php translate ('Mr. Kattoura has over 10 years’ experience in the
                                         financial markets. Having gained an Executive Masters in Financial Management
-                                        from
-                                        RSM, Mr. Kattoura has utilized his extensive industry experience and market
+                                        from RSM, Mr. Kattoura has utilized his extensive industry experience and market
                                         knowledge in assisting MultiBank Group to maximize its profits through effective
                                         risk management systems and implementing a cohesive set of policies and
-                                        procedures.
-                                        Mr. Kattoura is responsible for the management and oversight of the daily
-                                        operations
-                                        work flow.
+                                        procedures.Mr. Kattoura is responsible for the management and oversight of the daily
+                                        operations work flow.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -237,16 +234,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/team-update/kristina-pei-03.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Kristina Pei</div>
-                                    <div class="mex-content mb0 text-overflow-2">Finance Director, MultiBank Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Kristina Pei'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Finance Director, MultiBank Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">After graduating with excellence in Accounting from
+                                    <div class="hide-mex-content"><?php translate ('After graduating with excellence in Accounting from
                                         York University in Canada, Ms. Pei went on to pursue a career as an accountant
                                         for financial institutions specialized in FX where she obtained qualifications
-                                        in IFRS, Tax Accounting, scientific foreign exchange and cost control.<br/>Ms.
+                                        in IFRS, Tax Accounting, scientific foreign exchange and cost control.Ms.
                                         Pei has more than 11 years of extensive experience in international group
                                         accounting, and has been one of the top producing members of the MultiBank Group
-                                        since 2012.
+                                        since 2012.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -257,16 +254,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/c_fitzsimmons.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Courtney Fitzsimmons</div>
-                                    <div class="mex-content mb0 text-overflow-2">Chief Executive Officer, MEX Exchange
-                                        (Australia)
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Courtney Fitzsimmons'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Chief Executive Officer, MEX Exchange
+                                        (Australia)'); ?>
                                     </div>
-                                    <div class="hide-mex-content">As the Chief Executive Officer of MEX Exchange
+                                    <div class="hide-mex-content"><?php translate ('As the Chief Executive Officer of MEX Exchange
                                         (Australia), Ms. Fitzsimmons has over 9 years of experience in the Australian
                                         Financial Services Industry. Having experienced the industry’s rapid growth and
                                         development, Ms. Fitzsimmons has in-depth technical, commercial and internal
                                         compliance experience in the financial market from start-ups to well established
-                                        financial companies.
+                                        financial companies.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -284,20 +281,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/h_aggad.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Hasan Aggad</div>
-                                    <div class="mex-content mb0 text-overflow-2">Chief Executive Officer, MEX MENA</div>
-                                    <div class="hide-mex-content">Mr. Aggad has over 11 years of experience in the
-                                        financial
-                                        and global markets sector, holding a degree in Business Administration &amp;
-                                        International Marketing Management. He has previously worked as the Head of
-                                        Sales
-                                        (MENA region) at Alpari and as the Regional Manager at One Financial Markets.
-                                        Mr.
-                                        Aggad is widely known and highly respected in both the industry and the region,
-                                        and
-                                        possess extensive experience in leading Retail, IB, &amp; Institutional Sales
-                                        and
-                                        marketing operations.
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Hasan Aggad'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Chief Executive Officer, MEX MENA'); ?></div>
+                                    <div class="hide-mex-content"><?php translate ('Mr. Aggad has over 11 years of experience in the financial and global markets sector, holding a degree in Business Administration & International Marketing Management. He has previously worked as the Head of
+                                        Sales (MENA region) at Alpari and as the Regional Manager at One Financial Markets. Mr.Aggad is widely known and highly respected in both the industry and the region, and possess extensive experience in leading Retail, IB, & Institutional Sales and marketing operations. '); ?>
                                     </div>
                                 </div>
                             </section>
@@ -307,20 +294,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/i_gonzalez.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Ivan Gonzalez</div>
-                                    <div class="mex-content mb0 text-overflow-2">Chief Executive Officer, MEX Spain
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Ivan Gonzalez'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Chief Executive Officer, MEX Spain'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Mr. Gonzalez possesses over 15 years of experience as
-                                        a
-                                        professional in the financial sector,. Currently, he is the Chief Executive
-                                        Officer
-                                        at MEX Spain, responsible for financial operations and strategies and
-                                        institutional
-                                        relations. Mr. Gonzalez obtained his master's degree in Finance at the San
-                                        Pablo-CEU
-                                        University and has studied for the Meff Operator License and technical analysis
-                                        in
-                                        the financial markets.
+                                    <div class="hide-mex-content"><?php translate ('Mr. Gonzalez possesses over 15 years of experience as
+                                        a professional in the financial sector,. Currently, he is the Chief Executive
+                                        Officer at MEX Spain, responsible for financial operations and strategies and
+                                        institutional relations. Mr. Gonzalez obtained his masters degree in Finance at the San
+                                        Pablo-CEU University and has studied for the Meff Operator License and technical analysis
+                                        in the financial markets.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -349,16 +331,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <section class="mex-card-cover"><img alt="Alberto Gonzalez" class="card-img mex-img-cover"
                                                                  src="../public_files/images/about_us/management/team-update/Alberto-Gonzalez.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Alberto Gonzalez</div>
-                                    <div class="mex-content mb0 text-overflow-2">Chief Executive Officer, MultiBank
-                                        LATAM (Mexico)
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Alberto Gonzalez'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Chief Executive Officer, MultiBank
+                                        LATAM (Mexico)'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Mr. Gonzalez has over 7 years of experience in the
+                                    <div class="hide-mex-content"><?php translate ('Mr. Gonzalez has over 7 years of experience in the
                                         financial sector, and was previouslyresponsible for the development of various
                                         trading platforms including social trading (copy trading) and global algorithmic
                                         signal provider application for the financial markets. As the Chief Executive
                                         Officer of MultiBank LATAM, he is focused on developing MultiBank’spresence in
-                                        the Latin America financial markets.
+                                        the Latin America financial markets.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -368,11 +350,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/demir_savatli.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Demir Savatli</div>
-                                    <div class="mex-content mb0 text-overflow-2">Director/ Advisory Board, MultiBank
-                                        Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Demir Savatli'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Director/ Advisory Board, MultiBank
+                                        Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Prior to joining MultiBank, Mr. Savatli has had 12+
+                                    <div class="hide-mex-content"><?php translate ('Prior to joining MultiBank, Mr. Savatli has had 12+
                                         years of experience in the sector working in executive positions of regulated
                                         entities worldwide in the financial services industry. He served as the CEO/
                                         Managing Director of the Board of Directors at Domino Forex in Malta where he
@@ -382,7 +364,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         extensive online trading sector expertise with special emphasis in Forex,
                                         Options, Futures and CFD fields, IT tool developments and integrations, Mr.
                                         Savatli holds an MBA in Finance and Entrepreneurship Emphasis from the
-                                        University of Missouri.
+                                        University of Missouri.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -392,18 +374,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/team-update/Soehairi-Katni.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Soehairi Katni</div>
-                                    <div class="mex-content mb0 text-overflow-2">Chief Executive Officer, MultiBank
-                                        Malaysia
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Soehairi Katni'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Chief Executive Officer, MultiBank
+                                        Malaysia'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Mr. Katni has 10 years of experience in the banking
+                                    <div class="hide-mex-content"><?php translate ('Mr. Katni has 10 years of experience in the banking
                                         industry with various local banks in Malaysia where he oversaw the credit and
                                         depositing divisions. Prior to joining MultiBank Group, he has worked with
                                         several FX brokers where he managed retail clients, institutional traders and
                                         white labels. With a Mechanical Engineering degree from UiTM Malaysia, Mr. Katni
                                         currently heads MultiBank’s Malaysian office, focusing on building brand
                                         presence, marketing as well as overall customer experience both in Malaysia and
-                                        its neighboring countries.
+                                        its neighboring countries.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -412,16 +394,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <section class="mex-card-cover"><img alt="Dao Cao Hung" class="card-img mex-img-cover"
                                                                  src="../public_files/images/about_us/management/team-update/Dao-Cao-Hung.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Dao Cao Hung</div>
-                                    <div class="mex-content mb0 text-overflow-2">Chief Executive Officer, MultiBank
-                                        Vietnam
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Dao Cao Hung'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Chief Executive Officer, MultiBank
+                                        Vietnam'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Mr. Hung graduated from the University of Wales with
+                                    <div class="hide-mex-content"><?php translate ('Mr. Hung graduated from the University of Wales with
                                         Master’s Banking and Finance. Having over 10 years’ experience in banking,
                                         finance, international payment, forex market, he possessesa deep understanding
                                         of market dynamics and is prolific in developing business from inception to
                                         commercial result. Mr. Hung is focus on driving MultiBank’s success in Vietnam
-                                        as one of the fastest growing economies in Asia.
+                                        as one of the fastest growing economies in Asia.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -439,10 +421,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/team-update/kerry-gan-03.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Kerry Gan</div>
-                                    <div class="mex-content mb0 text-overflow-2">Managing Director, MEX Group (APAC)
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Kerry Gan'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Managing Director, MEX Group (APAC)'); ?>
                                     </div>
-                                    <div class="hide-mex-content">With over 12 years’ experience in the Forex and Crypto
+                                    <div class="hide-mex-content"><?php translate ('With over 12 years’ experience in the Forex and Crypto
                                         industries, Mr. Gan has held numerous senior positions at other first-tier
                                         brokerages and Fintech institutions such as FXCM, ADSS, IBFX, SpotOption and
                                         Broctagon prior to joining MultiBank Group. In addition to his work experience,
@@ -451,7 +433,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         Furthermore, he is a Certified Financial Planner (CFP) and holds a Master of
                                         Applied Finance from the University of Adelaide, Australia. At MultiBank Group,
                                         Mr. Gan is currently responsible for business development in the Asia Pacific
-                                        region.
+                                        region.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -461,11 +443,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/s_barnes.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Sophia Barnes</div>
-                                    <div class="mex-content mb0 text-overflow-2">Director of Public Relations, MultiBank
-                                        Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Sophia Barnes'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Director of Public Relations, MultiBank
+                                        Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Ms. Barnes has over 8 years of marketing and
+                                    <div class="hide-mex-content"><?php translate ('Ms. Barnes has over 8 years of marketing and
                                         management
                                         experience in the financial and technology industries, having previously worked
                                         for
@@ -478,7 +460,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         Director of Public Relations, she is responsible for global marketing, branding,
                                         media relations and business development aspects of the Group and oversees an
                                         array
-                                        of strategic projects for the firm.
+                                        of strategic projects for the firm.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -488,11 +470,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <img alt="Mahmoud Kazma" class="card-img mex-img-cover" data-entity-type=""
                                      data-entity-uuid="" src="../public_files/images/about_us/management/m_kazma.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Mahmoud Kazma</div>
-                                    <div class="mex-content mb0 text-overflow-2">Director of Business Development,
-                                        MultiBank Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Mahmoud Kazma'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Director of Business Development,
+                                        MultiBank Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Having graduated with a Master of Science in
+                                    <div class="hide-mex-content"><?php translate ('Having graduated with a Master of Science in
                                         Electrical
                                         Engineering, Mr. Kazma has 9 years of experience in the financial markets. Mr.
                                         Kazma
@@ -502,7 +484,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         Kazma’s
                                         background and knowledge has allowed him to work closely with MultiBank’s Senior
                                         Management to implement sales strategies, policies and procedures to boost the
-                                        Group’s operations.
+                                        Group’s operations.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -512,17 +494,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/team-update/lincoln-chan-03.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Lincoln Chan</div>
-                                    <div class="mex-content mb0 text-overflow-2">Director of Operations, MBG Markets
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Lincoln Chan'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Director of Operations, MBG Markets'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Having graduated from University College London with
+                                    <div class="hide-mex-content"><?php translate ('Having graduated from University College London with
                                         Master of Science in Chemical Engineering, Mr. Chan has over 13 years’
                                         experience in the financial markets and FX industry. Prior to joining MultiBank,
                                         he has extensive experience in operations as Head of Operations with AETOS
                                         Capital Group as well as holding the responsible manager positions under ASIC,
                                         he also holds major control functions under FCA for both AETOS and HYCM. As the
                                         Director of Operations for MBG Markets, Mr. Chan is responsible for
-                                        implementation of procedures and operation oversight.
+                                        implementation of procedures and operation oversight.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -552,17 +534,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/team-update/Adel-Jibrin.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Adel Jibrin</div>
-                                    <div class="mex-content mb0 text-overflow-2">Director of Sales, MultiBank MENA
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Adel Jibrin'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Director of Sales, MultiBank MENA'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Mr. Jibrin received his Business Administration degree
+                                    <div class="hide-mex-content"><?php translate ('Mr. Jibrin received his Business Administration degree
                                         with a major in Finance. In the past 8 years, he has worked with top performing
                                         Sales teams in the FX & CFDs Financial Products sector, and has managed his team
                                         by implementing tried and tested business development strategies for retail &
                                         institutional investors. Mr. Jibrin is certified by various institutions,
                                         including AML & Risk Management from DFSA and FCA regulated institutes in Dubai,
                                         UAE. As the Director of Sales, MENA, Mr Jibrin is responsible for growing the
-                                        business through various investment linked solutions.
+                                        business through various investment linked solutions.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -572,18 +554,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/k_yang.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Kevin Yang</div>
-                                    <div class="mex-content mb0 text-overflow-2">Head of Information Technology,
-                                        MultiBank Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Kevin Yang'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Head of Information Technology,
+                                        MultiBank Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Mr. Yang has over 18 years’ experience in Information
+                                    <div class="hide-mex-content"><?php translate ('Mr. Yang has over 18 years’ experience in Information
                                         Technology and over 8 years’ experience in the financial industry. As the Head
                                         of Information Technology, Mr. Yang is responsible for the overall management of
                                         the entire IT infrastructure and IT operations of the Group. Mr. Yang has
                                         extensive knowledge on network infrastructure, datacenters, security,
                                         virtualization and Cloud Computing. Since joining in 2011, Mr. Yang has been
                                         devoting himself to his position and has been playing an important role in the
-                                        Group.
+                                        Group.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -601,16 +583,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/m_fram.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Michel Fram, CFA</div>
-                                    <div class="mex-content mb0 text-overflow-2">Head of Risk Management, MultiBank
-                                        Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Michel Fram, CFA'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Head of Risk Management, MultiBank
+                                        Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">As Head of Risk Management, Mr. Fram is responsible
+                                    <div class="hide-mex-content"><?php translate ('As Head of Risk Management, Mr. Fram is responsible
                                         for the planning, and implementation of the overall risk management process for
-                                        the Group. Mr. Fram is a CFA charterholder, having graduated with a Bachelor's
+                                        the Group. Mr. Fram is a CFA charterholder, having graduated with a Bachelors
                                         degree of Business Administration with concentration in financial engineering
                                         from Notre Dame University, in addition to his outstanding experience in the FX
-                                        industry on an Operations, Trading, and Risk Management levels.
+                                        industry on an Operations, Trading, and Risk Management levels.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -620,11 +602,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/team-update/Charbel-Safi.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Charbel Safi</div>
-                                    <div class="mex-content mb0 text-overflow-2">Head of Trading, MultiBank Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Charbel Safi'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Head of Trading, MultiBank Group'); ?>
                                     </div>
                                     <div class="hide-mex-content">
-                                        Mr. Safi has a bachelor’s degree from Notre Dame University and has been
+                                    <?php translate ('Mr. Safi has a bachelor’s degree from Notre Dame University and has been
                                         certified by the Chartered Institute for Securities and Investment (London) in
                                         Financial Derivatives and Investment and Risks. He has 10 years of experience in
                                         financial markets and banking services.
@@ -633,7 +615,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         for several worldwide banks such as Attijariwafa Bank, Al Baraka Bank, Summit
                                         Bank and ITFC Corporation (IBD Group). Mr. Safi had also previously headed the
                                         dealing team for several financial institutions and was responsible for the risk
-                                        management of their clients’ exposure.
+                                        management of their clients’ exposure.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -643,11 +625,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/s_al_eit.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Saleh Al Eit</div>
-                                    <div class="mex-content mb0 text-overflow-2">Head of Software Development, MultiBank
-                                        Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Saleh Al Eit'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Head of Software Development, MultiBank
+                                        Group');?>
                                     </div>
-                                    <div class="hide-mex-content">Mr. Al Eit is the Head of Software Development at
+                                    <div class="hide-mex-content"><?php translate ('Mr. Al Eit is the Head of Software Development at
                                         MultiBank. Graduated from the Lebanese University - Faculty of Sciences in
                                         Beirut,
                                         he is experienced in providing A-Z solutions specific to the financial industry,
@@ -658,7 +640,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         quality, extensible solutions to meet business demand for information as well as
                                         managing all aspects of analysis and report development to facilitate
                                         operational,
-                                        portfolio and financial reporting.
+                                        portfolio and financial reporting.');?>
                                     </div>
                                 </div>
                             </section>
@@ -668,11 +650,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/j_zhang.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Jingshi Zhang</div>
-                                    <div class="mex-content mb0 text-overflow-2">Head of Website Department, MultiBank
-                                        Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Jingshi Zhang'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Head of Website Department, MultiBank
+                                        Group');?>
                                     </div>
-                                    <div class="hide-mex-content">Mr. Zhang joined MultiBank in 2010 and has over 10
+                                    <div class="hide-mex-content"><?php translate ('Mr. Zhang joined MultiBank in 2010 and has over 10
                                         years’
                                         experience in development and 6 years’ experience in project management in
                                         software
@@ -683,7 +665,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         from Beijing University of Aeronautics and Astronautics with a Master’s Degree
                                         in
                                         Software Engineering. He is a talented senior manager with strong leadership
-                                        capabilities. He is also quick-witted, diligent and forward-looking.
+                                        capabilities. He is also quick-witted, diligent and forward-looking.');?>
                                     </div>
                                 </div>
                             </section>
@@ -713,17 +695,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/b_ngai.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Barry Ngai</div>
-                                    <div class="mex-content mb0 text-overflow-2">Chief Executive Officer, Red Rock Pay
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Barry Ngai');?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Chief Executive Officer, Red Rock Pay');?>
                                     </div>
-                                    <div class="hide-mex-content">Having over 20 years of professional experience in the
+                                    <div class="hide-mex-content"><?php translate ('Having over 20 years of professional experience in the
                                         financial services sector with a focus in Investment Banking, Mr. Ngai is
                                         equipped
                                         with 2 Master’s Degrees in both Finance and Banking. As the Head of Payment
                                         Services, Mr. Ngai leverages his in-depth knowledge and experiences working with
                                         HKMA, SFC and HKCAE to focus on providing payment solutions and services, along
                                         with
-                                        risk monitoring and control to MultiBank.
+                                        risk monitoring and control to MultiBank.');?>
                                     </div>
                                 </div>
                             </section>
@@ -733,11 +715,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/b_hussain.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Babar Hussain</div>
-                                    <div class="mex-content mb0 text-overflow-2">Online Marketing Manager, MultiBank
-                                        Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Babar Hussain'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Online Marketing Manager, MultiBank
+                                        Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">With a Bachelors’ in Computer Science and EMBA in
+                                    <div class="hide-mex-content"><?php translate ('With a Bachelors’ in Computer Science and EMBA in
                                         Marketing, Mr. Hussain currently serves as MultiBank’s Online Marketing Manager.
                                         With a proven track record since 2003, Mr. Hussain is one of the few online
                                         marketing professionals with diverse knowledge and experiences worldwide,
@@ -746,7 +728,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         contents
                                         marketing, remarketing and other online marketing functions. Before joining
                                         MultiBank, Mr. Hussain had held key management positions at various digital
-                                        marketing agencies and large e-commerce companies in China and abroad.
+                                        marketing agencies and large e-commerce companies in China and abroad.');?>
                                     </div>
                                 </div>
                             </section>
@@ -764,15 +746,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/team-update/kitty-yu-03.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Kitty Yu</div>
-                                    <div class="mex-content mb0 text-overflow-2">Head of Accounts Department, MultiBank
-                                        Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Kitty Yu'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Head of Accounts Department, MultiBank
+                                        Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">With over 9 years of experience in the financial
+                                    <div class="hide-mex-content"><?php translate ('With over 9 years of experience in the financial
                                         services industry, Ms. Yu is the Head of Accounts Department at MultiBank and
                                         has an in-depth technical, commercial and operational expertise in the financial
                                         markets. She has also formerly led the Customer Service Department, along with
-                                        Operations and Business Management Units at the Group.
+                                        Operations and Business Management Units at the Group.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -782,16 +764,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <img alt="Roshan Wang" class="card-img mex-img-cover" data-entity-type=""
                                      data-entity-uuid="" src="../public_files/images/about_us/management/r_wang.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Roshan Wang</div>
-                                    <div class="mex-content mb0 text-overflow-2">Head of Analytics, MultiBank Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Roshan Wang'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Head of Analytics, MultiBank Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Mr. Wang has over 10 years of professional experience
+                                    <div class="hide-mex-content"><?php translate ('Mr. Wang has over 10 years of professional experience
                                         in the financial and foreign exchange industry and has been heading the
                                         Analytics Department at MultiBank Group for over 7 years. He has a Bachelor of
                                         Science in Informational and Calculative Science from the Capital Normal
                                         University in Beijing, China, and also has the Futures Practice Qualification
                                         Certificate. Mr. Wang is an expert in identifying, evaluating, and prioritizing
-                                        risks for the company which has been invaluable to the Group.
+                                        risks for the company which has been invaluable to the Group.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -801,15 +783,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/team-update/emily-tan-03.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Emily Tan</div>
-                                    <div class="mex-content mb0 text-overflow-2">Head of Payment Solutions, MultiBank
-                                        Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Emily Tan'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('Head of Payment Solutions, MultiBank
+                                        Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Ms. Tan graduated from Northeastern University
+                                    <div class="hide-mex-content"><?php translate ('Ms. Tan graduated from Northeastern University
                                         majoring in Business Management. Prior to joining MultiBank, Ms. Tan has worked
                                         at UberEats and Starwood Capital and managed payment aspects of the business. As
                                         the Head of Payment Solutions, Ms. Tan is responsible for developing and
-                                        delivering global and regional payment solutions for the Group.
+                                        delivering global and regional payment solutions for the Group.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -819,10 +801,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                  data-entity-type="" data-entity-uuid=""
                                                                  src="../public_files/images/about_us/management/team-update/joyce-lu-03.jpg"/>
                                 <div class="card-content text-left">
-                                    <div class="mex-h3 mex-m-b-5">Joyce Lu</div>
-                                    <div class="mex-content mb0 text-overflow-2">HR & Admin Manager, MultiBank Group
+                                    <div class="mex-h3 mex-m-b-5"><?php translate ('Joyce Lu'); ?></div>
+                                    <div class="mex-content mb0 text-overflow-2"><?php translate ('HR & Admin Manager, MultiBank Group'); ?>
                                     </div>
-                                    <div class="hide-mex-content">Ms. Lu has over 14 years of experience in Human
+                                    <div class="hide-mex-content"><?php translate ('Ms. Lu has over 14 years of experience in Human
                                         Resources, Administration, Business Development & Management sectors and prior
                                         to joining MEX Fintech, Ms. Lu has worked for industries of FI (Wealth
                                         Management), Fintech, Listed firm, MNC and Trading. Ms. Lu is responsible for
@@ -830,7 +812,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         Headquarters. Ms. Lu earned her Master Degree in Organizational Change
                                         Management from City University of Hong Kong and her Bachelor Degree in Business
                                         English and qualifications of Applied Psychology, Finance & Accounting and
-                                        Labour Ordinance.
+                                        Labour Ordinance.'); ?>
                                     </div>
                                 </div>
                             </section>
@@ -888,53 +870,53 @@ whereToGoItem.injectIcons('.target-icon', icons);
                      data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
                      data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE"
                      data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน"
-                     data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                     data-ae="أختر أين تريد الذهاب"><?php translate ('Choose Where to go next'); ?>
                 </div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span></a>
-                            <div class="mex-content mex-clamp-3">Our Regulations</div>
+                            <div class="mex-content mex-clamp-3"><?php translate ('Our Regulations'); ?></div>
                         </li>
                         <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../products.html"><?php translate ('Our Products'); ?></a></div>
                             <a href="../products.html"> </a></li>
                         <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                            <div class="mex-content mex-clamp-3">Trading Tools</div>
+                            <div class="mex-content mex-clamp-3"><?php translate ('Trading Tools'); ?></div>
                             <a href="../tools.html"> </a></li>
                         <li><a href="why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html">Why Multibank</a>
+                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html"><?php translate ('Why Multibank'); ?></a>
                             </div>
                             <a href="why-multibank-group.html"> </a></li>
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
-                                Regulations</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html"><?php translate ('Our
+                                Regulations'); ?></a></div>
                             <a href="../mfx/v1/about/regulations.html"> </a></li>
                         <li><a href="security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html">Security of Funds</a>
+                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html"><?php translate ('Security of Funds'); ?></a>
                             </div>
                             <a href="security-of-funds.html"> </a></li>
                         <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
+                            <div class="mex-content mex-clamp-3"><a href="../account.html"><?php translate ('Accounts and Funding'); ?></a>
                             </div>
                             <a href="../account.html"> </a></li>
                         <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html">Bonus Programs</a>
+                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html"><?php translate ('Bonus Programs'); ?></a>
                             </div>
                             <a href="../account/bonus.html"> </a></li>
                         <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
-                                Programs</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html"><?php translate ('Partnership
+                                Programs'); ?></a></div>
                             <a href="../investor-relations.html"> </a></li>
                         <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span
                                 class="ico-ic_become_an_ib"></span> </a>
                             <div class="mex-content mex-clamp-3"><a
-                                    href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
-                                IB</a></div>
+                                    href="../partnership/introducing-brokers.html#introducing-brokers-form"><?php translate ('Become an
+                                IB'); ?></a></div>
                             <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a></li>
                         <li><a href="milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="milestones.html">Our Milestones</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="milestones.html"><?php translate ('Our Milestones'); ?></a></div>
                             <a href="milestones.html"> </a></li>
                         <li><a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
@@ -943,7 +925,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                             <div class="mex-content mex-clamp-3"><a href="../index.html#"
                                                                     onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
                                                                     data-cf-modified-570454a4fb5a8d45acba6b04-="">Live
-                                Chat Support</a></div>
+                                                                    <?php translate ('Chat Support'); ?></a></div>
                             <a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
                                data-cf-modified-570454a4fb5a8d45acba6b04-=""> </a></li>
@@ -953,7 +935,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
         </div>
     </section>
 </div>
-<section class="bg-gray contact-us">
+<!-- <section class="bg-gray contact-us">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 pb32">
@@ -1643,7 +1625,8 @@ whereToGoItem.injectIcons('.target-icon', icons);
             </div>
         </div>
     </div>
-</section>
+</section> -->
+<?php include_from_root('website_template/page_footer.php');?>
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""

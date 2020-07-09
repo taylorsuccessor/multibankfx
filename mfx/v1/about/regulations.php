@@ -139,12 +139,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 col-sm-9 clear-float mex-content">
-                        <h1 class="mex-h1 text-fff text-center">Regulations</h1>
-                        <p class="lead text-fff">At MultiBank, we are committed to providing transparency and the
+                        <h1 class="mex-h1 text-fff text-center"><?php translate('Regulations'); ?></h1>
+                        <p class="lead text-fff"><?php translate('At MultiBank, we are committed to providing transparency and the
                             highest level of clients’ funds security. With licenses and regulations across 4 continents,
                             we work with financial regulators across various jurisdictions to provide investor
-                            protection.</p>
-                        <p class="lead text-fff mex-m-b-30">Learn more about our various regulated entities</p>
+                            protection.'); ?></p>
+                        <p class="lead text-fff mex-m-b-30"><?php translate('Learn more about our various regulated entities'); ?></p>
                     </div>
                     <div class="col-xs-10 col-sm-9 clear-float">
 
@@ -207,8 +207,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                 MEX Clearing
                                             </div>
                                             <div class="mex-content">
-                                                MEX Clearing Limited is our subsidiary in the United Arab Emirates, and
-                                                is registered in the Ras Al Khaimah Free Trade Zone. </div>
+                                            <?php translate('MEX Clearing Limited is our subsidiary in the United Arab Emirates, and
+                                                is registered in the Ras Al Khaimah Free Trade Zone.'); ?> </div>
 
                                             <a href="https://www.multibankfx.com/public_files/pdf/MEX_Clearing.pdf"
                                                 class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
@@ -223,15 +223,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             <div class="mex-h3-s mex-m-b-15">
                                                 ASIC<br>MEX Exchange </div>
                                             <div class="mex-content">
-                                                MEX Australia Pty Ltd (MEX Exchange), with Australian company number
+                                            <?php translate('MEX Australia Pty Ltd (MEX Exchange), with Australian company number
                                                 (ACN) 155 084 058, is authorized and regulated by the Australian
-                                                Securities &amp; Investments Commission (“ASIC”) with AFSL number
+                                                Securities & Investments Commission (“ASIC”) with AFSL number
                                                 416279. MEX Exchange is a registered business name of MEX Australia Pty
-                                                Ltd. </div>
+                                                Ltd.'); ?> </div>
                                             <a href="https://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_adf.ctrl-state=lffqbm9qo_36"
-                                                target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
+                                                target="_blank" class="btn btn-mex mex-m-r-15"><?php translate('License link'); ?></a>
                                             <a href="http://download.mexgroup.com/uploads/PDFs/ASIC_Company_Certificate.pdf"
-                                                class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
+                                                class="btn btn-mex-black mex-m-r-15" target="_blank"><?php translate('License PDF'); ?></a>
                                         </div>
                                     </section>
                                 </div>
@@ -244,13 +244,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             <div class="mex-h3-s mex-m-b-15">
                                                 BaFin<br>MEX Asset Management (Germany) </div>
                                             <div class="mex-content">
-                                                MEX Asset Management GmbH is authorized and regulated by the German
+                                            <?php translate(' MEX Asset Management GmbH is authorized and regulated by the German
                                                 Federal Financial Supervisory Authority (“BaFin”) with license number
-                                                HRB 73406. </div>
+                                                HRB 73406.'); ?> </div>
                                             <a href="https://www.bafin.de/SharedDocs/Standardartikel/EN/Unternehmensdatenbank/li_fidi_zugel_gesamt_en.html?nn=7856472"
-                                                target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
+                                                target="_blank" class="btn btn-mex mex-m-r-15"><?php translate('License link'); ?></a>
                                             <a href="http://download.mexgroup.com/uploads/PDFs/MEXAM-BaFin.pdf"
-                                                class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
+                                                class="btn btn-mex-black mex-m-r-15" target="_blank"><?php translate('License PDF'); ?></a>
                                         </div>
                                     </section>
                                 </div>
@@ -262,10 +262,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             <div class="mex-h3-s mex-m-b-15">
                                                 FMA<br>MEX Asset Management (Austria) </div>
                                             <div class="mex-content">
-                                                MEX Asset Management GmbH (Austria) is the Austrian branch of our German
-                                                asset management company, with license number 491129z. </div>
+                                            <?php translate('MEX Asset Management GmbH (Austria) is the Austrian branch of our German
+                                                asset management company, with license number 491129z.'); ?></div>
                                             <a href="http://www.fma.gv.at/en/search-company-database/?cname=MEX+Asset+Management&amp;place=&amp;bic=&amp;category=&amp;per_page=10&amp;submitted=1"
-                                                target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
+                                                target="_blank" class="btn btn-mex mex-m-r-15"><?php translate('License link'); ?></a>
 
                                         </div>
                                     </section>
@@ -278,13 +278,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             <div class="mex-h3-s mex-m-b-15">
                                                 CNMV<br>MEX Spain </div>
                                             <div class="mex-content">
-                                                MEX Spain is MultiBank’s Spanish branch based out of Barcelona, Spain,
-                                                and is regulated by the National Securities Market Commission (“CNMV”).
+                                            <?php translate('MEX Spain is MultiBank’s Spanish branch based out of Barcelona, Spain,
+                                                and is regulated by the National Securities Market Commission (“CNMV”).'); ?>
                                             </div>
                                             <a href="https://www.cnmv.es/Portal/Consultas/ESI/ESISExtranjerasSuc.aspx?tipo=CSU&numero=120&vista=0&fs=08/04/2019"
-                                                class="btn btn-mex mex-m-r-15">License link</a>
+                                                class="btn btn-mex mex-m-r-15"><?php translate('License link'); ?></a>
                                             <a href="../../../multibankfx/public_files/images/documents/pdf/CNMV-license.pdf"
-                                                class="btn btn-mex-black mex-m-r-15">License PDF</a>
+                                                class="btn btn-mex-black mex-m-r-15"><?php translate('License PDF'); ?></a>
                                         </div>
                                     </section>
                                 </div>
@@ -296,13 +296,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             <div class="mex-h3-s mex-m-b-15">
                                                 FSC<br>Multibank FX International </div>
                                             <div class="mex-content">
-                                                Multibank FX International Corporation is authorized and regulated by
+                                            <?php translate('Multibank FX International Corporation is authorized and regulated by
                                                 the Financial Services Commission of the British Virgin Islands (FSC)
-                                                with license number SIBA/L/14/1068. </div>
+                                                with license number SIBA/L/14/1068.'); ?> </div>
                                             <a href="http://www.bvifsc.vg/search/site/multibank" target="_blank"
-                                                class="btn btn-mex mex-m-r-15">License link</a>
+                                                class="btn btn-mex mex-m-r-15"><?php translate('License link'); ?></a>
                                             <a href="http://download.mexgroup.com/uploads/PDFs/FSC_Company_License.pdf"
-                                                target="_blank" class="btn btn-mex-black mex-m-r-15"> License PDF</a>
+                                                target="_blank" class="btn btn-mex-black mex-m-r-15"> <?php translate('License PDF'); ?></a>
                                         </div>
                                     </section>
                                 </div>
@@ -314,12 +314,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             <div class="mex-h3-s mex-m-b-15">
                                                 CIMA<br>MEX Wealth Management </div>
                                             <div class="mex-content">
-                                                MEX Wealth Management is our subsidiary in the Cayman Islands, and is
-                                                regulated by the Cayman Islands Monetary Authority. </div>
+                                            <?php translate(' MEX Wealth Management is our subsidiary in the Cayman Islands, and is
+                                                regulated by the Cayman Islands Monetary Authority.'); ?> </div>
                                             <a href="http://www.cima.ky/search-entities" target="_blank"
                                                 class="btn btn-mex mex-m-r-15">License link</a>
                                             <a href="http://download.mexgroup.com/uploads/PDFs/MEX_Wealth_Management_Corporation_Certificate.pdf"
-                                                target="_blank" class="btn btn-mex-black mex-m-r-15">License PDF</a>
+                                                target="_blank" class="btn btn-mex-black mex-m-r-15"><?php translate('License PDF'); ?></a>
                                         </div>
                                     </section>
                                 </div>
@@ -332,15 +332,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             <div class="mex-h3-s mex-m-b-15">
                                                 ASIC<br>MEX Exchange </div>
                                             <div class="mex-content">
-                                                MEX Australia Pty Ltd (MEX Exchange), with Australian company number
+                                            <?php translate('MEX Australia Pty Ltd (MEX Exchange), with Australian company number
                                                 (ACN) 155 084 058, is authorized and regulated by the Australian
                                                 Securities &amp; Investments Commission (“ASIC”) with AFSL number
                                                 416279. MEX Exchange is a registered business name of MEX Australia Pty
-                                                Ltd. </div>
+                                                Ltd.'); ?> </div>
                                             <a href="http://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_adf.ctrl-state=vp4ojzdrf_4"
-                                                target="_blank" class="btn btn-mex mex-m-r-15">License link</a>
+                                                target="_blank" class="btn btn-mex mex-m-r-15"><?php translate('License link'); ?></a>
                                             <a href="http://download.mexgroup.com/uploads/PDFs/ASIC_Company_Certificate.pdf"
-                                                class="btn btn-mex-black mex-m-r-15" target="_blank">License PDF</a>
+                                                class="btn btn-mex-black mex-m-r-15" target="_blank"><?php translate('License PDF'); ?></a>
                                         </div>
                                     </section>
                                 </div>
@@ -401,65 +401,65 @@ whereToGoItem.injectIcons('.target-icon', icons);
                         data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
                         data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE"
                         data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน"
-                        data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                        data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
                             <li><a href="regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span></a>
-                                <div class="mex-content mex-clamp-3">Our Regulations</div>
+                                <div class="mex-content mex-clamp-3"><?php translate('Our Regulations'); ?></div>
                             </li>
                             <li><a href="../../../products.html"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../products.html">Our Products</a>
+                                <div class="mex-content mex-clamp-3"><a href="../../../products.html"><?php translate('Our Products'); ?></a>
                                 </div>
                                 <a href="../../../products.html"> </a>
                             </li>
                             <li><a href="../../../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                                <div class="mex-content mex-clamp-3">Trading Tools</div>
+                                <div class="mex-content mex-clamp-3"><?php translate('Trading Tools'); ?></div>
                                 <a href="../../../tools.html"> </a>
                             </li>
                             <li><a href="../../../about/why-multibank-group.html"><span
                                         class="ico-ic_why_multibank"></span> </a>
                                 <div class="mex-content mex-clamp-3"><a
-                                        href="../../../about/why-multibank-group.html">Why Multibank</a></div>
+                                        href="../../../about/why-multibank-group.html"><?php translate('Why Multibank'); ?></a></div>
                                 <a href="../../../about/why-multibank-group.html"> </a>
                             </li>
                             <li><a href="regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="regulations.html">Our Regulations</a>
+                                <div class="mex-content mex-clamp-3"><a href="regulations.html"><?php translate('Our Regulations'); ?></a>
                                 </div>
                                 <a href="regulations.html"> </a>
                             </li>
                             <li><a href="../../../about/security-of-funds.html"><span
                                         class="ico-ic_security_of_funds"></span> </a>
                                 <div class="mex-content mex-clamp-3"><a
-                                        href="../../../about/security-of-funds.html">Security of Funds</a></div>
+                                        href="../../../about/security-of-funds.html"><?php translate('Security of Funds'); ?></a></div>
                                 <a href="../../../about/security-of-funds.html"> </a>
                             </li>
                             <li><a href="../../../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../account.html">Accounts and
-                                        Funding</a></div>
+                                <div class="mex-content mex-clamp-3"><a href="../../../account.html"><?php translate('Accounts and
+                                        Funding'); ?></a></div>
                                 <a href="../../../account.html"> </a>
                             </li>
                             <li><a href="../../../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../account/bonus.html">Bonus
-                                        Programs</a></div>
+                                <div class="mex-content mex-clamp-3"><a href="../../../account/bonus.html"><?php translate('Bonus
+                                        Programs'); ?></a></div>
                                 <a href="../../../account/bonus.html"> </a>
                             </li>
                             <li><a href="../../../investor-relations.html"><span
                                         class="ico-ic_partnership_programs"></span> </a>
                                 <div class="mex-content mex-clamp-3"><a
-                                        href="../../../investor-relations.html">Partnership Programs</a></div>
+                                        href="../../../investor-relations.html"><?php translate('Partnership Programs'); ?></a></div>
                                 <a href="../../../investor-relations.html"> </a>
                             </li>
                             <li><a href="../../../partnership/introducing-brokers.html#introducing-brokers-form"><span
                                         class="ico-ic_become_an_ib"></span> </a>
                                 <div class="mex-content mex-clamp-3"><a
-                                        href="../../../partnership/introducing-brokers.html#introducing-brokers-form">Become
-                                        an IB</a></div>
+                                        href="../../../partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become
+                                        an IB'); ?></a></div>
                                 <a href="../../../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                             </li>
                             <li><a href="../../../about/milestones.html"><span class="ico-ic_our_milestones"></span>
                                 </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../about/milestones.html">Our
-                                        Milestones</a></div>
+                                <div class="mex-content mex-clamp-3"><a href="../../../about/milestones.html"><?php translate('Our
+                                        Milestones'); ?></a></div>
                                 <a href="../../../about/milestones.html"> </a>
                             </li>
                             <li><a href="../../../index.html#"
@@ -468,7 +468,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                         class="ico-ic_live_chat_support"></span> </a>
                                 <div class="mex-content mex-clamp-3"><a href="../../../index.html#"
                                         onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                        data-cf-modified-a6230ba13658041f0e1db4b9-="">Live Chat Support</a></div>
+                                        data-cf-modified-a6230ba13658041f0e1db4b9-=""><?php translate('Live Chat Support'); ?></a></div>
                                 <a href="../../../index.html#"
                                     onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
                                     data-cf-modified-a6230ba13658041f0e1db4b9-=""> </a>
@@ -479,7 +479,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
             </div>
         </section>
     </div>
-    <section class="bg-gray contact-us">
+    <!-- <section class="bg-gray contact-us">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-12 pb32">
@@ -1178,7 +1178,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+    <?php include_from_root('website_template/page_footer.php');?>
+
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
             <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""

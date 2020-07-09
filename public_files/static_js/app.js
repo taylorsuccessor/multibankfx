@@ -1261,13 +1261,13 @@ function deleteMktCookie(name_, domain_, path_) {
 
 $(document).ready(function () {
 
-    if ($('#about-page-awards .swiper-container').length) {
-        new Swiper('#about-page-awards .swiper-container', {
+    if ($('#about-page-awards').length) {
+        new Swiper('#about-page-awards', {
             navigation: {
                 nextEl: '#about-page-awards .swiper-button-next',
                 prevEl: '#about-page-awards .swiper-button-prev',
             },
-            //autoplay:{delay: 5000, },
+            autoplay:{delay: 5000, },
             updateOnImagesReady: true,
             slidesPerView: 7,
             spaceBetween: 20,
@@ -1322,3 +1322,67 @@ $(function(){
             }
         }
     });
+
+$(document).ready(function(){
+
+    $(function(){
+        new Swiper('#swiper-container-awards1',{
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+      
+        loop: true,
+        autoplay: {
+            delay: 50000
+        },
+        updateOnImagesReady: true,
+        paginationClickable: true,
+        slidesPerView:7,
+        spaceBetween: 30,
+        centeredSlides: true,
+        autoplayDisableOnInteraction: false,
+        grabCursor: true,
+        loop: true,
+        breakpoints: {
+            991: {
+                slidesPerView: 1,
+            },
+        },     
+
+    }
+        )
+    });
+
+
+    $(function(){
+        new Swiper('#swiper-container-awards2',{
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+      
+        loop: true,
+        autoplay: {
+            delay: 50000
+        },
+        updateOnImagesReady: true,
+        paginationClickable: true,
+        slidesPerView:7,
+        spaceBetween: 30,
+        centeredSlides: true,
+        autoplayDisableOnInteraction: false,
+        grabCursor: true,
+        loop: true,
+        breakpoints: {
+            991: {
+                slidesPerView: 1,
+            },
+        },     
+
+    }
+        )
+    })
+
+})
+    

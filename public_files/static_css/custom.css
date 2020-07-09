@@ -433,3 +433,21 @@ p{
 
 
 
+.swiper-slide.swiper-slide-active a span {
+    display: block !important;
+    visibility: visible;
+    
+}
+.swiper-slide a span{
+    display: none !important;
+    visibility: hidden;
+}
+#swiper-container-awards1 .swiper-slide-active, #swiper-container-awards2 .swiper-slide-active{
+    transform: scale(2.2);
+    margin-left: 50px !important;
+    margin-right:15px;
+}
+ #swiper-container-awards1 .swiper-slide span, #swiper-container-awards2 .swiper-slide span{
+    font-size: 9px;
+    line-height: 1 !important;
+ }

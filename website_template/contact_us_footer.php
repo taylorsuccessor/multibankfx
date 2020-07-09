@@ -45,7 +45,7 @@
                                                                                            class="country-icon"
                                                                                            data-entity-type=""
                                                                                            data-entity-uuid=""
-                                                                                           src="public_files/images/common/country/uae.png"/>
+                                                                                           src="../public_files/images/common/country/uae.png"/>
                                 <span> <strong><?php translate('UAE:'); ?></strong> +971 4 875 1311</span> </a></li>
                     </ul>
                     <a class="btn btn-mex " href="contact.html"><?php translate('Find your Country here'); ?></a></div>

@@ -141,11 +141,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="row">
                 <div class="col-md-3 hidden-xs">&nbsp;</div>
                 <div class="col-sm-12 text-center">
-                    <h1 class="mex-h1 text-fff text-center mex-m-b-40">MultiBank Security of Funds</h1>
-                    <div class="mex-content text-fff mex-m-b-30">At MultiBank, our clients'&nbsp;fund security is of the
+                    <h1 class="mex-h1 text-fff text-center mex-m-b-40"><?php translate ('MultiBank Security of Funds'); ?></h1>
+                    <div class="mex-content text-fff mex-m-b-30"><?php translate ('At MultiBank, our clients fund security is of the
                         utmost importance. As our companies are regulated worldwide, in accordance with the regulations
                         we need to uphold strict rules and obligations, offering our clients the highest level of funds
-                        security.
+                        security.'); ?>
                     </div>
                 </div>
                 <div class="col-md-3 hidden-xs">&nbsp;</div>
@@ -156,9 +156,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="mex-h1 text-center mex-m-b-30 uppercase text-1e32a3">Regulations Worldwide</h1>
-                    <div class="mex-content text-center ">See our full list of financial regulations from over 7
-                        regulators worldwide
+                    <h1 class="mex-h1 text-center mex-m-b-30 uppercase text-1e32a3"><?php translate ('Regulations Worldwide'); ?></h1>
+                    <div class="mex-content text-center "><?php translate ('See our full list of financial regulations from over 7
+                        regulators worldwide'); ?>
                     </div>
                     <div class="table-responsive mex-m-t-40">
                         <table class="security-of-funds-table table mex-table table-easy">
@@ -189,7 +189,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                    src="../public_files/images/common/country/australia_flag.png"/>
                                         </div>
                                         <div class="col-md-8 col-xs-12 text-center text-md-left about-country">
-                                            Australia
+                                        <?php translate ('Australia'); ?>
                                         </div>
                                     </div>
                                     <div class="border-right-blue"
@@ -210,7 +210,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                    data-entity-uuid=""
                                                                                                    src="../public_files/images/common/country/germany_flag.png"/>
                                         </div>
-                                        <div class="col-md-8 col-xs-12 text-center text-md-left about-country">Germany
+                                        <div class="col-md-8 col-xs-12 text-center text-md-left about-country"><?php translate ('Germany'); ?>
                                         </div>
                                     </div>
                                     <div class="border-right-blue"
@@ -230,7 +230,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                    data-entity-uuid=""
                                                                                                    src="../public_files/images/common/country/austria_flag.png"/>
                                         </div>
-                                        <div class="col-md-8 col-xs-12 text-center text-md-left about-country">Austria
+                                        <div class="col-md-8 col-xs-12 text-center text-md-left about-country"><?php translate ('Austria'); ?>
                                         </div>
                                     </div>
                                     <div class="border-right-blue"
@@ -250,7 +250,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                    data-entity-uuid=""
                                                                                                    src="../public_files/images/common/country/spain_flag.png"/>
                                         </div>
-                                        <div class="col-md-8 col-xs-12 text-center text-md-left about-country">Spain
+                                        <div class="col-md-8 col-xs-12 text-center text-md-left about-country"><?php translate ('Spain'); ?>
                                         </div>
                                     </div>
                                     <div class="border-right-blue"
@@ -289,8 +289,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                    data-entity-uuid=""
                                                                                                    src="../public_files/images/common/country/cayman_islands_flag.png"/>
                                         </div>
-                                        <div class="col-md-8 col-xs-12 text-center text-md-left about-country">Cayman
-                                            Islands
+                                        <div class="col-md-8 col-xs-12 text-center text-md-left about-country"><?php translate ('Cayman
+                                            Islands'); ?>
                                         </div>
                                     </div>
                                     <div class="border-right-blue"
@@ -309,7 +309,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-center uppercase text-1e32a3">How We Ensure Client Fund Security</div>
+                    <div class="mex-h1 text-center uppercase text-1e32a3"><?php translate('How We Ensure Client Fund Security'); ?></div>
                 </div>
             </div>
             <div class="ensure-fund-security-wrapper">
@@ -321,7 +321,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     class="card-img mex-img-cover"
                                     src="../public_files/images/about_us/ensure_security.jpg"/>
                                 <div class="card-content bg-black text-left"><span
-                                        class="text-fff mex-content text-overflow-2">Paid up capital $320 million, making it one of the largest online financial derivatives companies worldwide </span>
+                                        class="text-fff mex-content text-overflow-2"><?php translate ('Paid up capital $320 million, making it one of the largest online financial derivatives companies worldwide'); ?> </span>
                                 </div>
                             </div>
                         </section>
@@ -335,7 +335,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                            data-entity-uuid=""
                                                            src="../public_files/images/about_us/fully_segregated.png"/>
                                 <div class="card-content bg-black text-left"><span
-                                        class="text-fff mex-content text-overflow-1">Fully segregated client accounts</span>
+                                        class="text-fff mex-content text-overflow-1"><?php translate('Fully segregated client accounts'); ?></span>
                                 </div>
                             </div>
                         </section>
@@ -349,7 +349,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                            data-entity-uuid=""
                                                            src="../public_files/images/about_us/settlement-facility.jpg"/>
                                 <div class="card-content bg-black text-left" style="padding: 6px 20px !important;"><span
-                                        class="text-fff mex-content text-overflow-1" style="white-space: initial;">Settlement facility for institutional customers, brokers and banks</span>
+                                        class="text-fff mex-content text-overflow-1" style="white-space: initial;"><?php translate('Settlement facility for institutional customers, brokers and banks'); ?></span>
                                 </div>
                             </div>
                         </section>
@@ -363,7 +363,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
                                     src="../public_files/images/about_us/trading_line.jpg"/>
                                 <div class="card-content bg-black text-left"><span
-                                        class="text-fff mex-content text-overflow-1">Custodial bank facilities</span>
+                                        class="text-fff mex-content text-overflow-1"><?php translate('Custodial bank facilities'); ?></span>
                                 </div>
                             </div>
                         </section>
@@ -376,7 +376,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                            data-entity-type="" data-entity-uuid=""
                                                            src="../public_files/images/about_us/custodial_bank.png"/>
                                 <div class="card-content bg-black text-left"><span
-                                        class="text-fff mex-content text-overflow-1">Trading line of credit</span></div>
+                                        class="text-fff mex-content text-overflow-1"><?php translate('Trading line of credit'); ?></span></div>
                             </div>
                         </section>
                     </div>
@@ -412,53 +412,50 @@ whereToGoItem.injectIcons('.target-icon', icons);
                      data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
                      data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE"
                      data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน"
-                     data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                     data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?>
                 </div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span></a>
-                            <div class="mex-content mex-clamp-3">Our Regulations</div>
+                            <div class="mex-content mex-clamp-3"><?php translate('Our Regulations'); ?></div>
                         </li>
                         <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../products.html"><?php translate('Our Products'); ?></a></div>
                             <a href="../products.html"> </a></li>
                         <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                            <div class="mex-content mex-clamp-3">Trading Tools</div>
+                            <div class="mex-content mex-clamp-3"><?php translate('Trading Tools'); ?></div>
                             <a href="../tools.html"> </a></li>
                         <li><a href="why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html">Why Multibank</a>
+                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html"><?php translate('Why Multibank'); ?></a>
                             </div>
                             <a href="why-multibank-group.html"> </a></li>
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
-                                Regulations</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html"><?php translate('Our Regulations'); ?></a></div>
                             <a href="../mfx/v1/about/regulations.html"> </a></li>
                         <li><a href="security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html">Security of Funds</a>
+                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html"><?php translate('Security of Funds'); ?></a>
                             </div>
                             <a href="security-of-funds.html"> </a></li>
                         <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
+                            <div class="mex-content mex-clamp-3"><a href="../account.html"><?php translate('Accounts and Funding'); ?></a>
                             </div>
                             <a href="../account.html"> </a></li>
                         <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html">Bonus Programs</a>
+                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html"><?php translate('Bonus Programs'); ?></a>
                             </div>
                             <a href="../account/bonus.html"> </a></li>
                         <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
-                                Programs</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html"><?php translate('Partnership Programs'); ?></a></div>
                             <a href="../investor-relations.html"> </a></li>
                         <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span
                                 class="ico-ic_become_an_ib"></span> </a>
                             <div class="mex-content mex-clamp-3"><a
-                                    href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
-                                IB</a></div>
+                                    href="../partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become an IB'); ?></a></div>
                             <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a></li>
                         <li><a href="milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="milestones.html">Our Milestones</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="milestones.html"><?php translate('Our Milestones'); ?></a></div>
                             <a href="milestones.html"> </a></li>
                         <li><a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
@@ -466,8 +463,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                 class="ico-ic_live_chat_support"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../index.html#"
                                                                     onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                                                    data-cf-modified-1fcd49307a711736d16976ef-="">Live
-                                Chat Support</a></div>
+                                                                    data-cf-modified-1fcd49307a711736d16976ef-=""><?php translate('Live Chat Support'); ?></a></div>
                             <a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
                                data-cf-modified-1fcd49307a711736d16976ef-=""> </a></li>
@@ -477,7 +473,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
         </div>
     </section>
 </div>
-<section class="bg-gray contact-us">
+<!-- <section class="bg-gray contact-us">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 pb32">
@@ -1167,7 +1163,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
             </div>
         </div>
     </div>
-</section>
+</section> -->
+<?php include_from_root('website_template/page_footer.php');?>
+
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""
