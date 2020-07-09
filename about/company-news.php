@@ -132,8 +132,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </noscript>
 <div class="main-container">
     <div class="news-content">
-        <h1 class="mex-h1 news-martop">Company News</h1>
-        <p class="text-center mex-sub-content">Keep up to date with MultiBank’s latest news</p>
+        <h1 class="mex-h1 news-martop"><?php translate ('Company News'); ?></h1>
+        <p class="text-center mex-sub-content"><?php translate ('Keep up to date with MultiBank’s latest news'); ?></p>
         <div class="row" style="width: 97%; margin: 0 auto;">
             <div class="col-12 col-lg-9 mex-m-b-50">
                 <div class="news-con-det clearfix ">
@@ -144,13 +144,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <div class="news-con-det-l">
                                     <img src="../public_files/blog/thumbnails/2020_winners_announced_thumbnail.png"
                                          alt="Winners Announced for the MultiBank Fast & Furious Trading Contest"/>
-                                    <p class="news-con-h4 news-con-blue article-big-title">Winners Announced for the
-                                        MultiBank Fast & Furious Trading Contest</p>
-                                    <p class="news-con-date news-con-date-m">2020-02-18</p>
-                                    <p class="news-con-main">The top 3 winners of MultiBank’s latest demo trading
+                                    <p class="news-con-h4 news-con-blue article-big-title"><?php translate ('Winners Announced for the
+                                        MultiBank Fast & Furious Trading Contest'); ?></p>
+                                    <p class="news-con-date news-con-date-m"><?php translate ('2020-02-18'); ?></p>
+                                    <p class="news-con-main"><?php translate ('The top 3 winners of MultiBanks latest demo trading
                                         contest are out! The MultiBank Fast & Furious Trading Contest was a month-long
                                         demo trading contest that allowed traders around the world to show off their
-                                        trading skills on our demo MT4 platform. </p>
+                                        trading skills on our demo MT4 platform.'); ?> </p>
                                 </div>
                             </a></div>
                         <div class="col-xs-12 col-sm-12 col-md-7">
@@ -161,9 +161,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <img src="../public_files/blog/thumbnails/MB_BMW_thumbnail_1.jpg"
                                              alt="MultiBank Fast & Furious Trading Contest Starts Jan 6, 2020! "/>
                                         <div class="news-con-det-rbox-r">
-                                            <p class="news-con-h4 news-con-blue article-big-title">MultiBank Fast &
-                                                Furious Trading Contest Starts Jan 6, 2020! </p>
-                                            <p class="news-con-date">2019-12-27</p>
+                                            <p class="news-con-h4 news-con-blue article-big-title"><?php translate ('MultiBank Fast &
+                                                Furious Trading Contest Starts Jan 6, 2020!'); ?> </p>
+                                            <p class="news-con-date"><?php translate ('2019-12-27'); ?></p>
                                         </div>
                                     </div>
                                 </a>
@@ -173,9 +173,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <img src="../public_files/blog/thumbnails/PH_Investor_Night_thumbnail.jpg"
                                              alt="MultiBank Philippines Hosts Investors Night 2019"/>
                                         <div class="news-con-det-rbox-r">
-                                            <p class="news-con-h4 news-con-blue article-big-title">MultiBank Philippines
-                                                Hosts Investors Night 2019</p>
-                                            <p class="news-con-date">2019-12-07</p>
+                                            <p class="news-con-h4 news-con-blue article-big-title"><?php translate ('MultiBank Philippines
+                                                Hosts Investors Night 2019'); ?></p>
+                                            <p class="news-con-date"><?php translate ('2019-12-07'); ?></p>
                                         </div>
                                     </div>
                                 </a>
@@ -185,9 +185,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <img src="../public_files/blog/thumbnails/malaysia_seminar_thumbnail_en.jpg"
                                              alt="MultiBank Malaysia Hosted Successful Trading Seminar in Kuala Lumpur"/>
                                         <div class="news-con-det-rbox-r">
-                                            <p class="news-con-h4 news-con-blue article-big-title">MultiBank Malaysia
-                                                Hosted Successful Trading Seminar in Kuala Lumpur</p>
-                                            <p class="news-con-date">2019-11-17</p>
+                                            <p class="news-con-h4 news-con-blue article-big-title"><?php translate ('MultiBank Malaysia
+                                                Hosted Successful Trading Seminar in Kuala Lumpur'); ?></p>
+                                            <p class="news-con-date"><?php translate ('2019-11-17'); ?></p>
                                         </div>
                                     </div>
                                 </a>
@@ -200,25 +200,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div class="news-con-det-sec news-con-det-marnone">
                             <img src="../public_files/blog/thumbnails/macau_gp_2019_thumbnail.jpg"
                                  alt="MultiBank Group Attends Macau Grand Prix 2019"/>
-                            <p class="news-con-h4 news-con-blue article-big-title">MultiBank Group Attends Macau Grand
-                                Prix 2019</p>
-                            <p class="news-con-date news-con-date-m">2019-11-17</p>
-                            <p class="news-con-main">In partnership with BMW M Motorsport, MultiBank Group took part in
+                            <p class="news-con-h4 news-con-blue article-big-title"><?php translate ('MultiBank Group Attends Macau Grand
+                                Prix 2019'); ?></p>
+                            <p class="news-con-date news-con-date-m"><?php translate ('2019-11-17'); ?></p>
+                            <p class="news-con-main"><?php translate ('In partnership with BMW M Motorsport, MultiBank Group took part in
                                 the 2019 Macau Grand Prix in support of BMW Team Schnitzer and returning champion
-                                Augusto Farfus in the grand finale of FIA GT World Cup.</p>
+                                Augusto Farfus in the grand finale of FIA GT World Cup.'); ?></p>
                         </div>
                     </a>
                     <a class="article-block" href="../article/multibank-fx-championship-2019-winners-announced.html">
                         <div class="news-con-det-sec">
                             <img src="../public_files/blog/thumbnails/1104_demo_competition_thumbnail.jpg"
                                  alt="MultiBank FX Championship 2019 Winners Announced!"/>
-                            <p class="news-con-h4 news-con-blue article-big-title">MultiBank FX Championship 2019
-                                Winners Announced!</p>
-                            <p class="news-con-date news-con-date-m">2019-11-04</p>
-                            <p class="news-con-main">MultiBank Group is excited to announce the winners of the MultiBank
+                            <p class="news-con-h4 news-con-blue article-big-title"><?php translate ('MultiBank FX Championship 2019
+                                Winners Announced!'); ?></p>
+                            <p class="news-con-date news-con-date-m"><?php translate ('2019-11-04'); ?></p>
+                            <p class="news-con-main"><?php translate ('MultiBank Group is excited to announce the winners of the MultiBank
                                 FX Championship 2019! Our month-long demo trading contest was an opportunity for traders
                                 around the world to hone their trading skills while competing for our exciting cash
-                                prizes of USD 7,000, USD 3,000 and USD 2,000 for the top 3 winners.</p>
+                                prizes of USD 7,000, USD 3,000 and USD 2,000 for the top 3 winners.'); ?></p>
                         </div>
                     </a>
                     <a class="article-block"
@@ -226,11 +226,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div class="news-con-det-sec">
                             <img src="../public_files/blog/thumbnails/dubai_expo_thumbnail.jpg"
                                  alt="MultiBank Attends the Forex Expo Dubai and Takes Home “Best Forex Broker” Award"/>
-                            <p class="news-con-h4 news-con-blue article-big-title">MultiBank Attends the Forex Expo
-                                Dubai and Takes Home “Best Forex Broker” Award</p>
-                            <p class="news-con-date news-con-date-m">2019-10-02</p>
-                            <p class="news-con-main">On 2nd and 3rd October, the Gulf region’s only forex expo took
-                                place at Jumeirah Emirates Towers in Dubai. </p></div>
+                            <p class="news-con-h4 news-con-blue article-big-title"><?php translate ('MultiBank Attends the Forex Expo
+                                Dubai and Takes Home “Best Forex Broker” Award'); ?></p>
+                            <p class="news-con-date news-con-date-m"><?php translate ('2019-10-02'); ?></p>
+                            <p class="news-con-main"><?php translate ('On 2nd and 3rd October, the Gulf regions only forex expo took
+                                place at Jumeirah Emirates Towers in Dubai.'); ?> </p></div>
                     </a>
                 </div>
             </div>
@@ -257,7 +257,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                              data-extra-message="Account type Invalid."
                                                                              class='   ' name='account_type'
                                                                              type='radio' required value='1' checked/>
-                                <label class='  ' for=''>INDIVIDUAL</label>
+                                <label class='  ' for=''><?php translate ('INDIVIDUAL'); ?></label>
                             </div>
                         </div>
                         <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
@@ -267,33 +267,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                              data-extra-message="Account Type Invalid."
                                                                              class='   ' name='account_type'
                                                                              type='radio' required value='2'/>
-                                <label class='  ' for=''>PARTNERSHIP</label>
+                                <label class='  ' for=''><?php translate ('PARTNERSHIP'); ?></label>
                             </div>
                         </div>
                         <div class='mex-form-item col-12 p-1'>
                             <label for='' class='d-none'>
-                                Full Name</label>
+                            <?php translate ('Full Name'); ?></label>
                             <input type="text" data-message="Full Name is Required."
                                    data-extra-message="Full Name Invalid." data-regex="" class="form-control mb-0"
                                    name="name" $field_id_code placeholder="Full Name" required value=""/>
                         </div>
                         <div class='mex-form-item col-12 p-1'>
                             <label for='' class='d-none'>
-                                Email</label>
+                            <?php translate ('Email'); ?></label>
                             <input type='email' data-message='Email is Required.' data-extra-message="Email is Invalid."
                                    data-regex='' class='form-control mb-0' name='email' placeholder='Email' required
                                    value=''/>
                         </div>
                         <div class='mex-form-item col-12 p-1'>
                             <label for='' class='d-none'>
-                                Confirm Email</label>
+                            <?php translate ('Confirm Email'); ?></label>
                             <input type='email' data-message='Confirm Email is Required.'
                                    data-extra-message="Email Mismatched." data-regex='' class='form-control mb-0'
                                    name='confirm_email' placeholder='Confirm Email' required value=''/>
                         </div>
                         <div class='d-none'>
                             <label for='' class='d-none'>
-                                Country</label>
+                            <?php translate ('Country'); ?></label>
                             <select data-message='Country is Required.' data-extra-message="Country Name Invalid"
                                     class='selection-country form-control  mb-0 select_with_country select_with_country'
                                     name='country_name' required>
@@ -590,7 +590,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </select><input type="hidden" name="country_code" value=""/></div>
                         <div class='mex-form-item col-12 p-1'>
                             <label for='' class='d-none'>
-                                Phone</label>
+                            <?php translate ('Phone');?></label>
                             <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.'
                                    data-extra-message="Phone Number Invalid" data-regex=''
                                    class='input_with_phone form-control mb-0 input_with_phone' name='phone_display'
@@ -604,12 +604,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
                         <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
                             <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset '
-                                    id='button-send-callme_form' type='button' title='Send Code'>Send Code
+                                    id='button-send-callme_form' type='button' title='Send Code'><?php translate ('Send Code'); ?>
                             </button>
                         </div>
                         <button type='submit' class='btn-contact mx-1 mt-2 mb-0'
                                 onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                                data-cf-modified-add9bdeab49ae9424dd66d41-="">SUBMIT
+                                data-cf-modified-add9bdeab49ae9424dd66d41-=""><?php translate ('SUBMIT'); ?>
                         </button>
                     </form>
                     <hr class="mx-1">
@@ -618,32 +618,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                            class="d-flex btn btn-mex-red mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                             <span>&#xe91d;</span>
                             <div class="btn-vr"></div>
-                            OPEN LIVE ACCOUNT</a>
+                            <?php translate ('OPEN LIVE ACCOUNT'); ?></a>
                         <a href="../demo_competition.html"
                            class="d-flex btn btn-mex-blue mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                             <span>&#xe918;</span>
                             <div class="btn-vr"></div>
-                            OPEN DEMO ACCOUNT</a>
+                            <?php translate (' OPEN DEMO ACCOUNT'); ?></a>
                         <a href="../partnership/introducing-brokers.html#introducing-brokers-form"
                            class="d-flex btn btn-mex-gray mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                             <span>&#xe920;</span>
                             <div class="btn-vr"></div>
-                            IB REGISTRATION</a>
+                            <?php translate ('IB REGISTRATION'); ?></a>
                         <a href="../account/account-funding.html"
                            class="d-flex btn btn-mex mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                             <span>&#xe921;</span>
                             <div class="btn-vr"></div>
-                            FUND YOUR ACCOUNT</a>
+                            <?php translate ('FUND YOUR ACCOUNT'); ?></a>
                         <div class="px-1 font-10" style="padding:0px;">
                             <div class="form-check form-check-inline">
-                                <label class="form-check-label label-1 " for="terms_conditions">By submitting this form,
-                                    you agree to accept the <a href="../terms-conditions.html" target="_blank"
-                                                               class="text-22A0C4" style="padding:0 !important;">Terms
-                                        &amp; Conditions</a>, <a href="../privacy-policy.html" target="_blank"
-                                                                 class="text-22A0C4" style="padding:0 !important;">Privacy
-                                        Policy</a>, and <a href="../cookie-policy.html" target="_blank"
-                                                           class="text-22A0C4" style="padding:0 !important;">Cookie
-                                        Policy</a>.
+                                <label class="form-check-label label-1 " for="terms_conditions"><?php translate ('By submitting this form,
+                                    you agree to accept the'); ?> <a href="../terms-conditions.html" target="_blank"
+                                                               class="text-22A0C4" style="padding:0 !important;"><?php translate ('Terms
+                                        & Conditions'); ?></a>, <a href="../privacy-policy.html" target="_blank"
+                                                                 class="text-22A0C4" style="padding:0 !important;"><?php translate ('Privacy
+                                        Policy'); ?></a>, and <a href="../cookie-policy.html" target="_blank"
+                                                           class="text-22A0C4" style="padding:0 !important;"><?php translate ('Cookie
+                                        Policy'); ?></a>.
                                 </label>
                             </div>
                         </div>
@@ -695,72 +695,72 @@ whereToGoItem.injectIcons('.target-icon', icons);
                      data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
                      data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE"
                      data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน"
-                     data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                     data-ae="أختر أين تريد الذهاب"><?php translate ('Choose Where to go next'); ?>
                 </div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span></a>
-                            <div class="mex-content mex-clamp-3">Our Regulations</div>
+                            <div class="mex-content mex-clamp-3"><?php translate ('Our Regulations'); ?></div>
                         </li>
                         <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../products.html"><?php translate ('Our Products'); ?></a></div>
                             <a href="../products.html"> </a></li>
                         <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                            <div class="mex-content mex-clamp-3">Trading Tools</div>
+                            <div class="mex-content mex-clamp-3"><?php translate ('Trading Tools'); ?></div>
                             <a href="../tools.html"> </a></li>
                         <li><a href="why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html">Why Multibank</a>
+                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html"><?php translate ('Why Multibank'); ?></a>
                             </div>
                             <a href="why-multibank-group.html"> </a></li>
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
-                                Regulations</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html"><?php translate ('Our
+                                Regulations'); ?></a></div>
                             <a href="../mfx/v1/about/regulations.html"> </a></li>
                         <li><a href="security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html">Security of Funds</a>
+                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html"><?php translate ('Security of Funds'); ?></a>
                             </div>
                             <a href="security-of-funds.html"> </a></li>
                         <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
+                            <div class="mex-content mex-clamp-3"><a href="../account.html"><?php translate ('Accounts and Funding'); ?></a>
                             </div>
                             <a href="../account.html"> </a></li>
                         <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html">Bonus Programs</a>
+                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html"><?php translate ('Bonus Programs'); ?></a>
                             </div>
                             <a href="../account/bonus.html"> </a></li>
                         <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
-                                Programs</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html"><?php translate ('Partnership
+                                Programs'); ?></a></div>
                             <a href="../investor-relations.html"> </a></li>
                         <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span
                                 class="ico-ic_become_an_ib"></span> </a>
                             <div class="mex-content mex-clamp-3"><a
-                                    href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
-                                IB</a></div>
+                                    href="../partnership/introducing-brokers.html#introducing-brokers-form"><?php translate ('Become an
+                                IB'); ?></a></div>
                             <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a></li>
                         <li><a href="milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="milestones.html">Our Milestones</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="milestones.html"><?php translate ('Our Milestones'); ?></a></div>
                             <a href="milestones.html"> </a></li>
                         <li><a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-add9bdeab49ae9424dd66d41-=""><span
+                               data-cf-modified-570454a4fb5a8d45acba6b04-=""><span
                                 class="ico-ic_live_chat_support"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../index.html#"
                                                                     onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                                                    data-cf-modified-add9bdeab49ae9424dd66d41-="">Live
-                                Chat Support</a></div>
+                                                                    data-cf-modified-570454a4fb5a8d45acba6b04-="">Live
+                                                                    <?php translate ('Chat Support'); ?></a></div>
                             <a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-add9bdeab49ae9424dd66d41-=""> </a></li>
+                               data-cf-modified-570454a4fb5a8d45acba6b04-=""> </a></li>
                     </ul>
                 </div>
             </div>
         </div>
     </section>
 </div>
-<section class="bg-gray contact-us">
+<!-- <section class="bg-gray contact-us">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 pb32">
@@ -1450,7 +1450,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
             </div>
         </div>
     </div>
-</section>
+</section> -->
+<?php include_from_root('website_template/page_footer.php');?>
+
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""

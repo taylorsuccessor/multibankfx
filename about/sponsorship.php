@@ -138,9 +138,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="container mex-p-t-30 mex-p-b-30">
             <div class="row">
                 <div class="col-lg-6 col-md-10">
-                    <h1 class="mex-h1 text-fff text-left">Sponsorship</h1>
-                    <div class="mex-content col-md-10 col-lf-6 text-fff p0">At MultiBank, we sponsor partners who share
-                        our vision and value.
+                    <h1 class="mex-h1 text-fff text-left"><?php translate ('Sponsorship'); ?></h1>
+                    <div class="mex-content col-md-10 col-lf-6 text-fff p0"><?php translate ('At MultiBank, we sponsor partners who share
+                        our vision and value.'); ?>
                     </div>
                 </div>
             </div>
@@ -150,37 +150,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <div class="mex-h1 text-1e32a3 text-center mex-m-b-40">Current Sponsorship</div>
+                    <div class="mex-h1 text-1e32a3 text-center mex-m-b-40"><?php translate ('Current Sponsorship'); ?></div>
                 </div>
                 <div class="col-lg-6 col-xl-5">
                     <div class="mex-h3 mex-content mex-m-b-40">
-                        <p class="font-24">Official Sponsor of Hamburg HSVH</p>
+                        <p class="font-24"><?php translate ('Official Sponsor of Hamburg HSVH'); ?></p>
                     </div>
                     <div class="mex-content mex-m-b-40">
-                        <p class="mex-m-b-20">MultiBank Group is the official sponsor of Handball Sport Verein Hamburg
+                        <p class="mex-m-b-20"><?php translate ('MultiBank Group is the official sponsor of Handball Sport Verein Hamburg
                             (HSVH), part of the Handball Bundesliga (HBL), Germany’s top professional handball
-                            league. </p>
-                        <p class="mex-m-b-20">The German Handball Bundesliga is considered to be the most competitive
+                            league.'); ?> </p>
+                        <p class="mex-m-b-20"><?php translate ('The German Handball Bundesliga is considered to be the most competitive
                             professional league in the world, while handball is widely considered the second most
-                            popular team sport in Germany.</p>
+                            popular team sport in Germany.'); ?></p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xl-7"><img alt="CURRENT SPONSORSHIP" data-entity-type="" data-entity-uuid=""
                                                     src="../public_files/images/about_us/sponsorship_current_hsvh.jpg"
                                                     width="100%"/></div>
                 <div class="col-sm-12">
-                    <div class="mex-h1 text-1e32a3 text-center mex-m-b-40" style="margin-top: 5%">Past Sponsorship</div>
+                    <div class="mex-h1 text-1e32a3 text-center mex-m-b-40" style="margin-top: 5%"><?php translate ('Past Sponsorship'); ?></div>
                 </div>
                 <div class="col-lg-6 col-xl-5">
                     <div class="mex-h3 mex-content mex-m-b-40">
-                        <p class="font-24">Official Partner of BMW M Motorsport (2019-2020)</p>
+                        <p class="font-24"><?php translate ('Official Partner of BMW M Motorsport (2019-2020)'); ?></p>
                     </div>
                     <div class="mex-content mex-m-b-40">
-                        <p class="mex-m-b-20">MultiBank Group was the Official Partner of BMW M Motorsport, an
+                        <p class="mex-m-b-20"><?php translate ('MultiBank Group was the Official Partner of BMW M Motorsport, an
                             established brand built on success and excellence. In 2018, BMW M Motorsport celebrated more
                             than 70 wins and 200 podiums around the world from its BMW customer racing teams. In
                             partnership with BMW M Motorsport, MultiBank Group partook in the 2019 FIA GT World Cup in
-                            Macau. </p>
+                            Macau.'); ?> </p>
                     </div>
 
                 </div>
@@ -219,72 +219,72 @@ whereToGoItem.injectIcons('.target-icon', icons);
                      data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
                      data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE"
                      data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน"
-                     data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                     data-ae="أختر أين تريد الذهاب"><?php translate ('Choose Where to go next'); ?>
                 </div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span></a>
-                            <div class="mex-content mex-clamp-3">Our Regulations</div>
+                            <div class="mex-content mex-clamp-3"><?php translate ('Our Regulations'); ?></div>
                         </li>
                         <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../products.html"><?php translate ('Our Products'); ?></a></div>
                             <a href="../products.html"> </a></li>
                         <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                            <div class="mex-content mex-clamp-3">Trading Tools</div>
+                            <div class="mex-content mex-clamp-3"><?php translate ('Trading Tools'); ?></div>
                             <a href="../tools.html"> </a></li>
                         <li><a href="why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html">Why Multibank</a>
+                            <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html"><?php translate ('Why Multibank'); ?></a>
                             </div>
                             <a href="why-multibank-group.html"> </a></li>
                         <li><a href="../mfx/v1/about/regulations.html"><span
                                 class="ico-ic_our_regulations">&nbsp;</span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
-                                Regulations</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html"><?php translate ('Our
+                                Regulations'); ?></a></div>
                             <a href="../mfx/v1/about/regulations.html"> </a></li>
                         <li><a href="security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html">Security of Funds</a>
+                            <div class="mex-content mex-clamp-3"><a href="security-of-funds.html"><?php translate ('Security of Funds'); ?></a>
                             </div>
                             <a href="security-of-funds.html"> </a></li>
                         <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
+                            <div class="mex-content mex-clamp-3"><a href="../account.html"><?php translate ('Accounts and Funding'); ?></a>
                             </div>
                             <a href="../account.html"> </a></li>
                         <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html">Bonus Programs</a>
+                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html"><?php translate ('Bonus Programs'); ?></a>
                             </div>
                             <a href="../account/bonus.html"> </a></li>
                         <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
-                                Programs</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html"><?php translate ('Partnership
+                                Programs'); ?></a></div>
                             <a href="../investor-relations.html"> </a></li>
                         <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span
                                 class="ico-ic_become_an_ib"></span> </a>
                             <div class="mex-content mex-clamp-3"><a
-                                    href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
-                                IB</a></div>
+                                    href="../partnership/introducing-brokers.html#introducing-brokers-form"><?php translate ('Become an
+                                IB'); ?></a></div>
                             <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a></li>
                         <li><a href="milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="milestones.html">Our Milestones</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="milestones.html"><?php translate ('Our Milestones'); ?></a></div>
                             <a href="milestones.html"> </a></li>
                         <li><a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-a20d7f7ef8cfd46784d8eaeb-=""><span
+                               data-cf-modified-570454a4fb5a8d45acba6b04-=""><span
                                 class="ico-ic_live_chat_support"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="../index.html#"
                                                                     onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                                                    data-cf-modified-a20d7f7ef8cfd46784d8eaeb-="">Live
-                                Chat Support</a></div>
+                                                                    data-cf-modified-570454a4fb5a8d45acba6b04-="">Live
+                                                                    <?php translate ('Chat Support'); ?></a></div>
                             <a href="../index.html#"
                                onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                               data-cf-modified-a20d7f7ef8cfd46784d8eaeb-=""> </a></li>
+                               data-cf-modified-570454a4fb5a8d45acba6b04-=""> </a></li>
                     </ul>
                 </div>
             </div>
         </div>
     </section>
 </div>
-<section class="bg-gray contact-us">
+<!-- <section class="bg-gray contact-us">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 pb32">
@@ -974,7 +974,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
             </div>
         </div>
     </div>
-</section>
+</section> -->
+<?php include_from_root('website_template/page_footer.php');?>
+
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""

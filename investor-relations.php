@@ -19,7 +19,7 @@
 <link rel="alternate" href="https://fr.multibankfx.com/partnership" hreflang="fr-FR" />
 <link rel="alternate" href="investor-relations.html" hreflang="x-default" />
 
-<script type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script type="04afc925fbe11b685f8c83f4-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -59,14 +59,14 @@ form:not(#demo_competition_form_2019_08_13) .send-code-container{display:none;}
     height: 0;
 }
 </style>
-<script src="public_files/static_js/jquery-3.3.1.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
-<script type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript">const page_dir = 'ltr';</script>
+<script src="public_files/static_js/jquery-3.3.1.min.js" type="04afc925fbe11b685f8c83f4-text/javascript"></script>
+<script type="04afc925fbe11b685f8c83f4-text/javascript">const page_dir = 'ltr';</script>
 </head><body><div class="header">
 <div class="header-top d-none d-md-block">
 <div class="row">
 <div class="col-sm-6">
 <ul class="header-top-left-menu hide-1024">
-<li class="border-right hide-1200"><a href="cdn-cgi/l/email-protection.html#9af9e9daf7eff6eef3f8fbf4f1fce2b4f9f5f7"><i class="ti-email">&nbsp;</i> <span>EMAIL</span> </a></li>
+<li class="border-right hide-1200"><a href="cdn-cgi/l/email-protection.html#2a49596a475f465e43484b44414c5204494547"><i class="ti-email">&nbsp;</i> <span>EMAIL</span> </a></li>
 <li class="border-right hide-1024"><i class="ti-world">&nbsp;</i> <span>Global Alexa Ranking:
 14261</span></li>
 <li class="hide-1280"><span><a href="tel:+12139924748?call">US: +1 213 992 4748</a> </span></li>
@@ -582,7 +582,7 @@ MultiBank’s CPA Affiliate Program allows digital marketers to earn commission 
 </a>
 </li>
 <li>
-<a href="index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ce5f6ca09ad2c5a1bc4cc67f-="">
+<a href="index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-04afc925fbe11b685f8c83f4-="">
 <span class="ico-ic_live_chat_support"></span>
 <div class="mex-content mex-clamp-3">Live Chat Support</div>
 </a>
@@ -675,24 +675,24 @@ to contact our 24/5 professional multilingual Customer Service</p>
 </li>
 <li class="ForIts">
 <div class="mex-h3  mex-p-v-15  mex-m-t-10">Email Us</div>
-<div class="contact-email"><a class="text-000033" href="cdn-cgi/l/email-protection.html#c1a2b281acb4adb5a8a3a0afaaa7b9efa2aeac"><span class="__cf_email__" data-cfemail="eb8898ab869e879f82898a85808d93c5888486">[email&#160;protected]</span></a>
+<div class="contact-email"><a class="text-000033" href="cdn-cgi/l/email-protection.html#c6a5b586abb3aab2afa4a7a8ada0bee8a5a9ab"><span class="__cf_email__" data-cfemail="660515260b130a120f0407080d001e4805090b">[email&#160;protected]</span></a>
 </div>
 </li>
 <li class="ForIts">
 <div class="mex-h3 mex-m-t-20 ">Live Chat</div>
-<a href="investor-relations.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ce5f6ca09ad2c5a1bc4cc67f-=""><img alt="chat" class="home_contact_us_chat_now" data-entity-type="" data-entity-uuid="" src="public_files/images/common/footer_btn_chat_now.png" />
+<a href="investor-relations.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-04afc925fbe11b685f8c83f4-=""><img alt="chat" class="home_contact_us_chat_now" data-entity-type="" data-entity-uuid="" src="public_files/images/common/footer_btn_chat_now.png" />
 </a></li>
 </ul>
 <div class="d-flex d-md-none row py-4 row-eq-height">
 <div class="col-4 text-center mx-auto">
 <div class="mex-h3 mb-2 footer-mb-social-media">EMAIL US</div>
-<a href="cdn-cgi/l/email-protection.html#a3c0d0e3ced6cfd7cac1c2cdc8c5db8dc0ccce">
+<a href="cdn-cgi/l/email-protection.html#ee8d9dae839b829a878c8f80858896c08d8183">
 <img class="footer-contact-ic" src="public_files/images/common/icon_contact_mail.png" />
 </a>
 </div>
 <div class="col-4 text-center mx-auto">
 <div class="mex-h3 mb-2 footer-mb-social-media">LIVE CHAT</div>
-<a href="investor-relations.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ce5f6ca09ad2c5a1bc4cc67f-="">
+<a href="investor-relations.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-04afc925fbe11b685f8c83f4-="">
 <img class="footer-contact-ic" src="public_files/images/common/icon_contact_wechat.png" />
 </a>
 </div>
@@ -702,9 +702,9 @@ to contact our 24/5 professional multilingual Customer Service</p>
 <div class="mex-h3  mex-p-v-15 text-sm-center text-md-left">GET A CALL BACK</div>
 <div style="width: 100%;">
 <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form' class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='call_back_footer_form' target='' autocomplete='on'>
-<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTo0Mw==' />
-<input type='hidden' name='token' value='$2y$10$JlYsCC9FdMhgC45kLNhjCuzSPFiFVgFuVCmSBWxXM4uLE9ulFK6Q6' />
-<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:39] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:40] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:41] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:43] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/partnership?web=true' />
+<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo1MDo0OQ==' />
+<input type='hidden' name='token' value='$2y$10$eiZ/DBBRLa8vRJiBmLu3kOkxrV9ucyoSyN9MoLMy4zodmuod54DcG' />
+<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:39] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:40] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:42] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:49] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/partnership?web=true' />
 <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
 <label for='' class='m-0'>
 </label>
@@ -982,7 +982,7 @@ to contact our 24/5 professional multilingual Customer Service</p>
 </div>
 <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
 <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset ' id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
-</div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-ce5f6ca09ad2c5a1bc4cc67f-="">CALL ME</button>
+</div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-04afc925fbe11b685f8c83f4-="">CALL ME</button>
 </form>
 <div class="px-1 font-10" style="padding:0px;">
 <div class="form-check form-check-inline">
@@ -1008,7 +1008,7 @@ you agree to accept the <a href="terms-conditions.html" target="_blank" class="t
 </a>
 <a href="https://my.multibankfx.com/en/traders/login" target="_blank">MyMultibank</a>
 <a href="contact.html" target="_parent">Contact Us</a>
-<a href="investor-relations.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ce5f6ca09ad2c5a1bc4cc67f-="">Support</a>
+<a href="investor-relations.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-04afc925fbe11b685f8c83f4-="">Support</a>
 <a href="article/hiring-now-cyprus.html" target="_parent">Career</a>
 <a href="investor-relations.html" target="_parent">Investor&nbsp;Relations</a>
 </div>
@@ -1116,10 +1116,10 @@ risk warning for each regulated entity during the account opening process.</p>
 <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
 <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
 </a>
-<a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#b2d1c1f2dfc7dec6dbd0d3dcd9d4ca9cd1dddf">
+<a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#d2b1a192bfa7bea6bbb0b3bcb9b4aafcb1bdbf">
 <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
 </a>
-<a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ce5f6ca09ad2c5a1bc4cc67f-="">
+<a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-04afc925fbe11b685f8c83f4-="">
 <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
 </a>
 </div>
@@ -1216,9 +1216,9 @@ risk warning for each regulated entity during the account opening process.</p>
 <div class="col-12 col-md-7 mx-auto bg-white p-4">
 <span class="btn-modal-close fa fa-times"></span>
 <form action="https://www.multibankfx.com/form/contactus?" name='email_us_form' class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='email_us_form' target='' autocomplete='on'>
-<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTo0Mw==' />
-<input type='hidden' name='token' value='$2y$10$QalrzhlhkKPWXCUJUoDlNOPCiIzUnnwecZ5U7OFB8MR4IpBbyWB1a' />
-<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:39] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:40] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:41] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:43] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/partnership?web=true' />
+<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo1MDo0OQ==' />
+<input type='hidden' name='token' value='$2y$10$sNAU.ZtV6b9oK8yGVviPAuFFg5Jk1IEUEKWiGE9UQX8YYEnjhdsLa' />
+<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:39] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:40] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:42] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:49] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/partnership?web=true' />
 <div class='col-12 p-0'>
 <label for='' class='mex-h3'>
 EMAIL US</label>
@@ -1499,7 +1499,7 @@ Phone</label>
 <label for='order_message' class='d-block'>
 </label>
 <textarea data-message='Message is Required.' data-extra-message="Message is Invalid." data-regex='' class=' form-control w-100 ta-message' name='message' id='order_message' placeholder=''>Hello, I am interested in learning more about MultiBank products and services. Could you please contact me</textarea>
-</div><button type='submit' class='btn btn-mex ml-auto btn-submit' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-ce5f6ca09ad2c5a1bc4cc67f-="">SEND</button>
+</div><button type='submit' class='btn btn-mex ml-auto btn-submit' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-04afc925fbe11b685f8c83f4-="">SEND</button>
 </form>
 </div>
 </div>
@@ -1552,7 +1552,7 @@ Phone</label>
         border-radius: 0;
     }
 </style>
-<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript">
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="04afc925fbe11b685f8c83f4-text/javascript">
     $(function(){
         $('.email-us-tg').click(function(e){
             e.preventDefault();
@@ -1564,12 +1564,12 @@ Phone</label>
         });
     })
 </script>
-<script src="public_files/static_js/lang_data/en.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script><script src="public_files/static_js/jquery.dataTables.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
-<script src="public_files/static_js/lazysizes.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
-<script src="public_files/static_js/jquery.validate.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
-<script src="public_files/static_js/intlTelInput.min.js%3Fversion=20191128" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
-<script src="public_files/static_js/app.js%3Fversion=20200612" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
-<script type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript" async>
+<script src="public_files/static_js/lang_data/en.js" type="04afc925fbe11b685f8c83f4-text/javascript"></script><script src="public_files/static_js/jquery.dataTables.min.js" type="04afc925fbe11b685f8c83f4-text/javascript"></script>
+<script src="public_files/static_js/lazysizes.min.js" type="04afc925fbe11b685f8c83f4-text/javascript"></script>
+<script src="public_files/static_js/jquery.validate.min.js" type="04afc925fbe11b685f8c83f4-text/javascript"></script>
+<script src="public_files/static_js/intlTelInput.min.js%3Fversion=20191128" type="04afc925fbe11b685f8c83f4-text/javascript"></script>
+<script src="public_files/static_js/app.js%3Fversion=20200612" type="04afc925fbe11b685f8c83f4-text/javascript"></script>
+<script type="04afc925fbe11b685f8c83f4-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {
         window.__lc = window.__lc || {};
@@ -1599,7 +1599,7 @@ Phone</label>
     })();
   }
 </script>
-<script type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript">
+<script type="04afc925fbe11b685f8c83f4-text/javascript">
 $(function() {
     $('.mex-translatable').each(function() {
         var url_parts = location.hostname.split('.');
@@ -1633,12 +1633,12 @@ $(function() {
 });
 
 </script>
-<script type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript">
+<script type="04afc925fbe11b685f8c83f4-text/javascript">
 $(function() {
         $('form:not("#demo_competition_form_2019_08_13") .sms_verif_code').val('215121');
 });
 </script>
-<script type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript">
+<script type="04afc925fbe11b685f8c83f4-text/javascript">
 $(function(){
 var iframe_ibnum =getUrlVars()['ibNum'];
 var is_iframe = getUrlVars()['is_iframe'];
@@ -1656,4 +1656,4 @@ if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
 }
 });
 </script>
-<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="ce5f6ca09ad2c5a1bc4cc67f-|49" defer=""></script></body></html>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="04afc925fbe11b685f8c83f4-|49" defer=""></script></body></html>

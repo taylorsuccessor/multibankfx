@@ -2,24 +2,24 @@
 <html lang='en'>
 <head><meta charset='UTF-8'><meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 <meta name='viewport' content='width=device-width, initial-scale=1'>
-<title>Risk Warning - MultiBank Group</title>
-<meta name='description' content="Trading forex on margin carries high risk, and may not be suitable for all investors. The high degree of leverage can work against you as well as for you.">
-<meta name='keywords' content="risk warning">
-<meta property='og:title' content="Risk Warning - MultiBank Group">
-<meta property='og:description' content="Trading forex on margin carries high risk, and may not be suitable for all investors. The high degree of leverage can work against you as well as for you.">
-<link rel='canonical' href="risk-warning.html">
-<link rel="alternate" href="https://es.multibankfx.com/risk-warning" hreflang="es-ES" />
-<link rel="alternate" href="https://ru.multibankfx.com/risk-warning" hreflang="ru-RU" />
-<link rel="alternate" href="https://ae.multibankfx.com/risk-warning" hreflang="en-ae" />
-<link rel="alternate" href="https://vn.multibankfx.com/risk-warning" hreflang="vi-VN" />
-<link rel="alternate" href="https://id.multibankfx.com/risk-warning" hreflang="id-ID" />
-<link rel="alternate" href="https://mys.multibankfx.com/risk-warning" hreflang="ms-MY" />
-<link rel="alternate" href="https://ph.multibankfx.com/risk-warning" hreflang="tl-PH" />
-<link rel="alternate" href="https://th.multibankfx.com/risk-warning" hreflang="th-TH" />
-<link rel="alternate" href="https://fr.multibankfx.com/risk-warning" hreflang="fr-FR" />
-<link rel="alternate" href="risk-warning.html" hreflang="x-default" />
+<title>Privacy Policy - MultiBank Group</title>
+<meta name='description' content="MultiBank Group needs to collect personal information from our clients in order to provide them with our products, services and any relevant information.">
+<meta name='keywords' content="privacy policy">
+<meta property='og:title' content="Privacy Policy - MultiBank Group">
+<meta property='og:description' content="MultiBank Group needs to collect personal information from our clients in order to provide them with our products, services and any relevant information.">
+<link rel='canonical' href="privacy-policy.html">
+<link rel="alternate" href="https://es.multibankfx.com/privacy-policy" hreflang="es-ES" />
+<link rel="alternate" href="https://ru.multibankfx.com/privacy-policy" hreflang="ru-RU" />
+<link rel="alternate" href="https://ae.multibankfx.com/privacy-policy" hreflang="en-ae" />
+<link rel="alternate" href="https://vn.multibankfx.com/privacy-policy" hreflang="vi-VN" />
+<link rel="alternate" href="https://id.multibankfx.com/privacy-policy" hreflang="id-ID" />
+<link rel="alternate" href="https://mys.multibankfx.com/privacy-policy" hreflang="ms-MY" />
+<link rel="alternate" href="https://ph.multibankfx.com/privacy-policy" hreflang="tl-PH" />
+<link rel="alternate" href="https://th.multibankfx.com/privacy-policy" hreflang="th-TH" />
+<link rel="alternate" href="https://fr.multibankfx.com/privacy-policy" hreflang="fr-FR" />
+<link rel="alternate" href="privacy-policy.html" hreflang="x-default" />
 
-<script type="64f41a61248af5bacc1bd201-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script type="043ac85ce02ef20987f94e50-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -59,14 +59,14 @@ form:not(#demo_competition_form_2019_08_13) .send-code-container{display:none;}
     height: 0;
 }
 </style>
-<script src="public_files/static_js/jquery-3.3.1.min.js" type="64f41a61248af5bacc1bd201-text/javascript"></script>
-<script type="64f41a61248af5bacc1bd201-text/javascript">const page_dir = 'ltr';</script>
+<script src="public_files/static_js/jquery-3.3.1.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+<script type="043ac85ce02ef20987f94e50-text/javascript">const page_dir = 'ltr';</script>
 </head><body><div class="header">
 <div class="header-top d-none d-md-block">
 <div class="row">
 <div class="col-sm-6">
 <ul class="header-top-left-menu hide-1024">
-<li class="border-right hide-1200"><a href="cdn-cgi/l/email-protection.html#96f5e5d6fbe3fae2fff4f7f8fdf0eeb8f5f9fb"><i class="ti-email">&nbsp;</i> <span>EMAIL</span> </a></li>
+<li class="border-right hide-1200"><a href="cdn-cgi/l/email-protection.html#224151624f574e564b40434c49445a0c414d4f"><i class="ti-email">&nbsp;</i> <span>EMAIL</span> </a></li>
 <li class="border-right hide-1024"><i class="ti-world">&nbsp;</i> <span>Global Alexa Ranking:
 14261</span></li>
 <li class="hide-1280"><span><a href="tel:+12139924748?call">US: +1 213 992 4748</a> </span></li>
@@ -220,7 +220,7 @@ companies worldwide, with a current paid up capital of over US $322 million.</p>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12">
 <div class="menu_ad">
- <div class="nav-menu-heading">
+<div class="nav-menu-heading">
 <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
 </div>
 <a class="d-block w-75 mx-auto" href="account/live-account.html"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="public_files/images/common/menu_ads_banner.png%3Fv=0327" /></a>
@@ -264,7 +264,7 @@ exchanges through its advanced trading platforms.</p>
 </div>
 </li>
 <li class="nav-tools-menu header-nav-menu" style="display: none;">
-<div class="w-75 mx-auto row">
+<div class="w-75 mx-auto row"> 
 <div class="col-md-4 col-sm-12  col-xs-12 ">
 <div class="menu_txt_content">
 <div class="mex-h2 uppercase mb0"><a class="font-40  text-left mex-p-l-none mex-p-r-none" href="tools.html">Tools</a>
@@ -312,7 +312,7 @@ and enjoy the highest levels of personalized customer care.</p>
 <ul class="nav-menu-list">
 <li><a href="partnership/introducing-brokers.html">Introducing Brokers</a></li>
 <li><a href="partnership/franchise-program.html">Franchise Program</a></li>
- <li><a href="partnership/white-label.html">White Label</a></li>
+<li><a href="partnership/white-label.html">White Label</a></li>
 <li><a href="partnership/prime-of-primes.html">Prime of Primes</a></li>
 <li><a href="partnership/cpa-affiliate-program.html">CPA Affiliate Program</a></li>
 </ul>
@@ -365,7 +365,7 @@ and enjoy the highest levels of personalized customer care.</p>
 </ul>
 </li>
 <li class="nav-menu-mobile-section py-1 mx-4"><a href="account.html">Account &amp; Funding</a>
-<ul class="text-center">
+ <ul class="text-center">
 <li><a href="account/live-account.html">Live Account</a></li>
 <li><a href="demo_competition.html">Demo Account</a></li>
 <li><a href="account/islamic-account.html">Islamic Account</a></li>
@@ -465,38 +465,47 @@ and enjoy the highest levels of personalized customer care.</p>
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section class="table-background other-bg">
-<div class="container">
-<div class="row">
-<div class="col-md-12 col-sm-12">
-<h1 class="mex-h1 text-1e32a3 text-center mex-m-b-40"> Risk Warning</h1>
-<div class="mex-content mex-m-b-30">
-<p class="mex-m-b-20">Trading foreign exchange on margin carries a high level of risk, and may not be suitable for all investors. The high degree of leverage can work against you as well as for you. Before deciding to trade foreign exchange you should carefully consider your investment objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading and seek advice from an independent financial advisor if you have any doubts. Any transaction you enter with MultiBank, or any other trading Company under the Brand name of MultiBank (collectively referred to hereinafter as "MultiBank Affiliated Companies") do not concern or involve in any shape or manner MultiBank which is merely a marketing arm of the MultiBank Affiliated Trading Companies. For the avoidance of ambiguity any trading activities are a stranger and have nothing to do, directly or indirectly, with the MultiBank. </p>
-<p class="mex-m-b-20">MultiBank opinions, news, research, analyses, prices, or other information contained on this website is provided as general market commentary, and does not constitute investment advice. MultiBank will not accept liability for any loss or damage, including without limitation to, any loss of profit, which may arise directly or indirectly from use of or reliance on such information.</p>
-<div class="mex-h3 mex-m-b-15">Internet Trading Risks</div>
-<p class="mex-m-b-20">There are risks associated with utilizing an Internet-based deal execution trading system including, but not limited to, the failure of hardware, software, and Internet connection. Since MultiBank do not control signal power, its reception or routing via Internet or wireless connection, configuration of your equipment or reliability of its connection, we cannot be responsible for communication failures, distortions or delays when trading via the Internet. MultiBank and/or its Affiliate Companies have taken reasonable measures to ensure the accuracy of the information on the website, however, does not guarantee its accuracy, and will not accept liability of Information The content on this website is subject to change at any time without notice. This site is not intended for distribution, or use by, any person in any country where such distribution or use would be contrary to local law or regulation. None of the services or investments referred to in this website is available to persons residing in any country where the provision of such services or investments would be contrary to local law or regulation. It is the responsibility of visitors to this website to ascertain the terms of and comply with any local law or regulation to which they are subject.</p>
-<div class="mex-h3 mex-m-b-15">Market Risks and Online Trading</div>
-<p class="mex-m-b-20">Our trading platform provides sophisticated order entry and tracking of orders. Trading online, no matter how convenient or efficient does not necessarily reduce risks associated with currency trading.</p>
-<div class="mex-h3 mex-m-b-15">Market Information and Opinions</div>
-<p class="mex-m-b-20">All reasonable care has been taken to ensure that the information provided by MultiBank and/or its Affiliate Companies on their web site and otherwise is as accurate and current as possible and that any opinions expressed by MultiBank representatives are fair and reasonable. However, such information and opinions are in no way guaranteed and carry no representation or promise of trading success or reduction of risk of loss. Neither MultiBank, its Affiliate Companies, nor any of its representatives have any liability for any losses incurred in connection with any decision made, or action taken or not taken by any party in connection with such information or opinions or any delays, inaccuracies, errors or omissions associated therewith.<br>
-We strongly urge all Clients, potential or otherwise, of the MultiBank affiliated companies, as defined above, to carefully read and examine the risk.</p>
-<div class="mex-h3 mex-m-b-15">Warning of the Separate MultiBank Trading Companies</div>
-<p class="mex-m-b-20">We cannot disclose all of the risks to you and you should ensure that forex, contracts for difference and other derivative products are suitable for your investment needs.<br>
-It is possible that you can lose all of the money you deposit, and in some circumstances you may even be required to deposit additional sums to cover your losses. By undertaking these types of high risk trades you acknowledge that you are trading with your available risk capital and any losses you may incur will not adversely affect your lifestyle.</p>
-<p class="mex-m-b-20"> 1. The high degree of 'gearing' or 'leverage' is a particular feature of this type of transaction. This means that a relatively small movement in the price of your investment may have a significant negative effect on your capital and lead to large losses. You should familiarize yourself with the concept of margin trading and ensure you do not over expose yourself.</p>
-<p class="mex-m-b-20"> 2. You may be required to deposit substantial additional margin, at short notice, to hold your positions. If you fail to provide funds to hold your positions they may be closed without further reference to you.</p>
-<p class="mex-m-b-20"> 3. Such transactions will not be undertaken on a recognised or designated investment exchange and, accordingly, they may expose you to greater risks than exchange transactions. You will be entering into transactions as "principal" with MultiBank.</p>
-<p class="mex-m-b-20"> 4. Prior to placing any trades you should ensure you are aware of all costs that will be incurred by you.</p>
-<p class="mex-m-b-20"> 5. Your funds may not all be held in a segregated account, this will depend on the amount you have deposited and the amount of capital you have utilized to hold your margined positions.</p>
-<p class="mex-m-b-20"> 6. You will be provided with access to an internet trading platform and there are risks associated with utilising such an Internet-based deal execution trading system including, but not limited to, the failure of hardware, software, and Internet connection. Since we do not control signal power, its reception or routing via Internet, configuration of your equipment or reliability of its connection, we cannot be responsible for communication failures, distortions or delays when trading via the Internet.</p>
-<div class="mex-h3 mex-m-b-15">High Risk Investment Warning: </div>
-<p class="mex-m-b-20">Trading foreign exchange and/or contracts for differences on margin carries a high level of risk, and may not be suitable for all investors. The possibility exists that you could sustain a loss in excess of your deposited funds. Please refer to specific risk warning for each regulated entity during the account opening process.</p>
-</div>
-</div>
-</div>
-</div>
-<style>
-.grapesjs-editable-field-item[data-grapesjs-field="field_component_01"][data-grapesjs-delta="0"] * { box-sizing: border-box; } div.div{padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;min-height:25px;}
-</style>
+<div class="container"><div class="row"><div class="col-md-12 col-sm-12"><h1 class="mex-h1 text-1e32a3 mex-m-b-40 text-center">
+Privacy Policy </h1></div></div></div><div class="container"><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Introduction </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30"><div>MultiBank Group needs to collect personal information from our clients and prospective clients in order to provide them with our products, services and any relevant information.</div><div>Your privacy is very important to us and we make it our priority to safeguard and secure any and all confidential information relating to individuals. </div><div>This Privacy Policy will go through what measures MultiBank Group (the “Company” or “MultiBank”) takes to collects, uses and manages the personal information we receive from you or a third party in relation to the products and services we provide. This Privacy Policy also outlines your rights relating to the processing of your personal information.</div><div>Our Privacy Policy is reviewed and updated regularly in order to be compliant with data protection laws and other privacy regulations.</div></p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+MultiBank Group
+</div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30"><div>MultiBank Group is a Group of companies, with each subsidiary licensed and/or regulated by the relevant local financial authorities.</div><div>MultiBank Exchange is the trading name of MultiBank Forex Exchange Corporation incorporated in California, USA with Company No. 3918038. </div><div>MultiBank FX is the trading name of Multibank FX International Corporation (BVI) with Company No. 1377324.</div></p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Privacy Protection </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30"><div>MultiBank respects the privacy of any users who access its website(s), and therefore is committed to taking all reasonable steps to safeguard the privacy and confidential information of all clients and visitors of our website, in accordance with the applicable data protection laws and regulations.</div><div>To ensure this, we have trained our staff on the importance protecting and respecting your personal information and privacy. We have also appointed a Data Protection Officer to ensure that our Company manages/processes your personal information in compliance with the applicable data protection laws and regulations and in accordance with this Privacy Policy. </div><div>The personal information you provide us with when registering yourself as a user of the Company’s website(s) or of its services is classified as registered information, which is protected in several different ways. You can access your registered information after logging in to MyMultiBank. </div><div>It is your responsibility to make sure that your password is only known to you and not disclosed to anyone else. Your registered information is securely stored with us, and only authorized staff have access to this information. Please also note that transfer of information via the internet is not always entirely secure, but we have taken significant precautions to assure that your personal data is being protected.</div></p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Personal information we collect </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30"><div>As part of our application process and in order to open any type of account with us, you must first complete and submit an application form with all the required information. By completing this application form, you are requested to disclose personal information in order to enable the Company to assess your application and comply with the relevant laws (including their regulations). The information you provide may also be used by the Company to inform you regarding its services.</div><div>The information that we may collect from you includes the following:</div></p><ul class="mex-list-icon-check"><li>full name</li><li>residential address</li><li>contact details (e.g. telephone number, email address, etc.)</li><li>date of birth, place of birth, gender, citizenship</li><li>information about your income and wealth, including details about your source of funds, assets and liabilities, bank account information, trading statements, financial statements</li><li>trading account balances, trading activity, your inquiries and our responses</li><li>profession and employment details</li><li>authentication data (e.g. signature)</li><li>location data</li><li>trading performance, knowledge and experience</li><li>verification information, which includes information necessary to verify your identity such as a passport or driver’s license (examples also include background information we receive about you from public records or from other entities not affiliated with us). Furthermore, we may collect other identifiable information, such as identification numbers and/or passport/tax registration numbers</li><li>any other information customarily used to identify you and about your trading experience which is relevant to us providing our services to you.</li></ul><p class="mex-m-b-30">We obtain this information in a number of ways through your use of our services, including through any of our websites, apps, the account opening applications, our demo account forms or customer service communications. We may also collect this information about you from third parties such your payment providers and through publicly available sources. We also keep records of your trading behavior, including records regarding the following:</p><ul class="mex-list-icon-check"><li>products you trade with us and their performance</li><li>historical data about the trades and investments you have made, including the amount invested</li><li>your preference for certain types of products and services</li></ul><p class="mex-m-b-30"><div>If you choose not to provide the information, we need to fulfil your request for a specific product or service, we may not be able to provide you with the requested product or service.</div><div>We may record any communications, electronic, by telephone, in person or otherwise, that we have with you in relation to the services we provide to you and our business relationship with you. These recordings will be our sole property and will constitute evidence of the communications between us. Such telephone conversations may be recorded without the use of a warning tone or any other further notice.</div></p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Processing of your personal information </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">We may process your personal data on the following bases and for the following purposes:</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+1. Performance of a contract </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30"><div>We process personal data in order to provide our services and products, as well as information regarding our products and services based on the contractual relationship with our clients (i.e. so as to perform our contractual obligations). In addition, processing of personal data takes place to be able to complete our client on-boarding/acceptance procedures.</div><div>In view of the above, we need to verify your identity in order to accept you as our client and we will need to use those details in order to effectively manage your trading account with us. This may include third parties carrying out credit or identity checks on our behalf. The use of your personal information is necessary for us to know who you are as we have a legal obligation to comply with ‘Know Your Customer’ and customer due diligence’ regulatory obligations.</div></p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+2. Compliance with a legal obligation </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30"><div>There are a number of legal obligations imposed by relevant laws to which we are subject, as well as specific statutory requirements (e.g. anti-money laundering laws, financial services laws, corporation laws, privacy laws and tax laws). There are also various supervisory authorities whose laws and regulations apply to us. Such obligations and requirements impose on us necessary personal data processing activities for credit checks, identity verification, payment processing, compliance with court orders, tax law or other reporting obligations and anti-money laundering controls.</div><div>These obligations apply at various times, including client on-boarding/acceptance, payments and systemic checks for risk management.</div></p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+3. For the purposes of safeguarding legitimate interests </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">We process personal data so as to safeguard the legitimate interests pursued by us or by a third party. A legitimate interest is when we have a business or commercial reason to use your information. Examples of such processing activities include the following:</p><ul class="mex-list-icon-check"><li>initiating legal claims and preparing our defense in litigation procedures</li><li>risk management</li><li>measures to manage business and for further developing products and services</li><li>measures to ensure IT and system security, preventing potential crime, asset security, admittance controls and anti-trespassing measures</li><li>sharing your personal data within MultiBank Group for the purpose of updating/verifying your personal data in accordance with the relevant anti-money laundering compliance framework</li></ul></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+4.You have provided your consent </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">Our storage and use of your personal data is based on your consent (other than for the reasons described or implied in this policy when your consent is not required). You may revoke consent at any time; however, any processing of personal data prior to the receipt of your revocation will not be affected.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+5.To provide you with products and services, or information about our products and services, and to review your ongoing needs </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">Once you successfully open a trading account with us, or subscribe to an update, we will need to use your personal information to perform our services and comply with our obligations to you. It is also in our legitimate interests to try to ensure that we are providing the best products and services so we may periodically review your needs based on our assessment of your personal information to try to ensure that you are getting the benefit of the best possible products and services from us.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+6.To investigate or settle enquiries or disputes </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">We may need to use personal information collected from you to investigate issues or to settle disputes with you because it is in our legitimate interests to ensure that issues and disputes get investigated and resolved in a timely and efficient manner.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+7.To comply with applicable laws, court orders, other judicial process, or the requirements of any applicable regulatory authorities </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">We may need to use your personal information to comply with any applicable laws and regulations, court orders or other judicial process, or the requirements of any applicable regulatory authority. We do this not only to comply with our legal obligations but because it may also be in our legitimate interest to do so.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+8.Data analysis </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">Our webpages and emails may contain web beacons or pixel tags or any other similar type of data analysis tools that allow us to track receipt of correspondence and count the number of users that have visited our webpage or opened our correspondence. We may aggregate your personal information (such as trading history) with the personal information of our other clients on an anonymous basis. If your personal information is not in an anonymized form, it is in our legitimate interest to continually evaluate that personal information to ensure that the products and services we provide are relevant to the market.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+9.Marketing purposes </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">We may use your personal information to send you marketing communications by email, phone, SMS or other methods (such as social media channels) to ensure that you are kept up to date with our latest products and services. We will not disclose your information to any outside parties that may allow them to directly market to you.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+10.Internal business purposes and record keeping </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">We may use your personal information for internal business and research or record keeping purposes. Such processing is in our own legitimate interests and is required in order to comply with our legal obligations. This may include any communications that we have with you in relation to the services and products we provide to you. We will also keep records to ensure that you comply with your contractual obligations pursuant to the agreement governing our relationship with you.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+11.Legal Notifications </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">Often the law requires us to advise you of certain changes to products or services or laws. We may need to inform you of changes to the terms or the features of our products or services. We need to process your personal information to send you these legal notifications. You will continue to receive this information from us even if you choose not to receive direct marketing information from us.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+12.Physical security  </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">If you enter any of our premises we may record your image on our CCTV for security reasons. We may also take your details to keep a record of who has entered our premises on any given day. It is in our legitimate interest to do this to maintain a safe and secure working environment.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Disclosure of your personal information </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30"><div>The Company will not disclose any of its clients’ confidential information to a third party, except: (a) to the extent that it is required to do so pursuant to any applicable laws, rules or regulations; (b) if there is a duty to disclose; (c) if our legitimate business interests require disclosure; or (d) at your request or with your consent or to Persons described in this policy. The Company will endeavor to make such disclosures on a ‘need-to-know’ basis, unless otherwise instructed by a regulatory authority. Under such circumstances, the Company will notify the third party regarding the confidential nature of any such information.</div><div>As part of using your personal data for the purposes set out above, the Company may disclose your personal information to the following:</div></p><ul class="mex-list-icon-check"><li>any companies under MultiBank Group, meaning any of our ultimate holding companies and their respective subsidiaries may receive such information;</li><li>our associates and service providers, for business purposes, including third parties such as business service providers and specialist advisers who have been contracted to provide us with administrative, financial, legal, tax, compliance, insurance, research or other services;</li><li>business introducers with whom we have a mutual business relationship;</li><li>business parties, credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law;</li><li>anyone authorised by you.</li></ul><p class="mex-m-b-30">If the Company discloses your personal information to business parties, such as card or other payment processing companies or banks, in order to perform the services requested by clients, such third parties may store your information in order to comply with their legal and other obligations.<br />Clients accept and consent that the Company may, from time to time, analyze the data collected while visiting our website(s) or by other means, such as questionnaires, for statistical purposes in order to improve the Company’s business activities.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Transfers outside of the European Economic Area </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30"><div>We may transfer your personal information outside the European Economic Area (EEA) to other MultiBank Group companies as well as service providers (i.e. processors) who are engaged on our behalf. To the extent we transfer your information outside the EEA, we will ensure that the transfer is lawful and that processors in third countries are obliged to comply with the European data protection laws or other countries’ laws which are comparable and to provide appropriate safeguards in relation to the transfer of your data in accordance with GDPR Article 46. </div><div><br /></div><div>By submitting your personal data, you consent to your personal information being processed by staff of MultiBank Group operating outside the EEA who work for us. Such staff may be, among others, engaged in the fulfilment of your requests, the processing of your payment details and the provision of support services. The Company will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.</div></p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Your collected information </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">Tracking systems used on the Company’s website(s) may collect your personal data in order to optimize the services provided to clients/potential clients. The website collects information in the following ways:</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Device information </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">By recognizing your device used to access and use the Company’s website(s), we can provide you with the most appropriate version of our website(s).</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Log information </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">Logging certain behaviors on the site enables the company to track user action and therefore troubleshoot any issues that may occur.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Location information </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">Using your IP address helps us localize our website content, which we provide to you based on your country, and improve your user experience on our site(s).</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Cookies </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">Cookies are text files with a small amount of data sent from our website(s) to your browser and stored on your computer’s hard drive. Cookies help us improve the performance of our website(s) and our website visitors’ experience, track your referrer (if any) and improve our future advertising campaigns.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Cookies </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">Cookies are small pieces of data sent from our website(s) to your browser and stored on your computer’s hard drive when using our site(s), and they may include a unique identification number. The purpose of collecting this information is to provide you with a more relevant and effective experience on our website(s), including the presentation of our web pages according to your needs or preferences.<br />Cookies are frequently used on many websites on the internet, and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of our website(s) if you choose to disable the cookie acceptance in your browser, particularly in your MyMultiBank account panel and other secure parts of our website(s). We therefore recommend you to enable cookie acceptance in order to benefit from all our online services.<br />Furthermore, we use cookies for re-marketing features in order to allow us to reach out to users who have previously visited our website(s) and have shown an interest in our products and services. Periodically, we may use third party vendors to display our ads over the internet to you, based on your previous use of our website(s). You can opt out this particular use of cookies at any time by visiting <a href="https://www.google.com/settings/ads" class="text-1e32a3">Google’s Ads Settings</a> page and the <a href="https://www.google.com/settings/ads/onweb#display_optout" class="text-1e32a3">DoubleClick opt-out</a> page or as they later update those facilities.<br />The Company uses session ID cookies and persistent cookies. A session ID cookie expires after a set amount of time or when the browser window is closed. A persistent cookie remains on your hard drive for an extended time period. You can remove persistent cookies by following directions provided in your web browser's ‘Help’ file.<br />For further details about our cookie policy and how our cookies work, read our <a href="cookie-policy.html" class="text-1e32a3">Cookies Policy</a>.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+How we obtain your consent </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30"><div>If our use of your personal information requires your consent, such consent will be provided in accordance with the express written terms which govern our business relationship (which are available on our website(s), as amended from time time), or any other contract we may have entered into with you or as set out in our communication with you from time to time.</div><div>If we rely on your consent as our legal basis for holding and processing your personal information, you have the right to withdraw that consent at any time by contacting us using the contact details set out in this Privacy Policy.</div></p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Storage of your personal information and retention period </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30"><div>In relation to your personal information, we will hold this for as long as we have a business relationship with you, in a combination of secure computer storage facilities and paper-based files and other records and we take the necessary measures to protect the personal information we hold from misuse, loss, unauthorized access, modification or disclosure. </div><div>When we consider that personal information is no longer necessary for the purpose for which it was collected, we will remove any details that will identify you or we will securely destroy the records. However, we may need to maintain records for a significant period of time (after you cease being our client). For example, we are subject to certain anti-money laundering laws which require us to retain the following, for a period of 5 years after our business relationship with you has ended:</div></p><ul class="mex-list-icon-check"><li>a copy of the documents we used in order to comply with our customer due diligence obligations;</li><li>supporting evidence and records of transactions with you and your relationship with us</li></ul><p class="mex-m-b-30"><div>Also, the personal information we hold in the form of a recorded communication, by telephone, electronically, in person or otherwise, will be held in line with local regulatory requirements (i.e., 5 years after our business relationship with you has ended or longer if you have legitimate interests (such as handling a dispute with you). If you have opted out of receiving marketing communications we will hold your details on our suppression list so that we know you do not want to receive these communications.</div><div>We may keep your data for longer than 5 years if we cannot delete it for legal, regulatory or technical reasons.</div></p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Your rights regarding your personal information
+</div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Information and access </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">You have the right to request what information we process, along with a copy of that personal information within thirty (30) days from the date of your request. If you require additional copies, we may need to charge a administration fee.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Rectification </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">We will take all reasonable steps to make sure that your personal information remains accurate, complete and up-to-date. If the personal information we hold about you is inaccurate or incomplete, you are entitled to have it rectified. If we have disclosed your personal information to others, we will let them know about the rectification where possible. You may inform us at any time that your personal details have changed by e-mailing us at <a href="cdn-cgi/l/email-protection.html#8eedfdcee3fbe2fae7ecefe0e5e8f6a0ede1e3" class="text-1e32a3"><span class="__cf_email__" data-cfemail="dfbcac9fb2aab3abb6bdbeb1b4b9a7f1bcb0b2">[email&#160;protected]</span></a>. The Company will change your personal information in accordance with your instructions. To proceed with such requests, in some cases we may need supporting documents from you as proof, i.e. personal information that we are required to keep for regulatory or other legal purposes.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Erasure </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">You can ask us to delete or remove your personal information in certain circumstances such as if we no longer need it or you withdraw your consent (if applicable) provided that we have no legal obligation to retain that data. Such request will be subject to any retention limits we are required to comply with in accordance with applicable laws and regulations. If we have disclosed your personal information to others, we will let them know about the erasure where possible.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Processing restrictions </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">You can ask us to ‘block’ or suppress the processing of your personal data in certain circumstances such as if you contest the accuracy of that personal information or object to us processing it. It will not stop us from storing your personal information. We will inform you before we decide not to agree with any requested restriction. If we have disclosed your personal information to others, we will inform about the restriction if possible.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Data portability </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">Under the General Data Protection Regulation (679/2016), you have the right, in certain circumstances, to obtain personal information you have provided us with (in a structured, commonly used and machine readable format) and to re-use it elsewhere or ask us to transfer this to a third party of your choice.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Objection </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">You can ask us to stop processing your personal information, and we will do so, if we are:</p><ul class="mex-list-icon-check"><li>relying on our own or someone else’s legitimate interests to process your personal information except if we can demonstrate compelling legal grounds for the processing;</li><li>processing your personal information for direct marketing;</li><li>processing your personal information for research unless we reasonably believe such processing is necessary or prudent for the performance of a task carried out in the public interest (such as by a regulatory or enforcement agency).</li></ul></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Opt-out of submitting your personal information </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">If you do not want us to use your personal information, you must inform the Company by sending an email to <a href="cdn-cgi/l/email-protection.html#d5b6a695b8a0b9a1bcb7b4bbbeb3adfbb6bab8" class="text-1e32a3"><span class="__cf_email__" data-cfemail="9dfeeeddf0e8f1e9f4fffcf3f6fbe5b3fef2f0">[email&#160;protected]</span></a> . If you decide to do so, we may not be able to continue to provide information, services and/or products requested by you and we will have no liability to you in this respect.</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+Legal disclaimer </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">The Company may disclose your personally identifiable information as required by rules and regulations and if the Company believes that disclosure is necessary to protect our rights or to comply with other proceedings, court order, legal process served or pursuant to governmental, intergovernmental or other regulatory bodies. The Company is not liable for misuse or loss of personal information or otherwise on the Company’s website(s) that the Company does not have access to or control over. The Company will not be liable for unlawful or unauthorized use of your personal information due to misuse or misplacement of your passwords, negligent or malicious intervention or otherwise by you or due to your acts or omissions or a person authorized by you (whether or to that authorization is permitted by the terms of our legal relationship with you).</p></div></div></div><div class="row"><div class="col-md-12 col-sm-12"><div class="mex-h3 mex-m-b-15">
+How to contact us </div><div class="mex-content mex-m-b-30"><p class="mex-m-b-30">If you have any questions or concerns regarding this Privacy Policy, please e-mail us at <a href="cdn-cgi/l/email-protection.html#2d4e5e6d40584159444f4c43464b55034e4240" class="text-1e32a3"><span class="__cf_email__" data-cfemail="e98a9aa9849c859d808b8887828f91c78a8684">[email&#160;protected]</span></a>.</p></div></div></div></div><style>.grapesjs-editable-field-item[data-grapesjs-field="field_component_01"][data-grapesjs-delta="0"] * { box-sizing: border-box; } div.div{padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;min-height:25px;}</style>
 </section><section class="bg-gray contact-us">
 <div class="container">
 <div class="row justify-content-center">
@@ -544,24 +553,24 @@ to contact our 24/5 professional multilingual Customer Service</p>
 </li>
 <li class="ForIts">
 <div class="mex-h3  mex-p-v-15  mex-m-t-10">Email Us</div>
-<div class="contact-email"><a class="text-000033" href="cdn-cgi/l/email-protection.html#f39080b39e869f879a91929d98958bdd909c9e"><span class="__cf_email__" data-cfemail="264555664b534a524f4447484d405e0845494b">[email&#160;protected]</span></a>
+<div class="contact-email"><a class="text-000033" href="cdn-cgi/l/email-protection.html#e58696a5889089918c87848b8e839dcb868a88"><span class="__cf_email__" data-cfemail="365545765b435a425f5457585d504e1855595b">[email&#160;protected]</span></a>
 </div>
 </li>
 <li class="ForIts">
 <div class="mex-h3 mex-m-t-20 ">Live Chat</div>
-<a href="risk-warning.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-64f41a61248af5bacc1bd201-=""><img alt="chat" class="home_contact_us_chat_now" data-entity-type="" data-entity-uuid="" src="public_files/images/common/footer_btn_chat_now.png" />
+<a href="privacy-policy.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-043ac85ce02ef20987f94e50-=""><img alt="chat" class="home_contact_us_chat_now" data-entity-type="" data-entity-uuid="" src="public_files/images/common/footer_btn_chat_now.png" />
 </a></li>
 </ul>
 <div class="d-flex d-md-none row py-4 row-eq-height">
 <div class="col-4 text-center mx-auto">
 <div class="mex-h3 mb-2 footer-mb-social-media">EMAIL US</div>
-<a href="cdn-cgi/l/email-protection.html#fe9d8dbe938b928a979c9f90959886d09d9193">
+<a href="cdn-cgi/l/email-protection.html#87e4f4c7eaf2ebf3eee5e6e9ece1ffa9e4e8ea">
 <img class="footer-contact-ic" src="public_files/images/common/icon_contact_mail.png" />
 </a>
 </div>
 <div class="col-4 text-center mx-auto">
 <div class="mex-h3 mb-2 footer-mb-social-media">LIVE CHAT</div>
-<a href="risk-warning.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-64f41a61248af5bacc1bd201-="">
+<a href="privacy-policy.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-043ac85ce02ef20987f94e50-="">
 <img class="footer-contact-ic" src="public_files/images/common/icon_contact_wechat.png" />
 </a>
 </div>
@@ -571,9 +580,9 @@ to contact our 24/5 professional multilingual Customer Service</p>
 <div class="mex-h3  mex-p-v-15 text-sm-center text-md-left">GET A CALL BACK</div>
 <div style="width: 100%;">
 <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form' class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='call_back_footer_form' target='' autocomplete='on'>
-<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo1MDo1Mw==' />
-<input type='hidden' name='token' value='$2y$10$.0FGZlnaH61E22r6jjmYd.jYSN0f1dpSfA8Dqa1o0.4aHYFu4fAaC' />
-<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:42] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:49] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:52] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:53] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/risk-warning?web=true' />
+<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTo1Mw==' />
+<input type='hidden' name='token' value='$2y$10$xjlN95g11ZLSC82eVkXkOOJsFGz0.IM2OmZTqEL//n/DXFd2t8/c.' />
+<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:47] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:48] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:52] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:53] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/privacy-policy?web=true' />
 <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
 <label for='' class='m-0'>
 </label>
@@ -826,7 +835,7 @@ to contact our 24/5 professional multilingual Customer Service</p>
 <option data-country_iso_code="UG" data-name='UG' value='UG'>UGANDA</option>
 <option data-country_iso_code="UA" data-name='UA' value='UA'>UKRAINE</option>
 <option data-country_iso_code="AE" data-name='AE' value='AE'>UNITED ARAB EMIRATES</option>
-<option data-country_iso_code="GB" data-name='GB' value='GB'>UNITED KINGDOM</option>
+<option data-country_iso_code="GB" data-name='GB' value='GB'>UNITED KINGDOM</option> 
 <option data-country_iso_code="US" data-name='US' value='US'>UNITED STATES</option>
 <option data-country_iso_code="UM" data-name='UM' value='UM'>UNITED STATES MINOR OUTLYING ISLANDS</option>
 <option data-country_iso_code="UY" data-name='UY' value='UY'>URUGUAY</option>
@@ -851,7 +860,7 @@ to contact our 24/5 professional multilingual Customer Service</p>
 </div>
 <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
 <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset ' id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
-</div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-64f41a61248af5bacc1bd201-="">CALL ME</button>
+</div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-043ac85ce02ef20987f94e50-="">CALL ME</button>
 </form>
 <div class="px-1 font-10" style="padding:0px;">
 <div class="form-check form-check-inline">
@@ -875,9 +884,9 @@ you agree to accept the <a href="terms-conditions.html" target="_blank" class="t
 <a class="footer_logo" href="index.html" target="_parent">
 <img alt="logo" data-entity-type="" data-entity-uuid="" src="public_files/images/common/logo_black_360.png" width="200" />
 </a>
-<a href="https://my.multibankfx.com/en/traders/login" target="_blank">MyMultibank</a>
+ <a href="https://my.multibankfx.com/en/traders/login" target="_blank">MyMultibank</a>
 <a href="contact.html" target="_parent">Contact Us</a>
-<a href="risk-warning.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-64f41a61248af5bacc1bd201-="">Support</a>
+<a href="privacy-policy.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-043ac85ce02ef20987f94e50-="">Support</a>
 <a href="article/hiring-now-cyprus.html" target="_parent">Career</a>
 <a href="investor-relations.html" target="_parent">Investor&nbsp;Relations</a>
 </div>
@@ -926,7 +935,7 @@ you agree to accept the <a href="terms-conditions.html" target="_blank" class="t
 <a href="platforms/maximus.html" target="_parent">Maximus</a>
 <a href="platforms/mt5-platform.html" target="_parent">MT5 Platform </a>
 <a href="social-trading.html" target="_parent">Social Trading</a>
- <a href="platforms/download-center.html" target="_parent">Download Center </a></li>
+<a href="platforms/download-center.html" target="_parent">Download Center </a></li>
 </ul>
 </div>
 <div class="col-md-2">
@@ -959,7 +968,7 @@ Notice </a> <a href="cfd-expiration-dates.html" target="_parent">CFD Expiration 
 <img class="footer-icon" alt="neteller" src="public_files/images/common/icons/logo_footer_neteller.png" style="width: auto; height: 20px;">
 <img class="footer-icon" alt="skrill" src="public_files/images/common/icons/logo_footer_skrill.png" style="width: auto; height: 25px;">
 <img class="footer-icon" alt="swift" src="public_files/images/common/icons/logo_footer_swift.png" style="width: auto; height: 25px;">
- <img class="footer-icon" alt="visa" src="public_files/images/common/icons/logo_footer_visa.png" style="width: auto; height: 25px;">
+<img class="footer-icon" alt="visa" src="public_files/images/common/icons/logo_footer_visa.png" style="width: auto; height: 25px;">
 <img class="footer-icon" alt="mastercard" src="public_files/images/common/icons/logo_footer_mastercard.png" style="width: auto; height: 25px;">
 </div>
 </div>
@@ -985,10 +994,10 @@ risk warning for each regulated entity during the account opening process.</p>
 <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
 <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
 </a>
-<a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#096a7a49647c657d606b6867626f71276a6664">
+<a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#b4d7c7f4d9c1d8c0ddd6d5dadfd2cc9ad7dbd9">
 <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
 </a>
-<a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-64f41a61248af5bacc1bd201-="">
+<a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-043ac85ce02ef20987f94e50-="">
 <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
 </a>
 </div>
@@ -1085,9 +1094,9 @@ risk warning for each regulated entity during the account opening process.</p>
 <div class="col-12 col-md-7 mx-auto bg-white p-4">
 <span class="btn-modal-close fa fa-times"></span>
 <form action="https://www.multibankfx.com/form/contactus?" name='email_us_form' class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='email_us_form' target='' autocomplete='on'>
-<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo1MDo1Mw==' />
-<input type='hidden' name='token' value='$2y$10$wGmV.S9pwRgKqGR0CHKLf.z0nI/vCRwEvSV9xWl2L5Rw0VgOqcGUO' />
-<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:42] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:49] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:52] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:50:53] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/risk-warning?web=true' />
+<input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OTo1Mw==' />
+<input type='hidden' name='token' value='$2y$10$E47Z1awjpTJeiUMzoPqTruDDW/v6osJ517Xe27pxUfpA4iDHLkbjO' />
+<input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:47] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:48] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:52] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:53] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/privacy-policy?web=true' />
 <div class='col-12 p-0'>
 <label for='' class='mex-h3'>
 EMAIL US</label>
@@ -1368,7 +1377,7 @@ Phone</label>
 <label for='order_message' class='d-block'>
 </label>
 <textarea data-message='Message is Required.' data-extra-message="Message is Invalid." data-regex='' class=' form-control w-100 ta-message' name='message' id='order_message' placeholder=''>Hello, I am interested in learning more about MultiBank products and services. Could you please contact me</textarea>
-</div><button type='submit' class='btn btn-mex ml-auto btn-submit' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-64f41a61248af5bacc1bd201-="">SEND</button>
+</div><button type='submit' class='btn btn-mex ml-auto btn-submit' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-043ac85ce02ef20987f94e50-="">SEND</button>
 </form>
 </div>
 </div>
@@ -1421,7 +1430,7 @@ Phone</label>
         border-radius: 0;
     }
 </style>
-<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="64f41a61248af5bacc1bd201-text/javascript">
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="043ac85ce02ef20987f94e50-text/javascript">
     $(function(){
         $('.email-us-tg').click(function(e){
             e.preventDefault();
@@ -1433,12 +1442,12 @@ Phone</label>
         });
     })
 </script>
-<script src="public_files/static_js/lang_data/en.js" type="64f41a61248af5bacc1bd201-text/javascript"></script><script src="public_files/static_js/jquery.dataTables.min.js" type="64f41a61248af5bacc1bd201-text/javascript"></script>
-<script src="public_files/static_js/lazysizes.min.js" type="64f41a61248af5bacc1bd201-text/javascript"></script>
-<script src="public_files/static_js/jquery.validate.min.js" type="64f41a61248af5bacc1bd201-text/javascript"></script>
-<script src="public_files/static_js/intlTelInput.min.js%3Fversion=20191128" type="64f41a61248af5bacc1bd201-text/javascript"></script>
-<script src="public_files/static_js/app.js%3Fversion=20200612" type="64f41a61248af5bacc1bd201-text/javascript"></script>
-<script type="64f41a61248af5bacc1bd201-text/javascript" async>
+<script src="public_files/static_js/lang_data/en.js" type="043ac85ce02ef20987f94e50-text/javascript"></script><script src="public_files/static_js/jquery.dataTables.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+<script src="public_files/static_js/lazysizes.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+<script src="public_files/static_js/jquery.validate.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+<script src="public_files/static_js/intlTelInput.min.js%3Fversion=20191128" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+<script src="public_files/static_js/app.js%3Fversion=20200612" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+<script type="043ac85ce02ef20987f94e50-text/javascript" async>
     url = new URL(window.location.href);
     if (!url.searchParams.get('is_iframe')) {
         window.__lc = window.__lc || {};
@@ -1468,7 +1477,7 @@ Phone</label>
     })();
   }
 </script>
-<script type="64f41a61248af5bacc1bd201-text/javascript">
+<script type="043ac85ce02ef20987f94e50-text/javascript">
 $(function() {
     $('.mex-translatable').each(function() {
         var url_parts = location.hostname.split('.');
@@ -1502,12 +1511,12 @@ $(function() {
 });
 
 </script>
-<script type="64f41a61248af5bacc1bd201-text/javascript">
+<script type="043ac85ce02ef20987f94e50-text/javascript">
 $(function() {
         $('form:not("#demo_competition_form_2019_08_13") .sms_verif_code').val('215121');
 });
 </script>
-<script type="64f41a61248af5bacc1bd201-text/javascript">
+<script type="043ac85ce02ef20987f94e50-text/javascript">
 $(function(){
 var iframe_ibnum =getUrlVars()['ibNum'];
 var is_iframe = getUrlVars()['is_iframe'];
@@ -1525,4 +1534,4 @@ if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
 }
 });
 </script>
-<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="64f41a61248af5bacc1bd201-|49" defer=""></script></body></html>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="043ac85ce02ef20987f94e50-|49" defer=""></script></body></html>
