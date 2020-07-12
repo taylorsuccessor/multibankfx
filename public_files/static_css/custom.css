@@ -130,7 +130,7 @@
 }
 
 .mex-list-conditions li{
-    /* display: flex !important; */
+    display: flex !important;
     list-style: disc !important;
 }
 

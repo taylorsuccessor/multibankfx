@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html lang='en'>
-    <?php include_from_root('website_template/head.php');?>
+
+<?php include_from_root('website_template/head.php');?>
 <body>
-
-
-<?php include_from_root('website_template/header_and_menu.php');?>
-
-
+    <?php include_from_root('website_template/header_and_menu.php');?>
 <style>
     .nav-menu-hamburger, .nav-menu-mymex {
         width: 35px;
@@ -1546,7 +1543,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_platform_2014.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_platform_2014.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Institutional FX Platform 2014'); ?></span>
                                 <span class="mex-content "><?php translate('7th Saudi Money Expo'); ?></span>
                             </a>
@@ -1554,7 +1551,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/top_provider_2014.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/top_provider_2014.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Top FX Liquidity Provider 2014'); ?></span>
                                 <span class="mex-content "><?php translate('6th Saudi Money Expo'); ?></span>
                             </a>
@@ -1562,7 +1559,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/most_secure_broker_2014.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/most_secure_broker_2014.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Most Secure Broker 2014'); ?></span>
                                 <span class="mex-content "><?php translate('KG Forex World Conference'); ?></span>
                             </a>
@@ -1570,7 +1567,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_ecn_broker_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best ECN Forex Broker Asia 2013'); ?> <br> <?php translate('Best ECN Forex Broker Europe 2013'); ?></span>
                                 <span class="mex-content "><?php translate('Global Banking & FinanceReview'); ?></span>
                             </a>
@@ -1578,7 +1575,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_company_leadership_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_company_leadership_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Company for Leadership 2013'); ?></span>
                                 <span class="mex-content "><?php translate('International Alternative Investment Review'); ?></span>
                             </a>
@@ -1586,7 +1583,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/most_secure_broker_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/most_secure_broker_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Most Secure Forex Broker 2013'); ?></span>
                                 <span class="mex-content "><?php translate('Shanghai Financial Investment Management Association'); ?></span>
                             </a>
@@ -1594,7 +1591,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_broker_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_broker_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Broker 2013'); ?></span>
                                 <span class="mex-content "><?php translate('Shanghai Financial Investment Management Association'); ?></span>
                             </a>
@@ -1602,7 +1599,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/broker_of_the_year_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/broker_of_the_year_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Broker of the Year 2013'); ?></span>
                                 <span class="mex-content "><?php translate('China International Online Trading Expo'); ?></span>
                             </a>
@@ -1610,7 +1607,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_trading_platform_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_trading_platform_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Trading Platform 2013'); ?></span>
                                 <span class="mex-content "><?php translate('CNFOL'); ?></span>
                             </a>
@@ -1618,21 +1615,21 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/most_powerful_team_2013.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/most_powerful_team_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Most Powerful Forex Technical Research & Development Team 2013'); ?></span>
                                 <span class="mex-content "><?php translate('CNFOL'); ?></span>
                             </a>
                         </div>
                         <div class="swiper-slide">
                             <a href="about/awards.html">
-                                <img class="lazyload" data-src="/public_files/images/about_us/awards/2013Asia.png"/>
+                                <img class="lazyload" data-src="/multibankfx/public_files/images/about_us/awards/2013Asia.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Most Secure Forex Broker 2013'); ?></span>
                                 <span class="mex-content "><?php translate('Asia Franchise Industry Association'); ?></span>
                             </a>
                         </div>
                         <div class="swiper-slide">
                             <a href="about/awards.html">
-                                <img class="lazyload" data-src="/public_files/images/about_us/awards/2013Asia.png"/>
+                                <img class="lazyload" data-src="/multibankfx/public_files/images/about_us/awards/2013Asia.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Broker 2013'); ?></span>
                                 <span class="mex-content "><?php translate('Asia Franchise Industry Association'); ?></span>
                             </a>
@@ -1640,7 +1637,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_trading_platform_2012.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_trading_platform_2012.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Trading Platform 2012'); ?></span>
                                 <span class="mex-content "><?php translate('Jinrongjie'); ?></span>
                             </a>
@@ -1648,7 +1645,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/rtb_china_awards_2012.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/rtb_china_awards_2012.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('RTB China Awards 2012'); ?></span>
                                 <span class="mex-content "><?php translate('Global RTB Summit'); ?></span>
                             </a>
@@ -1656,7 +1653,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_2012_11china.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_2012_11china.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Trading Platform 2012'); ?></span>
                                 <span class="mex-content "><?php translate('11th China International Investment & Finance Expo'); ?></span>
                             </a>
@@ -1664,7 +1661,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_ecn_broker_2012.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2012.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best ECN Broker (Asia) 2012'); ?></span>
                                 <span class="mex-content "><?php translate('Global Banking & Finance Review'); ?></span>
                             </a>
@@ -1672,7 +1669,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_provider_2011.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Service Provider 2011'); ?></span>
                                 <span class="mex-content "><?php translate('Hexun'); ?></span>
                             </a>
@@ -1680,7 +1677,7 @@
                         <div class="swiper-slide">
                             <a href="about/awards.html">
                                 <img class="lazyload"
-                                     data-src="/public_files/images/about_us/awards/best_forex_provider_2011.png"/>
+                                     data-src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Trading Platform 2011'); ?></span>
                                 <span class="mex-content "><?php translate('Hexun'); ?></span>
                             </a>
