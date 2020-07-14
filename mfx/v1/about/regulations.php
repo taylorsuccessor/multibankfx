@@ -73,34 +73,34 @@
                     <div class="col-xs-10 col-sm-9 clear-float">
 
                         <div class="swiper-pagination swiper-pagination-white swiper-pagination-clickable swiper-pagination-bullets">
-                            <span class="swiper-pagination-bullet" data-img="../../../public_files/images/common/country/australia.png" tabindex="0" role="button" aria-label="Go to slide 1">
+                            <span class="swiper-pagination-bullet" data-img="/multibankfx/../../public_files/images/common/country/australia.png" tabindex="0" role="button" aria-label="Go to slide 1">
                                 <span>ASIC</span>
                                 <img src="/multibankfx/public_files/images/common/country/australia.png">
                             </span>
 
-                            <span class="swiper-pagination-bullet" data-img="../../../public_files/images/common/country/germany.png" tabindex="0" role="button" aria-label="Go to slide 3">
+                            <span class="swiper-pagination-bullet" data-img="/multibankfx/../../public_files/images/common/country/germany.png" tabindex="0" role="button" aria-label="Go to slide 3">
                                 <span>BaFin</span>
-                                <img src="../../../public_files/images/common/country/germany.png">
+                                <img src="/multibankfx/../../public_files/images/common/country/germany.png">
                             </span>
-                            <span class="swiper-pagination-bullet swiper-pagination-bullet-active" data-img="../../../public_files/images/common/country/austria.png" tabindex="0" role="button" aria-label="Go to slide 4">
+                            <span class="swiper-pagination-bullet swiper-pagination-bullet-active" data-img="/multibankfx/../../public_files/images/common/country/austria.png" tabindex="0" role="button" aria-label="Go to slide 4">
                                 <span>FMA</span>
-                                <img src="../../../public_files/images/common/country/austria.png">
+                                <img src="/multibankfx/../../public_files/images/common/country/austria.png">
                             </span>
-                            <span class="swiper-pagination-bullet" data-img="../../../public_files/images/common/country/spain.png" tabindex="0" role="button" aria-label="Go to slide 5">
+                            <span class="swiper-pagination-bullet" data-img="/multibankfx/../../public_files/images/common/country/spain.png" tabindex="0" role="button" aria-label="Go to slide 5">
                                 <span>CNMV</span>
-                                <img src="../../../public_files/images/common/country/spain.png">
+                                <img src="/multibankfx/../../public_files/images/common/country/spain.png">
                             </span>
-                            <span class="swiper-pagination-bullet" data-img="../../../multibankfx/public_files/images/common/country/british_virgin_islands.png" tabindex="0" role="button" aria-label="Go to slide 6">
+                            <span class="swiper-pagination-bullet" data-img="/multibankfx/../../multibankfx/public_files/images/common/country/british_virgin_islands.png" tabindex="0" role="button" aria-label="Go to slide 6">
                                 <span>FSC</span>
-                                <img src="../../../public_files/images/common/country/british_virgin_islands.png">
+                                <img src="/multibankfx/../../public_files/images/common/country/british_virgin_islands.png">
                             </span>
-                            <span class="swiper-pagination-bullet" data-img="../../../public_files/images/common/country/cayman_islands.png" tabindex="0" role="button" aria-label="Go to slide 7">
+                            <span class="swiper-pagination-bullet" data-img="/multibankfx/../../public_files/images/common/country/cayman_islands.png" tabindex="0" role="button" aria-label="Go to slide 7">
                                 <span>CIMA</span>
-                                <img src="../../../public_files/images/common/country/cayman_islands.png">
+                                <img src="/multibankfx/../../public_files/images/common/country/cayman_islands.png">
                             </span>
-                            <span class="swiper-pagination-bullet" data-img="../../../public_files/images/common/country/uae.png" tabindex="0" role="button" aria-label="Go to slide 8">
+                            <span class="swiper-pagination-bullet" data-img="/multibankfx/../../public_files/images/common/country/uae.png" tabindex="0" role="button" aria-label="Go to slide 8">
                                 <span>RAK</span>
-                                <img src="../../../public_files/images/common/country/uae.png">
+                                <img src="/multibankfx/../../public_files/images/common/country/uae.png">
                             </span>
                         </div>
                         <div class="swiper-container swiper-container-horizontal" id="regulations-global-presence">
@@ -120,7 +120,7 @@
                                         </div>
                                     </section>
                                 </div>
-                                <div class="swiper-slide" data-img="../../../public_files/images/about_us/regulations/regulations_asic.jpg" data-swiper-slide-index="1" style="width: 975px;">
+                                <div class="swiper-slide" data-img="/multibankfx/../../public_files/images/about_us/regulations/regulations_asic.jpg" data-swiper-slide-index="1" style="width: 975px;">
                                     <section class="mex-block-card-not-img">
                                         <div class="card-content bg-white">
                                             <div class="mex-h3-s mex-m-b-15">
@@ -137,7 +137,7 @@
                                     </section>
                                 </div>
 
-                                <div class="swiper-slide swiper-slide-prev" data-img="../../../public_files/images/about_us/regulations/regulations_bafin.jpg" data-swiper-slide-index="3" style="width: 975px;">
+                                <div class="swiper-slide swiper-slide-prev" data-img="/multibankfx/../../public_files/images/about_us/regulations/regulations_bafin.jpg" data-swiper-slide-index="3" style="width: 975px;">
                                     <section class="mex-block-card-not-img">
                                         <div class="card-content bg-white">
                                             <div class="mex-h3-s mex-m-b-15">
@@ -151,7 +151,7 @@
                                         </div>
                                     </section>
                                 </div>
-                                <div class="swiper-slide swiper-slide-active" data-img="../../../public_files/images/about_us/regulations/regulations_fma.jpg" data-swiper-slide-index="4" style="width: 975px;">
+                                <div class="swiper-slide swiper-slide-active" data-img="/multibankfx/../../public_files/images/about_us/regulations/regulations_fma.jpg" data-swiper-slide-index="4" style="width: 975px;">
                                     <section class="mex-block-card-not-img">
                                         <div class="card-content bg-white">
                                             <div class="mex-h3-s mex-m-b-15">
@@ -164,7 +164,7 @@
                                         </div>
                                     </section>
                                 </div>
-                                <div class="swiper-slide swiper-slide-next" data-img="../../../public_files/images/about_us/regulations/regulations_cnmv.jpg" data-swiper-slide-index="5" style="width: 975px;">
+                                <div class="swiper-slide swiper-slide-next" data-img="/multibankfx/../../public_files/images/about_us/regulations/regulations_cnmv.jpg" data-swiper-slide-index="5" style="width: 975px;">
                                     <section class="mex-block-card-not-img">
                                         <div class="card-content bg-white">
                                             <div class="mex-h3-s mex-m-b-15">
@@ -174,11 +174,11 @@
                                                 and is regulated by the National Securities Market Commission (“CNMV”).'); ?>
                                             </div>
                                             <a href="https://www.cnmv.es/Portal/Consultas/ESI/ESISExtranjerasSuc.aspx?tipo=CSU&numero=120&vista=0&fs=08/04/2019" class="btn btn-mex mex-m-r-15"><?php translate('License link'); ?></a>
-                                            <a href="../../../multibankfx/public_files/images/documents/pdf/CNMV-license.pdf" class="btn btn-mex-black mex-m-r-15"><?php translate('License PDF'); ?></a>
+                                            <a href="/multibankfx/../../multibankfx/public_files/images/documents/pdf/CNMV-license.pdf" class="btn btn-mex-black mex-m-r-15"><?php translate('License PDF'); ?></a>
                                         </div>
                                     </section>
                                 </div>
-                                <div class="swiper-slide" data-img="../../../public_files/images/about_us/regulations/regulations_fsc.jpg" data-swiper-slide-index="6" style="width: 975px;">
+                                <div class="swiper-slide" data-img="/multibankfx/../../public_files/images/about_us/regulations/regulations_fsc.jpg" data-swiper-slide-index="6" style="width: 975px;">
                                     <section class="mex-block-card-not-img">
                                         <div class="card-content bg-white">
                                             <div class="mex-h3-s mex-m-b-15">
@@ -192,7 +192,7 @@
                                         </div>
                                     </section>
                                 </div>
-                                <div class="swiper-slide" data-img="../../../public_files/images/about_us/regulations/regulations_cima.jpg" data-swiper-slide-index="7" style="width: 975px;">
+                                <div class="swiper-slide" data-img="/multibankfx/../../public_files/images/about_us/regulations/regulations_cima.jpg" data-swiper-slide-index="7" style="width: 975px;">
                                     <section class="mex-block-card-not-img">
                                         <div class="card-content bg-white">
                                             <div class="mex-h3-s mex-m-b-15">
@@ -206,7 +206,7 @@
                                     </section>
                                 </div>
 
-                                <div class="swiper-slide swiper-slide-duplicate" data-img="../../../public_files/images/about_us/regulations/regulations_asic.jpg" data-swiper-slide-index="1" style="width: 975px;">
+                                <div class="swiper-slide swiper-slide-duplicate" data-img="/multibankfx/../../public_files/images/about_us/regulations/regulations_asic.jpg" data-swiper-slide-index="1" style="width: 975px;">
                                     <section class="mex-block-card-not-img">
                                         <div class="card-content bg-white">
                                             <div class="mex-h3-s mex-m-b-15">
@@ -233,15 +233,15 @@
             <div class="swiper-button-prev swiper-button-white" tabindex="0" role="button" aria-label="Previous slide" style="left: 370.5px;"></div>
 
 
-            <img class="regulations-hidden-image" src="../../../public_files/images/about_us/regulations/regulations_asic.jpg" />
-            <img class="regulations-hidden-image" src="../../../public_files/images/about_us/regulations/regulations_rak.jpg" />
-            <img class="regulations-hidden-image" src="../../../public_files/images/about_us/regulations/regulations_bafin.jpg" />
-            <img class="regulations-hidden-image" src="../../../public_files/images/about_us/regulations/regulations_cnmv.jpg" />
-            <img class="regulations-hidden-image" src="../../../public_files/images/about_us/regulations/regulations_cima.jpg" />
-            <img class="regulations-hidden-image" src="../../../public_files/images/about_us/regulations/regulations_fsc.jpg" />
-            <img class="regulations-hidden-image" src="../../../public_files/images/about_us/regulations/regulations_fma.jpg" />
+            <img class="regulations-hidden-image" src="/multibankfx/../../public_files/images/about_us/regulations/regulations_asic.jpg" />
+            <img class="regulations-hidden-image" src="/multibankfx/../../public_files/images/about_us/regulations/regulations_rak.jpg" />
+            <img class="regulations-hidden-image" src="/multibankfx/../../public_files/images/about_us/regulations/regulations_bafin.jpg" />
+            <img class="regulations-hidden-image" src="/multibankfx/../../public_files/images/about_us/regulations/regulations_cnmv.jpg" />
+            <img class="regulations-hidden-image" src="/multibankfx/../../public_files/images/about_us/regulations/regulations_cima.jpg" />
+            <img class="regulations-hidden-image" src="/multibankfx/../../public_files/images/about_us/regulations/regulations_fsc.jpg" />
+            <img class="regulations-hidden-image" src="/multibankfx/../../public_files/images/about_us/regulations/regulations_fma.jpg" />
         </section>
-        <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script data-cfasync="false" src="/multibankfx/../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script type="a6230ba13658041f0e1db4b9-text/javascript">
             $(function() {
                 var icons = [
@@ -268,59 +268,59 @@
                     <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
-                            <li><a href="regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span></a>
+                            <li><a href="regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span></a>
                                 <div class="mex-content mex-clamp-3"><?php translate('Our Regulations'); ?></div>
                             </li>
-                            <li><a href="../../../products.html"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../products.html"><?php translate('Our Products'); ?></a>
+                            <li><a href="/multibankfx/../../products.php"><span class="ico-ic_our_products"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/../../products.php"><?php translate('Our Products'); ?></a>
                                 </div>
-                                <a href="../../../products.html"> </a>
+                                <a href="/multibankfx/../../products.php"> </a>
                             </li>
-                            <li><a href="../../../tools.html"><span class="ico-ic_trading_tools"></span> </a>
+                            <li><a href="/multibankfx/../../tools.php"><span class="ico-ic_trading_tools"></span> </a>
                                 <div class="mex-content mex-clamp-3"><?php translate('Trading Tools'); ?></div>
-                                <a href="../../../tools.html"> </a>
+                                <a href="/multibankfx/../../tools.php"> </a>
                             </li>
-                            <li><a href="../../../about/why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../about/why-multibank-group.html"><?php translate('Why Multibank'); ?></a></div>
-                                <a href="../../../about/why-multibank-group.html"> </a>
+                            <li><a href="/multibankfx/../../about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/../../about/why-multibank-group.php"><?php translate('Why Multibank'); ?></a></div>
+                                <a href="/multibankfx/../../about/why-multibank-group.php"> </a>
                             </li>
-                            <li><a href="regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="regulations.html"><?php translate('Our Regulations'); ?></a>
+                            <li><a href="regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="regulations.php"><?php translate('Our Regulations'); ?></a>
                                 </div>
-                                <a href="regulations.html"> </a>
+                                <a href="regulations.php"> </a>
                             </li>
-                            <li><a href="../../../about/security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../about/security-of-funds.html"><?php translate('Security of Funds'); ?></a></div>
-                                <a href="../../../about/security-of-funds.html"> </a>
+                            <li><a href="/multibankfx/../../about/security-of-funds.php"><span class="ico-ic_security_of_funds"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/../../about/security-of-funds.php"><?php translate('Security of Funds'); ?></a></div>
+                                <a href="/multibankfx/../../about/security-of-funds.php"> </a>
                             </li>
-                            <li><a href="../../../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../account.html"><?php translate('Accounts and
+                            <li><a href="/multibankfx/../../account.php"><span class="ico-ic_accounts_funding"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/../../account.php"><?php translate('Accounts and
                                         Funding'); ?></a></div>
-                                <a href="../../../account.html"> </a>
+                                <a href="/multibankfx/../../account.php"> </a>
                             </li>
-                            <li><a href="../../../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../account/bonus.html"><?php translate('Bonus
+                            <li><a href="/multibankfx/../../account/bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/../../account/bonus.php"><?php translate('Bonus
                                         Programs'); ?></a></div>
-                                <a href="../../../account/bonus.html"> </a>
+                                <a href="/multibankfx/../../account/bonus.php"> </a>
                             </li>
-                            <li><a href="../../../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../investor-relations.html"><?php translate('Partnership Programs'); ?></a></div>
-                                <a href="../../../investor-relations.html"> </a>
+                            <li><a href="/multibankfx/../../investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/../../investor-relations.php"><?php translate('Partnership Programs'); ?></a></div>
+                                <a href="/multibankfx/../../investor-relations.php"> </a>
                             </li>
-                            <li><a href="../../../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become
+                            <li><a href="/multibankfx/../../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/../../partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become
                                         an IB'); ?></a></div>
-                                <a href="../../../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
+                                <a href="/multibankfx/../../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                             </li>
-                            <li><a href="../../../about/milestones.html"><span class="ico-ic_our_milestones"></span>
+                            <li><a href="/multibankfx/../../about/milestones.php"><span class="ico-ic_our_milestones"></span>
                                 </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../about/milestones.html"><?php translate('Our
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/../../about/milestones.php"><?php translate('Our
                                         Milestones'); ?></a></div>
-                                <a href="../../../about/milestones.html"> </a>
+                                <a href="/multibankfx/../../about/milestones.php"> </a>
                             </li>
-                            <li><a href="../../../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-a6230ba13658041f0e1db4b9-=""><span class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../../../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-a6230ba13658041f0e1db4b9-=""><?php translate('Live Chat Support'); ?></a></div>
-                                <a href="../../../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-a6230ba13658041f0e1db4b9-=""> </a>
+                            <li><a href="/multibankfx/../../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-a6230ba13658041f0e1db4b9-=""><span class="ico-ic_live_chat_support"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/../../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-a6230ba13658041f0e1db4b9-=""><?php translate('Live Chat Support'); ?></a></div>
+                                <a href="/multibankfx/../../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-a6230ba13658041f0e1db4b9-=""> </a>
                             </li>
                         </ul>
                     </div>
@@ -332,16 +332,16 @@
 
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="../../../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/../../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="../../../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/../../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="../../../cdn-cgi/l/email-protection.html#b9dacaf9d4ccd5cdd0dbd8d7d2dfc197dad6d4">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="../../../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/../../cdn-cgi/l/email-protection.html#b9dacaf9d4ccd5cdd0dbd8d7d2dfc197dad6d4">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/../../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-a6230ba13658041f0e1db4b9-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="../../../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/../../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -808,7 +808,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="/multibankfx/../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="a6230ba13658041f0e1db4b9-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -821,12 +821,12 @@
             });
         })
     </script>
-    <script src="../../../public_files/static_js/lang_data/en.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/jquery.dataTables.min.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/lazysizes.min.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/jquery.validate.min.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/intlTelInput.min.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/app.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
+    <script src="/multibankfx/../../public_files/static_js/lang_data/en.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
+    <script src="/multibankfx/../../public_files/static_js/jquery.dataTables.min.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
+    <script src="/multibankfx/../../public_files/static_js/lazysizes.min.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
+    <script src="/multibankfx/../../public_files/static_js/jquery.validate.min.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
+    <script src="/multibankfx/../../public_files/static_js/intlTelInput.min.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
+    <script src="/multibankfx/../../public_files/static_js/app.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
     <script type="a6230ba13658041f0e1db4b9-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
@@ -913,8 +913,8 @@
             }
         });
     </script>
-    <script src="../../../public_files/static_js/swiper-4.3.5.min.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
-    <script src="../../../public_files/static_js/app_home.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
+    <script src="/multibankfx/../../public_files/static_js/swiper-4.3.5.min.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
+    <script src="/multibankfx/../../public_files/static_js/app_home.js" type="a6230ba13658041f0e1db4b9-text/javascript"></script>
     <script type="a6230ba13658041f0e1db4b9-text/javascript">
         $(function() {
             //icons we need

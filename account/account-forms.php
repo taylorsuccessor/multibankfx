@@ -60,7 +60,7 @@
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img src="../public_files/images/accounts_funding/img_tp_account_account_forms.jpg" alt="Fund Your Account
+        <section class="flex-center page-top-banner"><img src="/multibankfx/public_files/images/accounts_funding/img_tp_account_account_forms.jpg" alt="Fund Your Account
         banner" class="mex-img-cover" />
             <div class="container">
                 <div class="row">
@@ -72,9 +72,9 @@
                                 your account forms will be processed.</p>
                         </div>
                         <div class="mex-content mex-m-b-30">
-                            <a href="live-account.html" class="btn btn-mex-red mex-m-r-15 mex-m-b-15 col-xs-12 col-sm-6">Open
+                            <a href="live-account.php" class="btn btn-mex-red mex-m-r-15 mex-m-b-15 col-xs-12 col-sm-6">Open
                                 Live Account</a>
-                            <a href="../demo_competition.html" class="btn btn-mex-blue mex-m-r-15 mex-m-b-15 col-xs-12 col-sm-6">Open Demo Account</a>
+                            <a href="/multibankfx/demo_competition.php" class="btn btn-mex-blue mex-m-r-15 mex-m-b-15 col-xs-12 col-sm-6">Open Demo Account</a>
                         </div>
                     </div>
                 </div>
@@ -97,67 +97,67 @@
                                         <tr>
                                             <td>Risk Disclosure Statement, Electronic Trading Terms &amp; Client Agreement</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Client_Agreement.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Client_Agreement.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Financial Services Guide</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Exchange_Financial_Services_Guide.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Exchange_Financial_Services_Guide.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Product Disclosure Statement</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Exchange_Produc_Disclosure_Statement.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Exchange_Produc_Disclosure_Statement.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Individual Account Application</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Exchange_Individual_Account_Application.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Exchange_Individual_Account_Application.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Corporate Account Application</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Exchange_Corporate_Account_Application.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Exchange_Corporate_Account_Application.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Joint Account Application</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Exchange_Joint_Account_Application.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Exchange_Joint_Account_Application.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Broker-to-Broker (B2B) Transfer Authorization Form</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Exchange_Broker-to-Broker_Transfer_Authorisation.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Exchange_Broker-to-Broker_Transfer_Authorisation.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Transaction Fee Terms</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Australia_Transaction_Fee_Terms.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Australia_Transaction_Fee_Terms.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Change of Information Request</td>
                                             <td>
-                                                <a href="../public_files/pdf/MEX_Exchange_en/MEX_Exchange_Change_of_Information.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/pdf/MEX_Exchange_en/MEX_Exchange_Change_of_Information.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Additional Account Request</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Exchange_Additional_Account_Request.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Exchange_Additional_Account_Request.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>VPS Client Agreement</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Exchange_VPS_Client_Agreement.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Exchange_VPS_Client_Agreement.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Power of Attorney &amp; Discretionary Account Terms</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Exchange_Power_of_Attorney_and_Discretionary_Account_Terms.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Exchange_Power_of_Attorney_and_Discretionary_Account_Terms.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Fund Withdrawal Form</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MEX_Exchange_Fund_Withdrawal_Form.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Exchange_Fund_Withdrawal_Form.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -177,52 +177,52 @@
                                         <tr>
                                             <td>Client Agreement</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/MultiBank-FX-International-Client-Agreement.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MultiBank-FX-International-Client-Agreement.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Individual Account Application</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/Multibank_FX_Individual_Account_Application.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/Multibank_FX_Individual_Account_Application.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Corporate Account Application</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/Multibank_FX_Corporate_Account_Application.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/Multibank_FX_Corporate_Account_Application.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Broker-to-Broker (B2B) Transfer Authorization Form</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/Multibank_FX_Broker-to-Broker_Transfer_Authorisation.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/Multibank_FX_Broker-to-Broker_Transfer_Authorisation.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Change of Information Request</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/Multibank_FX_Change_of_Information.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/Multibank_FX_Change_of_Information.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Additional Account Request</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/Multibank_FX_Additional_Account_Request.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/Multibank_FX_Additional_Account_Request.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>VPS Client Agreement</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/Multibank_FX_VPS_Client_Agreement.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/Multibank_FX_VPS_Client_Agreement.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Power of Attorney &amp; Discretionary Account Terms</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/Multibank_FX_Power_of_Attorney_and_Discretionary_Account_Terms.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/Multibank_FX_Power_of_Attorney_and_Discretionary_Account_Terms.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Fund Withdrawal Form</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/Multibank_FX_Fund_Withdrawal_Request.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/Multibank_FX_Fund_Withdrawal_Request.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                         <tr>
                                             <td>Transfer of Funds Aut Form</td>
                                             <td>
-                                                <a href="../public_files/images/documents/pdf/account-forms/Transfer_of_Funds_Aut_Form.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
+                                                <a href="/multibankfx/public_files/images/documents/pdf/account-forms/Transfer_of_Funds_Aut_Form.pdf" target="_blank" class="btn btn-mex">DOWNLOAD</a></td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -245,63 +245,63 @@
                     </div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
-                            <li><a href="../platforms/download-center.html"><span class="ico-ic_download_mt4"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../platforms/download-center.html">Download
+                            <li><a href="/multibankfx/platforms/download-center.php"><span class="ico-ic_download_mt4"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/platforms/download-center.php">Download
                                         MT4</a></div>
-                                <a href="../platforms/download-center.html"> </a>
+                                <a href="/multibankfx/platforms/download-center.php"> </a>
                             </li>
-                            <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
-                                <a href="../products.html"> </a>
+                            <li><a href="/multibankfx/products.php"><span class="ico-ic_our_products"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php">Our Products</a></div>
+                                <a href="/multibankfx/products.php"> </a>
                             </li>
-                            <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../tools.html">Trading Tools</a></div>
-                                <a href="../tools.html"> </a>
+                            <li><a href="/multibankfx/tools.php"><span class="ico-ic_trading_tools"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/tools.php">Trading Tools</a></div>
+                                <a href="/multibankfx/tools.php"> </a>
                             </li>
-                            <li><a href="../about/why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/why-multibank-group.html">Why
+                            <li><a href="/multibankfx/about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/why-multibank-group.php">Why
                                         Multibank</a></div>
-                                <a href="../about/why-multibank-group.html"> </a>
+                                <a href="/multibankfx/about/why-multibank-group.php"> </a>
                             </li>
-                            <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
+                            <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/mfx/v1/about/regulations.php">Our
                                         Regulations</a></div>
-                                <a href="../mfx/v1/about/regulations.html"> </a>
+                                <a href="/multibankfx/mfx/v1/about/regulations.php"> </a>
                             </li>
-                            <li><a href="../about/security-of-funds.html"><span class="ico-ic_security_of_funds"></span>
+                            <li><a href="/multibankfx/about/security-of-funds.php"><span class="ico-ic_security_of_funds"></span>
                                 </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/security-of-funds.html">Security of
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/security-of-funds.php">Security of
                                         Funds</a></div>
-                                <a href="../about/security-of-funds.html"> </a>
+                                <a href="/multibankfx/about/security-of-funds.php"> </a>
                             </li>
-                            <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
+                            <li><a href="/multibankfx/account.php"><span class="ico-ic_accounts_funding"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php">Accounts and Funding</a>
                                 </div>
-                                <a href="../account.html"> </a>
+                                <a href="/multibankfx/account.php"> </a>
                             </li>
-                            <li><a href="bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="bonus.html">Bonus Programs</a></div>
-                                <a href="bonus.html"> </a>
+                            <li><a href="bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="bonus.php">Bonus Programs</a></div>
+                                <a href="bonus.php"> </a>
                             </li>
-                            <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
+                            <li><a href="/multibankfx/investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php">Partnership
                                         Programs</a></div>
-                                <a href="../investor-relations.html"> </a>
+                                <a href="/multibankfx/investor-relations.php"> </a>
                             </li>
-                            <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
+                            <li><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form">Become an
                                         IB</a></div>
-                                <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
+                                <a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                             </li>
-                            <li><a href="../about/milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/milestones.html">Our Milestones</a>
+                            <li><a href="/multibankfx/about/milestones.php"><span class="ico-ic_our_milestones"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/milestones.php">Our Milestones</a>
                                 </div>
-                                <a href="../about/milestones.html"> </a>
+                                <a href="/multibankfx/about/milestones.php"> </a>
                             </li>
-                            <li><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-692f5fcd51892006519a947c-=""><span class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-692f5fcd51892006519a947c-="">Live
+                            <li><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-692f5fcd51892006519a947c-=""><span class="ico-ic_live_chat_support"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-692f5fcd51892006519a947c-="">Live
                                         Chat Support</a></div>
-                                <a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-692f5fcd51892006519a947c-=""> </a>
+                                <a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-692f5fcd51892006519a947c-=""> </a>
                             </li>
                         </ul>
                     </div>
@@ -309,7 +309,7 @@
             </div>
         </section>
     </div>
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="692f5fcd51892006519a947c-text/javascript">
         $(function() {
             //icons we need
@@ -673,16 +673,16 @@
    <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="../cdn-cgi/l/email-protection.html#c7a4b487aab2abb3aea5a6a9aca1bfe9a4a8aa">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#c7a4b487aab2abb3aea5a6a9aca1bfe9a4a8aa">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-692f5fcd51892006519a947c-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1149,7 +1149,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="692f5fcd51892006519a947c-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -1162,12 +1162,12 @@
             });
         })
     </script>
-    <script src="../public_files/static_js/lang_data/en.js" type="692f5fcd51892006519a947c-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.dataTables.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
-    <script src="../public_files/static_js/lazysizes.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.validate.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
-    <script src="../public_files/static_js/intlTelInput.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
-    <script src="../public_files/static_js/app.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/app.js" type="692f5fcd51892006519a947c-text/javascript"></script>
     <script type="692f5fcd51892006519a947c-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

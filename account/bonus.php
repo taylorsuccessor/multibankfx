@@ -90,7 +90,7 @@
                 color: #000 !important;
             }
         </style>
-        <section class="flex-center page-top-banner"><img src="../public_files/images/accounts_funding/bonus_top_banner.jpg" alt="bonuses banner" class="mex-img-cover" />
+        <section class="flex-center page-top-banner"><img src="/multibankfx/public_files/images/accounts_funding/bonus_top_banner.jpg" alt="bonuses banner" class="mex-img-cover" />
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-sm-12">
@@ -100,8 +100,8 @@
                                 promotions and offers!<br />Choose from our latest bonuses, whether you’re an Introducing Broker
                                 or an individual client</p>
                         </div>
-                        <div class="mex-m-t-15"><a href="bonus.html" class="btn btn-mex mex-m-r-15 mex-m-b-10">Individual
-                                Clients</a> <a href="bonus-ib.html" class="btn btn-mex-gray mex-m-r-15 mex-m-b-10">Introducing
+                        <div class="mex-m-t-15"><a href="bonus.php" class="btn btn-mex mex-m-r-15 mex-m-b-10">Individual
+                                Clients</a> <a href="bonus-ib.php" class="btn btn-mex-gray mex-m-r-15 mex-m-b-10">Introducing
                                 Broker</a></div>
                     </div>
                 </div>
@@ -546,10 +546,10 @@
                                        class='form-check-input ' name='privacy' type='checkbox' id='terms_conditions'
                                        required value='1' checked/>
                                 <label class='form-check-label label-1 ' for='terms_conditions'>I accept the <a
-                                        href="../terms-conditions.html" target="_blank" class="text-22A0C4">Terms &
-                                    Conditions</a>, <a href="../privacy-policy.html" target="_blank"
+                                        href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4">Terms &
+                                    Conditions</a>, <a href="/multibankfx/privacy-policy.php" target="_blank"
                                                        class="text-22A0C4">Privacy Policy</a>, and <a
-                                        href="../cookie-policy.html" target="_blank" class="text-22A0C4">Cookie
+                                        href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4">Cookie
                                     Policy</a>.</label>
                             </div>
                         </div>
@@ -592,25 +592,25 @@
                             <ul class="mex-tabs new-tab-heigher bonus-page mb-0 px-0">
                                 <li class="tab-title bonus-page-tab active" data-tab="100_bonus">
                                     <a>
-                                        <span class="tab-img-cover d-none d-xl-block"><img src="../public_files/images/accounts_funding/tab_100_bonus.jpg"></span>
+                                        <span class="tab-img-cover d-none d-xl-block"><img src="/multibankfx/public_files/images/accounts_funding/tab_100_bonus.jpg"></span>
                                         100% BONUS
                                     </a>
                                 </li>
                                 <li class="tab-title bonus-page-tab" data-tab="20_bonus">
                                     <a>
-                                        <span class="tab-img-cover d-none d-xl-block"><img src="../public_files/images/accounts_funding/20bonus_box_652x600_new.jpg"></span>
+                                        <span class="tab-img-cover d-none d-xl-block"><img src="/multibankfx/public_files/images/accounts_funding/20bonus_box_652x600_new.jpg"></span>
                                         25% BONUS
                                     </a>
                                 </li>
                                 <li class="tab-title bonus-page-tab" data-tab="imperial_bonus">
                                     <a>
-                                        <span class="tab-img-cover d-none d-xl-block"><img src="../public_files/images/accounts_funding/tab_imperial_bonus.jpg"></span>
+                                        <span class="tab-img-cover d-none d-xl-block"><img src="/multibankfx/public_files/images/accounts_funding/tab_imperial_bonus.jpg"></span>
                                         IMPERIAL BONUS
                                     </a>
                                 </li>
                                 <li class="tab-title bonus-page-tab" data-tab="refer_bonus">
                                     <a>
-                                        <span class="tab-img-cover d-none d-xl-block"><img src="../public_files/images/accounts_funding/tab_refer_friend_bonus.jpg"></span>
+                                        <span class="tab-img-cover d-none d-xl-block"><img src="/multibankfx/public_files/images/accounts_funding/tab_refer_friend_bonus.jpg"></span>
                                         REFER A FRIEND BONUS
                                     </a>
                                 </li>
@@ -997,7 +997,7 @@
                 }
             }
         </style>
-        <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script type="ca783208542e411d19700e4f-text/javascript">
             function switchToIndividual() {
                 $form = $('#lp_campaign_07_16_v2');
@@ -1062,63 +1062,63 @@
                     </div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
-                            <li><a href="../platforms/download-center.html"><span class="ico-ic_download_mt4"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../platforms/download-center.html">Download
+                            <li><a href="/multibankfx/platforms/download-center.php"><span class="ico-ic_download_mt4"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/platforms/download-center.php">Download
                                         MT4</a></div>
-                                <a href="../platforms/download-center.html"> </a>
+                                <a href="/multibankfx/platforms/download-center.php"> </a>
                             </li>
-                            <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
-                                <a href="../products.html"> </a>
+                            <li><a href="/multibankfx/products.php"><span class="ico-ic_our_products"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php">Our Products</a></div>
+                                <a href="/multibankfx/products.php"> </a>
                             </li>
-                            <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../tools.html">Trading Tools</a></div>
-                                <a href="../tools.html"> </a>
+                            <li><a href="/multibankfx/tools.php"><span class="ico-ic_trading_tools"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/tools.php">Trading Tools</a></div>
+                                <a href="/multibankfx/tools.php"> </a>
                             </li>
-                            <li><a href="../about/why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/why-multibank-group.html">Why
+                            <li><a href="/multibankfx/about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/why-multibank-group.php">Why
                                         Multibank</a></div>
-                                <a href="../about/why-multibank-group.html"> </a>
+                                <a href="/multibankfx/about/why-multibank-group.php"> </a>
                             </li>
-                            <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
+                            <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/mfx/v1/about/regulations.php">Our
                                         Regulations</a></div>
-                                <a href="../mfx/v1/about/regulations.html"> </a>
+                                <a href="/multibankfx/mfx/v1/about/regulations.php"> </a>
                             </li>
-                            <li><a href="../about/security-of-funds.html"><span class="ico-ic_security_of_funds"></span>
+                            <li><a href="/multibankfx/about/security-of-funds.php"><span class="ico-ic_security_of_funds"></span>
                                 </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/security-of-funds.html">Security of
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/security-of-funds.php">Security of
                                         Funds</a></div>
-                                <a href="../about/security-of-funds.html"> </a>
+                                <a href="/multibankfx/about/security-of-funds.php"> </a>
                             </li>
-                            <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
+                            <li><a href="/multibankfx/account.php"><span class="ico-ic_accounts_funding"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php">Accounts and Funding</a>
                                 </div>
-                                <a href="../account.html"> </a>
+                                <a href="/multibankfx/account.php"> </a>
                             </li>
-                            <li><a href="bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="bonus.html">Bonus Programs</a></div>
-                                <a href="bonus.html"> </a>
+                            <li><a href="bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="bonus.php">Bonus Programs</a></div>
+                                <a href="bonus.php"> </a>
                             </li>
-                            <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
+                            <li><a href="/multibankfx/investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php">Partnership
                                         Programs</a></div>
-                                <a href="../investor-relations.html"> </a>
+                                <a href="/multibankfx/investor-relations.php"> </a>
                             </li>
-                            <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
+                            <li><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form">Become an
                                         IB</a></div>
-                                <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
+                                <a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                             </li>
-                            <li><a href="../about/milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/milestones.html">Our Milestones</a>
+                            <li><a href="/multibankfx/about/milestones.php"><span class="ico-ic_our_milestones"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/milestones.php">Our Milestones</a>
                                 </div>
-                                <a href="../about/milestones.html"> </a>
+                                <a href="/multibankfx/about/milestones.php"> </a>
                             </li>
-                            <li><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ca783208542e411d19700e4f-=""><span class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ca783208542e411d19700e4f-="">Live
+                            <li><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ca783208542e411d19700e4f-=""><span class="ico-ic_live_chat_support"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ca783208542e411d19700e4f-="">Live
                                         Chat Support</a></div>
-                                <a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ca783208542e411d19700e4f-=""> </a>
+                                <a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ca783208542e411d19700e4f-=""> </a>
                             </li>
                         </ul>
                     </div>
@@ -1489,16 +1489,16 @@
   <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="../cdn-cgi/l/email-protection.html#462535062b332a322f2427282d203e6825292b">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#462535062b332a322f2427282d203e6825292b">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ca783208542e411d19700e4f-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1965,7 +1965,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="ca783208542e411d19700e4f-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -1978,12 +1978,12 @@
             });
         })
     </script>
-    <script src="../public_files/static_js/lang_data/en.js" type="ca783208542e411d19700e4f-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.dataTables.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
-    <script src="../public_files/static_js/lazysizes.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.validate.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
-    <script src="../public_files/static_js/intlTelInput.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
-    <script src="../public_files/static_js/app.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/app.js" type="ca783208542e411d19700e4f-text/javascript"></script>
     <script type="ca783208542e411d19700e4f-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

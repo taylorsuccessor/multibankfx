@@ -60,7 +60,7 @@
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img src="../public_files/images/accounts_funding/account_funding_top_banner.jpg" alt="Fund Your Account banner" class="mex-img-cover" />
+        <section class="flex-center page-top-banner"><img src="/multibankfx/public_files/images/accounts_funding/account_funding_top_banner.jpg" alt="Fund Your Account banner" class="mex-img-cover" />
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6 col-12">
@@ -83,7 +83,7 @@
                                 <a href="account-funding.html#deposits" class="font-24" aria-controls="deposits" role="tab" data-toggle="tab"><?php translate('DEPOSIT OPTIONS'); ?></a>
                             </li>
                             <li class="tab-title font-type-cap" role="presentation">
-                                <a href="withdrawals.html" class="font-24"><?php translate('WITHDRAWAL OPTIONS'); ?></a>
+                                <a href="withdrawals.php" class="font-24"><?php translate('WITHDRAWAL OPTIONS'); ?></a>
                             </li>
                         </ul>
                         <div class="mex-h2 text-center text-1e32a3 mex-m-b-20" style="margin:20px 0 !important"><?php translate('CHOOSE YOUR REGULATOR'); ?>
@@ -105,15 +105,15 @@
                                                 </thead>
                                                 <tbody class="table-tbody">
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/payment_icons/bank_wire.jpg" alt="Bank Wire"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/bank_wire.jpg" alt="Bank Wire"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td>
-                                                            <a href="../open-forex-account/funds-deposit-mex-australia-ltd.html">DEPOSIT
+                                                            <a href="/multibankfx/open-forex-account/funds-deposit-mex-australia-ltd.php">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Visa"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Visa"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td>
@@ -121,19 +121,19 @@
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill Visa"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill Visa"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="https://payment.mexgroup.com/skrill/mexAustralia_en.html" target="_blank">DEPOSIT NOW</a></td>
+                                                        <td><a href="https://payment.mexgroup.com/skrill/mexAustralia_en.php" target="_blank">DEPOSIT NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Neteller"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Neteller"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="https://payment.mexgroup.com/neteller/mexAustralia_en.html" target="_blank">DEPOSIT NOW</a></td>
+                                                        <td><a href="https://payment.mexgroup.com/neteller/mexAustralia_en.php" target="_blank">DEPOSIT NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/payment_icons/paytrust.jpg" alt="PayTrust"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/paytrust.jpg" alt="PayTrust"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td class="m-b-8">
@@ -142,18 +142,18 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
                                                         <td>USD,EUR</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="account-funding/perfect-money.html" target="_blank">DEPOSIT
+                                                        <td><a href="account-funding/perfect-money.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
 
                                                     <tr>
-                                                        <td><img src="../public_files/images/payment_gateway/payment-asia-transparent.png" alt="Payment Asia"></td>
+                                                        <td><img src="/multibankfx/public_files/images/payment_gateway/payment-asia-transparent.png" alt="Payment Asia"></td>
                                                         <td>PHP</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="account-funding/paymentasia.html" target="_blank">DEPOSIT
+                                                        <td><a href="account-funding/paymentasia.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
 
@@ -178,28 +178,28 @@
                                                 </thead>
                                                 <tbody class="table-tbody">
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/payment_icons/bank_wire.jpg" data-toggle="modal" data-target="#modal_funds_deposit_multibank_fx_ltd" alt="Bank Transfer"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/bank_wire.jpg" data-toggle="modal" data-target="#modal_funds_deposit_multibank_fx_ltd" alt="Bank Transfer"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="../open-forex-account/funds-deposit-multibank-fx-ltd.html">DEPOSIT
+                                                        <td><a href="/multibankfx/open-forex-account/funds-deposit-multibank-fx-ltd.php">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill Visa"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill Visa"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="account-funding/skrill.html" target="_blank">DEPOSIT
+                                                        <td><a href="account-funding/skrill.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Neteller"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Neteller"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="account-funding/neteller-clr.html" target="_blank">DEPOSIT
+                                                        <td><a href="account-funding/neteller-clr.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/payment_icons/paytrust.jpg" alt="PayTrust"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/paytrust.jpg" alt="PayTrust"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td class="m-b-8">
@@ -208,7 +208,7 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Visa"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Visa"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td>
@@ -216,39 +216,39 @@
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
+                                                        <td><img src="/multibankfx/public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
                                                         <td>USD,EUR</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="account-funding/perfect-money.html" target="_blank">DEPOSIT
+                                                        <td><a href="account-funding/perfect-money.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
 
                                                     <tr>
-                                                        <td><img src="../public_files/images/payment_gateway/payment-asia-transparent.png" alt="Payment Asia"></td>
+                                                        <td><img src="/multibankfx/public_files/images/payment_gateway/payment-asia-transparent.png" alt="Payment Asia"></td>
                                                         <td>PHP</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="account-funding/paymentasia.html" target="_blank">DEPOSIT
+                                                        <td><a href="account-funding/paymentasia.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/payment_gateway/fxbit_logo.png" alt="FXBit"></td>
+                                                        <td><img src="/multibankfx/public_files/images/payment_gateway/fxbit_logo.png" alt="FXBit"></td>
                                                         <td>BTC, ETH, USDT</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="account-funding/fxbit.html" target="_blank">DEPOSIT NOW</a>
+                                                        <td><a href="account-funding/fxbit.php" target="_blank">DEPOSIT NOW</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/payment_gateway/globepay_logo.png" alt="Globepay"></td>
+                                                        <td><img src="/multibankfx/public_files/images/payment_gateway/globepay_logo.png" alt="Globepay"></td>
                                                         <td>INR</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="account-funding/globepay.html" target="_blank">DEPOSIT
+                                                        <td><a href="account-funding/globepay.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="../public_files/images/payment_gateway/thunderx_logo.png" alt="Thunder X Pay"></td>
+                                                        <td><img src="/multibankfx/public_files/images/payment_gateway/thunderx_logo.png" alt="Thunder X Pay"></td>
                                                         <td>KHR, LAK, MMK, THB</td>
                                                         <td>Processed within 24 hours</td>
-                                                        <td><a href="account-funding/thunderx.html" target="_blank">DEPOSIT
+                                                        <td><a href="account-funding/thunderx.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                 </tbody>
@@ -264,7 +264,7 @@
             </div>
         </section>
         <section class="flex-center page-top-banner">
-            <img class="mex-img-cover" src="../public_files/images/accounts_funding/deposit-conditions-bg.jpg" alt="Deposit Conditions">
+            <img class="mex-img-cover" src="/multibankfx/public_files/images/accounts_funding/deposit-conditions-bg.jpg" alt="Deposit Conditions">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-12">
@@ -285,22 +285,22 @@
                 <div class="text-center">
                     <h3>Please Choose Your Country</h3>
                 </div>
-                <div><span><img alt="Vietnam" src="../public_files/images/common/country/vietnam_xl.png">
+                <div><span><img alt="Vietnam" src="/multibankfx/public_files/images/common/country/vietnam_xl.png">
                         <p>Vietnam</p>
                         <a href="https://paytrust.mexgroup.com/v/" target="_blank">Deposit</a>
                     </span>
                     <span>
-                        <img alt="Malaysia" src="../public_files/images/common/country/malaysia_xl.png">
+                        <img alt="Malaysia" src="/multibankfx/public_files/images/common/country/malaysia_xl.png">
                         <p>Malaysia</p>
                         <a href="https://paytrust.mexgroup.com/m/" target="_blank">Deposit</a>
                     </span>
                     <span>
-                        <img alt="Indonesia" src="../public_files/images/common/country/indonesia_xl.png">
+                        <img alt="Indonesia" src="/multibankfx/public_files/images/common/country/indonesia_xl.png">
                         <p>Indonesia</p>
                         <a href="https://paytrust.mexgroup.com/i/" target="_blank">Deposit</a>
                     </span>
                     <span>
-                        <img alt="Thailand" src="../public_files/images/common/country/thailand_xl.png">
+                        <img alt="Thailand" src="/multibankfx/public_files/images/common/country/thailand_xl.png">
                         <p>Thailand</p>
                         <a href="https://paytrust.mexgroup.com/t/" target="_blank">Deposit</a>
                     </span>
@@ -392,7 +392,7 @@
                 }
             }
         </style>
-        <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script type="6864ba4d28184620dfa2cc29-text/javascript">
             $(function() {
                 $('.withdraw-header').click(function() {
@@ -419,63 +419,63 @@
                     </div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
-                            <li><a href="../platforms/download-center.html"><span class="ico-ic_download_mt4"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../platforms/download-center.html">Download
+                            <li><a href="/multibankfx/platforms/download-center.php"><span class="ico-ic_download_mt4"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/platforms/download-center.php">Download
                                         MT4</a></div>
-                                <a href="../platforms/download-center.html"> </a>
+                                <a href="/multibankfx/platforms/download-center.php"> </a>
                             </li>
-                            <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
-                                <a href="../products.html"> </a>
+                            <li><a href="/multibankfx/products.php"><span class="ico-ic_our_products"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php">Our Products</a></div>
+                                <a href="/multibankfx/products.php"> </a>
                             </li>
-                            <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../tools.html">Trading Tools</a></div>
-                                <a href="../tools.html"> </a>
+                            <li><a href="/multibankfx/tools.php"><span class="ico-ic_trading_tools"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/tools.php">Trading Tools</a></div>
+                                <a href="/multibankfx/tools.php"> </a>
                             </li>
-                            <li><a href="../about/why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/why-multibank-group.html">Why
+                            <li><a href="/multibankfx/about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/why-multibank-group.php">Why
                                         Multibank</a></div>
-                                <a href="../about/why-multibank-group.html"> </a>
+                                <a href="/multibankfx/about/why-multibank-group.php"> </a>
                             </li>
-                            <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
+                            <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/mfx/v1/about/regulations.php">Our
                                         Regulations</a></div>
-                                <a href="../mfx/v1/about/regulations.html"> </a>
+                                <a href="/multibankfx/mfx/v1/about/regulations.php"> </a>
                             </li>
-                            <li><a href="../about/security-of-funds.html"><span class="ico-ic_security_of_funds"></span>
+                            <li><a href="/multibankfx/about/security-of-funds.php"><span class="ico-ic_security_of_funds"></span>
                                 </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/security-of-funds.html">Security of
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/security-of-funds.php">Security of
                                         Funds</a></div>
-                                <a href="../about/security-of-funds.html"> </a>
+                                <a href="/multibankfx/about/security-of-funds.php"> </a>
                             </li>
-                            <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
+                            <li><a href="/multibankfx/account.php"><span class="ico-ic_accounts_funding"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php">Accounts and Funding</a>
                                 </div>
-                                <a href="../account.html"> </a>
+                                <a href="/multibankfx/account.php"> </a>
                             </li>
-                            <li><a href="bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="bonus.html">Bonus Programs</a></div>
-                                <a href="bonus.html"> </a>
+                            <li><a href="bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="bonus.php">Bonus Programs</a></div>
+                                <a href="bonus.php"> </a>
                             </li>
-                            <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
+                            <li><a href="/multibankfx/investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php">Partnership
                                         Programs</a></div>
-                                <a href="../investor-relations.html"> </a>
+                                <a href="/multibankfx/investor-relations.php"> </a>
                             </li>
-                            <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
+                            <li><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form">Become an
                                         IB</a></div>
-                                <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
+                                <a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                             </li>
-                            <li><a href="../about/milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/milestones.html">Our Milestones</a>
+                            <li><a href="/multibankfx/about/milestones.php"><span class="ico-ic_our_milestones"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/milestones.php">Our Milestones</a>
                                 </div>
-                                <a href="../about/milestones.html"> </a>
+                                <a href="/multibankfx/about/milestones.php"> </a>
                             </li>
-                            <li><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-6864ba4d28184620dfa2cc29-=""><span class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-6864ba4d28184620dfa2cc29-="">Live
+                            <li><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-6864ba4d28184620dfa2cc29-=""><span class="ico-ic_live_chat_support"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-6864ba4d28184620dfa2cc29-="">Live
                                         Chat Support</a></div>
-                                <a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-6864ba4d28184620dfa2cc29-=""> </a>
+                                <a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-6864ba4d28184620dfa2cc29-=""> </a>
                             </li>
                         </ul>
                     </div>
@@ -846,16 +846,16 @@
    <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="../cdn-cgi/l/email-protection.html#6d0e1e2d00180119040f0c03060b15430e0200">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#6d0e1e2d00180119040f0c03060b15430e0200">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-6864ba4d28184620dfa2cc29-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1322,7 +1322,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="6864ba4d28184620dfa2cc29-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -1335,12 +1335,12 @@
             });
         })
     </script>
-    <script src="../public_files/static_js/lang_data/en.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.dataTables.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-    <script src="../public_files/static_js/lazysizes.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.validate.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-    <script src="../public_files/static_js/intlTelInput.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-    <script src="../public_files/static_js/app.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/app.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
     <script type="6864ba4d28184620dfa2cc29-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

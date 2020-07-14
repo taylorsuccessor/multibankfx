@@ -64,24 +64,24 @@
     <div class="swiper-wrapper">
 
         <div class="swiper-slide home-page" style="overflow: hidden;">
-            <a href="about/why-multibank-group.html">
+            <a href="about/why-multibank-group.php">
                 <div class="min1 d-none d-lg-block"
                      style="background-image:url('public_files/images/home/en_cityscape_1920x800.jpg');">
                 </div>
                 <div class="min2 d-block d-lg-none"
                      style="background-image:url('public_files/images/home/en_cityscape_750x600.jpg');">
-                    <img src="public_files/images/home/main_banner_mobile.gif"/>
+                    <img src="/multibankfx/public_files/images/home/main_banner_mobile.gif"/>
                 </div>
             </a>
         </div>
         <div class="swiper-slide home-page" style="overflow: hidden;">
-            <a href="products/shares.html">
+            <a href="products/shares.php">
                 <div class="min1 d-none d-lg-block"
                      style="background-image:url('public_files/images/home/en_shares-1920x800.jpg');">
                 </div>
                 <div class="min2 d-block d-lg-none"
                      style="background-image:url('public_files/images/home/en_shares-750x600.jpg');">
-                    <img src="public_files/images/home/main_banner_mobile.gif"/>
+                    <img src="/multibankfx/public_files/images/home/main_banner_mobile.gif"/>
                 </div>
             </a>
         </div>
@@ -455,12 +455,12 @@
                 </form>
                 <hr class="mx-1 my-2 bg-dark">
                 <div class="px-1 contact-form-button-container">
-                    <a href="account/live-account.html"
+                    <a href="account/live-account.php"
                        class="d-flex btn btn-mex-red mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                         <span>&#xe91d;</span> 
                         <div class="btn-vr"></div>
                         <?php translate('OPEN LIVE ACCOUNT'); ?></a>
-                    <a href="demo_competition.html"
+                    <a href="demo_competition.php"
                        class="d-flex btn btn-mex-blue mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                         <span>&#xe918;</span>
                         <div class="btn-vr"></div>
@@ -470,7 +470,7 @@
                         <span>&#xe920;</span>
                         <div class="btn-vr"></div>
                         <?php translate('IB REGISTRATION'); ?></a>
-                    <a href="account/account-funding.html"
+                    <a href="account/account-funding.php"
                        class="d-flex btn btn-mex mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                         <span>&#xe921;</span>
                         <div class="btn-vr"></div>
@@ -478,11 +478,11 @@
                     <div class="px-1 font-10" style="padding:0px;">
                         <div class="form-check form-check-inline">
                             <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you
-                                agree to accept the'); ?> <a href="terms-conditions.html" target="_blank" class="text-22A0C4"
+                                agree to accept the'); ?> <a href="terms-conditions.php" target="_blank" class="text-22A0C4"
                                                        style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a
-                                        href="privacy-policy.html" target="_blank" class="text-22A0C4"
+                                        href="privacy-policy.php" target="_blank" class="text-22A0C4"
                                         style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a
-                                        href="cookie-policy.html" target="_blank" class="text-22A0C4"
+                                        href="cookie-policy.php" target="_blank" class="text-22A0C4"
                                         style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                             </label>
                         </div>
@@ -590,9 +590,9 @@
             </div>
             <div class="col-12 col-md-6 col-lg-3 mex-m-b-30">
                 <section class="mex-block-card-v mex-qtr box-animate">
-                    <a href="products/forex.html">
+                    <a href="products/forex.php">
                         <div class="card-img-box">
-                            <img class="card-img mex-img-cover" src="public_files/images/home/home_product_forex.jpg"
+                            <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/home/home_product_forex.jpg"
                                  alt="Forex">
                         </div>
                         <div class="card-content bg-white">
@@ -608,10 +608,10 @@
             </div>
             <div class="col-12 col-md-6 col-lg-3 mex-m-b-30">
                 <section class="mex-block-card-v mex-qtr box-animate">
-                    <a href="products/metals.html">
+                    <a href="products/metals.php">
                         <div class="card-img-box">
                             <img class="card-img mex-img-cover" alt="Metals"
-                                 src="public_files/images/home/home_product_metals.jpg">
+                                 src="/multibankfx/public_files/images/home/home_product_metals.jpg">
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
@@ -626,10 +626,10 @@
             </div>
             <div class="col-12 col-md-6 col-lg-3 mex-m-b-30">
                 <section class="mex-block-card-v mex-qtr box-animate">
-                    <a href="products/shares.html">
+                    <a href="products/shares.php">
                         <div class="card-img-box">
                             <img class="card-img mex-img-cover lazyloaded" alt="Shares"
-                                 src="public_files/images/home/home_product_shares.jpg">
+                                 src="/multibankfx/public_files/images/home/home_product_shares.jpg">
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
@@ -644,10 +644,10 @@
             </div>
             <div class="col-12 col-md-6 col-lg-3 mex-m-b-30">
                 <section class="mex-block-card-v mex-qtr box-animate">
-                    <a href="products/indices.html">
+                    <a href="products/indices.php">
                         <div class="card-img-box">
                             <img class="card-img mex-img-cover" alt="Indices"
-                                 src="public_files/images/home/home_product_indices.jpg">
+                                 src="/multibankfx/public_files/images/home/home_product_indices.jpg">
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
@@ -662,10 +662,10 @@
             </div>
             <div class="col-12 col-md-6 col-lg-3 mex-m-b-30">
                 <section class="mex-block-card-v mex-qtr box-animate">
-                    <a href="products/commodities.html">
+                    <a href="products/commodities.php">
                         <div class="card-img-box">
                             <img class="card-img mex-img-cover lazyloaded" alt="Commodities"
-                                 src="public_files/images/home/home_product_commodities.jpg">
+                                 src="/multibankfx/public_files/images/home/home_product_commodities.jpg">
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
@@ -681,10 +681,10 @@
 
             <div class="col-12 col-md-6 col-lg-3 mex-m-b-30">
                 <section class="mex-block-card-v mex-qtr box-animate">
-                    <a href="partnership/white-label.html">
+                    <a href="partnership/white-label.php">
                         <div class="card-img-box">
                             <img class="card-img mex-img-cover lazyloaded" alt="white label"
-                                 src="public_files/images/home/home_product_white_label.jpg">
+                                 src="/multibankfx/public_files/images/home/home_product_white_label.jpg">
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
@@ -699,10 +699,10 @@
             </div>
             <div class="col-12 col-md-6 col-lg-3 mex-m-b-30">
                 <section class="mex-block-card-v mex-qtr box-animate">
-                    <a href="partnership/prime-of-primes.html">
+                    <a href="partnership/prime-of-primes.php">
                         <div class="card-img-box">
                             <img class="card-img mex-img-cover lazyloaded" alt="Prime of Primes"
-                                 src="public_files/images/home/home_product_prime.jpg">
+                                 src="/multibankfx/public_files/images/home/home_product_prime.jpg">
                         </div>
                         <div class="card-content bg-white">
                             <div class="mex-h3 text-overflow-1 mex-m-b-15">
@@ -717,10 +717,10 @@
             </div>
             <div class="col-12 col-md-6 col-lg-3 mex-m-b-30">
                 <section class="mex-block-card-v mex-qtr box-animate">
-                    <a href="social-trading.html">
+                    <a href="social-trading.php">
                         <div class="card-img-box">
                             <img class="card-img mex-img-cover"
-                                 src="public_files/images/home/home_product_social_trading.jpg"
+                                 src="/multibankfx/public_files/images/home/home_product_social_trading.jpg"
                                  alt="Social Trading Platform">
                         </div>
                         <div class="card-content bg-white">
@@ -753,7 +753,7 @@
                 <li><?php translate('Social Trading Platform'); ?></li>
             </ul>
         </div>
-        <a class="btn btn-mex text-fff" style="margin-left: 20px; padding: 10px 20px;" href="products.html"><?php translate('Learn
+        <a class="btn btn-mex text-fff" style="margin-left: 20px; padding: 10px 20px;" href="products.php"><?php translate('Learn
             More'); ?></a>
     </div>
 </section>
@@ -774,10 +774,10 @@
                             <div class="mex-content mex-m-b-15">
                                 <strong><?php translate('Open an account & start trading today!'); ?></strong>
                             </div>
-                            <a href="account/live-account.html"
+                            <a href="account/live-account.php"
                                class="btn btn-mex-red mex-m-r-15 mex-m-b-15 col-md-6 col-xs-12"><i
                                     class="fa fa-user mex-m-r-5" aria-hidden="true"></i><?php translate('Live Account'); ?></a>
-                            <a href="demo_competition.html"
+                            <a href="demo_competition.php"
                                class="btn btn-mex-blue mex-m-r-15 mex-m-b-15 col-md-6 col-xs-12"><i
                                     class="fa fa-desktop mex-m-r-5" aria-hidden="true"></i><?php translate('Demo Account'); ?></a>
                         </div>
@@ -796,7 +796,7 @@
                                 withdrawals.'); ?>
                             </div>
                         </div>
-                        <a href="account/account-funding.html" class="btn btn-mex mex-m-r-15 mex-m-b-15"
+                        <a href="account/account-funding.php" class="btn btn-mex mex-m-r-15 mex-m-b-15"
                            style="margin-top: 38px;"><?php translate('Deposit Now'); ?></a>
                     </div>
                 </div>
@@ -808,7 +808,7 @@
 <section class="bg-white p0 index-platforms d-flex d-md-none">
     <img class="d-block d-md-none"
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 0; opacity: 0.1;"
-         src="public_files/images/home/home_platforms_bg.jpg"/>
+         src="/multibankfx/public_files/images/home/home_platforms_bg.jpg"/>
     <div class="container mex-p-t-80 mex-p-b-80">
         <div class="row">
             <div class="col-xl-10 mx-auto col-lg-12 text-center mex-m-b-15 ">
@@ -835,7 +835,7 @@
                          <?php translate('Maximus'); ?><br/><?php translate('Platform'); ?>
                 </div>
                 <div class="col-12 d-flex justify-content-center my-4">
-                    <a href="platforms.html" class="btn btn-mex text-white"><?php translate('Learn More'); ?></a>
+                    <a href="platforms.php" class="btn btn-mex text-white"><?php translate('Learn More'); ?></a>
                 </div>
             </div>
         </div>
@@ -850,7 +850,7 @@
     <div class="swiper-container" id="swiper-container-2">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <a href="account/bonus.html">
+                <a href="account/bonus.php">
                     <div class="min1 d-none d-lg-block">
                         <img class="lazyload" data-src="/multibankfx/public_files/images/home/home_bonus_extra.jpg" alt="image"/>
                     </div>
@@ -860,7 +860,7 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="account/bonus%3Fdefault_bonus=refer_bonus.html">
+                <a href="account/bonus%3Fdefault_bonus=refer_bonus.php">
                     <div class="min1 d-none d-lg-block">
                         <img class="lazyload" data-src="/multibankfx/public_files/images/home/home_bonus_400.jpg" alt="image"/>
                     </div>
@@ -870,7 +870,7 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="account/bonus-ib.html">
+                <a href="account/bonus-ib.php">
                     <div class="min1 d-none d-lg-block">
                         <img class="lazyload" data-src="/multibankfx/public_files/images/home/home_bonus_5000.jpg" alt="image"/>
                     </div>
@@ -904,7 +904,7 @@
                             <?php translate('Learn more about MultiBank’s award-winning platforms and comprehensive partnership
                                 programs'); ?>
                             </div>
-                            <a href="about/why-multibank-group.html"
+                            <a href="about/why-multibank-group.php"
                                class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                         </div>
                     </div>
@@ -925,7 +925,7 @@
                             <?php translate('MultiBank comprises a number of companies which are regulated by top financial bodies
                                 worldwide including ASIC, BaFin, FMA, CNMV, FSC, and CIMA'); ?>
                             </div>
-                            <a href="mfx/v1/about/regulations.html"
+                            <a href="mfx/v1/about/regulations.php"
                                class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                         </div>
                     </div>
@@ -944,7 +944,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_cayman_islands.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_cayman_islands.jpg"
                                                    alt="Cayman Islands"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -962,7 +962,7 @@
             <div class="swiper-slide ">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_hong_kong.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_hong_kong.jpg"
                                                    alt="Hong Kong"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -980,7 +980,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_australia.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_australia.jpg"
                                                    alt="Australia"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1002,7 +1002,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_germany.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_germany.jpg"
                                                    alt="Germany"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1022,7 +1022,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_austria.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_austria.jpg"
                                                    alt="Austria"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1042,7 +1042,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_spain.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_spain.jpg"
                                                    alt="Spain"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1063,7 +1063,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_usa.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_usa.jpg"
                                                    alt="USA"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1081,7 +1081,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_mexico.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_mexico.jpg"
                                                    alt="Mexico"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1101,7 +1101,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_china.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_china.jpg"
                                                    alt="China"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1119,7 +1119,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_vietnam.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_vietnam.jpg"
                                                    alt="UAE"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1138,7 +1138,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_philippines.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_philippines.jpg"
                                                    alt="UAE"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1158,7 +1158,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_malaysia.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_malaysia.jpg"
                                                    alt="UAE"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1178,7 +1178,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_uae2.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_uae2.jpg"
                                                    alt="UAE"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1199,7 +1199,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_kuwai.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_kuwai.jpg"
                                                    alt="British Virgin Islands"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1219,7 +1219,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_cyprus.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_cyprus.jpg"
                                                    alt="British Virgin Islands"/></div>
                                                    <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1237,7 +1237,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_turkey.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_turkey.jpg"
                                                    alt="British Virgin Islands"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1256,7 +1256,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_british_virgin_islands.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_british_virgin_islands.jpg"
                                                    alt="British Virgin Islands"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1274,7 +1274,7 @@
             <div class="swiper-slide">
                 <section class="mex-block-card-v mex-third">
                     <div class="card-img-box"><img class="card-img mex-img-cover"
-                                                   src="public_files/images/about_us/global_presence/global_presence_british_virgin_islands_mbg.jpg"
+                                                   src="/multibankfx/public_files/images/about_us/global_presence/global_presence_british_virgin_islands_mbg.jpg"
                                                    alt="British Virgin Islands MBG"/></div>
                     <div class="card-content bg-white text-center">
                         <div class="mex-h3 mex-clamp-1 mex-m-b-15">
@@ -1312,7 +1312,7 @@
                             <div class="mex-content text-overflow-2">
                             <?php translate('Clients enjoy the highest level of funds security through MultiBank'); ?>
                             </div>
-                            <a href="about/security-of-funds.html" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN
+                            <a href="about/security-of-funds.php" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN
                                 MORE'); ?></a>
                         </div>
                     </div>
@@ -1332,7 +1332,7 @@
                             <div class="mex-content text-overflow-2">
                             <?php translate('Learn more about MultiBank’s achievements from over the years'); ?>
                             </div>
-                            <a href="about/milestones.html" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN
+                            <a href="about/milestones.php" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN
                                 MORE'); ?></a>
                         </div>
                     </div>
@@ -1357,7 +1357,7 @@
                 <div class="swiper-container" id="swiper-container-awards1">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/Best_Forex_CFD_Broker_JFEX_Award.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex and CFD Broker 2019'); ?></span>
@@ -1365,7 +1365,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="article/multibank-wins-financial-services-provider-asia-award-2019.html">
+                            <a href="article/multibank-wins-financial-services-provider-asia-award-2019.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/Financial_Services_Provider_of_the_Year_Asia_2019.jpg"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Financial Services Provider of the Year (Asia) 2019'); ?></span>
@@ -1373,7 +1373,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="article/multibank-chosen-best-FX-CFD-broker-2019.html">
+                            <a href="article/multibank-chosen-best-FX-CFD-broker-2019.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_fx_broker_euas_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best FX & CFD Broker (Europe & Asia) 2019'); ?></span>
@@ -1381,7 +1381,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="article/multibank-wins-ecn-broker-best-forex-platform-2019.html">
+                            <a href="article/multibank-wins-ecn-broker-best-forex-platform-2019.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/ecn_broker_eu_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('ECN Broker of the Year (Europe) 2019'); ?></span>
@@ -1389,7 +1389,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="article/multibank-wins-ecn-broker-best-forex-platform-2019.html">
+                            <a href="article/multibank-wins-ecn-broker-best-forex-platform-2019.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_mena_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Platform MENA 2019'); ?></span>
@@ -1397,7 +1397,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="article/multibank-named-best-financial-derivatives-broker-2019.html">
+                            <a href="article/multibank-named-best-financial-derivatives-broker-2019.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/2019best_financial_derivatives_broker_europe.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Financial Derivatives Broker 2019'); ?></span>
@@ -1405,7 +1405,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="article/multibank-selected-best-forex-broker-forex-expo-dubai-2019.html">
+                            <a href="article/multibank-selected-best-forex-broker-forex-expo-dubai-2019.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Broker 2019'); ?></span>
@@ -1413,7 +1413,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="article/milestones_multibank-chairman-naser-taher-awarded-ceo-of-the-year-2019.html">
+                            <a href="article/milestones_multibank-chairman-naser-taher-awarded-ceo-of-the-year-2019.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/2019CEO_of_the_year_financial_services_asia_europe.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('CEO of the Year (Financial Services) (Asia & Europe) 2019'); ?></span>
@@ -1421,7 +1421,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="article/multibank-honored-best-ecn-broker-asia-2019.html">
+                            <a href="article/multibank-honored-best-ecn-broker-asia-2019.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_asia_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best ECN Broker of the Year (Asia) 2019'); ?></span>
@@ -1429,7 +1429,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_education_provider_2019.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Education Provider 2019'); ?></span>
@@ -1437,7 +1437,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2018.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Trading Platform (Hong Kong) 2018'); ?></span>
@@ -1445,7 +1445,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2018.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best ECN Broker Europe 2018'); ?></span>
@@ -1453,7 +1453,7 @@
                             </a>+
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_ecn_platform_2018.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex ECN Platform (Europe & Asia)'); ?></span>
@@ -1461,7 +1461,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/most_admired_2017.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('30 Most Admired Companies of 2017'); ?></span>
@@ -1469,7 +1469,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/broker_of_the_year_2017.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Financial Derivatives Broker of the Year (Asia & Europe) 2017'); ?></span>
@@ -1477,7 +1477,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/ceo_of_the_year_2017.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('CEO of the Year-- Financial Services (Asia & Europe) 2017'); ?></span>
@@ -1485,7 +1485,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2016.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Exchange Platform (Hong Kong) 2016'); ?></span>
@@ -1493,7 +1493,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_ceo_2016.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Financial Services CEO (Hong Kong) 2016'); ?></span>
@@ -1501,7 +1501,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_china_2016.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Platform 2016'); ?></span>
@@ -1509,7 +1509,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_execution_broker_2016.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Execution Broker 2016'); ?></span>
@@ -1517,7 +1517,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_2015.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Broker 2015'); ?></span>
@@ -1525,7 +1525,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2015.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Trading Platform (Asia & Europe) 2015'); ?></span>
@@ -1533,7 +1533,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_europe_2015.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Broker Europe 2015'); ?></span>
@@ -1541,7 +1541,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_platform_2014.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Institutional FX Platform 2014'); ?></span>
@@ -1549,7 +1549,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/top_provider_2014.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Top FX Liquidity Provider 2014'); ?></span>
@@ -1557,7 +1557,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/most_secure_broker_2014.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Most Secure Broker 2014'); ?></span>
@@ -1565,7 +1565,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best ECN Forex Broker Asia 2013'); ?> <br> <?php translate('Best ECN Forex Broker Europe 2013'); ?></span>
@@ -1573,7 +1573,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_company_leadership_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Company for Leadership 2013'); ?></span>
@@ -1581,7 +1581,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/most_secure_broker_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Most Secure Forex Broker 2013'); ?></span>
@@ -1589,7 +1589,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_broker_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Broker 2013'); ?></span>
@@ -1597,7 +1597,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/broker_of_the_year_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Broker of the Year 2013'); ?></span>
@@ -1605,7 +1605,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_trading_platform_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Trading Platform 2013'); ?></span>
@@ -1613,7 +1613,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/most_powerful_team_2013.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Most Powerful Forex Technical Research & Development Team 2013'); ?></span>
@@ -1621,21 +1621,21 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload" data-src="/multibankfx/public_files/images/about_us/awards/2013Asia.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Most Secure Forex Broker 2013'); ?></span>
                                 <span class="mex-content "><?php translate('Asia Franchise Industry Association'); ?></span>
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload" data-src="/multibankfx/public_files/images/about_us/awards/2013Asia.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Broker 2013'); ?></span>
                                 <span class="mex-content "><?php translate('Asia Franchise Industry Association'); ?></span>
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_trading_platform_2012.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Trading Platform 2012'); ?></span>
@@ -1643,7 +1643,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/rtb_china_awards_2012.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('RTB China Awards 2012'); ?></span>
@@ -1651,7 +1651,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_2012_11china.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Trading Platform 2012'); ?></span>
@@ -1659,7 +1659,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2012.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best ECN Broker (Asia) 2012'); ?></span>
@@ -1667,7 +1667,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Service Provider 2011'); ?></span>
@@ -1675,7 +1675,7 @@
                             </a>
                         </div>
                         <div class="swiper-slide">
-                            <a href="about/awards.html">
+                            <a href="about/awards.php">
                                 <img class="lazyload"
                                      data-src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png"/>
                                 <span class="mex-h3 mex-m-b-5 "><?php translate('Best Forex Trading Platform 2011'); ?></span>
@@ -1696,7 +1696,7 @@
 <section class="bg-white p0 index-platforms d-none d-md-flex">
     <img class="d-block d-md-none"
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 0; opacity: 0.1;"
-         src="public_files/images/home/home_platforms_bg.jpg"/>
+         src="/multibankfx/public_files/images/home/home_platforms_bg.jpg"/>
     <div class="container mex-p-t-80 mex-p-b-80">
         <div class="row">
             <div class="col-xl-10 mx-auto col-lg-12 text-center mex-m-b-15 ">
@@ -1711,10 +1711,10 @@
                         </h4>
                         <p class=" platforms_box_txt mex-clamp-4 mex-content"><?php translate('Enjoy raw price feed directly through our
                             ECN connection to prime brokers and access the tightest spread in the industry'); ?></p>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/ecn-pro.html"><i
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/ecn-pro.php"><i
                                 class="ti-bar-chart"></i><?php translate('MT4'); ?></a>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/ecn-pro.html"><i class="ti-mobile"></i><?php translate('Mobile'); ?></a>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="mql5.html"><i class="ti-desktop" style="top: 1px;
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/ecn-pro.php"><i class="ti-mobile"></i><?php translate('Mobile'); ?></a>
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="mql5.php"><i class="ti-desktop" style="top: 1px;
     position: relative;"></i> <?php translate('Web Trading'); ?></a>
                     </div>
                 </div>
@@ -1726,11 +1726,11 @@
                         </h4>
                         <p class=" platforms_box_txt mex-clamp-4 mex-content"><?php translate('Ideal for traders looking for an ECN
                             experience with tight spreads and zero platform fees'); ?></p>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/multibank-pro.html"><i
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/multibank-pro.php"><i
                                 class="ti-bar-chart"></i><?php translate('MT4'); ?></a>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/multibank-pro.html"><i
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/multibank-pro.php"><i
                                 class="ti-mobile"></i><?php translate('Mobile'); ?></a>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="mql5.html"><i class="ti-desktop" style="top: 1px;
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="mql5.php"><i class="ti-desktop" style="top: 1px;
     position: relative;"></i> <?php translate('Web Trading'); ?></a>
                     </div>
                 </div>
@@ -1742,10 +1742,10 @@
                         </h4>
                         <p class=" platforms_box_txt mex-clamp-4 mex-content"><?php translate('Recommended for traders looking for no
                             restrictions on EA and scalping trading'); ?></p>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/maximus.html"><i
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/maximus.php"><i
                                 class="ti-bar-chart"></i><?php translate('MT4'); ?></a>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/maximus.html"><i class="ti-mobile"></i><?php translate('Mobile'); ?></a>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="mql5.html"><i class="ti-desktop"
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/maximus.php"><i class="ti-mobile"></i><?php translate('Mobile'); ?></a>
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="mql5.php"><i class="ti-desktop"
                                                                                      style="top: 1px;position: relative;"></i>
                                                                                      <?php translate('Web Trading'); ?></a>
                     </div>
@@ -1759,11 +1759,11 @@
                         <p class=" platforms_box_txt mex-clamp-4 mex-content"><?php translate('Suitable for traders looking for enhanced
                             trading functionalities such as advanced scripting tools for custom indicators and expert
                             advisors'); ?></p>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/mt5-platform.html"><i
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/mt5-platform.php"><i
                                 class="ti-bar-chart"></i><?php translate('MT5'); ?></a>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/mt5-platform.html"><i
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="platforms/mt5-platform.php"><i
                                 class="ti-mobile"></i><?php translate('Mobile'); ?></a>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="mql5.html"><i class="ti-desktop"
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="mql5.php"><i class="ti-desktop"
                                                                                      style="top: 1px;position: relative;"></i>
                                                                                      <?php translate('Web Trading'); ?></a>
                     </div>
@@ -1785,11 +1785,11 @@
                         </div>
                         <div class="row">
                             <div class="col-6 pl-3 pr-1">
-                                <a href="account/live-account.html" class="btn btn-mex-red mex-m-b-15 "
+                                <a href="account/live-account.php" class="btn btn-mex-red mex-m-b-15 "
                                    style="min-width: initial; display: block;     padding: 13px 10px;"><?php translate('Live Account'); ?></a>
                             </div>
                             <div class="col-6 pl-1 pr-3">
-                                <a href="demo_competition.html" class="btn btn-mex-blue mex-m-b-15"
+                                <a href="demo_competition.php" class="btn btn-mex-blue mex-m-b-15"
                                    style="min-width: initial; display: block;     padding: 13px 10px;"><?php translate('Demo Account'); ?></a>
                             </div>
                         </div>
@@ -1811,7 +1811,7 @@
                         <div class="font-weight-bold font-16 mex-m-b-15" style="line-height: 1;">
                         <?php translate('Choose from a selection of instant, simple and secure payment options for deposits and ...'); ?>
                         </div>
-                        <a class="btn btn-mex text-fff" style="padding: 10px 20px;" href="account/account-funding.html"><?php translate('Deposit
+                        <a class="btn btn-mex text-fff" style="padding: 10px 20px;" href="account/account-funding.php"><?php translate('Deposit
                             Now'); ?></a>
                     </div>
                 </div>
@@ -1827,7 +1827,7 @@
             </div>
             <div class="col-12 col-md-12 col-xl-8 mex-m-b-30 d-none d-md-block">
                 <section class="mex-card-cover box-animate">
-                    <a href="partnership/introducing-brokers.html">
+                    <a href="partnership/introducing-brokers.php">
                         <img class="card-img mex-img-cover lazyload" alt="Introducing Brokers"
                              data-src="/multibankfx/public_files/images/partnership/home_partnership_introducing_broker@2x.png">
                         <div class="card-content text-left">
@@ -1844,7 +1844,7 @@
             </div>
             <div class="col-12 col-md-6 col-xl-4 mex-m-b-30 d-none d-md-block">
                 <section class="mex-card-cover box-animate">
-                    <a href="partnership/franchise-program.html">
+                    <a href="partnership/franchise-program.php">
                         <img class="card-img mex-img-cover lazyload" alt="Franchise Program"
                              data-src="/multibankfx/public_files/images/partnership/home_partnership_franchise_program@2x.png">
                         <div class="card-content text-left">
@@ -1861,7 +1861,7 @@
             </div>
             <div class="col-12 col-md-6 col-xl-4 mex-m-b-30 d-none d-md-block">
                 <section class="mex-card-cover box-animate">
-                    <a href="partnership/white-label.html">
+                    <a href="partnership/white-label.php">
                         <img class="card-img mex-img-cover lazyload" alt="White Label"
                              data-src="/multibankfx/public_files/images/partnership/home_partnership_white_label@2x.png">
                         <div class="card-content text-left">
@@ -1878,7 +1878,7 @@
             </div>
             <div class="col-12 col-md-6 col-xl-4 mex-m-b-30 d-none d-md-block">
                 <section class="mex-card-cover box-animate">
-                    <a href="partnership/prime-of-primes.html">
+                    <a href="partnership/prime-of-primes.php">
                         <img class="card-img mex-img-cover lazyload" alt="Prime of Primes"
                              data-src="/multibankfx/public_files/images/partnership/home_partnership_prime_of_primes@2x.png">
                         <div class="card-content text-left">
@@ -1894,7 +1894,7 @@
             </div>
             <div class="col-12 col-md-6 col-xl-4 mex-m-b-30 d-none d-md-block">
                 <section class="mex-card-cover box-animate">
-                    <a href="partnership/cpa-affiliate-program.html">
+                    <a href="partnership/cpa-affiliate-program.php">
                         <img class="card-img mex-img-cover lazyload" alt="CPA Affiliate Program"
                              data-src="/multibankfx/public_files/images/partnership/partnership_cpa_affiliate_program_newx.png">
                         <div class="card-content text-left">
@@ -1922,7 +1922,7 @@
                 <li><?php translate('CPA Affiliate Program'); ?></li>
             </ul>
         </div>
-        <a class="btn btn-mex text-fff" style="margin-left: 20px; padding: 10px 20px;" href="investor-relations.html"><?php translate('Learn
+        <a class="btn btn-mex text-fff" style="margin-left: 20px; padding: 10px 20px;" href="investor-relations.php"><?php translate('Learn
             More'); ?></a>
     </div>
 </section>
@@ -1942,7 +1942,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2020-02-18'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-fast-n-furious-trading-contest-announcement.html"
+                                                href="article/multibank-fast-n-furious-trading-contest-announcement.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('Winners Announced for the
                                             MultiBank Fast & Furious Trading Contest'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -1953,7 +1953,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-12-27'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-fast-n-furious-trading-contest.html"
+                                                href="article/multibank-fast-n-furious-trading-contest.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank Fast & Furious
                                             Trading Contest Starts Jan 6, 2020!'); ?> </a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -1964,7 +1964,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-12-07'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-philippines-hosts-investors-night-2019.html"
+                                                href="article/multibank-philippines-hosts-investors-night-2019.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank Philippines Hosts
                                             Investors Night 2019'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -1975,7 +1975,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-11-17'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-malaysia-hosted-successful-trading-seminar-in-kuala-lumpur.html"
+                                                href="article/multibank-malaysia-hosted-successful-trading-seminar-in-kuala-lumpur.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank Malaysia Hosted
                                             Successful Trading Seminar in Kuala Lumpur'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -1986,7 +1986,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-11-17'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-attends-macau-grand-prix-2019.html"
+                                                href="article/multibank-attends-macau-grand-prix-2019.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank Group Attends
                                             Macau Grand Prix 2019'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -1997,7 +1997,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-11-04'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-fx-championship-2019-winners-announced.html"
+                                                href="article/multibank-fx-championship-2019-winners-announced.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank FX Championship
                                             2019 Winners Announced!'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2008,7 +2008,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-10-02'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-attends-forex-expo-dubai-wins-best-forex-broker.html"
+                                                href="article/multibank-attends-forex-expo-dubai-wins-best-forex-broker.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank Attends the Forex
                                             Expo Dubai and Takes Home “Best Forex Broker” Award'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2019,7 +2019,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-09-18'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-mena-diamond-sponsor-jordan-expo.html"
+                                                href="article/multibank-mena-diamond-sponsor-jordan-expo.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('Diamond Sponsor MultiBank
                                             MENA Attends Jordan Expo 2019'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2030,7 +2030,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-09-14'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-wins-financial-services-provider-asia-award-2019.html"
+                                                href="article/multibank-wins-financial-services-provider-asia-award-2019.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank Group Wins
                                             “Financial Services Provider of the Year (Asia) 2019” Award from Global
                                             Brands Magazine'); ?></a></div>
@@ -2042,7 +2042,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-08-13'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-fx-championship-2019-starting-soon.html"
+                                                href="article/multibank-fx-championship-2019-starting-soon.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank FX Championship
                                             Starting Soon! USD 12,000 CASH Giveaway to Top 3 Demo Contest Winners'); ?></a>
                                         </div>
@@ -2054,7 +2054,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-08-01'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-latam-regional-headquarter-launched-mexico.html"
+                                                href="article/multibank-latam-regional-headquarter-launched-mexico.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank LATAM Launches in
                                             Mexico'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2065,7 +2065,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-07-26'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/hiring-forex-sales-managers-for-dubai.html"
+                                                href="article/hiring-forex-sales-managers-for-dubai.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank’s Dubai Office Now
                                             Hiring Forex Sales Managers. Join Us Today!'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2076,7 +2076,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-07-04'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/artur-filipowicz-joins-multibank-head-institutional-sales.html"
+                                                href="article/artur-filipowicz-joins-multibank-head-institutional-sales.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('FX Veteran Artur Filipowicz
                                             Joins MultiBank as Head of Institutional Sales'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2087,7 +2087,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-06-08'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-elite-sponsor-forex-day-madrid-2019.html"
+                                                href="article/multibank-elite-sponsor-forex-day-madrid-2019.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank Elite Sponsor at
                                             Forex Day Madrid 2019'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2098,7 +2098,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-05-27'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-chosen-best-FX-CFD-broker-2019.html"
+                                                href="article/multibank-chosen-best-FX-CFD-broker-2019.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank Chosen as Best FX
                                             & CFD Broker (Europe & Asia) 2019 by International Investor Magazine'); ?></a>
                                         </div>
@@ -2110,7 +2110,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-05-22'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-makes-appearance-ifx-cyprus-expo.html"
+                                                href="article/multibank-makes-appearance-ifx-cyprus-expo.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank Makes an
                                             Appearance at the iFX Cyprus Expo'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2121,7 +2121,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-05-1'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-adds-uber-shares-cfd-offerings.html"
+                                                href="article/multibank-adds-uber-shares-cfd-offerings.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank Adds Uber to Its
                                             Shares CFD Offerings'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2132,7 +2132,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-05-15'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/visit-multibank-ifx-cyprus-2019.html"
+                                                href="article/visit-multibank-ifx-cyprus-2019.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('Visit Us at Booth 52 at iFX
                                             Expo 2019 in Cyprus'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2143,7 +2143,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-05-03'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/hiring-now-cyprus.html"
+                                                href="article/hiring-now-cyprus.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('MultiBank Group Is Now
                                             Hiring Senior Account Managers. Join us Today!'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2154,7 +2154,7 @@
                                     <li class="row mx-0 mex-new-content swiper-slide">
                                         <div class="mex-h3 col-1 pl-4 text-left"><?php translate('2019-04-30'); ?></div>
                                         <div class="mex-new-desc mex-content col-8"><a
-                                                href="article/multibank-honored-best-ecn-broker-asia-2019.html"
+                                                href="article/multibank-honored-best-ecn-broker-asia-2019.php"
                                                 class="text-222 mex-clamp-4 text-left pl-3"><?php translate('Finance Derivative Honors
                                             MultiBank Group as “Best ECN Broker of the Year (Asia) 2019”'); ?></a></div>
                                         <div class="mex-new-img col-3"><img class="mex-img-cover lazyload"
@@ -2169,7 +2169,7 @@
                 </section>
             </div>
             <div class="text-center mex-p-15 index_sup_a col-12">
-                <a href="article/news_20180916.html" class="btn btn-mex "><?php translate('MORE'); ?></a>
+                <a href="article/news_20180916.php" class="btn btn-mex "><?php translate('MORE'); ?></a>
             </div>
         </div>
     </div>
@@ -2187,22 +2187,22 @@
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""
-                               src="public_files/images/home/sidebar_icon/phone.png" width="50"/> </span>
+                               src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50"/> </span>
     </a>
     <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
         <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/home/sidebar_icon/whatsapp.png" width="50"/> </span>
+                                src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50"/> </span>
     </a>
     <a class="email-us-tg demo-account-btn email-btn"
        href="cdn-cgi/l/email-protection.html#177464577a627b637e7576797c716f3974787a">
         <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/home/sidebar_icon/email.png" width="50"/> </span>
+                                src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50"/> </span>
     </a>
     <a class="ib-registration-btn chat-btn"
        onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
        data-cf-modified-785e4eb336bec21b04c19cf7-="">
         <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/home/sidebar_icon/chat.png" width="50"/> </span>
+                                src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50"/> </span>
     </a>
 </div>
 <style type="text/css">.slidebar a span.btn {
@@ -2802,8 +2802,8 @@ if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
 });
 
 </script>
-<script src="public_files/static_js/swiper-4.3.5.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
-<script src="public_files/static_js/app_home.js"
+<script src="/multibankfx/public_files/static_js/swiper-4.3.5.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
+<script src="/multibankfx/public_files/static_js/app_home.js"
         type="785e4eb336bec21b04c19cf7-text/javascript"></script>
 <style>
 

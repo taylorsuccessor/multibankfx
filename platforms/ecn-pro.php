@@ -58,7 +58,7 @@
     </style>
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <section class="flex-center page-top-banner"><img alt="ECN PRO" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/platforms/ecn_pro/ecn_pro_top_banner1.jpg" />
+    <section class="flex-center page-top-banner"><img alt="ECN PRO" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/platforms/ecn_pro/ecn_pro_top_banner1.jpg" />
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-sm-12">
@@ -521,10 +521,10 @@
                     <div class="mex-m-b-30 text-center">
                         <div class=" mex-m-b-20">
                             <ul id="myTab" class="icon-nav">
-                                <li class="platform-selector-container"><img src="../public_files/images/common/ic_ecn@2x.png" alt="ECN Pro"><br><a class="platform-selector uppercase" data-tab="tab_ecn_pro"><?php translate(' ECN Pro'); ?></a></li>
-                                <li class="platform-selector-container active"><img src="../public_files/images/common/ic_maximus@2x.png" alt="Maximus"><br><a class="platform-selector uppercase" data-tab="tab_maximus"><?php translate('Maximus'); ?> </a></li>
-                                <li class="platform-selector-container "><img src="../public_files/images/common/ic_multibanpro@2x.png" alt="MultiBank Pro"><br><a class="platform-selector uppercase" data-tab="tab_multibank_pro"><?php translate('MultiBank Pro'); ?></a></li>
-                                <li class="platform-selector-container "><img src="../public_files/images/common/ic_mt5.png" alt="MT5"><br><a class="platform-selector uppercase" data-tab="tab_mt5">MT5</a></li>
+                                <li class="platform-selector-container"><img src="/multibankfx/public_files/images/common/ic_ecn@2x.png" alt="ECN Pro"><br><a class="platform-selector uppercase" data-tab="tab_ecn_pro"><?php translate(' ECN Pro'); ?></a></li>
+                                <li class="platform-selector-container active"><img src="/multibankfx/public_files/images/common/ic_maximus@2x.png" alt="Maximus"><br><a class="platform-selector uppercase" data-tab="tab_maximus"><?php translate('Maximus'); ?> </a></li>
+                                <li class="platform-selector-container "><img src="/multibankfx/public_files/images/common/ic_multibanpro@2x.png" alt="MultiBank Pro"><br><a class="platform-selector uppercase" data-tab="tab_multibank_pro"><?php translate('MultiBank Pro'); ?></a></li>
+                                <li class="platform-selector-container "><img src="/multibankfx/public_files/images/common/ic_mt5.png" alt="MT5"><br><a class="platform-selector uppercase" data-tab="tab_mt5">MT5</a></li>
                             </ul>
                         </div>
                         <div>
@@ -535,26 +535,26 @@
                                             <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال"><?php translate('Mobile APP'); ?>
                                             </div>
                                             <div class="platform-icon">
-                                                <a href="https://itunes.apple.com/us/app/metatrader-4/id496212596" target="_blank"><img src="../public_files/images/common/ic_apple@2x.png" alt="apple"></a>
-                                                <a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4" target="_blank"><img src="../public_files/images/common/google_open.png" alt="google"></a>
-                                                <a href="../web/uploads/democomp/metatrader4.apk" target="_blank"><img src="../public_files/images/common/ic_android.svg" alt="android"></a>
+                                                <a href="https://itunes.apple.com/us/app/metatrader-4/id496212596" target="_blank"><img src="/multibankfx/public_files/images/common/ic_apple@2x.png" alt="apple"></a>
+                                                <a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4" target="_blank"><img src="/multibankfx/public_files/images/common/google_open.png" alt="google"></a>
+                                                <a href="/multibankfx/web/uploads/democomp/metatrader4.apk" target="_blank"><img src="/multibankfx/public_files/images/common/ic_android.svg" alt="android"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
                                             <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز"><?php translate('Desktop'); ?>
                                             </div>
                                             <div class="platform-icon">
-                                                <a href="../web/uploads/democomp/demo/ecnmexintgroup4setup.exe" target="_blank"><img src="../public_files/images/common/windows.png" alt="window"></a>
+                                                <a href="/multibankfx/web/uploads/democomp/demo/ecnmexintgroup4setup.exe" target="_blank"><img src="/multibankfx/public_files/images/common/windows.png" alt="window"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
                                             <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب"><?php translate('Web Trading'); ?>
                                             </div>
                                             <div class="platform-icon">
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/chrome.png" alt="chrome"></a>
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/firefox.png" alt="firefox"></a>
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/ic_ie@2x.png" alt="IE"></a>
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/safari.png" alt="safari"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/chrome.png" alt="chrome"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/firefox.png" alt="firefox"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/ic_ie@2x.png" alt="IE"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/safari.png" alt="safari"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -565,26 +565,26 @@
                                             <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال"><?php translate('Mobile APP'); ?>
                                             </div>
                                             <div class="platform-icon">
-                                                <a href="https://itunes.apple.com/us/app/metatrader-4/id496212596" target="_blank"><img src="../public_files/images/common/ic_apple@2x.png" alt="apple"></a>
-                                                <a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4" target="_blank"><img src="../public_files/images/common/google_open.png" alt="google"></a>
-                                                <a href="../web/uploads/democomp/metatrader4.apk" target="_blank"><img src="../public_files/images/common/ic_android.svg" alt="android"></a>
+                                                <a href="https://itunes.apple.com/us/app/metatrader-4/id496212596" target="_blank"><img src="/multibankfx/public_files/images/common/ic_apple@2x.png" alt="apple"></a>
+                                                <a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4" target="_blank"><img src="/multibankfx/public_files/images/common/google_open.png" alt="google"></a>
+                                                <a href="/multibankfx/web/uploads/democomp/metatrader4.apk" target="_blank"><img src="/multibankfx/public_files/images/common/ic_android.svg" alt="android"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
                                             <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز"><?php translate('Desktop'); ?>
                                             </div>
                                             <div class="platform-icon">
-                                                <a href="../web/uploads/democomp/demo/maximusmexintgroup4setup.exe" target="_blank"><img src="../public_files/images/common/windows.png" alt="window"></a>
+                                                <a href="/multibankfx/web/uploads/democomp/demo/maximusmexintgroup4setup.exe" target="_blank"><img src="/multibankfx/public_files/images/common/windows.png" alt="window"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
                                             <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب"><?php translate('Web Trading'); ?>
                                             </div>
                                             <div class="platform-icon">
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/chrome.png" alt="chrome"></a>
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/firefox.png" alt="firefox"></a>
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/ic_ie@2x.png" alt="IE"></a>
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/safari.png" alt="safari"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/chrome.png" alt="chrome"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/firefox.png" alt="firefox"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/ic_ie@2x.png" alt="IE"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/safari.png" alt="safari"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -595,26 +595,26 @@
                                             <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال"><?php translate('Mobile APP'); ?>
                                             </div>
                                             <div class="platform-icon">
-                                                <a href="https://itunes.apple.com/us/app/metatrader-4/id496212596" target="_blank"><img src="../public_files/images/common/ic_apple@2x.png" alt="apple"></a>
-                                                <a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4" target="_blank"><img src="../public_files/images/common/google_open.png" alt="google"></a>
-                                                <a href="../web/uploads/democomp/metatrader4.apk" target="_blank"><img src="../public_files/images/common/ic_android.svg" alt="android"></a>
+                                                <a href="https://itunes.apple.com/us/app/metatrader-4/id496212596" target="_blank"><img src="/multibankfx/public_files/images/common/ic_apple@2x.png" alt="apple"></a>
+                                                <a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4" target="_blank"><img src="/multibankfx/public_files/images/common/google_open.png" alt="google"></a>
+                                                <a href="/multibankfx/web/uploads/democomp/metatrader4.apk" target="_blank"><img src="/multibankfx/public_files/images/common/ic_android.svg" alt="android"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
                                             <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز"><?php translate('Desktop'); ?>
                                             </div>
                                             <div class="platform-icon">
-                                                <a href="../web/uploads/democomp/demo/promexintgroup4setup.exe" target="_blank"><img src="../public_files/images/common/windows.png" alt="windows"></a>
+                                                <a href="/multibankfx/web/uploads/democomp/demo/promexintgroup4setup.exe" target="_blank"><img src="/multibankfx/public_files/images/common/windows.png" alt="windows"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
                                             <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب"><?php translate('Web Trading'); ?>
                                             </div>
                                             <div class="platform-icon">
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/chrome.png" alt="chrome"></a>
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/firefox.png" alt="firefox"></a>
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/ic_ie@2x.png" alt="IE"></a>
-                                                <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/safari.png" alt="safari"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/chrome.png" alt="chrome"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/firefox.png" alt="firefox"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/ic_ie@2x.png" alt="IE"></a>
+                                                <a href="/multibankfx/mql5.php" target="_blank"><img src="/multibankfx/public_files/images/common/safari.png" alt="safari"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -625,15 +625,15 @@
                                             <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال"><?php translate('Mobile APP'); ?>
                                             </div>
                                             <div class="platform-icon">
-                                                <a href="https://download.mql5.com/cdn/mobile/mt5/ios?server=MEXIntGroup-Demo,MEXIntGroup-Real" target="_blank"><img src="../public_files/images/common/ic_apple@2x.png" alt="apple"></a>
-                                                <a href="https://download.mql5.com/cdn/mobile/mt5/android?server=MEXIntGroup-Demo,MEXIntGroup-Real" target="_blank"><img src="../public_files/images/common/google_open.png" alt="google"></a>
+                                                <a href="https://download.mql5.com/cdn/mobile/mt5/ios?server=MEXIntGroup-Demo,MEXIntGroup-Real" target="_blank"><img src="/multibankfx/public_files/images/common/ic_apple@2x.png" alt="apple"></a>
+                                                <a href="https://download.mql5.com/cdn/mobile/mt5/android?server=MEXIntGroup-Demo,MEXIntGroup-Real" target="_blank"><img src="/multibankfx/public_files/images/common/google_open.png" alt="google"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
                                             <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز"><?php translate('Desktop'); ?>
                                             </div>
                                             <div class="platform-icon">
-                                                <a href="https://download.mql5.com/cdn/web/mex.international.group/mt5/mexintgroup5setup.exe" target="_blank"><img src="../public_files/images/common/windows.png" alt="windows"></a>
+                                                <a href="https://download.mql5.com/cdn/web/mex.international.group/mt5/mexintgroup5setup.exe" target="_blank"><img src="/multibankfx/public_files/images/common/windows.png" alt="windows"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -729,53 +729,53 @@
                 <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
-                        <li><a href="compare-platforms.html"><span class="ico-ic_compare_our_trading_platforms"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="compare-platforms.html">Compare our Trading Platforms</a></div>
-                            <a href="compare-platforms.html"> </a>
+                        <li><a href="compare-platforms.php"><span class="ico-ic_compare_our_trading_platforms"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="compare-platforms.php">Compare our Trading Platforms</a></div>
+                            <a href="compare-platforms.php"> </a>
                         </li>
-                        <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
-                            <a href="../products.html"> </a>
+                        <li><a href="/multibankfx/products.php"><span class="ico-ic_our_products"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php">Our Products</a></div>
+                            <a href="/multibankfx/products.php"> </a>
                         </li>
-                        <li><a href="download-center.html"><span class="ico-ic_download_mt4"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="download-center.html">Download MT4</a></div>
-                            <a href="download-center.html"> </a>
+                        <li><a href="download-center.php"><span class="ico-ic_download_mt4"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="download-center.php">Download MT4</a></div>
+                            <a href="download-center.php"> </a>
                         </li>
-                        <li><a href="../about/why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../about/why-multibank-group.html">Why Multibank</a></div>
-                            <a href="../about/why-multibank-group.html"> </a>
+                        <li><a href="/multibankfx/about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/why-multibank-group.php">Why Multibank</a></div>
+                            <a href="/multibankfx/about/why-multibank-group.php"> </a>
                         </li>
-                        <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our Regulations</a></div>
-                            <a href="../mfx/v1/about/regulations.html"> </a>
+                        <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/mfx/v1/about/regulations.php">Our Regulations</a></div>
+                            <a href="/multibankfx/mfx/v1/about/regulations.php"> </a>
                         </li>
-                        <li><a href="../about/security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../about/security-of-funds.html">Security of Funds</a></div>
-                            <a href="../about/security-of-funds.html"> </a>
+                        <li><a href="/multibankfx/about/security-of-funds.php"><span class="ico-ic_security_of_funds"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/security-of-funds.php">Security of Funds</a></div>
+                            <a href="/multibankfx/about/security-of-funds.php"> </a>
                         </li>
-                        <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a></div>
-                            <a href="../account.html"> </a>
+                        <li><a href="/multibankfx/account.php"><span class="ico-ic_accounts_funding"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php">Accounts and Funding</a></div>
+                            <a href="/multibankfx/account.php"> </a>
                         </li>
-                        <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../tools.html">Trading Tools</a></div>
-                            <a href="../tools.html"> </a>
+                        <li><a href="/multibankfx/tools.php"><span class="ico-ic_trading_tools"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/tools.php">Trading Tools</a></div>
+                            <a href="/multibankfx/tools.php"> </a>
                         </li>
-                        <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../account/bonus.html">Bonus Programs</a></div>
-                            <a href="../account/bonus.html"> </a>
+                        <li><a href="/multibankfx/account/bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/account/bonus.php">Bonus Programs</a></div>
+                            <a href="/multibankfx/account/bonus.php"> </a>
                         </li>
-                        <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership Programs</a></div>
-                            <a href="../investor-relations.html"> </a>
+                        <li><a href="/multibankfx/investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php">Partnership Programs</a></div>
+                            <a href="/multibankfx/investor-relations.php"> </a>
                         </li>
-                        <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an IB</a></div>
-                            <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
+                        <li><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form">Become an IB</a></div>
+                            <a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                         </li>
-                        <li><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-d1c9774db3f837ffbe72828f-=""><span class="ico-ic_live_chat_support"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-d1c9774db3f837ffbe72828f-="">Live Chat Support</a></div>
-                            <a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-d1c9774db3f837ffbe72828f-=""> </a>
+                        <li><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-d1c9774db3f837ffbe72828f-=""><span class="ico-ic_live_chat_support"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-d1c9774db3f837ffbe72828f-="">Live Chat Support</a></div>
+                            <a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-d1c9774db3f837ffbe72828f-=""> </a>
                         </li>
                     </ul>
                 </div>
@@ -785,16 +785,16 @@
     <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="../cdn-cgi/l/email-protection.html#7b18083b160e170f12191a15101d0355181416">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#7b18083b160e170f12191a15101d0355181416">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-d1c9774db3f837ffbe72828f-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1239,7 +1239,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="d1c9774db3f837ffbe72828f-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -1252,12 +1252,12 @@
             });
         })
     </script>
-    <script src="../public_files/static_js/lang_data/en.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.dataTables.min.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
-    <script src="../public_files/static_js/lazysizes.min.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.validate.min.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
-    <script src="../public_files/static_js/intlTelInput.min.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
-    <script src="../public_files/static_js/app.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/app.js" type="d1c9774db3f837ffbe72828f-text/javascript"></script>
     <script type="d1c9774db3f837ffbe72828f-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
