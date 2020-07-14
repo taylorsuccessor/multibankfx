@@ -69,6 +69,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             height: 0;
         }
     </style>
+    <link rel="stylesheet" type="text/css"
+          href="/multibankfx/public_files/static_css/payment_gateway/form_validate.css">
+    <link rel="stylesheet" type="text/css" href="/multibankfx/public_files/static_css/font-awesome.min.css">
+    <script type="62d2d0d9881871a18debc942-text/javascript"
+            src="/multibankfx/public_files/static_js/jquery.ba-throttle-debounce.js"></script>
     <script src="/multibankfx/public_files/static_js/jquery-3.3.1.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
     <script type="785e4eb336bec21b04c19cf7-text/javascript">const page_dir = 'ltr';</script>
     <link rel="stylesheet" type="text/css" href="/multibankfx/public_files/static_css/swiper-3.4.2.min.css">

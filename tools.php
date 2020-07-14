@@ -59,7 +59,7 @@
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="flex-center page-top-banner">
-        <img src="public_files/images/tools/tools_topbanner.jpg" alt="tools top banner" class="mex-img-cover" />
+        <img src="/multibankfx/public_files/images/tools/tools_topbanner.jpg" alt="tools top banner" class="mex-img-cover" />
         <div class="container">
             <div class="row justify-content-end">
                 <div class="col-xl-6 mex-p-t-30 mex-p-b-30">
@@ -92,7 +92,7 @@
     <section class="pb0">
         <div class="container">
             <div class="banner-with-bg pos-rlt">
-                <img class="banner-bg" src="public_files/images/tools/img_topbanner_tools_s.jpg" alt="Trading Tools">
+                <img class="banner-bg" src="/multibankfx/public_files/images/tools/img_topbanner_tools_s.jpg" alt="Trading Tools">
                 <div class="container align-all pt-0 pb-0 mt-xl-5">
                     <div class="row d-block">
                         <div class="col-lg-8 col-xl-6 offset-lg-2 offset-xl-3 text-center pt-xl-5">
@@ -103,25 +103,25 @@
                             <div class="row text-center mex-m-b-40 mt-xl-5">
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff mb-s-30">
                                     <a href="tools/trading-tools.html#vps" class="text-fff">
-                                        <img src="public_files/images/tools/trading_tools/VPS_Hosting_icon.png" alt="VPS Hosting">
+                                        <img src="/multibankfx/public_files/images/tools/trading_tools/VPS_Hosting_icon.png" alt="VPS Hosting">
                                         <p><?php translate('VPS Hosting'); ?></p>
                                     </a>
                                 </div>
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff mb-s-30">
                                     <a href="tools/trading-tools.html#experts-adv" class="text-fff">
-                                        <img src="public_files/images/tools/trading_tools/Expert_Advisors_icon.png" alt="Expert Advisors">
+                                        <img src="/multibankfx/public_files/images/tools/trading_tools/Expert_Advisors_icon.png" alt="Expert Advisors">
                                         <p><?php translate('Expert Advisors'); ?></p>
                                     </a>
                                 </div>
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff">
                                     <a href="tools/trading-tools.html#nam-pamm" class="text-fff">
-                                        <img src="public_files/images/tools/trading_tools/MAM_PAMM_icon.png" alt="MAM/ PAMM">
+                                        <img src="/multibankfx/public_files/images/tools/trading_tools/MAM_PAMM_icon.png" alt="MAM/ PAMM">
                                         <p><?php translate('MAM/PAMM'); ?></p>
                                     </a>
                                 </div>
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff">
                                     <a href="tools/trading-tools.html#fix-api" class="text-fff">
-                                        <img src="public_files/images/tools/trading_tools/FIX_AP_icon.png" alt="FIX API">
+                                        <img src="/multibankfx/public_files/images/tools/trading_tools/FIX_AP_icon.png" alt="FIX API">
                                         <p><?php translate('FIX API'); ?></p>
                                     </a>
                                 </div>
@@ -138,7 +138,7 @@
                 <div class="col-md-6 mex-m-b-15">
                     <section class="mex-block-card bg-white shadow-box-animate">
                         <div class="card-img-box hover-img-zoom">
-                            <img class="mex-img-cover" src="public_files/images/tools/trading_tools_trading_conditions.jpg" alt="Trading Conditions">
+                            <img class="mex-img-cover" src="/multibankfx/public_files/images/tools/trading_tools_trading_conditions.jpg" alt="Trading Conditions">
                         </div>
                         <div class="card-content-box">
                             <div class=" card-content text-center">
@@ -146,7 +146,7 @@
                                 <?php translate('TRADING CONDITIONS'); ?> </div>
                                 <div class="mex-content text-overflow-3">
                                 <?php translate('Enjoy the best trading conditions in the industry for products including forex, metals, shares, indices,commodities and more!'); ?> </div>
-                                <a href="tools/trading-conditions.html" class="btn btn-mex mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
+                                <a href="tools/trading-conditions.php" class="btn btn-mex mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                             </div>
                         </div>
                     </section>
@@ -154,7 +154,7 @@
                 <div class="col-md-6 mex-m-b-15">
                     <section class="mex-block-card bg-white shadow-box-animate">
                         <div class="card-img-box hover-img-zoom">
-                            <img class="mex-img-cover" src="public_files/images/tools/trading_tools_holiday_hours_notices.jpg" alt="Holiday Hours &amp; Notices">
+                            <img class="mex-img-cover" src="/multibankfx/public_files/images/tools/trading_tools_holiday_hours_notices.jpg" alt="Holiday Hours &amp; Notices">
                         </div>
                         <div class="card-content-box">
                             <div class=" card-content bg-white text-center">
@@ -162,7 +162,7 @@
                                 <?php translate('TRADING HOURS & HOLIDAY NOTICES'); ?> </div>
                                 <div class="mex-content text-overflow-3">
                                 <?php translate('Stay up to date on relevant holiday hours and trading sessions'); ?> </div>
-                                <a href="tools/holiday-hours-notices.html" class="btn btn-mex mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
+                                <a href="tools/holiday-hours-notices.php" class="btn btn-mex mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                             </div>
                         </div>
                     </section>
@@ -171,7 +171,7 @@
         </div>
     </section>
     <section class="flex-center page-top-banner">
-        <img class="mex-img-cover" src="public_files/images/tools/scalping_policy_bg.jpg" alt="Scalping Policy">
+        <img class="mex-img-cover" src="/multibankfx/public_files/images/tools/scalping_policy_bg.jpg" alt="Scalping Policy">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -180,7 +180,7 @@
                     <div class="mex-content mex-m-b-30">
                         <p class="mex-m-t-15"><?php translate('Learn more about MultiBank’s scalping policy'); ?></p>
                     </div>
-                    <a href="scalping-policy.html" class="btn btn-mex mex-m-r-15"><?php translate('LEARN MORE'); ?></a>
+                    <a href="scalping-policy.php" class="btn btn-mex mex-m-r-15"><?php translate('LEARN MORE'); ?></a>
                 </div>
             </div>
         </div>
@@ -191,53 +191,53 @@
                 <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
-                        <li><a href="products.html"><span class="ico-ic_our_products"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="products.html">Our Products</a></div>
-                            <a href="products.html"> </a>
+                        <li><a href="products.php"><span class="ico-ic_our_products"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="products.php">Our Products</a></div>
+                            <a href="products.php"> </a>
                         </li>
-                        <li><a href="account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="account.html">Accounts and Funding</a></div>
-                            <a href="account.html"> </a>
+                        <li><a href="account.php"><span class="ico-ic_accounts_funding"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="account.php">Accounts and Funding</a></div>
+                            <a href="account.php"> </a>
                         </li>
-                        <li><a href="account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="account/bonus.html">Bonus Programs</a></div>
-                            <a href="account/bonus.html"> </a>
+                        <li><a href="account/bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="account/bonus.php">Bonus Programs</a></div>
+                            <a href="account/bonus.php"> </a>
                         </li>
                         <li><a href="partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="partnership/introducing-brokers.html#introducing-brokers-form">Become an IB</a></div>
                             <a href="partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                         </li>
-                        <li><a href="investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="investor-relations.html">Partnership Programs</a></div>
-                            <a href="investor-relations.html"> </a>
+                        <li><a href="investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="investor-relations.php">Partnership Programs</a></div>
+                            <a href="investor-relations.php"> </a>
                         </li>
-                        <li><a href="about/security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="about/security-of-funds.html">Security of Funds</a></div>
-                            <a href="about/security-of-funds.html"> </a>
+                        <li><a href="about/security-of-funds.php"><span class="ico-ic_security_of_funds"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="about/security-of-funds.php">Security of Funds</a></div>
+                            <a href="about/security-of-funds.php"> </a>
                         </li>
                         <li><a href="https://my.mexgroup.com" target="_blank"><span class="ico-ic_mymultibank_account_panel"></span> </a>
                             <div class="mex-content mex-clamp-3"><a href="https://my.mexgroup.com" target="_blank">MyMultiBank Account Panel</a></div>
                             <a href="https://my.mexgroup.com" target="_blank"> </a>
                         </li>
-                        <li><a href="scalping-policy.html"><span class="ico-ic_scalping_policy"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="scalping-policy.html">Scalping Policy</a></div>
-                            <a href="scalping-policy.html"> </a>
+                        <li><a href="scalping-policy.php"><span class="ico-ic_scalping_policy"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="scalping-policy.php">Scalping Policy</a></div>
+                            <a href="scalping-policy.php"> </a>
                         </li>
-                        <li><a href="platforms/compare-platforms.html"><span class="ico-ic_compare_our_trading_platforms"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="platforms/compare-platforms.html">Compare our Trading Platforms</a></div>
-                            <a href="platforms/compare-platforms.html"> </a>
+                        <li><a href="platforms/compare-platforms.php"><span class="ico-ic_compare_our_trading_platforms"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="platforms/compare-platforms.php">Compare our Trading Platforms</a></div>
+                            <a href="platforms/compare-platforms.php"> </a>
                         </li>
-                        <li><a href="about/why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="about/why-multibank-group.html">Why Multibank</a></div>
-                            <a href="about/why-multibank-group.html"> </a>
+                        <li><a href="about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="about/why-multibank-group.php">Why Multibank</a></div>
+                            <a href="about/why-multibank-group.php"> </a>
                         </li>
-                        <li><a href="about/milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="about/milestones.html">Our Milestones</a></div>
-                            <a href="about/milestones.html"> </a>
+                        <li><a href="about/milestones.php"><span class="ico-ic_our_milestones"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="about/milestones.php">Our Milestones</a></div>
+                            <a href="about/milestones.php"> </a>
                         </li>
-                        <li><a href="tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="tools.html">Trading Tools</a></div>
-                            <a href="tools.html"> </a>
+                        <li><a href="tools.php"><span class="ico-ic_trading_tools"></span> </a>
+                            <div class="mex-content mex-clamp-3"><a href="tools.php">Trading Tools</a></div>
+                            <a href="tools.php"> </a>
                         </li>
                     </ul>
                 </div>
@@ -247,16 +247,16 @@
     <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#7c1f0f3c11091008151e1d12171a04521f1311">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-447a538b1cbe9182bdfa004a-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -714,12 +714,12 @@
             });
         })
     </script>
-    <script src="public_files/static_js/lang_data/en.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
-    <script src="public_files/static_js/jquery.dataTables.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
-    <script src="public_files/static_js/lazysizes.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
-    <script src="public_files/static_js/jquery.validate.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
-    <script src="public_files/static_js/intlTelInput.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
-    <script src="public_files/static_js/app.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/app.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
     <script type="447a538b1cbe9182bdfa004a-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

@@ -61,7 +61,7 @@
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img src="../public_files/images/accounts_funding/account_withdrawal_top_banner.jpg" alt="Withdrawals banner" class="mex-img-cover">
+        <section class="flex-center page-top-banner"><img src="/multibankfx/public_files/images/accounts_funding/account_withdrawal_top_banner.jpg" alt="Withdrawals banner" class="mex-img-cover">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 col-12">
@@ -82,7 +82,7 @@
                                 <a href="withdrawals.html#withdrawals" class="font-24" aria-controls="withdrawals" role="tab" data-toggle="tab"><?php translate('WITHDRAWAL OPTIONS'); ?></a>
                             </li>
                             <li class="tab-title font-type-cap" role="presentation">
-                                <a href="account-funding.html" class="font-24"><?php translate('DEPOSIT OPTIONS'); ?></a>
+                                <a href="account-funding.php" class="font-24"><?php translate('DEPOSIT OPTIONS'); ?></a>
                             </li>
                         </ul>
                         <div class="mex-h2 text-center text-1e32a3 mex-m-b-20" style="margin:20px 0 !important"><?php translate('CHOOSE YOUR REGULATOR'); ?>
@@ -104,41 +104,41 @@
                                                     </thead>
                                                     <tbody class="table-tbody">
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/payment_icons/bank_wire.jpg" alt="Bank Wire"></td>
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/bank_wire.jpg" alt="Bank Wire"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=bank_transfer.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?> </a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal_gateway_bank_transfer.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?> </a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Viese"></td>
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Viese"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=mastercard.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal_gateway_bank_transfer.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill"></td>
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=skrill.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal__gateway_skrill.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/payment_icons/paytrust.jpg">
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/paytrust.jpg">
                                                             </td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=paytrust.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal_gateway_paytrust.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Netrller"></td>
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Netrller"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=neteller_pay.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal_gateway_neteller_pay.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
                                                             <td>USD,EUR</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=perfect_money.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal__gateway_perfect_money.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -161,60 +161,60 @@
                                                     </thead>
                                                     <tbody class="table-tbody">
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/payment_icons/bank_wire.jpg" data-toggle="modal" data-target="#modal_funds_deposit_multibank_fx_ltd" alt="Bank Wire"></td>
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/bank_wire.jpg" data-toggle="modal" data-target="#modal_funds_deposit_multibank_fx_ltd" alt="Bank Wire"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=bank_transfer.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal_gateway_bank_transfer.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill"></td>
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=skrill.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal__gateway_skrill.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Netrller"></td>
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Netrller"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=neteller_pay.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal_gateway_neteller_pay.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Viese"></td>
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Viese"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=mastercard.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal__gateway_mastercard.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/payment_icons/paytrust.jpg">
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/paytrust.jpg">
                                                             </td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=paytrust.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal_gateway_paytrust.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
                                                             <td>USD,EUR</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=perfect_money.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal__gateway_perfect_money.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/payment_gateway/fxbit_logo.png" alt="FXBit"></td>
+                                                            <td><img src="/multibankfx/public_files/images/payment_gateway/fxbit_logo.png" alt="FXBit"></td>
                                                             <td>BTC, ETH, USDT</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=fxbit.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal_gateway_fxbit.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/payment_gateway/globepay_logo.png" alt="GlobePay"></td>
+                                                            <td><img src="/multibankfx/public_files/images/payment_gateway/globepay_logo.png" alt="GlobePay"></td>
                                                             <td>USD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=globepay.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal_gateway_globepay.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
-                                                            <td><img src="../public_files/images/accounts_funding/payment_icons/thunderx.png%3Ft=1">
+                                                            <td><img src="/multibankfx/public_files/images/accounts_funding/payment_icons/thunderx.png%3Ft=1">
                                                             </td>
                                                             <td>KHR, LAK, MMK, THB</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=thunderxpay.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
+                                                                <a href="/multibankfx/open-forex-account/withdrawal__gateway_thunderxpay.php" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -236,7 +236,7 @@
                         <div class="mex-content text-right">
                             <p><strong><?php translate('Withdraw via MyMultiBank:'); ?></strong> <?php translate('To withdraw funds from your account simply submit
                                 your withdrawal request online using the MyMultiBank account area.'); ?></p>
-                            <p><strong><?php translate('Withdraw via Email:'); ?></strong> <?php translate('Alternatively, please send us an email to'); ?> <a class="text-1e32a3" href="../cdn-cgi/l/email-protection.html#394e504d515d4b584e79544c554d505b5857525f41175a5654"><span class="__cf_email__" data-cfemail="3d4a544955594f5c4a7d50485149545f5c53565b45135e5250">[email&#160;protected]</span></a>
+                            <p><strong><?php translate('Withdraw via Email:'); ?></strong> <?php translate('Alternatively, please send us an email to'); ?> <a class="text-1e32a3" href="/multibankfx/cdn-cgi/l/email-protection.html#394e504d515d4b584e79544c554d505b5857525f41175a5654"><span class="__cf_email__" data-cfemail="3d4a544955594f5c4a7d50485149545f5c53565b45135e5250">[email&#160;protected]</span></a>
                             <?php translate('from the email address associated with your account and our Customer Support Department will
                                 assist you with your withdrawal request.'); ?> </p>
                         </div>
@@ -258,13 +258,13 @@
                                 <div class="mex-h3 mex-m-b-15">
                                     MEX EXCHANGE
                                 </div>
-                                <a href="../public_files/images/documents/pdf/withdrawal-forms/MEX_Exchange_Fund_Withdrawal_Form.pdf" class="btn btn-mex" target="_blank"><?php translate('DOWNLOAD'); ?></a>
+                                <a href="/multibankfx/public_files/images/documents/pdf/withdrawal-forms/MEX_Exchange_Fund_Withdrawal_Form.pdf" class="btn btn-mex" target="_blank"><?php translate('DOWNLOAD'); ?></a>
                             </div>
                             <div class="col-lg-6 col-d-12 mb-sm-24 text-center p0">
                                 <div class="mex-h3 mex-m-b-15">
                                     MultiBank FX International
                                 </div>
-                                <a href="../public_files/images/documents/pdf/withdrawal-forms/Multibak_FX_Fund_Withdrawal_Request.pdf" class="btn btn-mex" target="_blank"><?php translate('DOWNLOAD'); ?></a>
+                                <a href="/multibankfx/public_files/images/documents/pdf/withdrawal-forms/Multibak_FX_Fund_Withdrawal_Request.pdf" class="btn btn-mex" target="_blank"><?php translate('DOWNLOAD'); ?></a>
                             </div>
                         </div>
                     </div>
@@ -351,7 +351,7 @@
                 }
             }
         </style>
-        <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script type="159ad7768bd13813ab411a2b-text/javascript">
             $(function() {
                 $('.withdraw-header').click(function() {
@@ -378,63 +378,63 @@
                     </div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
-                            <li><a href="../platforms/download-center.html"><span class="ico-ic_download_mt4"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../platforms/download-center.html">Download
+                            <li><a href="/multibankfx/platforms/download-center.php"><span class="ico-ic_download_mt4"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/platforms/download-center.php">Download
                                         MT4</a></div>
-                                <a href="../platforms/download-center.html"> </a>
+                                <a href="/multibankfx/platforms/download-center.php"> </a>
                             </li>
-                            <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
-                                <a href="../products.html"> </a>
+                            <li><a href="/multibankfx/products.php"><span class="ico-ic_our_products"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php">Our Products</a></div>
+                                <a href="/multibankfx/products.php"> </a>
                             </li>
-                            <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../tools.html">Trading Tools</a></div>
-                                <a href="../tools.html"> </a>
+                            <li><a href="/multibankfx/tools.php"><span class="ico-ic_trading_tools"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/tools.php">Trading Tools</a></div>
+                                <a href="/multibankfx/tools.php"> </a>
                             </li>
-                            <li><a href="../about/why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/why-multibank-group.html">Why
+                            <li><a href="/multibankfx/about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/why-multibank-group.php">Why
                                         Multibank</a></div>
-                                <a href="../about/why-multibank-group.html"> </a>
+                                <a href="/multibankfx/about/why-multibank-group.php"> </a>
                             </li>
-                            <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
+                            <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/mfx/v1/about/regulations.php">Our
                                         Regulations</a></div>
-                                <a href="../mfx/v1/about/regulations.html"> </a>
+                                <a href="/multibankfx/mfx/v1/about/regulations.php"> </a>
                             </li>
-                            <li><a href="../about/security-of-funds.html"><span class="ico-ic_security_of_funds"></span>
+                            <li><a href="/multibankfx/about/security-of-funds.php"><span class="ico-ic_security_of_funds"></span>
                                 </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/security-of-funds.html">Security of
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/security-of-funds.php">Security of
                                         Funds</a></div>
-                                <a href="../about/security-of-funds.html"> </a>
+                                <a href="/multibankfx/about/security-of-funds.php"> </a>
                             </li>
-                            <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../account.html">Accounts and Funding</a>
+                            <li><a href="/multibankfx/account.php"><span class="ico-ic_accounts_funding"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php">Accounts and Funding</a>
                                 </div>
-                                <a href="../account.html"> </a>
+                                <a href="/multibankfx/account.php"> </a>
                             </li>
-                            <li><a href="bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="bonus.html">Bonus Programs</a></div>
-                                <a href="bonus.html"> </a>
+                            <li><a href="bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="bonus.php">Bonus Programs</a></div>
+                                <a href="bonus.php"> </a>
                             </li>
-                            <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership
+                            <li><a href="/multibankfx/investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php">Partnership
                                         Programs</a></div>
-                                <a href="../investor-relations.html"> </a>
+                                <a href="/multibankfx/investor-relations.php"> </a>
                             </li>
-                            <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an
+                            <li><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form">Become an
                                         IB</a></div>
-                                <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
+                                <a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                             </li>
-                            <li><a href="../about/milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/milestones.html">Our Milestones</a>
+                            <li><a href="/multibankfx/about/milestones.php"><span class="ico-ic_our_milestones"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/milestones.php">Our Milestones</a>
                                 </div>
-                                <a href="../about/milestones.html"> </a>
+                                <a href="/multibankfx/about/milestones.php"> </a>
                             </li>
-                            <li><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-159ad7768bd13813ab411a2b-=""><span class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-159ad7768bd13813ab411a2b-="">Live
+                            <li><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-159ad7768bd13813ab411a2b-=""><span class="ico-ic_live_chat_support"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-159ad7768bd13813ab411a2b-="">Live
                                         Chat Support</a></div>
-                                <a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-159ad7768bd13813ab411a2b-=""> </a>
+                                <a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-159ad7768bd13813ab411a2b-=""> </a>
                             </li>
                         </ul>
                     </div>
@@ -805,16 +805,16 @@
   <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="../cdn-cgi/l/email-protection.html#fa9989ba978f968e93989b94919c82d4999597">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#fa9989ba978f968e93989b94919c82d4999597">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-159ad7768bd13813ab411a2b-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1281,7 +1281,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="159ad7768bd13813ab411a2b-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -1294,12 +1294,12 @@
             });
         })
     </script>
-    <script src="../public_files/static_js/lang_data/en.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.dataTables.min.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
-    <script src="../public_files/static_js/lazysizes.min.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.validate.min.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
-    <script src="../public_files/static_js/intlTelInput.min.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
-    <script src="../public_files/static_js/app.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/app.js" type="159ad7768bd13813ab411a2b-text/javascript"></script>
     <script type="159ad7768bd13813ab411a2b-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

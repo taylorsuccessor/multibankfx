@@ -359,7 +359,7 @@
                     <div class="mex-h3 mex-m-b-15">
                         Cookies </div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">Cookies are small pieces of data sent from our website(s) to your browser and stored on your computer’s hard drive when using our site(s), and they may include a unique identification number. The purpose of collecting this information is to provide you with a more relevant and effective experience on our website(s), including the presentation of our web pages according to your needs or preferences.<br />Cookies are frequently used on many websites on the internet, and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of our website(s) if you choose to disable the cookie acceptance in your browser, particularly in your MyMultiBank account panel and other secure parts of our website(s). We therefore recommend you to enable cookie acceptance in order to benefit from all our online services.<br />Furthermore, we use cookies for re-marketing features in order to allow us to reach out to users who have previously visited our website(s) and have shown an interest in our products and services. Periodically, we may use third party vendors to display our ads over the internet to you, based on your previous use of our website(s). You can opt out this particular use of cookies at any time by visiting <a href="https://www.google.com/settings/ads" class="text-1e32a3">Google’s Ads Settings</a> page and the <a href="https://www.google.com/settings/ads/onweb#display_optout" class="text-1e32a3">DoubleClick opt-out</a> page or as they later update those facilities.<br />The Company uses session ID cookies and persistent cookies. A session ID cookie expires after a set amount of time or when the browser window is closed. A persistent cookie remains on your hard drive for an extended time period. You can remove persistent cookies by following directions provided in your web browser's ‘Help’ file.<br />For further details about our cookie policy and how our cookies work, read our <a href="cookie-policy.html" class="text-1e32a3">Cookies Policy</a>.</p>
+                        <p class="mex-m-b-30">Cookies are small pieces of data sent from our website(s) to your browser and stored on your computer’s hard drive when using our site(s), and they may include a unique identification number. The purpose of collecting this information is to provide you with a more relevant and effective experience on our website(s), including the presentation of our web pages according to your needs or preferences.<br />Cookies are frequently used on many websites on the internet, and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of our website(s) if you choose to disable the cookie acceptance in your browser, particularly in your MyMultiBank account panel and other secure parts of our website(s). We therefore recommend you to enable cookie acceptance in order to benefit from all our online services.<br />Furthermore, we use cookies for re-marketing features in order to allow us to reach out to users who have previously visited our website(s) and have shown an interest in our products and services. Periodically, we may use third party vendors to display our ads over the internet to you, based on your previous use of our website(s). You can opt out this particular use of cookies at any time by visiting <a href="https://www.google.com/settings/ads" class="text-1e32a3">Google’s Ads Settings</a> page and the <a href="https://www.google.com/settings/ads/onweb#display_optout" class="text-1e32a3">DoubleClick opt-out</a> page or as they later update those facilities.<br />The Company uses session ID cookies and persistent cookies. A session ID cookie expires after a set amount of time or when the browser window is closed. A persistent cookie remains on your hard drive for an extended time period. You can remove persistent cookies by following directions provided in your web browser's ‘Help’ file.<br />For further details about our cookie policy and how our cookies work, read our <a href="cookie-policy.php" class="text-1e32a3">Cookies Policy</a>.</p>
                     </div>
                 </div>
             </div>
@@ -506,16 +506,16 @@
     <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#b4d7c7f4d9c1d8c0ddd6d5dadfd2cc9ad7dbd9">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-043ac85ce02ef20987f94e50-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -973,12 +973,12 @@
             });
         })
     </script>
-    <script src="public_files/static_js/lang_data/en.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
-    <script src="public_files/static_js/jquery.dataTables.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
-    <script src="public_files/static_js/lazysizes.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
-    <script src="public_files/static_js/jquery.validate.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
-    <script src="public_files/static_js/intlTelInput.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
-    <script src="public_files/static_js/app.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/app.js" type="043ac85ce02ef20987f94e50-text/javascript"></script>
     <script type="043ac85ce02ef20987f94e50-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
