@@ -67,11 +67,11 @@
                 <div class="row">
                     <div class="col-10 col-xl-6 col-sm-10">
                         <h1 class="mex-h1 text-left">
-                            Live Account
+                        <?php translate('Live Account'); ?>
                         </h1>
                         <div class="mex-content">
-                            <p class="mex-m-t-30">MultiBank offer customers direct access to banks and exchanges through its
-                                advanced trading platforms</p>
+                            <p class="mex-m-t-30"><?php translate('MultiBank offer customers direct access to banks and exchanges through its
+                                advanced trading platforms'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
             <div class="container">
                 <div class="row mex-m-b-40">
                     <div class="mex-h1 text-center text-1e32a3 mx-auto">
-                        Open a Live account
+                    <?php translate('Open a Live account'); ?>
                     </div>
                 </div>
                 <div class="row">
@@ -109,12 +109,12 @@
                             <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:05] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/account/live-account?web=true' />
                             <div class='form-group col-12 px-0 border-bottom border-secondary px-1'>
                                 <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
-                                    ACCOUNT INFORMATION</label>
+                                <?php translate('ACCOUNT INFORMATION'); ?></label>
                                 <input type='hidden' data-message='Label Account Info is Required.' data-extra-message="" data-regex='' class=' form-control' name='label_account_info' placeholder='' value='' />
                             </div>
                             <div class='mex-form-item col-12 px-1 py-1 regulator-group'>
                                 <label for='la_select_company' class='d-block'>
-                                    Select Regulator</label>
+                                <?php translate('Select Regulator'); ?></label>
                                 <select class='d-block' data-message='Regulator is required.' data-extra-message="Regulator is Invalid." data-regex='' id='la_select_company' name='company' required readonly>
                                     <option value='1' class=' '>MEX EXCHANGE ( AUTHORISED AND REGULATED BY "ASIC" LICENSE
                                         NO. 416279 )
@@ -125,7 +125,7 @@
                                 </select></div>
                             <div class='mex-form-item col-12 col-lg-6 px-1 py-1 account-type-group'>
                                 <label for='' class='d-block'>
-                                    Select Platform</label>
+                                <?php translate('Select Platform'); ?></label>
                                 <select class='d-block' data-message='Platform Type is Required.' data-extra-message="Platform type is invalid." data-regex='' name='platform_type' required readonly>
                                     <option value='3' class=' '>ECN</option>
                                     <option value='5' class=' '>MultiBank Pro</option>
@@ -133,7 +133,7 @@
                                 </select></div>
                             <div class='mex-form-item col-12 col-lg-6 px-1 py-1 leverage-group'>
                                 <label for='' class='d-block'>
-                                    Select Leverage</label>
+                                <?php translate('Select Leverage'); ?></label>
                                 <select class='d-block' data-message='Leverage Field is required.' data-extra-message="Leverage is Invalid." data-regex='' name='leverage' required readonly>
                                     <option value='1' class=' '>1:100</option>
                                     <option value='2' class=' '>1:200</option>
@@ -143,7 +143,7 @@
                                 </select></div>
                             <div class='mex-form-item col-12 col-lg-6 px-1 py-1'>
                                 <label for='la_select_client_type' class='d-block'>
-                                    Select Client Type</label>
+                                <?php translate('Select Client Type'); ?></label>
                                 <select class='d-block' data-message='Client Type is Required.' data-extra-message="Client type is Invalid." data-regex='' id='la_select_client_type' name='client_type' required>
                                     <option value='' selected='selected' class=''>Please Select Client Type</option>
                                     <option value='1' class=' '>Corporate Client</option>
@@ -178,12 +178,12 @@
                             </div>
                             <div class='form-group col-12 px-0 border-bottom border-secondary px-1'>
                                 <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
-                                    CLIENT INFORMATION</label>
+                                <?php translate('CLIENT INFORMATION'); ?></label>
                                 <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' mex-form-item d-block' name='label_client_info' placeholder='' value='' />
                             </div>
                             <div class='mex-form-item col-12 p-1 la-container-name'>
                                 <label for='' class='d-block la-label-name'>
-                                    Full Name</label>
+                                <?php translate('Full Name'); ?></label>
                                 <input type="text" data-message="Full Name is Required." data-extra-message="Full Name is incorrect." data-regex="" class="d-block" name="name" $field_id_code placeholder="" required value="" />
                             </div>
                             <div class='mex-form-item col-6 p-1 d-none la-container-name-2'>
@@ -193,12 +193,12 @@
                             </div>
                             <div class='mex-form-item col-12 col-lg-6 px-1 py-1'>
                                 <label for='' class='d-block'>
-                                    Email</label>
+                                <?php translate('Email'); ?></label>
                                 <input type='email' data-message='Email is Required.' data-extra-message="Email Invalid." data-regex='' class='d-block' name='email' placeholder='' required value='' />
                             </div>
                             <div class='mex-form-item col-12 col-lg-6 p-1'>
                                 <label for='' class='d-block'>
-                                    Confirm Email</label>
+                                <?php translate('Confirm Email'); ?></label>
                                 <input type='email' data-message='Confirm Email is Required.' data-extra-message="Email Mismatched." data-regex='' class='d-block' name='confirm_email' placeholder='' required value='' />
                             </div>
                             <div class=''>
@@ -498,7 +498,7 @@
                                 </select><input type="hidden" name="country_code" value="" /></div>
                             <div class='mex-form-item col-12 col-lg-6 p-1'>
                                 <label for='' class='d-block'>
-                                    Mobile Number</label>
+                                <?php translate('Mobile Number'); ?></label>
                                 <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.' data-extra-message="Phone Number is Invalid." data-regex='' class='input_with_phone d-block' name='phone_display' placeholder='' required value='' />
                                 <input type='hidden' name='phone' />
                             </div>
@@ -538,14 +538,13 @@
                                 </label>
                                 <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' mex-form-item d-block' name='label_submit' placeholder='' value='' />
                             </div>
-                            <button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-b9b486becb7a1226308afcfc-="">SUBMIT
+                            <button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-b9b486becb7a1226308afcfc-=""><?php translate('SUBMIT'); ?>
                             </button>
                         </form>
                         <div class="px-1 " style="padding:15px 0px;">
                             <div class="form-check form-check-inline">
-                                <label class="form-check-label label-1 " for="terms_conditions">By submitting this form, you
-                                    agree to accept the <a href="../terms-conditions.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp;
-                                        Conditions</a>, <a href="../privacy-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a href="../cookie-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Cookie Policy</a>.
+                                <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you
+                                    agree to accept the'); ?> <a href="../terms-conditions.html" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="../privacy-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="../cookie-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                                 </label>
                             </div>
                         </div>
@@ -607,7 +606,7 @@
         <section class="p0 choose-next-background subject-box-bg-light d-none d-md-block">
             <div class="container mex-m-b-80">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?>
                     </div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">

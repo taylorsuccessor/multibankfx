@@ -65,9 +65,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 col-12">
-                        <h1 class="mex-h1 text-left">WITHDRAWALS </h1>
-                        <div class="mex-content mex-m-b-30">MultiBank provides you with easy and instant access to your
-                            money.
+                        <h1 class="mex-h1 text-left"><?php translate('WITHDRAWALS'); ?> </h1>
+                        <div class="mex-content mex-m-b-30"><?php translate('MultiBank provides you with easy and instant access to your
+                            money.'); ?>
                         </div>
                     </div>
                 </div>
@@ -79,28 +79,27 @@
                     <div class="col-12">
                         <ul class="tablist col-12 d-inline-block" role="tablist">
                             <li class="tab-title active font-type-cap" role="presentation">
-                                <a href="withdrawals.html#withdrawals" class="font-24" aria-controls="withdrawals" role="tab" data-toggle="tab">WITHDRAWAL OPTIONS</a>
+                                <a href="withdrawals.html#withdrawals" class="font-24" aria-controls="withdrawals" role="tab" data-toggle="tab"><?php translate('WITHDRAWAL OPTIONS'); ?></a>
                             </li>
                             <li class="tab-title font-type-cap" role="presentation">
-                                <a href="account-funding.html" class="font-24">DEPOSIT OPTIONS</a>
+                                <a href="account-funding.html" class="font-24"><?php translate('DEPOSIT OPTIONS'); ?></a>
                             </li>
                         </ul>
-                        <div class="mex-h2 text-center text-1e32a3 mex-m-b-20" style="margin:20px 0 !important">CHOOSE YOUR
-                            REGULATOR
+                        <div class="mex-h2 text-center text-1e32a3 mex-m-b-20" style="margin:20px 0 !important"><?php translate('CHOOSE YOUR REGULATOR'); ?>
                         </div>
                         <div class="tab-content withdraw-tab">
                             <div role="tabpanel" class="tab-pane active" id="withdrawals">
                                 <div class="col-12">
-                                    <div class="mex-h2 text-fff withdraw-header mb-1">MEX EXCHANGE (ASIC)</div>
+                                    <div class="mex-h2 text-fff withdraw-header mb-1"><?php translate('MEX EXCHANGE (ASIC)'); ?></div>
                                     <div class="st-slide-content">
                                         <div class="">
                                             <div class="table-responsive">
                                                 <table class="table table-striped mex-table mex-has-type text-center table-easy">
                                                     <thead>
                                                         <tr>
-                                                            <th class=" text-center">Withdrawal Methods</th>
-                                                            <th class=" text-center">Base Currencies</th>
-                                                            <th class=" text-center">Withdrawal</th>
+                                                            <th class=" text-center"><?php translate('Withdrawal Methods'); ?></th>
+                                                            <th class=" text-center"><?php translate('Base Currencies'); ?></th>
+                                                            <th class=" text-center"><?php translate('Withdrawal'); ?></th>
                                                         </tr>
                                                     </thead>
                                                     <tbody class="table-tbody">
@@ -108,38 +107,38 @@
                                                             <td><img src="../public_files/images/accounts_funding/payment_icons/bank_wire.jpg" alt="Bank Wire"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=bank_transfer.html" target="_blank">REQUEST A WITHDRAWAL </a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=bank_transfer.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?> </a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Viese"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=mastercard.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=mastercard.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=skrill.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=skrill.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/accounts_funding/payment_icons/paytrust.jpg">
                                                             </td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=paytrust.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=paytrust.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Netrller"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=neteller_pay.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=neteller_pay.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
                                                             <td>USD,EUR</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=perfect_money.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=1&amp;gateway=perfect_money.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -148,16 +147,16 @@
                                     </div>
                                 </div>
                                 <div class="col-12">
-                                    <div class="mex-h2 text-fff withdraw-header mb-1"> MULTIBANK FX (FSC)</div>
+                                    <div class="mex-h2 text-fff withdraw-header mb-1"> <?php translate('MULTIBANK FX (FSC)'); ?></div>
                                     <div class="st-slide-content">
                                         <div class="">
                                             <div class="table-responsive">
                                                 <table class="table table-striped mex-table mex-has-type text-center table-easy">
                                                     <thead>
                                                         <tr>
-                                                            <th class=" text-center">Withdrawal Methods</th>
-                                                            <th class=" text-center">Base Currencies</th>
-                                                            <th class=" text-center">Withdrawal</th>
+                                                            <th class=" text-center"><?php translate('Withdrawal Methods'); ?></th>
+                                                            <th class=" text-center"><?php translate('Base Currencies'); ?></th>
+                                                            <th class=" text-center"><?php translate('Withdrawal'); ?></th>
                                                         </tr>
                                                     </thead>
                                                     <tbody class="table-tbody">
@@ -165,61 +164,61 @@
                                                             <td><img src="../public_files/images/accounts_funding/payment_icons/bank_wire.jpg" data-toggle="modal" data-target="#modal_funds_deposit_multibank_fx_ltd" alt="Bank Wire"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=bank_transfer.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=bank_transfer.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=skrill.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=skrill.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Netrller"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=neteller_pay.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=neteller_pay.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Viese"></td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=mastercard.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=mastercard.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/accounts_funding/payment_icons/paytrust.jpg">
                                                             </td>
                                                             <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=paytrust.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=paytrust.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
                                                             <td>USD,EUR</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=perfect_money.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=perfect_money.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/payment_gateway/fxbit_logo.png" alt="FXBit"></td>
                                                             <td>BTC, ETH, USDT</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=fxbit.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=fxbit.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/payment_gateway/globepay_logo.png" alt="GlobePay"></td>
                                                             <td>USD</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=globepay.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=globepay.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                         <tr>
                                                             <td><img src="../public_files/images/accounts_funding/payment_icons/thunderx.png%3Ft=1">
                                                             </td>
                                                             <td>KHR, LAK, MMK, THB</td>
                                                             <td>
-                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=thunderxpay.html" target="_blank">REQUEST A WITHDRAWAL</a></td>
+                                                                <a href="../open-forex-account/withdrawal%3Fr=3&amp;gateway=thunderxpay.html" target="_blank"><?php translate('REQUEST A WITHDRAWAL'); ?></a></td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
-                                                <p>*subject to terms and conditions of MultiBank Group</p>
+                                                <p><?php translate('*subject to terms and conditions of MultiBank Group'); ?></p>
                                             </div>
                                         </div>
                                     </div>
@@ -229,27 +228,27 @@
                         </div>
                     </div>
                 </div>
-                <div class="row mex-m-t-50 text-center">
+                <div class="row mex-m-t-50 ">
                     <div class="col-12  bg-white mex-p-30 clear-float">
                         <div class="mex-h2 text-center text-1e32a3 mex-m-b-40">
-                            SUBMIT A WITHDRAWAL REQUEST
+                        <?php translate('SUBMIT A WITHDRAWAL REQUEST'); ?>
                         </div>
-                        <div class="mex-content text-left">
-                            <p><strong>Withdraw via MyMultiBank:</strong> To withdraw funds from your account simply submit
-                                your withdrawal request online using the MyMultiBank account area.</p>
-                            <p><strong>Withdraw via Email:</strong> Alternatively, please send us an email to <a class="text-1e32a3" href="../cdn-cgi/l/email-protection.html#394e504d515d4b584e79544c554d505b5857525f41175a5654"><span class="__cf_email__" data-cfemail="3d4a544955594f5c4a7d50485149545f5c53565b45135e5250">[email&#160;protected]</span></a>
-                                from the email address associated with your account and our Customer Support Department will
-                                assist you with your withdrawal request. </p>
+                        <div class="mex-content text-right">
+                            <p><strong><?php translate('Withdraw via MyMultiBank:'); ?></strong> <?php translate('To withdraw funds from your account simply submit
+                                your withdrawal request online using the MyMultiBank account area.'); ?></p>
+                            <p><strong><?php translate('Withdraw via Email:'); ?></strong> <?php translate('Alternatively, please send us an email to'); ?> <a class="text-1e32a3" href="../cdn-cgi/l/email-protection.html#394e504d515d4b584e79544c554d505b5857525f41175a5654"><span class="__cf_email__" data-cfemail="3d4a544955594f5c4a7d50485149545f5c53565b45135e5250">[email&#160;protected]</span></a>
+                            <?php translate('from the email address associated with your account and our Customer Support Department will
+                                assist you with your withdrawal request.'); ?> </p>
                         </div>
                     </div>
                 </div>
                 <div class="row mex-m-t-50 text-center">
                     <div class="col-12  clear-float">
                         <div class="mex-h2 text-center text-1e32a3 mex-m-b-20">
-                            FUND WITHDRAWAL FORM
+                        <?php translate('FUND WITHDRAWAL FORM'); ?>
                         </div>
                         <div class="mex-content text-center mex-m-b-40">
-                            Choose your company:
+                        <?php translate('Choose your company:'); ?>
                         </div>
                     </div>
                     <div class="col-12  bg-white mex-p-t-30 mex-p-b-30 clear-float  mex-m-b-30 withdrawal-download">
@@ -259,13 +258,13 @@
                                 <div class="mex-h3 mex-m-b-15">
                                     MEX EXCHANGE
                                 </div>
-                                <a href="../public_files/images/documents/pdf/withdrawal-forms/MEX_Exchange_Fund_Withdrawal_Form.pdf" class="btn btn-mex" target="_blank">DOWNLOAD</a>
+                                <a href="../public_files/images/documents/pdf/withdrawal-forms/MEX_Exchange_Fund_Withdrawal_Form.pdf" class="btn btn-mex" target="_blank"><?php translate('DOWNLOAD'); ?></a>
                             </div>
                             <div class="col-lg-6 col-d-12 mb-sm-24 text-center p0">
                                 <div class="mex-h3 mex-m-b-15">
                                     MultiBank FX International
                                 </div>
-                                <a href="../public_files/images/documents/pdf/withdrawal-forms/Multibak_FX_Fund_Withdrawal_Request.pdf" class="btn btn-mex" target="_blank">DOWNLOAD</a>
+                                <a href="../public_files/images/documents/pdf/withdrawal-forms/Multibak_FX_Fund_Withdrawal_Request.pdf" class="btn btn-mex" target="_blank"><?php translate('DOWNLOAD'); ?></a>
                             </div>
                         </div>
                     </div>
@@ -375,7 +374,7 @@
         <section class="p0 choose-next-background subject-box-bg-light">
             <div class="container mex-m-b-80">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?>
                     </div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">

@@ -63,17 +63,17 @@
             <div class="container">
                 <div class="row">
                     <div class="col-8 col-sm-8 col-md-7 col-lg-6 ">
-                        <h1 class="mex-h1 text-000 text-left">Demo Account</h1>
+                        <h1 class="mex-h1 text-000 text-left"><?php translate('Demo Account'); ?></h1>
                         <div class="mex-content">
-                            <p class="font-type-cap mex-m-b-5">Open a FREE demo account today!</p>
+                            <p class="font-type-cap mex-m-b-5"><?php translate('Open a FREE demo account today!'); ?></p>
                         </div>
                         <div class="mex-content">
                             <ul class="mex-list-icon-check">
-                                <li>Open a free demo account in 3 easy steps</li>
-                                <li>Practice trading on a free account with zero risks</li>
-                                <li>$100,000 virtual opening balance</li>
-                                <li>Trade on real market conditions</li>
-                                <li>Trade on desktop, mobile device or online</li>
+                                <li><?php translate('Open a free demo account in 3 easy steps'); ?></li>
+                                <li><?php translate('Practice trading on a free account with zero risks'); ?></li>
+                                <li><?php translate('$100,000 virtual opening balance'); ?></li>
+                                <li><?php translate('Trade on real market conditions'); ?></li>
+                                <li><?php translate('Trade on desktop, mobile device or online'); ?></li>
                             </ul>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
         <section class="table-background plants">
             <div class="container">
                 <div class="row mex-m-b-40">
-                    <div class="mex-h1 text-center text-1e32a3 mx-auto">OPEN A FREE DEMO ACCOUNT</div>
+                    <div class="mex-h1 text-center text-1e32a3 mx-auto"><?php translate('OPEN A FREE DEMO ACCOUNT'); ?></div>
                 </div>
                 <div class="row">
                     <div class="col-md-8 mx-auto shadow-box bg-white">
@@ -93,17 +93,17 @@
                             <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 03:02:16] https://www.multibankfx.com/article/multibank-attends-macau-grand-prix-2019<br/><br/>[2020-06-27 03:02:28] https://www.multibankfx.com/article/multibank-fx-championship-2019-winners-announced<br/><br/>[2020-06-27 03:02:32] https://www.multibankfx.com/article/multibank-mena-diamond-sponsor-jordan-expo<br/><br/>[2020-06-27 03:02:35] https://www.multibankfx.com/article/multibank-fx-championship-2019-starting-soon<br/><br/> <br/><br/> posted From: www.multibankfx.com/account/demo-account?web=true' />
                             <div class='form-group col-12 px-0 px-1 border-bottom-label'>
                                 <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
-                                    CLIENT INFORMATION</label>
+                                <?php translate('CLIENT INFORMATION'); ?></label>
                                 <input type='hidden' data-message='' data-extra-message="Full Name Invalid." data-regex='' class=' form-control' name='label_title' placeholder='Full Name' value='' />
                             </div>
                             <div class='mex-form-item col-12 col-md-6 p-1'>
                                 <label for='' class='d-block text-333'>
-                                    Name</label>
+                                <?php translate('Name'); ?></label>
                                 <input type="text" data-message="Name is Required." data-extra-message="Name is Invalid." data-regex="" class="d-block" name="name" $field_id_code placeholder="" required value="" />
                             </div>
                             <div class='mex-form-item col-12 col-md-6 p-1'>
                                 <label for='' class='d-block text-333'>
-                                    Mobile</label>
+                                <?php translate('Mobile'); ?></label>
                                 <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.' data-extra-message="Phone Number Invalid." data-regex='' class='input_with_phone d-block' name='phone_display' placeholder='' required value='' />
                                 <input type='hidden' name='phone' />
                             </div>
@@ -115,17 +115,17 @@
                             </div>
                             <div class='mex-form-item col-12 col-md-6 p-1'>
                                 <label for='' class='d-block text-333'>
-                                    Email</label>
+                                <?php translate('Email'); ?></label>
                                 <input type='email' data-message='Email is Required.' data-extra-message="Email is Invalid." data-regex='' class='d-block' name='email' placeholder='' required value='' />
                             </div>
                             <div class='mex-form-item col-12 col-md-6 p-1 mb-2'>
                                 <label for='' class='d-block text-333'>
-                                    Confirm Email</label>
+                                <?php translate('Confirm Email'); ?></label>
                                 <input type='email' data-message='Confirm Email is Required.' data-extra-message="Email Mismatched." data-regex='' class='d-block' name='confirm_email' placeholder='' required value='' />
                             </div>
                             <div class='d-none'>
                                 <label for='' class='d-block text-333'>
-                                    Country</label>
+                                <?php translate('Country'); ?></label>
                                 <select data-message='Country is Required.' data-extra-message="Country Code Error." class='selection-country d-block select_with_country' name='country_name' required>
                                     <option value='' selected='selected'>Select Country</option>
                                     <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
@@ -371,7 +371,7 @@
                                 </select><input type="hidden" name="country_code" value="" /></div>
                             <div class='mex-form-item col-12 col-md-6 p-1 mb-2'>
                                 <label for='' class='d-block text-333'>
-                                    Platform</label>
+                                <?php translate('Platform');?></label>
                                 <select class='' data-message='Platform is Required.' data-extra-message="Platform is Invalid." data-regex='' name='platform_version' required>
                                     <option value='MT4' selected='selected' class='d-block'>MT4</option>
                                     <option value='MT5' class=' d-block'>MT5</option>
@@ -380,11 +380,11 @@
                                 <label for='' class=''>
                                 </label>
                                 <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' ' name='space' placeholder='' value='' />
-                            </div><button type='submit' class='btn btn-mex mx-auto mt-5 mb-2' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-1b0a0bb3e31cefb842516a38-="">SUBMIT</button>
+                            </div><button type='submit' class='btn btn-mex mx-auto mt-5 mb-2' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " ata-cf-modified-1b0a0bb3e31cefb842516a38-=""><?php translate('SUBMIT'); ?></button>
                         </form>
                         <div class="px-1 " style="padding:15px 0px;">
                             <div class="form-check form-check-inline">
-                                <label class="form-check-label label-1 " for="terms_conditions">By submitting this form, you agree to accept the <a href="terms-conditions.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp; Conditions</a>, <a href="privacy-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a href="cookie-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Cookie Policy</a>.
+                                <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you agree to accept the'); ?> <a href="terms-conditions.html" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions');?></a>, <a href="privacy-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="cookie-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                                 </label>
                             </div>
                         </div>
@@ -395,7 +395,7 @@
         <section class="p0 choose-next-background subject-box-bg-light">
             <div class="container mex-m-b-80">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
                             <li><a href="platforms/download-center.html"><span class="ico-ic_download_mt4"></span> </a>

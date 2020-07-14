@@ -67,13 +67,13 @@
                 <div class="row">
                     <div class="col-lg-6 col-sm-12">
                         <h1 class="mex-h1 text-fff text-left">
-                            Islamic Account
+                        <?php translate('Islamic Account'); ?>
                         </h1>
                         <div class="mex-content text-fff">
-                            <p class="mex-m-t-15">For our Islamic customers, MultiBank has structured an account for any
-                                client to waive all swap charges/credits in their account.</p>
-                            <p class="mex-m-t-15">MultiBank’s Islamic Accounts (also known as ‘Swap Free Accounts’) do not
-                                swap or rollover interest on overnight positions, which is against the Islamic faith.</p>
+                            <p class="mex-m-t-15"><?php translate('For our Islamic customers, MultiBank has structured an account for any
+                                client to waive all swap charges/credits in their account.'); ?></p>
+                            <p class="mex-m-t-15"><?php translate('MultiBank’s Islamic Accounts (also known as ‘Swap Free Accounts’) do not
+                                swap or rollover interest on overnight positions, which is against the Islamic faith.'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
             <div class="container">
                 <div class="row">
                     <div class="mex-h1 text-1e32a3 mex-m-b-40 mx-auto">
-                        ISLAMIC ACCOUNT BENEFITS
+                    <?php translate('ISLAMIC ACCOUNT BENEFITS'); ?>
                     </div>
                 </div>
                 <div class="row">
@@ -108,8 +108,8 @@
                         <div class="mex-content">
                             <div class="small-box-account col-xs-12">
                                 <ul class="mex-list-icon-check">
-                                    <li>Trade in the international market in accordance with the Muslim religion</li>
-                                    <li>No interest/ swap charges on overnight positions</li>
+                                    <li><?php translate('Trade in the international market in accordance with the Muslim religion'); ?></li>
+                                    <li><?php translate('No interest/ swap charges on overnight positions'); ?></li>
                                 </ul>
                             </div>
                         </div>
@@ -121,7 +121,7 @@
             <div class="container">
                 <div class="row mex-m-b-40">
                     <div class="mex-h1 text-center text-1e32a3 mx-auto">
-                        REQUEST AN ISLAMIC ACCOUNT
+                    <?php translate('REQUEST AN ISLAMIC ACCOUNT'); ?>
                     </div>
                 </div>
                 <div class="row">
@@ -132,17 +132,17 @@
                             <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:29] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:30] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:31] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:32] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/account/islamic-account?web=true' />
                             <div class='form-group col-12 px-0 border-bottom border-secondary px-1'>
                                 <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
-                                    CLIENT INFORMATION</label>
+                                <?php translate('CLIENT INFORMATION');?></label>
                                 <input type='hidden' data-message='' data-extra-message="Full Name Invalid." data-regex='' class=' form-control' name='label_title' placeholder='Full Name' value='' />
                             </div>
                             <div class='mex-form-item col-12 col-md-6 p-1'>
                                 <label for='' class='d-block'>
-                                    Name</label>
+                                <?php translate('Name');?></label>
                                 <input type="text" data-message="Name is Required." data-extra-message="Name is Invalid." data-regex="" class="d-block" name="name" $field_id_code placeholder="" required value="" />
                             </div>
                             <div class='d-none'>
                                 <label for='' class='d-block'>
-                                    Country</label>
+                                <?php translate('Country'); ?></label>
                                 <select data-message='' data-extra-message="" class='selection-country d-block select_with_country' name='country_name' required>
                                     <option value='' selected='selected'>Select Country</option>
                                     <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
@@ -437,7 +437,7 @@
                                 </select><input type="hidden" name="country_code" value="" /></div>
                             <div class='mex-form-item col-12 col-md-6 p-1'>
                                 <label for='' class='d-block'>
-                                    Mobile</label>
+                                <?php translate('Mobile'); ?></label>
                                 <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.' data-extra-message="Phone is Invalid." data-regex='' class='input_with_phone d-block' name='phone_display' placeholder='' required value='' />
                                 <input type='hidden' name='phone' />
                             </div>
@@ -450,22 +450,21 @@
                             </div>
                             <div class='mex-form-item col-12 col-md-6 p-1'>
                                 <label for='' class='d-block'>
-                                    Email</label>
+                                <?php translate('Email'); ?></label>
                                 <input type='email' data-message='Email is Required.' data-extra-message="Email is Invalid." data-regex='null' class='d-block' name='email' placeholder='' required value='' />
                             </div>
                             <div class='mex-form-item col-12 col-md-6 p-1'>
                                 <label for='' class='d-block'>
-                                    Confirm Email</label>
+                                <?php translate('Confirm Email'); ?></label>
                                 <input type='email' data-message='Confirm Email is Required.' data-extra-message="Email Mismatched." data-regex='' class='d-block' name='confirm_email' placeholder='' required value='' />
                             </div>
-                            <button type='submit' class='btn btn-mex mx-auto mt-5 mb-2' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-6f0d84ec5eaa22effb7ee8e8-="">SUBMIT
+                            <button type='submit' class='btn btn-mex mx-auto mt-5 mb-2' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-6f0d84ec5eaa22effb7ee8e8-=""><?php translate('SUBMIT'); ?>
                             </button>
                         </form>
                         <div class="px-1 " style="padding:15px 0px;">
                             <div class="form-check form-check-inline">
-                                <label class="form-check-label label-1 " for="terms_conditions">By submitting this form, you
-                                    agree to accept the <a href="../terms-conditions.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp;
-                                        Conditions</a>, <a href="../privacy-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a href="../cookie-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Cookie Policy</a>.
+                                <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you
+                                    agree to accept the'); ?> <a href="../terms-conditions.html" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="../privacy-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="../cookie-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                                 </label>
                             </div>
                         </div>
@@ -479,12 +478,12 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12">
                         <div class="mex-h1 text-fff mex-m-b-30 text-center mex-m-b-40">
-                            ISLAMIC ACCOUNT CONDITIONS
+                        <?php translate('ISLAMIC ACCOUNT CONDITIONS'); ?>
                         </div>
                         <div class="mex-content text-fff text-center">
-                            <p>Each account holder may only have one swap free or swap standard account at any given time.
+                            <p><?php translate('Each account holder may only have one swap free or swap standard account at any given time.
                                 MultiBank reserves the right to revoke the swap free status granted to any live trading
-                                account in the event of any form of abuse.</p>
+                                account in the event of any form of abuse.'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -495,39 +494,39 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12">
                         <div class="mex-h1 text-1e32a3 mex-m-b-40 text-center">
-                            What is the Swap Rate?
+                        <?php translate('What is the Swap Rate?');?>
                         </div>
                         <div class="mex-content mex-m-b-30">
                             <p class="mex-m-b-30">
-                                A swap rate or ‘rollover fee’ is an interest fee that is charged when you keep a position
+                            <?php translate('A swap rate or ‘rollover fee’ is an interest fee that is charged when you keep a position
                                 open overnight. Each currency pair has its own swap rates which is calculated based on one
-                                standard lot (100,000 base units) and is determined by interbank rates. </p>
+                                standard lot (100,000 base units) and is determined by interbank rates.'); ?> </p>
                             <p class="mex-m-b-30">
-                                For the latest swap rates, please check the rates listed on your MT4 trading platform. </p>
+                            <?php translate(' For the latest swap rates, please check the rates listed on your MT4 trading platform.'); ?> </p>
                             <p class="mex-m-b-30">
-                                Please note that when trading spot forex, swap rates are determined two days in advance. For
+                            <?php translate('Please note that when trading spot forex, swap rates are determined two days in advance. For
                                 example, if trades are opened on Thursday, swap begins on Monday. For trades on Friday, swap
-                                begins on Tuesday.<br>Please also note that swap rates are tripled on Wednesdays to account
-                                for the weekend.<br>The above is the standard structure on swap rates across the industry,
+                                begins on Tuesday.Please also note that swap rates are tripled on Wednesdays to account
+                                for the weekend.The above is the standard structure on swap rates across the industry,
                                 however, please note that on weeks where there are holidays, the swap rate structure may be
-                                modified to account for the holiday. </p>
+                                modified to account for the holiday.'); ?> </p>
                             <p class="mex-m-b-30">
-                                Swap for currency pairs with USD as quote currency (counter currency): contract size × lots
-                                × swap (points)×minimum fluctuation (points) × days </p>
+                            <?php translate('Swap for currency pairs with USD as quote currency (counter currency): contract size × lots
+                                × swap (points)×minimum fluctuation (points) × days'); ?> </p>
                             <p class="mex-m-b-30">
-                                Swap for currency pairs with non-USD as quote currency (counter currency): contract size ×
+                            <?php translate('Swap for currency pairs with non-USD as quote currency (counter currency): contract size ×
                                 lots × swap (points) × minimum fluctuation (points) × days × pip value at the closure of
-                                market </p>
+                                market'); ?> </p>
                             <p class="mex-m-b-30">
-                                <strong>Example:</strong><br>For 5 decimal-quotation, buy EUR/USD at -2.2pts (swap points),
-                                sell at 0 pts<br>If an investor opened 1 lot on Monday and closed the position on Thursday,
-                                then payable trading days for swap is 1+1+3=5 </p>
+                                <strong><?php translate('Example:'); ?></strong><br><?php translate('For 5 decimal-quotation, buy EUR/USD at -2.2pts (swap points),
+                                sell at 0 pts'); ?><br><?php translate('If an investor opened 1 lot on Monday and closed the position on Thursday,
+                                then payable trading days for swap is 1+1+3=5'); ?> </p>
                             <p class="mex-m-b-30">
-                                Swap is calculated as follows: <br>100,000 (contract size) ×1 lot×-2.2pts (swap
-                                points)×0.00001(minimum fluctuation points)×5 days=USD-11 </p>
+                            <?php translate('Swap is calculated as follows:'); ?> <br><?php translate('100,000 (contract size) ×1 lot×-2.2pts (swap
+                                points)×0.00001(minimum fluctuation points)×5 days=USD-11'); ?> </p>
                             <p class="mex-m-b-30">
-                                In case of 4 decimal-quotation, the swap points is -0.22 and minimum fluctuation points is
-                                0.0001, then the swap is the same </p>
+                            <?php translate('In case of 4 decimal-quotation, the swap points is -0.22 and minimum fluctuation points is
+                                0.0001, then the swap is the same'); ?> </p>
                             <p class="mex-m-b-30">
                             </p>
                             <p class="mex-m-b-30">
@@ -547,7 +546,7 @@
         <section class="p0 choose-next-background subject-box-bg-light">
             <div class="container mex-m-b-80">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?>
                     </div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">

@@ -60,10 +60,10 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="flex-center page-top-banner"><img alt="Platforms" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/platforms/platforms_topbanner.jpg" />
         <div class="container">
-            <div class="row justify-content-end">
+            <div class="row justify-content-start">
                 <div class="col-xl-6">
-                    <h1 class="mex-h1 text-left text-white">PLATFORMS</h1>
-                    <div class="mex-content text-fff mex-m-b-30">Trade on MultiBank’s award-winning MT4 & MT5 platforms</div>
+                    <h1 class="mex-h1 text-right text-white"><?php translate('PLATFORMS'); ?></h1>
+                    <div class="mex-content text-fff mex-m-b-30"><?php translate('Trade on MultiBank’s award-winning MT4 & MT5 platforms'); ?></div>
                 </div>
             </div>
         </div>
@@ -80,10 +80,10 @@
                             </div>
                             <div class="card-content bg-white text-center">
                                 <div class="mex-h3 mex-clamp-1 mex-m-b-15 text-1e32a3">
-                                    ECN PRO
+                                <?php translate(' ECN Pro'); ?>
                                 </div>
-                                <div class="mex-content mex-clamp-2 mb0 text-left platFontOve">
-                                    Enjoy raw price feed directly through our ECN connection to prime brokers and access the tightest spread in the industry
+                                <div class="mex-content mex-clamp-2 mb0 text-right platFontOve">
+                                <?php translate('Enjoy raw price feed directly through our ECN connection to prime brokers and access the tightest spread in the industry'); ?>
                                 </div>
                             </div>
                         </a>
@@ -97,10 +97,10 @@
                             </div>
                             <div class="card-content bg-white text-center">
                                 <div class="mex-h3 mex-clamp-1 mex-m-b-15 text-1e32a3">
-                                    MULTIBANK PRO
+                                <?php translate(' MULTIBANK PRO'); ?>
                                 </div>
-                                <div class="mex-content mex-clamp-2 mb0 text-left platFontOve">
-                                    Ideal for traders looking for an ECN experience on the MT4 platform without the high investment commitment
+                                <div class="mex-content mex-clamp-2 mb0 text-right platFontOve">
+                                <?php translate(' Ideal for traders looking for an ECN experience on the MT4 platform without the high investment commitment'); ?>
                                 </div>
                             </div>
                         </a>
@@ -117,7 +117,7 @@
                                     MAXIMUS
                                 </div>
                                 <div class="mex-content mex-clamp-2 mb0 text-left platFontOve">
-                                    Recommended for traders looking for no restrictions on EA and scalping trading
+                                <?php translate('Recommended for traders looking for no restrictions on EA and scalping trading'); ?>
                                 </div>
                             </div>
                         </a>
@@ -146,17 +146,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 mex-m-b-40">
-                    <h1 class="mex-h1 mex-h1-color text-white text-center mex-translatable" data-es="PLATAFORMAS DESCARGA" data-de="PLATTFORM HERUNTERLADEN" data-ph="" data-vn="DOWNLOAD PLATFORM" data-id="PUSAT UNDUHAN" data-pt="TRANSFERIR PLATAFORMA" data-ru="DOWNLOAD PLATFORM" data-it="SCARICA LA PIATTAFORMA" data-fr="Télécharger la plateforme" data-mys="Muat turun Platform" data-th="ดาวน์โหลดแพลตฟอร์ม" data-ae="تحميل منصة">Download Platform</h1>
+                    <h1 class="mex-h1 mex-h1-color text-white text-center mex-translatable" data-es="PLATAFORMAS DESCARGA" data-de="PLATTFORM HERUNTERLADEN" data-ph="" data-vn="DOWNLOAD PLATFORM" data-id="PUSAT UNDUHAN" data-pt="TRANSFERIR PLATAFORMA" data-ru="DOWNLOAD PLATFORM" data-it="SCARICA LA PIATTAFORMA" data-fr="Télécharger la plateforme" data-mys="Muat turun Platform" data-th="ดาวน์โหลดแพลตฟอร์ม" data-ae="تحميل منصة"> <?php translate('Download Platform'); ?></h1>
                 </div>
                 <div class="col-md-12 col-sm-12">
                     <div class="mex-m-b-30 text-center">
                         <div class=" mex-m-b-20">
                             <ul id="myTab" class="icon-nav">
-                                <li class="platform-selector-container"><img src="public_files/images/common/ic_ecn@2x.png" alt="ECN Pro"><br><a class="platform-selector uppercase" data-tab="tab_ecn_pro">ECN Pro</a></li>
-                                <li class="platform-selector-container active"><img src="public_files/images/common/ic_maximus@2x.png" alt="Maximus"><br><a class="platform-selector uppercase" data-tab="tab_maximus">Maximus </a></li>
-                                <li class="platform-selector-container "><img src="public_files/images/common/ic_multibanpro@2x.png" alt="MultiBank Pro"><br><a class="platform-selector uppercase" data-tab="tab_multibank_pro">MultiBank
-                                        Pro</a></li>
-                                <li class="platform-selector-container "><img src="public_files/images/common/ic_mt5.png" alt="MT5"><br><a class="platform-selector uppercase" data-tab="tab_mt5">MT5</a></li>
+                                <li class="platform-selector-container"><img src="public_files/images/common/ic_ecn@2x.png" alt="ECN Pro"><br><a class="platform-selector uppercase" data-tab="tab_ecn_pro"> <?php translate(' ECN Pro'); ?></a></li>
+                                <li class="platform-selector-container active"><img src="public_files/images/common/ic_maximus@2x.png" alt="Maximus"><br><a class="platform-selector uppercase" data-tab="tab_maximus"> <?php translate('Maximus'); ?> </a></li>
+                                <li class="platform-selector-container "><img src="public_files/images/common/ic_multibanpro@2x.png" alt="MultiBank Pro"><br><a class="platform-selector uppercase" data-tab="tab_multibank_pro"> <?php translate('MultiBank Pro'); ?></a></li>
+                                <li class="platform-selector-container "><img src="public_files/images/common/ic_mt5.png" alt="MT5"><br><a class="platform-selector uppercase" data-tab="tab_mt5"> <?php translate('MT5'); ?></a></li>
                             </ul>
                         </div>
                         <div>
@@ -164,7 +163,7 @@
                                 <div class="tab-platform" id="tab_ecn_pro">
                                     <div class="col-xs-12 col-md-12 p0 d-flex justify-content-center flex-wrap">
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال">Mobile APP
+                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال"><?php translate('Mobile APP'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="https://itunes.apple.com/us/app/metatrader-4/id496212596" target="_blank"><img src="public_files/images/common/ic_apple@2x.png" alt="apple"></a>
@@ -173,14 +172,14 @@
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز">Desktop
+                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز"><?php translate('Desktop'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="web/uploads/democomp/demo/ecnmexintgroup4setup.exe" target="_blank"><img src="public_files/images/common/windows.png" alt="window"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب">Web Trading
+                                            <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب"><?php translate('Web Trading'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="mql5.html" target="_blank"><img src="public_files/images/common/chrome.png" alt="chrome"></a>
@@ -194,7 +193,7 @@
                                 <div class="tab-platform active" id="tab_maximus">
                                     <div class="col-xs-12 col-md-12 p0 d-flex justify-content-center flex-wrap">
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال">Mobile APP
+                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال"><?php translate('Mobile APP'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="https://itunes.apple.com/us/app/metatrader-4/id496212596" target="_blank"><img src="public_files/images/common/ic_apple@2x.png" alt="apple"></a>
@@ -203,14 +202,14 @@
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز">Desktop
+                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز"><?php translate('Desktop'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="web/uploads/democomp/demo/maximusmexintgroup4setup.exe" target="_blank"><img src="public_files/images/common/windows.png" alt="window"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب">Web Trading
+                                            <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب"><?php translate('Web Trading'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="mql5.html" target="_blank"><img src="public_files/images/common/chrome.png" alt="chrome"></a>

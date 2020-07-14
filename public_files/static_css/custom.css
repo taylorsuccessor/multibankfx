@@ -451,3 +451,8 @@ p{
     font-size: 9px;
     line-height: 1 !important;
  }
+
+ #country-listbox{
+     left: 100%;
+     text-align: right;
+ }

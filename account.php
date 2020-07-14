@@ -64,17 +64,17 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-12">
                         <h1 class="mex-h1 text-1e32a3 text-left">
-                            Live Account </h1>
+                        <?php translate('Live Account');?> </h1>
                         <div class="mex-content">
                             <ul class="mex-list-icon-check">
-                                <li>Quick and easy account opening</li>
-                                <li>Tightest spreads on award-winning platforms</li>
-                                <li>Minimum $50 to open live account</li>
-                                <li>Attractive account opening bonuses</li>
-                                <li>Negative balance protection</li>
-                                <li>Leverage up to 500:1</li>
+                                <li><?php translate('Quick and easy account opening'); ?></li>
+                                <li><?php translate('Tightest spreads on award-winning platforms'); ?></li>
+                                <li><?php translate('Minimum $50 to open live account'); ?></li>
+                                <li><?php translate('Attractive account opening bonuses'); ?></li>
+                                <li><?php translate('Negative balance protection'); ?></li>
+                                <li><?php translate('Leverage up to 500:1'); ?></li>
                             </ul>
-                            <p class="mex-m-t-15"><a href="account/live-account.html" class="btn btn-mex-red mex-m-b-15">Open Live Account</a></p>
+                            <p class="mex-m-t-15"><a href="account/live-account.html" class="btn btn-mex-red mex-m-b-15"><?php translate('Open Live Account'); ?></a></p>
                         </div>
                     </div>
                 </div>
@@ -101,16 +101,16 @@
             <div class="col-lg-6 col-sm5 col-xs-12 mex-p-l-none p0-xs"><img src="public_files/images/accounts_funding/account_second_banner.jpg" alt="Demo Account" class="mex-img-cover" /></div>
             <div class="col-lg-6 col-sm5 col-xs-12 p32 pt24 pb24">
                 <div class="mex-h1 text-1e32a3 text-left">
-                    Demo Account</div>
+                <?php translate('Demo Account'); ?></div>
                 <div class="mex-content mex-m-b-30">
                     <ul class="mex-list-icon-check">
-                        <li>Open a free demo account in 3 easy steps </li>
-                        <li>Practice trading on a free account with zero risks</li>
-                        <li>$50,000 virtual opening balance</li>
-                        <li>Trade on real market conditions</li>
-                        <li>Trade on desktop, mobile device or online</li>
+                        <li><?php translate('Open a free demo account in 3 easy steps'); ?> </li>
+                        <li><?php translate('Practice trading on a free account with zero risks'); ?></li>
+                        <li><?php translate('$50,000 virtual opening balance'); ?></li>
+                        <li><?php translate('Trade on real market conditions'); ?></li>
+                        <li><?php translate('Trade on desktop, mobile device or online'); ?></li>
                     </ul>
-                </div><a href="demo_competition.html" class="btn btn-mex-blue">Open Demo Account</a>
+                </div><a href="demo_competition.html" class="btn btn-mex-blue"><?php translate('Open Demo Account'); ?></a>
             </div>
         </section>
         <style>
@@ -136,13 +136,13 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-12">
                         <div class="mex-h1 text-fff text-left">
-                            Islamic Account </div>
+                        <?php translate('Islamic Account'); ?> </div>
                         <div class="mex-content mex-m-b-30 text-fff">
                             <ul class="mex-list-icon-check">
-                                <li>No interest/ swap charges on overnight positions</li>
-                                <li>No limits on durations of positions held</li>
+                                <li><?php translate('No interest/ swap charges on overnight positions'); ?></li>
+                                <li><?php translate('No limits on durations of positions held'); ?></li>
                             </ul>
-                            <div class="mex-m-t-15"><a href="account/islamic-account.html" class="btn btn-mex mex-m-r-15 mex-m-b-30">Request Islamic Account</a>
+                            <div class="mex-m-t-15"><a href="account/islamic-account.php" class="btn btn-mex mex-m-r-15 mex-m-b-30"><?php translate('Request Islamic Account'); ?></a>
                             </div>
                         </div>
                     </div>
@@ -159,10 +159,10 @@
                             </div>
                             <div class="card-content-box">
                                 <div class=" card-content text-center">
-                                    <h2 class="mex-h2 uppercase mex-m-b-20 text-overflow-1">ACCOUNT FUNDING</h2>
+                                    <h2 class="mex-h2 uppercase mex-m-b-20 text-overflow-1"><?php translate('ACCOUNT FUNDING'); ?></h2>
                                     <div class="mex-content text-overflow-2">
-                                        Deposit from a wide selection of instant, simple and secure payment methods</div>
-                                    <a href="account/account-funding.html" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN MORE</a>
+                                    <?php translate('Deposit from a wide selection of instant, simple and secure payment methods'); ?></div>
+                                    <a href="account/account-funding.php" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                                 </div>
                             </div>
                         </section>
@@ -174,10 +174,10 @@
                             </div>
                             <div class="card-content-box">
                                 <div class=" card-content text-center">
-                                    <h2 class="mex-h2 uppercase mex-m-b-20 text-overflow-1">WITHDRAWALS </h2>
+                                    <h2 class="mex-h2 uppercase mex-m-b-20 text-overflow-1"><?php translate('WITHDRAWALS'); ?> </h2>
                                     <div class="mex-content text-overflow-2">
-                                        Quick and easy withdrawals, submit a request online</div>
-                                    <a href="account/withdrawals.html" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN MORE</a>
+                                    <?php translate('Quick and easy withdrawals, submit a request online'); ?></div>
+                                    <a href="account/withdrawals.php" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                                 </div>
                             </div>
                         </section>
@@ -191,10 +191,10 @@
                             </div>
                             <div class="card-content-box">
                                 <div class=" card-content text-center">
-                                    <h2 class="mex-h2 uppercase mex-m-b-20 text-overflow-1">ACCOUNT FORMS </h2>
+                                    <h2 class="mex-h2 uppercase mex-m-b-20 text-overflow-1"><?php translate('ACCOUNT FORMS'); ?> </h2>
                                     <div class="mex-content text-overflow-2">
-                                        Forms and statements such as Account Application Form &amp; Change of Information Request</div>
-                                    <a href="account/account-forms.html" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN MORE</a>
+                                    <?php translate('Forms and statements such as Account Application Form & Change of Information Request'); ?></div>
+                                    <a href="account/account-forms.php" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                                 </div>
                             </div>
                         </section>
@@ -206,10 +206,10 @@
                             </div>
                             <div class="card-content-box">
                                 <div class=" card-content text-center">
-                                    <div class="mex-h2 uppercase mex-m-b-20 text-overflow-1"> BONUS </div>
+                                    <div class="mex-h2 uppercase mex-m-b-20 text-overflow-1"> <?php translate('BONUS'); ?> </div>
                                     <div class="mex-content text-overflow-2">
-                                        Sign up for our latest bonus and promotions for Introducing Brokers &amp; individual clients alike! </div>
-                                    <a href="account/bonus.html" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN MORE</a>
+                                    <?php translate('Sign up for our latest bonus and promotions for Introducing Brokers & individual clients alike!'); ?> </div>
+                                    <a href="account/bonus.html" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                                 </div>
                             </div>
                         </section>

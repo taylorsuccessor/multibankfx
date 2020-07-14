@@ -59,14 +59,14 @@
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img alt="Trade Commodities" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/products/commodities_top_banner.jpg" />
+        <section class="flex-center page-top-banner"><img alt="Trade Commodities"  data-entity-type="" data-entity-uuid="" src="../public_files/images/products/commodities_top_banner.jpg" />
             <div class="container">
-                <div class="row justify-content-end">
+                <div class="row justify-content-start">
                     <div class="col-sm-6 col-8">
-                        <h1 class="mex-h1 text-left">COMMODITIES</h1>
-                        <div class="mex-content mex-m-b-30 text-left">
-                            <p class="mex-m-t-15 mex-m-b-15">Trade commodities such as natural gas, crude oil, etc.</p>
-                            <p class="mex-m-t-15 mex-m-b-15">Commodities are great assets to diversify an investor's portfolio. The price fluctuation is mainly dependent on the supply and demand of the whole world.</p>
+                        <h1 class="mex-h1 text-left"><?php translate('COMMODITIES'); ?></h1>
+                        <div class="mex-content mex-m-b-30 text-right">
+                            <p class="mex-m-t-15 mex-m-b-15"><?php translate('Trade commodities such as natural gas, crude oil, etc.'); ?></p>
+                            <p class="mex-m-t-15 mex-m-b-15"><?php translate('Commodities are great assets to diversify an investor(s) portfolio. The price fluctuation is mainly dependent on the supply and demand of the whole world.'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -75,19 +75,19 @@
         <section class="p0 choose-next-background avant-memo">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="mex-h1 text-white text-center uppercase mex-p-t-80 mex-m-b-40">ADVANTAGES OF COMMODITIES TRADING WITH MULTIBANK</div>
+                    <div class="mex-h1 text-white text-center uppercase mex-p-t-80 mex-m-b-40"><?php translate('ADVANTAGES OF COMMODITIES TRADING WITH MULTIBANK'); ?></div>
                     <div class="col-xl-6 col-lg-8 col-md-10 col-sm-12 avant-memo-contianer">
                         <div class="fixed-height-overflow-container">
                             <ul class="book-content-ul">
-                                <li>Trade a wide range of commodities</li>
-                                <li>Tightest spreads in the market</li>
-                                <li>Low margin requirements</li>
-                                <li>No restrictions on EA</li>
-                                <li>Negative balance protection</li>
-                                <li>Guaranteed no price slippage, no requotes and no rejections</li>
-                                <li>Free VPS, MAM and PAMM accounts</li>
-                                <li>Companies licensed and regulated by ASIC, BaFin, FMA, CNMV, FSC, and CIMA</li>
-                                <li>Complete transparency of market with only the best bid/offers being displayed</li>
+                                <li><?php translate('Trade a wide range of commodities'); ?></li>
+                                <li><?php translate('Tightest spreads in the market'); ?></li>
+                                <li><?php translate('Low margin requirements'); ?></li>
+                                <li><?php translate('No restrictions on EA'); ?></li>
+                                <li><?php translate('Negative balance protection'); ?></li>
+                                <li><?php translate('Guaranteed no price slippage, no requotes and no rejections'); ?></li>
+                                <li><?php translate('Free VPS, MAM and PAMM accounts'); ?></li>
+                                <li><?php translate('Companies licensed and regulated by ASIC, BaFin, FMA, CNMV, FSC, and CIMA'); ?></li>
+                                <li><?php translate('Complete transparency of market with only the best bid/offers being displayed'); ?></li>
                             </ul>
                         </div>
                     </div>
@@ -98,45 +98,39 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <div class="mex-h1 text-center mex-m-b-40 text-1e32a3 uppercase">COMMODITIES SPECIFICATIONS</div>
+                        <div class="mex-h1 text-center mex-m-b-40 text-1e32a3 uppercase"><?php translate('COMMODITIES SPECIFICATIONS'); ?></div>
                         <div class="table-responsive security-of-funds-table table-content ">
                             <table class="table table-striped mex-table mex-has-type text-center">
                                 <thead>
                                     <tr>
-                                        <th class="text-center" style="position: sticky;">Instrument
+                                        <th class="text-center" style="position: sticky;"><?php translate('Instrument'); ?>
                                             <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                         </th>
-                                        <th class="text-center" style="position: sticky;">Symbol
+                                        <th class="text-center" style="position: sticky;"><?php translate('Symbol'); ?>
                                             <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                         </th>
-                                        <th class="text-center" style="position: sticky;">Contract<br />
-                                            Months
+                                        <th class="text-center" style="position: sticky;"><?php translate('Contract Months'); ?>
                                             <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                         </th>
-                                        <th class="text-center" style="position: sticky;">Margin
+                                        <th class="text-center" style="position: sticky;"><?php translate('Margin'); ?>
                                             <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                         </th>
-                                        <th class="text-center" style="position: sticky;">Contract<br />
-                                            Size
+                                        <th class="text-center" style="position: sticky;"><?php translate('Contract Size'); ?>
                                             <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                         </th>
-                                        <th class="text-center" style="position: sticky;">Pip<br />
-                                            Value
+                                        <th class="text-center" style="position: sticky;"><?php translate('Pip Value'); ?>
                                             <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                         </th>
-                                        <th class="text-center" style="position: sticky;">Min.<br />
-                                            Volume
+                                        <th class="text-center" style="position: sticky;"><?php translate('Min Volume'); ?>
                                             <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                         </th>
-                                        <th class="text-center" style="position: sticky;">Max.<br />
-                                            Value
+                                        <th class="text-center" style="position: sticky;"><?php translate('Max Volume'); ?>
                                             <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                         </th>
-                                        <th class="text-center" style="position: sticky;">Currency
+                                        <th class="text-center" style="position: sticky;"><?php translate('Currency');?>
                                             <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                         </th>
-                                        <th class="text-center" style="position: sticky;">Trading Hours<br />
-                                            (Server Time)</th>
+                                        <th class="text-center" style="position: sticky;"><?php translate('Trading Hours (Server Time)'); ?></th>
                                     </tr>
                                 </thead>
                                 <tbody class="table-tbody">
@@ -240,56 +234,56 @@
         <section class="p0 choose-next-background subject-box-bg-light">
             <div class="container mex-m-b-80">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-pt="" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-mys="SILA PILIH UNTUK TERUSKAN" data-ru="" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
-                            <li><a href="../about/why-multibank-group.html"><span class="ico-ic_why_multibank"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/why-multibank-group.html">Why Multibank</a></div>
-                                <a href="../about/why-multibank-group.html"> </a>
+                            <li><a href="about/why-multibank-group.html"><span class="ico-ic_why_multibank"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="about/why-multibank-group.html"><?php translate('Why Multibank'); ?></a></div>
+                                <a href="about/why-multibank-group.html"> </a>
                             </li>
-                            <li><a href="../about/security-of-funds.html"><span class="ico-ic_security_of_funds"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../about/security-of-funds.html">Security of Funds</a></div>
-                                <a href="../about/security-of-funds.html"> </a>
+                            <li><a href="about/security-of-funds.html"><span class="ico-ic_security_of_funds"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="about/security-of-funds.html"><?php translate('Security of Funds'); ?></a></div>
+                                <a href="about/security-of-funds.html"> </a>
                             </li>
-                            <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our Regulations</a></div>
-                                <a href="../mfx/v1/about/regulations.html"> </a>
+                            <li><a href="products.html"><span class="ico-ic_our_products"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="products.html"><?php translate('Our Products'); ?></a></div>
+                                <a href="products.html"> </a>
                             </li>
-                            <li><a href="../products.html"><span class="ico-ic_our_products"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../products.html">Our Products</a></div>
-                                <a href="../products.html"> </a>
+                            <li><a href="platforms/compare-platforms.html"><span class="ico-ic_compare_our_trading_platforms"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="platforms/compare-platforms.html"><?php translate('Compare our Trading Platforms'); ?></a></div>
+                                <a href="platforms/compare-platforms.html"> </a>
                             </li>
-                            <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../partnership/introducing-brokers.html#introducing-brokers-form">Become an IB</a></div>
-                                <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
+                            <li><a href="platforms/download-center.html"><span class="ico-ic_download_mt4"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="platforms/download-center.html"><?php translate('Download MT4'); ?></a></div>
+                                <a href="platforms/download-center.html"> </a>
                             </li>
-                            <li><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-e1446e2c1ead5a1c5400c011-=""><span class="ico-ic_live_chat_support"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-e1446e2c1ead5a1c5400c011-="">Live Chat Support</a></div>
-                                <a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-e1446e2c1ead5a1c5400c011-=""> </a>
+                            <li><a href="partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become an IB'); ?></a></div>
+                                <a href="partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                             </li>
-                            <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../account/bonus.html">Bonus Programs</a></div>
-                                <a href="../account/bonus.html"> </a>
+                            <li><a href="account/bonus.html"><span class="ico-ic_bonus_programs"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="account/bonus.html"><?php translate('Bonus Programs'); ?></a></div>
+                                <a href="account/bonus.html"> </a>
                             </li>
-                            <li><a href="../tools.html"><span class="ico-ic_trading_tools"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../tools.html">Trading Tools</a></div>
-                                <a href="../tools.html"> </a>
+                            <li><a href="tools.html"><span class="ico-ic_trading_tools"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="tools.html"><?php translate('Trading Tools'); ?></a></div>
+                                <a href="tools.html"> </a>
                             </li>
-                            <li><a href="../platforms/compare-platforms.html"><span class="ico-ic_compare_our_trading_platforms"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../platforms/compare-platforms.html">Compare our Trading Platforms</a></div>
-                                <a href="../platforms/compare-platforms.html"> </a>
+                            <li><a href="scalping-policy.html"><span class="ico-ic_scalping_policy"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="scalping-policy.html"><?php translate('Scalping Policy'); ?></a></div>
+                                <a href="scalping-policy.html"> </a>
                             </li>
-                            <li><a href="../platforms/download-center.html"><span class="ico-ic_download_mt4"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../platforms/download-center.html">Download MT4</a></div>
-                                <a href="../platforms/download-center.html"> </a>
+                            <li><a href="https://my.mexgroup.com" target="_blank"><span class="ico-ic_mymultibank_account_panel"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="https://my.mexgroup.com" target="_blank"><?php translate('MyMultiBank Account Panel'); ?></a></div>
+                                <a href="https://my.mexgroup.com" target="_blank"> </a>
                             </li>
-                            <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../investor-relations.html">Partnership Programs</a></div>
-                                <a href="../investor-relations.html"> </a>
+                            <li><a href="investor-relations.html"><span class="ico-ic_partnership_programs"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="investor-relations.html"><?php translate('Partnership Programs'); ?></a></div>
+                                <a href="investor-relations.html"> </a>
                             </li>
-                            <li><a href="https://my.multibankfx.com" target="_blank"><span class="ico-ic_mymultibank_account_panel"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="https://my.multibankfx.com" target="_blank">MyMultiBank Account Panel</a></div>
-                                <a href="https://my.multibankfx.com" target="_blank"> </a>
+                            <li><a href="about/milestones.html"><span class="ico-ic_our_milestones"> </span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="about/milestones.html"><?php translate('Our Milestones'); ?></a></div>
+                                <a href="about/milestones.html"> </a>
                             </li>
                         </ul>
                     </div>

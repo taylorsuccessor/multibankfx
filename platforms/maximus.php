@@ -62,10 +62,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-sm-12">
-                    <h1 class="mex-h1 text-fff text-left">MAXIMUS PLATFORM</h1>
+                    <h1 class="mex-h1 text-fff text-left"><?php translate('MAXIMUS PLATFORM'); ?></h1>
                     <div class="mex-content text-fff mex-m-b-30">
-                        <p class="mex-m-t-15 mex-m-b-15">This MT4 trading platform is ideal for Introducing Brokers and traders who seek no-frill trading experience.</p>
-                        <p class="mex-m-t-15 mex-m-b-15">The Maximus platform requires minimal investment commitment and is ideal for traders who want to use EA</p>
+                        <p class="mex-m-t-15 mex-m-b-15"><?php translate('This MT4 trading platform is ideal for Introducing Brokers and traders who seek no-frill trading experience.'); ?></p>
+                        <p class="mex-m-t-15 mex-m-b-15"><?php translate('The Maximus platform requires minimal investment commitment and is ideal for traders who want to use EA'); ?></p>
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@
                 <div class="col-md-12">
                     <div class="col-md-12">
                         <div class="container">
-                            <div class="mex-h1 text-fff text-center uppercase mex-p-b-40">PLATFORM ADVANTAGES</div>
+                            <div class="mex-h1 text-fff text-center uppercase mex-p-b-40"><?php translate('PLATFORM ADVANTAGES'); ?></div>
                         </div>
                     </div>
                     <div class="col-md-12 book-content avant-pad-contianer">
@@ -85,18 +85,18 @@
                             <div class="book-content-inner ">
                                 <div class="col-md-12">
                                     <ul class="mex-list-conditions new-product">
-                                        <li>Access to the most liquid market in the world</li>
-                                        <li>24 hours instant and stable nano-second execution</li>
-                                        <li>Leverage up to 500:1</li>
-                                        <li>Over 45 forex pairs available</li>
-                                        <li>Up to 5 levels of Market Depth</li>
-                                        <li>No restrictions on EA</li>
-                                        <li>Negative balance protection</li>
-                                        <li>Guaranteed no price slippage, no requotes and no rejections</li>
-                                        <li>Free VPS, MAM and PAMM accounts</li>
-                                        <li>Companies licensed and regulated by ASIC, BaFin, FMA, CNMV, FSC, and CIMA</li>
-                                        <li>Complete transparency of market with only the best bid/offers being displayed</li>
-                                        <li>Award-winning MT4 platforms recognized for excellence in technology and liquidity</li>
+                                        <li><?php translate('Access to the most liquid market in the world');?></li>
+                                        <li><?php translate('24 hours instant and stable nano-second execution'); ?></li>
+                                        <li><?php translate('Leverage up to 500:1'); ?></li>
+                                        <li><?php translate('Over 45 forex pairs available'); ?></li>
+                                        <li><?php translate('Up to 5 levels of Market Depth'); ?></li>
+                                        <li><?php translate('No restrictions on EA'); ?></li>
+                                        <li><?php translate('Negative balance protection'); ?></li>
+                                        <li><?php translate('Guaranteed no price slippage, no requotes and no rejections'); ?></li>
+                                        <li><?php translate('Free VPS, MAM and PAMM accounts'); ?></li>
+                                        <li><?php translate('Companies licensed and regulated by ASIC, BaFin, FMA, CNMV, FSC, and CIMA'); ?></li>
+                                        <li><?php translate('Complete transparency of market with only the best bid/offers being displayed'); ?></li>
+                                        <li><?php translate('Award-winning MT4 platforms recognized for excellence in technology and liquidity'); ?></li>
                                     </ul>
                                 </div>
                             </div>
@@ -115,7 +115,7 @@
                         <table class="fx-spread-table table mex-table mex-has-type table-striped-blue">
                             <thead>
                                 <tr>
-                                    <th class="mex-translatable" data-es="Pares de monedas" data-de="Währungspaare" data-ph="" data-vn="Cặp tiền tệ" data-id="Pasangan mata uang" data-pt="Pares de moedas" data-ru="Валютные пары" data-it="Coppia di valute" data-fr="Paires de devises" data-mys="Pasangan matawang" data-th="คู่สกุลเงิน" data-ae="أزواج العملات">Currency Pairs
+                                    <th class="mex-translatable" data-es="Pares de monedas" data-de="Währungspaare" data-ph="" data-vn="Cặp tiền tệ" data-id="Pasangan mata uang" data-pt="Pares de moedas" data-ru="Валютные пары" data-it="Coppia di valute" data-fr="Paires de devises" data-mys="Pasangan matawang" data-th="คู่สกุลเงิน" data-ae="أزواج العملات"><?php translate('Currency Pairs');?>
                                         <div class="border-right-blue"></div>
                                     </th>
                                     <th>ECN Pro
@@ -517,16 +517,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 mex-m-b-40">
-                    <h1 class="mex-h1 mex-h1-color text-white text-center mex-translatable" data-es="PLATAFORMAS DESCARGA" data-de="PLATTFORM HERUNTERLADEN" data-ph="" data-vn="DOWNLOAD PLATFORM" data-id="PUSAT UNDUHAN" data-pt="TRANSFERIR PLATAFORMA" data-ru="DOWNLOAD PLATFORM" data-it="SCARICA LA PIATTAFORMA" data-fr="Télécharger la plateforme" data-mys="Muat turun Platform" data-th="ดาวน์โหลดแพลตฟอร์ม" data-ae="تحميل منصة">Download Platform</h1>
+                    <h1 class="mex-h1 mex-h1-color text-white text-center mex-translatable" data-es="PLATAFORMAS DESCARGA" data-de="PLATTFORM HERUNTERLADEN" data-ph="" data-vn="DOWNLOAD PLATFORM" data-id="PUSAT UNDUHAN" data-pt="TRANSFERIR PLATAFORMA" data-ru="DOWNLOAD PLATFORM" data-it="SCARICA LA PIATTAFORMA" data-fr="Télécharger la plateforme" data-mys="Muat turun Platform" data-th="ดาวน์โหลดแพลตฟอร์ม" data-ae="تحميل منصة"><?php translate('Download Platform'); ?></h1>
                 </div>
                 <div class="col-md-12 col-sm-12">
                     <div class="mex-m-b-30 text-center">
                         <div class=" mex-m-b-20">
                             <ul id="myTab" class="icon-nav">
-                                <li class="platform-selector-container"><img src="../public_files/images/common/ic_ecn@2x.png" alt="ECN Pro"><br><a class="platform-selector uppercase" data-tab="tab_ecn_pro">ECN Pro</a></li>
-                                <li class="platform-selector-container active"><img src="../public_files/images/common/ic_maximus@2x.png" alt="Maximus"><br><a class="platform-selector uppercase" data-tab="tab_maximus">Maximus </a></li>
-                                <li class="platform-selector-container "><img src="../public_files/images/common/ic_multibanpro@2x.png" alt="MultiBank Pro"><br><a class="platform-selector uppercase" data-tab="tab_multibank_pro">MultiBank
-                                        Pro</a></li>
+                                <li class="platform-selector-container"><img src="../public_files/images/common/ic_ecn@2x.png" alt="ECN Pro"><br><a class="platform-selector uppercase" data-tab="tab_ecn_pro"><?php translate(' ECN Pro'); ?></a></li>
+                                <li class="platform-selector-container active"><img src="../public_files/images/common/ic_maximus@2x.png" alt="Maximus"><br><a class="platform-selector uppercase" data-tab="tab_maximus"><?php translate('Maximus'); ?> </a></li>
+                                <li class="platform-selector-container "><img src="../public_files/images/common/ic_multibanpro@2x.png" alt="MultiBank Pro"><br><a class="platform-selector uppercase" data-tab="tab_multibank_pro"><?php translate('MultiBank Pro'); ?></a></li>
                                 <li class="platform-selector-container "><img src="../public_files/images/common/ic_mt5.png" alt="MT5"><br><a class="platform-selector uppercase" data-tab="tab_mt5">MT5</a></li>
                             </ul>
                         </div>
@@ -535,7 +534,7 @@
                                 <div class="tab-platform" id="tab_ecn_pro">
                                     <div class="col-xs-12 col-md-12 p0 d-flex justify-content-center flex-wrap">
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال">Mobile APP
+                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال"><?php translate('Mobile APP'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="https://itunes.apple.com/us/app/metatrader-4/id496212596" target="_blank"><img src="../public_files/images/common/ic_apple@2x.png" alt="apple"></a>
@@ -544,14 +543,14 @@
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز">Desktop
+                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز"><?php translate('Desktop'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="../web/uploads/democomp/demo/ecnmexintgroup4setup.exe" target="_blank"><img src="../public_files/images/common/windows.png" alt="window"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب">Web Trading
+                                            <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب"><?php translate('Web Trading'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/chrome.png" alt="chrome"></a>
@@ -565,7 +564,7 @@
                                 <div class="tab-platform active" id="tab_maximus">
                                     <div class="col-xs-12 col-md-12 p0 d-flex justify-content-center flex-wrap">
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال">Mobile APP
+                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال"><?php translate('Mobile APP'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="https://itunes.apple.com/us/app/metatrader-4/id496212596" target="_blank"><img src="../public_files/images/common/ic_apple@2x.png" alt="apple"></a>
@@ -574,14 +573,14 @@
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز">Desktop
+                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز"><?php translate('Desktop'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="../web/uploads/democomp/demo/maximusmexintgroup4setup.exe" target="_blank"><img src="../public_files/images/common/windows.png" alt="window"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب">Web Trading
+                                            <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب"><?php translate('Web Trading'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/chrome.png" alt="chrome"></a>
@@ -595,7 +594,7 @@
                                 <div class="tab-platform" id="tab_multibank_pro">
                                     <div class="col-xs-12 col-md-12 p0 d-flex justify-content-center flex-wrap">
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال">Mobile APP
+                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال"><?php translate('Mobile APP'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="https://itunes.apple.com/us/app/metatrader-4/id496212596" target="_blank"><img src="../public_files/images/common/ic_apple@2x.png" alt="apple"></a>
@@ -604,14 +603,14 @@
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز">Desktop
+                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز"><?php translate('Desktop'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="../web/uploads/democomp/demo/promexintgroup4setup.exe" target="_blank"><img src="../public_files/images/common/windows.png" alt="windows"></a>
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب">Web Trading
+                                            <div class="platform-name text-center mex-translatable" data-es="Web de comercio" data-de="Web-Trading" data-ph="" data-vn="" data-id="Perdagangan Web" data-pt="Negociação na Web" data-ru="Веб-трейдинг" data-it="" data-fr="" data-mys="Perdagangan Web" data-th="เว็บเทรดดิ้ง" data-ae="منصة الويب"><?php translate('Web Trading'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="../mql5.html" target="_blank"><img src="../public_files/images/common/chrome.png" alt="chrome"></a>
@@ -625,7 +624,7 @@
                                 <div class="tab-platform" id="tab_mt5">
                                     <div class="col-xs-12 col-md-12 p0 d-flex justify-content-center flex-wrap">
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال">Mobile APP
+                                            <div class="platform-name text-center mex-translatable" data-es="App para móvil" data-de="Mobile-App" data-ph="" data-vn="" data-id="Aplikasi Seluler" data-pt="Aplicação móvel" data-ru="Мобильное приложение" data-it="" data-fr="Application mobile" data-mys="Aplikasi mudah alih" data-th="แอพมือถือ" data-ae="تطبيق الجوال"><?php translate('Mobile APP'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="https://download.mql5.com/cdn/mobile/mt5/ios?server=MEXIntGroup-Demo,MEXIntGroup-Real" target="_blank"><img src="../public_files/images/common/ic_apple@2x.png" alt="apple"></a>
@@ -633,7 +632,7 @@
                                             </div>
                                         </div>
                                         <div class="platform-box">
-                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز">Desktop
+                                            <div class="platform-name text-center mex-translatable" data-es="Windows" data-de="Desktop" data-ph="" data-vn="" data-id="Desktop" data-pt="Computador" data-ru="Desktop" data-it="" data-fr="Ordinateur" data-mys="Desktop" data-th="เดสก์ทอป" data-ae="أجهزة ويندوز"><?php translate('Desktop'); ?>
                                             </div>
                                             <div class="platform-icon">
                                                 <a href="https://download.mql5.com/cdn/web/mex.international.group/mt5/mexintgroup5setup.exe" target="_blank"><img src="../public_files/images/common/windows.png" alt="windows"></a>
@@ -652,7 +651,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h2 class="mex-h1 text-center mex-m-b-40 uppercase text-1e32a3 mex-translatable" data-es="Comparativa plataformas MT4" data-de="MT4 PLATTFORM VERGLEICH" data-ph="" data-vn="" data-id="" data-pt="COMPARAÇÃO DE PLATAFORMAS MT4" data-ru="Сравнение платформ MT4" data-it="CONFRONTO DELLE PIATTAFORME MT4" data-fr="Comparaison des plateformes MT4" data-mys="Perbandingan Platform MT4:" data-th="เปรียบเทียบแพลตฟอร์มของ MT4" data-ae="مقارنة المنصات">MT4 Platform Comparison</h2>
+                    <h2 class="mex-h1 text-center mex-m-b-40 uppercase text-1e32a3 mex-translatable" data-es="Comparativa plataformas MT4" data-de="MT4 PLATTFORM VERGLEICH" data-ph="" data-vn="" data-id="" data-pt="COMPARAÇÃO DE PLATAFORMAS MT4" data-ru="Сравнение платформ MT4" data-it="CONFRONTO DELLE PIATTAFORME MT4" data-fr="Comparaison des plateformes MT4" data-mys="Perbandingan Platform MT4:" data-th="เปรียบเทียบแพลตฟอร์มของ MT4" data-ae="مقارنة المنصات"><?php translate('MT4 Platform Comparison'); ?></h2>
                     <div class="table-responsive">
                         <table class="fx-spread-table table mex-table mex-has-type table-striped-blue">
                             <thead>
@@ -671,7 +670,7 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td style="position: sticky;"><b class="mex-translatable" data-es="Spread Medio" data-de="Durchschnittliche Spreads" data-ph="" data-vn="Spreads Trung Bình" data-id="" data-pt="Spreads médios" data-ru="Средние спреды" data-it="Spread medi" data-fr="Spreads Moyens" data-mys="Spread Purata" data-th="สเปรดเฉลี่ย" data-ae="متوسط السبريد">Average Spreads</b>
+                                    <td style="position: sticky;"><b class="mex-translatable" data-es="Spread Medio" data-de="Durchschnittliche Spreads" data-ph="" data-vn="Spreads Trung Bình" data-id="" data-pt="Spreads médios" data-ru="Средние спреды" data-it="Spread medi" data-fr="Spreads Moyens" data-mys="Spread Purata" data-th="สเปรดเฉลี่ย" data-ae="متوسط السبريد"><?php translate('Average Spreads'); ?></b>
                                         <div class="border-right-blue"></div>
                                     </td>
                                     <td style="position: sticky;">0.1
@@ -683,7 +682,7 @@
                                     <td style="position: sticky;">1.4</td>
                                 </tr>
                                 <tr>
-                                    <td style="position: sticky;"><b class="mex-translatable" data-es="Tamaño mínimo de cuenta " data-de="Mindestgröße des Kontos" data-ph="" data-vn="Số dư tài khoản tối thiểu" data-id="" data-pt="Tamanho mínimo de conta" data-ru="Минимальный размер счета	" data-it="Deposito minimo sul conto" data-fr="Taille minimale du compte" data-mys="Saiz Akaun Minimum" data-th="ขนาดบัญชีขั้นต่ำ" data-ae="الحد الأدنى لحجم الحساب">Minimum Account Size</b>
+                                    <td style="position: sticky;"><b class="mex-translatable" data-es="Tamaño mínimo de cuenta " data-de="Mindestgröße des Kontos" data-ph="" data-vn="Số dư tài khoản tối thiểu" data-id="" data-pt="Tamanho mínimo de conta" data-ru="Минимальный размер счета	" data-it="Deposito minimo sul conto" data-fr="Taille minimale du compte" data-mys="Saiz Akaun Minimum" data-th="ขนาดบัญชีขั้นต่ำ" data-ae="الحد الأدنى لحجم الحساب"><?php translate('Minimum Account Size'); ?></b>
                                         <div class="border-right-blue"></div>
                                     </td>
                                     <td style="position: sticky;">$5,000
@@ -695,7 +694,7 @@
                                     <td style="position: sticky;">$50</td>
                                 </tr>
                                 <tr>
-                                    <td style="position: sticky;"><b class="mex-translatable" data-es="" data-de="" data-ph="" data-vn="" data-id="" data-pt="" data-ru="" data-it="" data-fr="" data-th="" data-mys="" data-ae="">Bonus Promotions</b>
+                                    <td style="position: sticky;"><b class="mex-translatable" data-es="" data-de="" data-ph="" data-vn="" data-id="" data-pt="" data-ru="" data-it="" data-fr="" data-th="" data-mys="" data-ae=""><?php translate('Bonus Promotions');?></b>
                                         <div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                     </td>
                                     <td style="position: sticky;">
@@ -729,7 +728,7 @@
     <section class="p0 choose-next-background subject-box-bg-light">
         <div class="container mex-m-b-80">
             <div class="col-md-12">
-                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="compare-platforms.html"><span class="ico-ic_compare_our_trading_platforms"></span> </a>

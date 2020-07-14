@@ -64,11 +64,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6 col-12">
-                        <h1 class="mex-h1 text-left">FUND YOUR ACCOUNT</h1>
+                        <h1 class="mex-h1 text-left"><?php translate(' FUND YOUR ACCOUNT'); ?></h1>
                         <div class="mex-content mex-m-b-30">
-                            <p class="mex-m-t-15">MultiBank offers a wide selection of instant, simple and secure payment
-                                options for deposits and withdrawals<br />Choose your payment option here to fund your
-                                trading account</p>
+                            <p class="mex-m-t-15"><?php translate('MultiBank offers a wide selection of instant, simple and secure payment
+                                options for deposits and withdrawals Choose your payment option here to fund your
+                                trading account'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -80,19 +80,18 @@
                     <div class="col-12">
                         <ul role="tablist" class="col-12 d-inline-block">
                             <li class="tab-title active font-type-cap" role="presentation">
-                                <a href="account-funding.html#deposits" class="font-24" aria-controls="deposits" role="tab" data-toggle="tab">DEPOSIT OPTIONS</a>
+                                <a href="account-funding.html#deposits" class="font-24" aria-controls="deposits" role="tab" data-toggle="tab"><?php translate('DEPOSIT OPTIONS'); ?></a>
                             </li>
                             <li class="tab-title font-type-cap" role="presentation">
-                                <a href="withdrawals.html" class="font-24">WITHDRAWAL OPTIONS</a>
+                                <a href="withdrawals.html" class="font-24"><?php translate('WITHDRAWAL OPTIONS'); ?></a>
                             </li>
                         </ul>
-                        <div class="mex-h2 text-center text-1e32a3 mex-m-b-20" style="margin:20px 0 !important">CHOOSE YOUR
-                            REGULATOR
+                        <div class="mex-h2 text-center text-1e32a3 mex-m-b-20" style="margin:20px 0 !important"><?php translate('CHOOSE YOUR REGULATOR'); ?>
                         </div>
                         <div class="tab-content withdraw-tab">
                             <div role="tabpanel" class="tab-pane active" id="withdrawals">
                                 <div class="col-12">
-                                    <div class="mex-h2 text-fff withdraw-header mb-1">MEX EXCHANGE (ASIC)</div>
+                                    <div class="mex-h2 text-fff withdraw-header mb-1"><?php translate('MEX EXCHANGE (ASIC)'); ?></div>
                                     <div class="st-slide-content">
                                         <div class="table-responsive">
                                             <table class="table table-striped mex-table mex-has-type text-center table-easy">
@@ -165,7 +164,7 @@
                                     </div>
                                 </div>
                                 <div class="col-12">
-                                    <div class="mex-h2 text-fff withdraw-header mb-1"> MULTIBANK FX (FSC)</div>
+                                    <div class="mex-h2 text-fff withdraw-header mb-1"> <?php translate('MULTIBANK FX (FSC)'); ?></div>
                                     <div class="st-slide-content">
                                         <div class="table-responsive">
                                             <table class="table table-striped mex-table mex-has-type text-center table-easy">
@@ -270,11 +269,11 @@
                 <div class="row">
                     <div class="col-sm-12 col-12">
                         <div class="mex-h1 text-fff mex-m-b-30 text-center mex-m-b-40">
-                            Deposit Conditions
+                        <?php translate('Deposit Conditions'); ?>
                         </div>
                         <div class="mex-content text-fff text-center">
-                            <p>Account funding must be made from an account that has the same name as the one on your
-                                MultiBank trading accounts</p>
+                            <p><?php translate('Account funding must be made from an account that has the same name as the one on your
+                                MultiBank trading accounts'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -416,7 +415,7 @@
         <section class="p0 choose-next-background subject-box-bg-light">
             <div class="container mex-m-b-80">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?>
                     </div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
