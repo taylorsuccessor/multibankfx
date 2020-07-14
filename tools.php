@@ -61,7 +61,7 @@
     <section class="flex-center page-top-banner">
         <img src="/multibankfx/public_files/images/tools/tools_topbanner.jpg" alt="tools top banner" class="mex-img-cover" />
         <div class="container">
-            <div class="row justify-content-end">
+            <div class="row justify-content-end top-banner-arabic">
                 <div class="col-xl-6 mex-p-t-30 mex-p-b-30">
                     <h1 class="mex-h1 text-fff text-left">
                     <?php translate('TOOLS'); ?> </h1>
