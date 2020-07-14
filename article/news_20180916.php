@@ -1,79 +1,7 @@
 <!DOCTYPE html>
 <html lang='en'>
 
-<head>
-    <meta charset='UTF-8'>
-    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <title>MultiBank Group Company News</title>
-    <meta name='description'
-        content="Keep up to date with MultiBank's latest news. MultiBank Group expands across Europe making it one of the latest financial derivatives companies worldwide.">
-    <meta name='keywords' content="company news, multibank company news, multibank group company news">
-    <meta property='og:title' content="Company News">
-    <meta property='og:description'
-        content="Keep up to date with MultiBank's latest news. MultiBank Group expands across Europe making it one of the latest financial derivatives companies worldwide.">
-    <link rel='canonical' href="news_20180916.html">
-    <link rel="alternate" href="https://es.multibankfx.com/about/company-news" hreflang="es-ES" />
-    <link rel="alternate" href="https://ru.multibankfx.com/about/company-news" hreflang="ru-RU" />
-    <link rel="alternate" href="https://ae.multibankfx.com/about/company-news" hreflang="en-ae" />
-    <link rel="alternate" href="https://vn.multibankfx.com/about/company-news" hreflang="vi-VN" />
-    <link rel="alternate" href="https://id.multibankfx.com/about/company-news" hreflang="id-ID" />
-    <link rel="alternate" href="https://mys.multibankfx.com/about/company-news" hreflang="ms-MY" />
-    <link rel="alternate" href="https://ph.multibankfx.com/about/company-news" hreflang="tl-PH" />
-    <link rel="alternate" href="https://th.multibankfx.com/about/company-news" hreflang="th-TH" />
-    <link rel="alternate" href="https://fr.multibankfx.com/about/company-news" hreflang="fr-FR" />
-    <link rel="alternate" href="news_20180916.html" hreflang="x-default" />
-
-    <script type="25a4ed03b2a18f3d06b293bb-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KNJQJTN');</script>
-    <link rel="shortcut icon" href="../public_files/images/common/icons/favicon.ico">
-    <link rel="stylesheet" href="../public_files/static_min_css/library.min.css">
-    <link rel="stylesheet" href="../public_files/static_min_css/custom.min.css">
-    <link rel="stylesheet" href="../public_files/static_css/custom.css">
-    <style>
-        form {
-            position: relative;
-        }
-
-        .form-loader-container {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 50;
-
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        form:not(#demo_competition_form_2019_08_13) .sms-code-container {
-            display: none;
-
-        }
-
-        form:not(#demo_competition_form_2019_08_13) .send-code-container {
-            display: none;
-        }
-
-        .multibank-form label.error {
-            font-size: 1.1rem;
-
-        }
-
-        .h-00 {
-            height: 0;
-        }
-    </style>
-    <script src="../public_files/static_js/jquery-3.3.1.min.js"
-        type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
-    <script type="25a4ed03b2a18f3d06b293bb-text/javascript">const page_dir = 'ltr';</script>
-</head>
-
+<?php include_from_root('website_template/head.php');?>
 <body>
     <?php include_from_root('website_template/header_and_menu.php');?>
     <style>
@@ -129,8 +57,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         }
     </style>
 
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="main-container">
         <div class="news-content">
             <h1 class="mex-h1 news-martop">Company News</h1>
@@ -140,11 +67,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="news-con-det clearfix ">
                         <div class="row">
                             <div class="col-xs-12 col-sm-12 col-md-5">
-                                <a class="article-block"
-                                    href="multibank-fast-n-furious-trading-contest-announcement.html">
+                                <a class="article-block" href="multibank-fast-n-furious-trading-contest-announcement.html">
                                     <div class="news-con-det-l">
-                                        <img src="../public_files/blog/thumbnails/2020_winners_announced_thumbnail.png"
-                                            alt="Winners Announced for the MultiBank Fast & Furious Trading Contest" />
+                                        <img src="../public_files/blog/thumbnails/2020_winners_announced_thumbnail.png" alt="Winners Announced for the MultiBank Fast & Furious Trading Contest" />
                                         <p class="news-con-h4 news-con-blue article-big-title">Winners Announced for the
                                             MultiBank Fast & Furious Trading Contest</p>
                                         <p class="news-con-date news-con-date-m">2020-02-18</p>
@@ -158,8 +83,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <div class="news-con-det-r">
                                     <a class="article-block" href="multibank-fast-n-furious-trading-contest.html">
                                         <div class="news-con-det-rbox clearfix news-con-det-marnone">
-                                            <img src="../public_files/blog/thumbnails/MB_BMW_thumbnail_1.jpg"
-                                                alt="MultiBank Fast & Furious Trading Contest Starts Jan 6, 2020! " />
+                                            <img src="../public_files/blog/thumbnails/MB_BMW_thumbnail_1.jpg" alt="MultiBank Fast & Furious Trading Contest Starts Jan 6, 2020! " />
                                             <div class="news-con-det-rbox-r">
                                                 <p class="news-con-h4 news-con-blue article-big-title">MultiBank Fast &
                                                     Furious Trading Contest Starts Jan 6, 2020! </p>
@@ -167,11 +91,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             </div>
                                         </div>
                                     </a>
-                                    <a class="article-block"
-                                        href="multibank-philippines-hosts-investors-night-2019.html">
+                                    <a class="article-block" href="multibank-philippines-hosts-investors-night-2019.html">
                                         <div class="news-con-det-rbox clearfix">
-                                            <img src="../public_files/blog/thumbnails/PH_Investor_Night_thumbnail.jpg"
-                                                alt="MultiBank Philippines Hosts Investors Night 2019" />
+                                            <img src="../public_files/blog/thumbnails/PH_Investor_Night_thumbnail.jpg" alt="MultiBank Philippines Hosts Investors Night 2019" />
                                             <div class="news-con-det-rbox-r">
                                                 <p class="news-con-h4 news-con-blue article-big-title">MultiBank
                                                     Philippines Hosts Investors Night 2019</p>
@@ -179,11 +101,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             </div>
                                         </div>
                                     </a>
-                                    <a class="article-block"
-                                        href="multibank-malaysia-hosted-successful-trading-seminar-in-kuala-lumpur.html">
+                                    <a class="article-block" href="multibank-malaysia-hosted-successful-trading-seminar-in-kuala-lumpur.html">
                                         <div class="news-con-det-rbox clearfix">
-                                            <img src="../public_files/blog/thumbnails/malaysia_seminar_thumbnail_en.jpg"
-                                                alt="MultiBank Malaysia Hosted Successful Trading Seminar in Kuala Lumpur" />
+                                            <img src="../public_files/blog/thumbnails/malaysia_seminar_thumbnail_en.jpg" alt="MultiBank Malaysia Hosted Successful Trading Seminar in Kuala Lumpur" />
                                             <div class="news-con-det-rbox-r">
                                                 <p class="news-con-h4 news-con-blue article-big-title">MultiBank
                                                     Malaysia Hosted Successful Trading Seminar in Kuala Lumpur</p>
@@ -198,8 +118,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="news-con-det clearfix">
                         <a class="article-block" href="multibank-attends-macau-grand-prix-2019.html">
                             <div class="news-con-det-sec news-con-det-marnone">
-                                <img src="../public_files/blog/thumbnails/macau_gp_2019_thumbnail.jpg"
-                                    alt="MultiBank Group Attends Macau Grand Prix 2019" />
+                                <img src="../public_files/blog/thumbnails/macau_gp_2019_thumbnail.jpg" alt="MultiBank Group Attends Macau Grand Prix 2019" />
                                 <p class="news-con-h4 news-con-blue article-big-title">MultiBank Group Attends Macau
                                     Grand Prix 2019</p>
                                 <p class="news-con-date news-con-date-m">2019-11-17</p>
@@ -210,8 +129,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </a>
                         <a class="article-block" href="multibank-fx-championship-2019-winners-announced.html">
                             <div class="news-con-det-sec">
-                                <img src="../public_files/blog/thumbnails/1104_demo_competition_thumbnail.jpg"
-                                    alt="MultiBank FX Championship 2019 Winners Announced!" />
+                                <img src="../public_files/blog/thumbnails/1104_demo_competition_thumbnail.jpg" alt="MultiBank FX Championship 2019 Winners Announced!" />
                                 <p class="news-con-h4 news-con-blue article-big-title">MultiBank FX Championship 2019
                                     Winners Announced!</p>
                                 <p class="news-con-date news-con-date-m">2019-11-04</p>
@@ -224,8 +142,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </a>
                         <a class="article-block" href="multibank-attends-forex-expo-dubai-wins-best-forex-broker.html">
                             <div class="news-con-det-sec">
-                                <img src="../public_files/blog/thumbnails/dubai_expo_thumbnail.jpg"
-                                    alt="MultiBank Attends the Forex Expo Dubai and Takes Home “Best Forex Broker” Award" />
+                                <img src="../public_files/blog/thumbnails/dubai_expo_thumbnail.jpg" alt="MultiBank Attends the Forex Expo Dubai and Takes Home “Best Forex Broker” Award" />
                                 <p class="news-con-h4 news-con-blue article-big-title">MultiBank Attends the Forex Expo
                                     Dubai and Takes Home “Best Forex Broker” Award</p>
                                 <p class="news-con-date news-con-date-m">2019-10-02</p>
@@ -237,67 +154,48 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
                 <div class="col-12 col-lg-3">
                     <div class="border-form mex-p-h-15 mb-4 mex-m-t-40 bg-white">
-                        <form action="https://www.multibankfx.com/form/contactus?" name='contact_us_form'
-                            class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='contact_us_form'
-                            target='' autocomplete='on'>
+                        <form action="https://www.multibankfx.com/form/contactus?" name='contact_us_form' class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='contact_us_form' target='' autocomplete='on'>
                             <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMzowMjo0Ng==' />
-                            <input type='hidden' name='token'
-                                value='$2y$10$Tne1LEaj9mRtyCigbHFol.k2JY/N9icFflvUm8EbTDwBYO0sH2czS' />
-                            <input type='hidden' name='source'
-                                value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 03:02:32] https://www.multibankfx.com/article/multibank-mena-diamond-sponsor-jordan-expo<br/><br/>[2020-06-27 03:02:35] https://www.multibankfx.com/article/multibank-fx-championship-2019-starting-soon<br/><br/>[2020-06-27 03:02:44] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/>[2020-06-27 03:02:46] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/company-news?web=true' />
+                            <input type='hidden' name='token' value='$2y$10$Tne1LEaj9mRtyCigbHFol.k2JY/N9icFflvUm8EbTDwBYO0sH2czS' />
+                            <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 03:02:32] https://www.multibankfx.com/article/multibank-mena-diamond-sponsor-jordan-expo<br/><br/>[2020-06-27 03:02:35] https://www.multibankfx.com/article/multibank-fx-championship-2019-starting-soon<br/><br/>[2020-06-27 03:02:44] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/>[2020-06-27 03:02:46] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/company-news?web=true' />
                             <div class='bg-000 text-center mex-m-x-n15 w-110'>
                                 <label for='' class='mex-h3 text-white py-2 mb-0'>
                                     CONTACT US FOR INQUIRIES</label>
-                                <input type='hidden' data-message='' data-extra-message="" data-regex=''
-                                    class=' form-control' name='label_title' placeholder='' value='' />
+                                <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' form-control' name='label_title' placeholder='' value='' />
                             </div>
                             <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                 <label for='' class='m-0'>
                                 </label>
-                                <div class='form-check form-check-inline'><input
-                                        data-message='Account Type is Required.'
-                                        data-extra-message="Account type Invalid." class='   ' name='account_type'
-                                        type='radio' required value='1' checked />
+                                <div class='form-check form-check-inline'><input data-message='Account Type is Required.' data-extra-message="Account type Invalid." class='   ' name='account_type' type='radio' required value='1' checked />
                                     <label class='  ' for=''>INDIVIDUAL</label>
                                 </div>
                             </div>
                             <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                 <label for='' class='m-0'>
                                 </label>
-                                <div class='form-check form-check-inline'><input
-                                        data-message='Account Type is Required.'
-                                        data-extra-message="Account Type Invalid." class='   ' name='account_type'
-                                        type='radio' required value='2' />
+                                <div class='form-check form-check-inline'><input data-message='Account Type is Required.' data-extra-message="Account Type Invalid." class='   ' name='account_type' type='radio' required value='2' />
                                     <label class='  ' for=''>PARTNERSHIP</label>
                                 </div>
                             </div>
                             <div class='mex-form-item col-12 p-1'>
                                 <label for='' class='d-none'>
                                     Full Name</label>
-                                <input type="text" data-message="Full Name is Required."
-                                    data-extra-message="Full Name Invalid." data-regex="" class="form-control mb-0"
-                                    name="name" $field_id_code placeholder="Full Name" required value="" />
+                                <input type="text" data-message="Full Name is Required." data-extra-message="Full Name Invalid." data-regex="" class="form-control mb-0" name="name" $field_id_code placeholder="Full Name" required value="" />
                             </div>
                             <div class='mex-form-item col-12 p-1'>
                                 <label for='' class='d-none'>
                                     Email</label>
-                                <input type='email' data-message='Email is Required.'
-                                    data-extra-message="Email is Invalid." data-regex='' class='form-control mb-0'
-                                    name='email' placeholder='Email' required value='' />
+                                <input type='email' data-message='Email is Required.' data-extra-message="Email is Invalid." data-regex='' class='form-control mb-0' name='email' placeholder='Email' required value='' />
                             </div>
                             <div class='mex-form-item col-12 p-1'>
                                 <label for='' class='d-none'>
                                     Confirm Email</label>
-                                <input type='email' data-message='Confirm Email is Required.'
-                                    data-extra-message="Email Mismatched." data-regex='' class='form-control mb-0'
-                                    name='confirm_email' placeholder='Confirm Email' required value='' />
+                                <input type='email' data-message='Confirm Email is Required.' data-extra-message="Email Mismatched." data-regex='' class='form-control mb-0' name='confirm_email' placeholder='Confirm Email' required value='' />
                             </div>
                             <div class='d-none'>
                                 <label for='' class='d-none'>
                                     Country</label>
-                                <select data-message='Country is Required.' data-extra-message="Country Name Invalid"
-                                    class='selection-country form-control  mb-0 select_with_country select_with_country'
-                                    name='country_name' required>
+                                <select data-message='Country is Required.' data-extra-message="Country Name Invalid" class='selection-country form-control  mb-0 select_with_country select_with_country' name='country_name' required>
                                     <option value='' selected='selected'>Select Country</option>
                                     <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
                                     <option data-country_iso_code="AL" data-name='AL' value='AL'>ALBANIA</option>
@@ -589,46 +487,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <div class='mex-form-item col-12 p-1'>
                                 <label for='' class='d-none'>
                                     Phone</label>
-                                <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.'
-                                    data-extra-message="Phone Number Invalid" data-regex=''
-                                    class='input_with_phone form-control mb-0 input_with_phone' name='phone_display'
-                                    placeholder='' required value='' />
+                                <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.' data-extra-message="Phone Number Invalid" data-regex='' class='input_with_phone form-control mb-0 input_with_phone' name='phone_display' placeholder='' required value='' />
                                 <input type='hidden' name='phone' />
                             </div>
                             <div class='mex-form-item col-6 col-md-6 p-1 sms-code-container'>
-                                <input type='number' name='phone_sms_verif_code' class='sms_verif_code regCon oth_sp'
-                                    placeholder='SMS Code' required='required' number='true' autocomplete='off'
-                                    list='autocompleteOff' />
+                                <input type='number' name='phone_sms_verif_code' class='sms_verif_code regCon oth_sp' placeholder='SMS Code' required='required' number='true' autocomplete='off' list='autocompleteOff' />
                             </div>
                             <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
-                                <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset '
-                                    id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
-                            </div><button type='submit' class='btn-contact mx-1 mt-2 mb-0'
-                                onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                                data-cf-modified-25a4ed03b2a18f3d06b293bb-="">SUBMIT</button>
+                                <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset ' id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
+                            </div><button type='submit' class='btn-contact mx-1 mt-2 mb-0' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-25a4ed03b2a18f3d06b293bb-="">SUBMIT</button>
                         </form>
                         <hr class="mx-1">
                         <div class="px-1 contact-form-button-container">
-                            <a href="../account/live-account.html"
-                                class="d-flex btn btn-mex-red mex-m-b-5 col-md-12 col-xs-12 align-items-center">
+                            <a href="../account/live-account.html" class="d-flex btn btn-mex-red mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                                 <span>&#xe91d;</span>
                                 <div class="btn-vr"></div>
                                 OPEN LIVE ACCOUNT
                             </a>
-                            <a href="../demo_competition.html"
-                                class="d-flex btn btn-mex-blue mex-m-b-5 col-md-12 col-xs-12 align-items-center">
+                            <a href="../demo_competition.html" class="d-flex btn btn-mex-blue mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                                 <span>&#xe918;</span>
                                 <div class="btn-vr"></div>
                                 OPEN DEMO ACCOUNT
                             </a>
-                            <a href="../partnership/introducing-brokers.html#introducing-brokers-form"
-                                class="d-flex btn btn-mex-gray mex-m-b-5 col-md-12 col-xs-12 align-items-center">
+                            <a href="../partnership/introducing-brokers.html#introducing-brokers-form" class="d-flex btn btn-mex-gray mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                                 <span>&#xe920;</span>
                                 <div class="btn-vr"></div>
                                 IB REGISTRATION
                             </a>
-                            <a href="../account/account-funding.html"
-                                class="d-flex btn btn-mex mex-m-b-5 col-md-12 col-xs-12 align-items-center">
+                            <a href="../account/account-funding.html" class="d-flex btn btn-mex mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                                 <span>&#xe921;</span>
                                 <div class="btn-vr"></div>
                                 FUND YOUR ACCOUNT
@@ -636,12 +522,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <div class="px-1 font-10" style="padding:0px;">
                                 <div class="form-check form-check-inline">
                                     <label class="form-check-label label-1 " for="terms_conditions">By submitting this
-                                        form, you agree to accept the <a href="../terms-conditions.html" target="_blank"
-                                            class="text-22A0C4" style="padding:0 !important;">Terms &amp;
-                                            Conditions</a>, <a href="../privacy-policy.html" target="_blank"
-                                            class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a
-                                            href="../cookie-policy.html" target="_blank" class="text-22A0C4"
-                                            style="padding:0 !important;">Cookie Policy</a>.
+                                        form, you agree to accept the <a href="../terms-conditions.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp;
+                                            Conditions</a>, <a href="../privacy-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a href="../cookie-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Cookie Policy</a>.
                                     </label>
                                 </div>
                             </div>
@@ -654,10 +536,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="col-12 col-lg-9 col-lg-offset-1 mex-m-b-50 text-center">
                 <nav aria-label="Page navigation example">
                     <ul class="pagination justify-content-center">
-                        <li class="page-item disabled"><a class="page-link" href="../about/company-news%3Fpaged=0.html"
-                                tabindex="-1">Previous</a></li>
-                        <li class="page-item active"><a class="page-link"
-                                href="../about/company-news%3Fpaged=1.html">1</a></li>
+                        <li class="page-item disabled"><a class="page-link" href="../about/company-news%3Fpaged=0.html" tabindex="-1">Previous</a></li>
+                        <li class="page-item active"><a class="page-link" href="../about/company-news%3Fpaged=1.html">1</a></li>
                         <li class="page-item "><a class="page-link" href="../about/company-news%3Fpaged=2.html">2</a>
                         </li>
                         <li class="page-item "><a class="page-link" href="../about/company-news%3Fpaged=3.html">3</a>
@@ -669,38 +549,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
         </div>
         <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-        <script type="25a4ed03b2a18f3d06b293bb-text/javascript">const numNewsPage = 7;</script>
         <script type="25a4ed03b2a18f3d06b293bb-text/javascript">
-$(function() {
-var icons = [
-'ic_why_multibank',
-'ic_our_regulations',
-'ic_security_of_funds',
-'ic_our_milestones',
-'ic_our_products',
-'ic_live_chat_support',
-'ic_compare_our_trading_platforms',
-'ic_download_mt4',
-'ic_bonus_programs_for_ibs',
-'ic_Bonus_Programs_for_Individual_Clients',
-'ic_trading_tools',
-'ic_partnership_programs'
-];
-whereToGoItem.injectIcons('.target-icon', icons);
-});
-</script>
+            const numNewsPage = 7;
+        </script>
+        <script type="25a4ed03b2a18f3d06b293bb-text/javascript">
+            $(function() {
+                var icons = [
+                    'ic_why_multibank',
+                    'ic_our_regulations',
+                    'ic_security_of_funds',
+                    'ic_our_milestones',
+                    'ic_our_products',
+                    'ic_live_chat_support',
+                    'ic_compare_our_trading_platforms',
+                    'ic_download_mt4',
+                    'ic_bonus_programs_for_ibs',
+                    'ic_Bonus_Programs_for_Individual_Clients',
+                    'ic_trading_tools',
+                    'ic_partnership_programs'
+                ];
+                whereToGoItem.injectIcons('.target-icon', icons);
+            });
+        </script>
         <section class="p0 choose-next-background subject-box-bg-light">
             <div class="container mex-m-b-80">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable"
-                        data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
-                        data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE"
-                        data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน"
-                        data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
-                            <li><a href="../mfx/v1/about/regulations.html"><span
-                                        class="ico-ic_our_regulations">&nbsp;</span></a>
+                            <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span></a>
                                 <div class="mex-content mex-clamp-3">Our Regulations</div>
                             </li>
                             <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
@@ -717,8 +594,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                         Multibank</a></div>
                                 <a href="../about/why-multibank-group.html"> </a>
                             </li>
-                            <li><a href="../mfx/v1/about/regulations.html"><span
-                                        class="ico-ic_our_regulations">&nbsp;</span> </a>
+                            <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
                                 <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html">Our
                                         Regulations</a></div>
                                 <a href="../mfx/v1/about/regulations.html"> </a>
@@ -745,10 +621,8 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                         Programs</a></div>
                                 <a href="../investor-relations.html"> </a>
                             </li>
-                            <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span
-                                        class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a
-                                        href="../partnership/introducing-brokers.html#introducing-brokers-form">Become
+                            <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="../partnership/introducing-brokers.html#introducing-brokers-form">Become
                                         an IB</a></div>
                                 <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                             </li>
@@ -757,16 +631,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                         Milestones</a></div>
                                 <a href="../about/milestones.html"> </a>
                             </li>
-                            <li><a href="../index.html#"
-                                    onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                    data-cf-modified-25a4ed03b2a18f3d06b293bb-=""><span
-                                        class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../index.html#"
-                                        onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                        data-cf-modified-25a4ed03b2a18f3d06b293bb-="">Live Chat Support</a></div>
-                                <a href="../index.html#"
-                                    onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                    data-cf-modified-25a4ed03b2a18f3d06b293bb-=""> </a>
+                            <li><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-25a4ed03b2a18f3d06b293bb-=""><span class="ico-ic_live_chat_support"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-25a4ed03b2a18f3d06b293bb-="">Live Chat Support</a></div>
+                                <a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-25a4ed03b2a18f3d06b293bb-=""> </a>
                             </li>
                         </ul>
                     </div>
@@ -787,25 +654,15 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     <div class="border-line col-md-6 col-lg-4 col-sm-12 col-xs-12 hidden-md">
                         <div class="mex-h3  mex-p-v-15 ">Phone Numbers Worldwide</div>
                         <ul class="contact-country">
-                            <li class="d-none d-md-block"><a href="tel:+12139924748?call"><img alt="US"
-                                        class="country-icon" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/common/country/usa_big.png" />
+                            <li class="d-none d-md-block"><a href="tel:+12139924748?call"><img alt="US" class="country-icon" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/country/usa_big.png" />
                                     <span> <strong>US:</strong> +1 213 992 4748 </span> </a></li>
-                            <li class="d-none d-md-block"><a href="tel:+34931220671?call"><img alt="Spain"
-                                        class="country-icon" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/common/country/spain_big.png" />
+                            <li class="d-none d-md-block"><a href="tel:+34931220671?call"><img alt="Spain" class="country-icon" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/country/spain_big.png" />
                                     <span> <strong>Spain:</strong> +34 931220671</span></a></li>
-                            <li class="d-none d-md-block"><a href="tel:+390230578823?call"><img alt="Italy"
-                                        class="country-icon" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/common/country/italy_big.png" />
+                            <li class="d-none d-md-block"><a href="tel:+390230578823?call"><img alt="Italy" class="country-icon" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/country/italy_big.png" />
                                     <span> <strong>Italy:</strong> +39 0230578823 </span> </a></li>
-                            <li class="d-none d-md-block"><a href="tel:+6202129264151?call"><img alt="Indonesia"
-                                        class="country-icon" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/common/country/indonesia_big.png" />
+                            <li class="d-none d-md-block"><a href="tel:+6202129264151?call"><img alt="Indonesia" class="country-icon" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/country/indonesia_big.png" />
                                     <span> <strong>Indonesia:</strong> +62 02129264151 </span> </a></li>
-                            <li class="d-none d-md-block"><a href="tel:+60322010966?call"><img alt="Malaysia"
-                                        class="country-icon" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/common/country/malaysia_big.png" />
+                            <li class="d-none d-md-block"><a href="tel:+60322010966?call"><img alt="Malaysia" class="country-icon" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/country/malaysia_big.png" />
                                     <span> <strong>Malaysia:</strong> +60 32 201 0966</span> </a></li>
 
                         </ul>
@@ -816,46 +673,29 @@ whereToGoItem.injectIcons('.target-icon', icons);
                             <li>
                                 <div class="mex-h3  mex-p-v-15 ">Follow us on</div>
                                 <a href="https://www.facebook.com/multibank.official" target="_blank">
-                                    <img alt="" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/common/en_foote_btn_01.png"
-                                        style="width:20px; height:auto" />
+                                    <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/en_foote_btn_01.png" style="width:20px; height:auto" />
                                 </a>
                                 <a href="https://twitter.com/multibankgroup" target="_blank">
-                                    <img alt="" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/common/en_foote_btn_02.png"
-                                        style="width:20px; height:auto" />
+                                    <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/en_foote_btn_02.png" style="width:20px; height:auto" />
                                 </a>
                                 <a href="https://www.youtube.com/c/MultiBankGoup" target="_blank">
-                                    <img alt="" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/common/en_foote_btn_03.png"
-                                        style="width:20px; height:auto" />
+                                    <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/en_foote_btn_03.png" style="width:20px; height:auto" />
                                 </a>
                                 <a href="https://www.linkedin.com/company/multibankgroup/" target="_blank">
-                                    <img alt="" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/common/en_foote_btn_04.png"
-                                        style="width:20px; height:auto" />
+                                    <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/en_foote_btn_04.png" style="width:20px; height:auto" />
                                 </a>
                                 <a href="https://www.instagram.com/multibank_group/" target="_blank">
-                                    <img alt="" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/common/en_foote_btn_05.png"
-                                        style="width:20px; height:auto" />
+                                    <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/en_foote_btn_05.png" style="width:20px; height:auto" />
                                 </a>
                             </li>
                             <li class="ForIts">
                                 <div class="mex-h3  mex-p-v-15  mex-m-t-10">Email Us</div>
-                                <div class="contact-email"><a class="text-000033"
-                                        href="../cdn-cgi/l/email-protection.html#fa9989ba978f968e93989b94919c82d4999597"><span
-                                            class="__cf_email__"
-                                            data-cfemail="d1b2a291bca4bda5b8b3b0bfbab7a9ffb2bebc">[email&#160;protected]</span></a>
+                                <div class="contact-email"><a class="text-000033" href="../cdn-cgi/l/email-protection.html#fa9989ba978f968e93989b94919c82d4999597"><span class="__cf_email__" data-cfemail="d1b2a291bca4bda5b8b3b0bfbab7a9ffb2bebc">[email&#160;protected]</span></a>
                                 </div>
                             </li>
                             <li class="ForIts">
                                 <div class="mex-h3 mex-m-t-20 ">Live Chat</div>
-                                <a href="news_20180916.html#"
-                                    onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                    data-cf-modified-25a4ed03b2a18f3d06b293bb-=""><img alt="chat"
-                                        class="home_contact_us_chat_now" data-entity-type="" data-entity-uuid=""
-                                        src="../public_files/images/common/footer_btn_chat_now.png" />
+                                <a href="news_20180916.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-25a4ed03b2a18f3d06b293bb-=""><img alt="chat" class="home_contact_us_chat_now" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/footer_btn_chat_now.png" />
                                 </a>
                             </li>
                         </ul>
@@ -863,17 +703,13 @@ whereToGoItem.injectIcons('.target-icon', icons);
                             <div class="col-4 text-center mx-auto">
                                 <div class="mex-h3 mb-2 footer-mb-social-media">EMAIL US</div>
                                 <a href="../cdn-cgi/l/email-protection.html#680b1b28051d041c010a0906030e10460b0705">
-                                    <img class="footer-contact-ic"
-                                        src="../public_files/images/common/icon_contact_mail.png" />
+                                    <img class="footer-contact-ic" src="../public_files/images/common/icon_contact_mail.png" />
                                 </a>
                             </div>
                             <div class="col-4 text-center mx-auto">
                                 <div class="mex-h3 mb-2 footer-mb-social-media">LIVE CHAT</div>
-                                <a href="news_20180916.html#"
-                                    onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                                    data-cf-modified-25a4ed03b2a18f3d06b293bb-="">
-                                    <img class="footer-contact-ic"
-                                        src="../public_files/images/common/icon_contact_wechat.png" />
+                                <a href="news_20180916.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-25a4ed03b2a18f3d06b293bb-="">
+                                    <img class="footer-contact-ic" src="../public_files/images/common/icon_contact_wechat.png" />
                                 </a>
                             </div>
                         </div>
@@ -881,61 +717,43 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     <div class="col-md-6 col-lg-4 col-sm-12 col-xs-12 d-none d-md-block">
                         <div class="mex-h3  mex-p-v-15 text-sm-center text-md-left">GET A CALL BACK</div>
                         <div style="width: 100%;">
-                            <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form'
-                                class='multibank-form row mx-0 w-100 new' method='post' enctype=''
-                                id='call_back_footer_form' target='' autocomplete='on'>
+                            <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form' class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='call_back_footer_form' target='' autocomplete='on'>
                                 <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMzowMjo0Ng==' />
-                                <input type='hidden' name='token'
-                                    value='$2y$10$EsceFy1UMh9GTK0.6PNQLOqQpqBVaqPdo4ZcWxweZcQHK7h4r3JNm' />
-                                <input type='hidden' name='source'
-                                    value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 03:02:32] https://www.multibankfx.com/article/multibank-mena-diamond-sponsor-jordan-expo<br/><br/>[2020-06-27 03:02:35] https://www.multibankfx.com/article/multibank-fx-championship-2019-starting-soon<br/><br/>[2020-06-27 03:02:44] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/>[2020-06-27 03:02:46] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/company-news?web=true' />
+                                <input type='hidden' name='token' value='$2y$10$EsceFy1UMh9GTK0.6PNQLOqQpqBVaqPdo4ZcWxweZcQHK7h4r3JNm' />
+                                <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 03:02:32] https://www.multibankfx.com/article/multibank-mena-diamond-sponsor-jordan-expo<br/><br/>[2020-06-27 03:02:35] https://www.multibankfx.com/article/multibank-fx-championship-2019-starting-soon<br/><br/>[2020-06-27 03:02:44] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/>[2020-06-27 03:02:46] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/company-news?web=true' />
                                 <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                     <label for='' class='m-0'>
                                     </label>
-                                    <div class='form-check form-check-inline'><input
-                                            data-message='Account Type is Required.'
-                                            data-extra-message="Full Name Invalid." class='   ' name='account_type'
-                                            type='radio' required value='1' checked />
+                                    <div class='form-check form-check-inline'><input data-message='Account Type is Required.' data-extra-message="Full Name Invalid." class='   ' name='account_type' type='radio' required value='1' checked />
                                         <label class='  ' for=''>INDIVIDUAL</label>
                                     </div>
                                 </div>
                                 <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                     <label for='' class='m-0'>
                                     </label>
-                                    <div class='form-check form-check-inline'><input data-message=''
-                                            data-extra-message="Full Name Invalid." class='   ' name='account_type'
-                                            type='radio' required value='2' />
+                                    <div class='form-check form-check-inline'><input data-message='' data-extra-message="Full Name Invalid." class='   ' name='account_type' type='radio' required value='2' />
                                         <label class='  ' for=''>PARTNERSHIP</label>
                                     </div>
                                 </div>
                                 <div class='mex-form-item col-12 p-1'>
                                     <label for='' class='d-none'>
                                     </label>
-                                    <input type='text' data-message='Name is Required.'
-                                        data-extra-message="Full Name Invalid." data-regex='' class=' form-control mb-0'
-                                        name='name' placeholder='Full Name' required value='' />
+                                    <input type='text' data-message='Name is Required.' data-extra-message="Full Name Invalid." data-regex='' class=' form-control mb-0' name='name' placeholder='Full Name' required value='' />
                                 </div>
                                 <div class='mex-form-item col-12 p-1'>
                                     <label for='' class='d-none'>
                                     </label>
-                                    <input type='email' data-message='Email is Required.'
-                                        data-extra-message="Email is Invalid." data-regex='' class='form-control mb-0'
-                                        name='email' placeholder='Email' required value='' />
+                                    <input type='email' data-message='Email is Required.' data-extra-message="Email is Invalid." data-regex='' class='form-control mb-0' name='email' placeholder='Email' required value='' />
                                 </div>
                                 <div class='mex-form-item col-12 p-1'>
                                     <label for='' class='d-none'>
                                     </label>
-                                    <input type='email' data-message='Confirm Email is Required.'
-                                        data-extra-message="Email Mismatched." data-regex='' class='form-control mb-0'
-                                        name='confirm_email' placeholder='Confirm Email' required value='' />
+                                    <input type='email' data-message='Confirm Email is Required.' data-extra-message="Email Mismatched." data-regex='' class='form-control mb-0' name='confirm_email' placeholder='Confirm Email' required value='' />
                                 </div>
                                 <div class='d-none'>
                                     <label for='' class='d-none'>
                                     </label>
-                                    <select data-message='Country Name is Required.'
-                                        data-extra-message="Country Name Invalid."
-                                        class='selection-country form-control  mb-0 select_with_country select_with_country'
-                                        name='country_name' required>
+                                    <select data-message='Country Name is Required.' data-extra-message="Country Name Invalid." class='selection-country form-control  mb-0 select_with_country select_with_country' name='country_name' required>
                                         <option value='' selected='selected'>Select Country</option>
                                         <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN
                                         </option>
@@ -1257,36 +1075,23 @@ whereToGoItem.injectIcons('.target-icon', icons);
                                 <div class='mex-form-item col-12 p-1'>
                                     <label for='' class='d-none'>
                                     </label>
-                                    <input type='phone' data-ip_country_code='IN'
-                                        data-message='Phone Number is required.'
-                                        data-extra-message="Phone Number Invalid" data-regex=''
-                                        class='input_with_phone form-control mb-0 input_with_phone' name='phone_display'
-                                        placeholder='' required value='' />
+                                    <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.' data-extra-message="Phone Number Invalid" data-regex='' class='input_with_phone form-control mb-0 input_with_phone' name='phone_display' placeholder='' required value='' />
                                     <input type='hidden' name='phone' />
                                 </div>
                                 <div class='mex-form-item col-6 col-md-6 p-1 sms-code-container'>
-                                    <input type='number' name='phone_sms_verif_code'
-                                        class='sms_verif_code regCon oth_sp' placeholder='SMS Code' required='required'
-                                        number='true' autocomplete='off' list='autocompleteOff' />
+                                    <input type='number' name='phone_sms_verif_code' class='sms_verif_code regCon oth_sp' placeholder='SMS Code' required='required' number='true' autocomplete='off' list='autocompleteOff' />
                                 </div>
                                 <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
-                                    <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset '
-                                        id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
-                                </div><button type='submit' class='btn btn-mex mx-auto'
-                                    onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                                    data-cf-modified-25a4ed03b2a18f3d06b293bb-="">CALL ME</button>
+                                    <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset ' id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
+                                </div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-25a4ed03b2a18f3d06b293bb-="">CALL ME</button>
                             </form>
                             <div class="px-1 font-10" style="padding:0px;">
                                 <div class="form-check form-check-inline">
                                     <label class="form-check-label label-1 " for="terms_conditions">By submitting this
                                         form,
-                                        you agree to accept the <a href="../terms-conditions.html" target="_blank"
-                                            class="text-22A0C4" style="padding:0 !important;">Terms &amp;
+                                        you agree to accept the <a href="../terms-conditions.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp;
                                             Conditions</a>,
-                                        <a href="../privacy-policy.html" target="_blank" class="text-22A0C4"
-                                            style="padding:0 !important;">Privacy Policy</a>, and <a
-                                            href="../cookie-policy.html" target="_blank" class="text-22A0C4"
-                                            style="padding:0 !important;">Cookie Policy</a>.
+                                        <a href="../privacy-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a href="../cookie-policy.html" target="_blank" class="text-22A0C4" style="padding:0 !important;">Cookie Policy</a>.
                                     </label>
                                 </div>
                             </div>
@@ -1299,41 +1104,32 @@ whereToGoItem.injectIcons('.target-icon', icons);
     <section>
         <div class="container">
             <div class="col-lg-12 footer">
-                <div class="row justify-content-between"
-                    style="padding-bottom: 25px; border-bottom: 1px solid #808080;">
+                <div class="row justify-content-between" style="padding-bottom: 25px; border-bottom: 1px solid #808080;">
                     <div class="col-xs-12 col-sm-12 col-md-8 footer_other_left align-self-center">
                         <a class="footer_logo" href="../index.html" target="_parent">
-                            <img alt="logo" data-entity-type="" data-entity-uuid=""
-                                src="../public_files/images/common/logo_black_360.png" width="200" />
+                            <img alt="logo" data-entity-type="" data-entity-uuid="" src="../public_files/images/common/logo_black_360.png" width="200" />
                         </a>
                         <a href="https://my.multibankfx.com/en/traders/login" target="_blank">MyMultibank</a>
                         <a href="../contact.html" target="_parent">Contact Us</a>
-                        <a href="news_20180916.html#"
-                            onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-                            data-cf-modified-25a4ed03b2a18f3d06b293bb-="">Support</a>
+                        <a href="news_20180916.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-25a4ed03b2a18f3d06b293bb-="">Support</a>
                         <a href="hiring-now-cyprus.html" target="_parent">Career</a>
                         <a href="../investor-relations.html" target="_parent">Investor&nbsp;Relations</a>
                     </div>
                     <div class="footer_btn col-xs-12  col-sm-12 col-md-4 align-self-center">
                         <a href="https://www.facebook.com/multibank.official" target="_blank">
-                            <img alt="facebook" data-entity-type="" data-entity-uuid="" height="30"
-                                src="../public_files/images/common/en_foote_btn_01.png" width="30" />
+                            <img alt="facebook" data-entity-type="" data-entity-uuid="" height="30" src="../public_files/images/common/en_foote_btn_01.png" width="30" />
                         </a>
                         <a href="https://twitter.com/multibankgroup" target="_blank">
-                            <img alt="twitter" data-entity-type="" data-entity-uuid="" height="30"
-                                src="../public_files/images/common/en_foote_btn_02.png" width="30" />
+                            <img alt="twitter" data-entity-type="" data-entity-uuid="" height="30" src="../public_files/images/common/en_foote_btn_02.png" width="30" />
                         </a>
                         <a href="https://www.youtube.com/c/MultiBankGoup" target="_blank">
-                            <img alt="youtube" data-entity-type="" data-entity-uuid="" height="30"
-                                src="../public_files/images/common/en_foote_btn_03.png" width="30" />
+                            <img alt="youtube" data-entity-type="" data-entity-uuid="" height="30" src="../public_files/images/common/en_foote_btn_03.png" width="30" />
                         </a>
                         <a href="https://www.linkedin.com/company/multibankgroup/" target="_blank">
-                            <img alt="linkedin" data-entity-type="" data-entity-uuid="" height="30"
-                                src="../public_files/images/common/en_foote_btn_04.png" width="30" />
+                            <img alt="linkedin" data-entity-type="" data-entity-uuid="" height="30" src="../public_files/images/common/en_foote_btn_04.png" width="30" />
                         </a>
                         <a href="https://www.instagram.com/multibank_group/" target="_blank">
-                            <img alt="instagram" data-entity-type="" data-entity-uuid="" height="30"
-                                src="../public_files/images/common/en_foote_btn_05.png" width="30" />
+                            <img alt="instagram" data-entity-type="" data-entity-uuid="" height="30" src="../public_files/images/common/en_foote_btn_05.png" width="30" />
                         </a>
                     </div>
                 </div>
@@ -1341,28 +1137,16 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     <div class="row">
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../about.html"><strong>About us</strong></a> <a
-                                        href="../about/why-multibank-group.html" target="_parent">Why Multibank</a> <a
-                                        href="../about/global-presence.html" target="_parent">Global Presence</a> <a
-                                        href="../mfx/v1/about/regulations.html" target="_parent">Regulations</a> <a
-                                        href="../about/security-of-funds.html" target="_parent">Security of Funds</a> <a
-                                        href="../about/milestones.html" target="_parent">Milestones</a> <a
-                                        href="../about/management.html" target="_parent">Management</a>
-                                    <a href="../about/awards.html" target="_parent">Awards</a> <a
-                                        href="../about/sponsorship.html" target="_parent">Sponsorship</a>
-                                    <a href="news_20180916.html" target="_parent">Company News</a> <a
-                                        href="hiring-now-cyprus.html" target="_parent">Career</a>
+                                <li><a href="../about.html"><strong>About us</strong></a> <a href="../about/why-multibank-group.html" target="_parent">Why Multibank</a> <a href="../about/global-presence.html" target="_parent">Global Presence</a> <a href="../mfx/v1/about/regulations.html" target="_parent">Regulations</a> <a href="../about/security-of-funds.html" target="_parent">Security of Funds</a> <a href="../about/milestones.html" target="_parent">Milestones</a> <a href="../about/management.html" target="_parent">Management</a>
+                                    <a href="../about/awards.html" target="_parent">Awards</a> <a href="../about/sponsorship.html" target="_parent">Sponsorship</a>
+                                    <a href="news_20180916.html" target="_parent">Company News</a> <a href="hiring-now-cyprus.html" target="_parent">Career</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../products.html"><strong>Products</strong></a> <a
-                                        href="../products/forex.html" target="_parent">Forex</a> <a
-                                        href="../products/metals.html" target="_parent">Metals</a> <a
-                                        href="../products/shares.html" target="_parent">Shares</a>
-                                    <a href="../products/indices.html" target="_parent">Indices</a> <a
-                                        href="../products/commodities.html" target="_parent">Commodities</a>
+                                <li><a href="../products.html"><strong>Products</strong></a> <a href="../products/forex.html" target="_parent">Forex</a> <a href="../products/metals.html" target="_parent">Metals</a> <a href="../products/shares.html" target="_parent">Shares</a>
+                                    <a href="../products/indices.html" target="_parent">Indices</a> <a href="../products/commodities.html" target="_parent">Commodities</a>
 
                                 </li>
                             </ul>
@@ -1382,21 +1166,12 @@ whereToGoItem.injectIcons('.target-icon', icons);
                         </div>
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../account.html"><strong>Accounts &amp; Funding</strong></a> <a
-                                        href="../account/live-account.html" target="_parent">Live Account </a> <a
-                                        href="../demo_competition.html" target="_parent">Demo Account </a> <a
-                                        href="../account/islamic-account.html" target="_parent">Islamic Account </a> <a
-                                        href="../account/account-funding.html" target="_parent">Account Funding </a> <a
-                                        href="../account/withdrawals.html" target="_parent">Withdrawals</a> <a
-                                        href="../account/account-forms.html" target="_parent">Account Forms </a> <a
-                                        href="../account/bonus.html" target="_parent">Bonuses</a></li>
+                                <li><a href="../account.html"><strong>Accounts &amp; Funding</strong></a> <a href="../account/live-account.html" target="_parent">Live Account </a> <a href="../demo_competition.html" target="_parent">Demo Account </a> <a href="../account/islamic-account.html" target="_parent">Islamic Account </a> <a href="../account/account-funding.html" target="_parent">Account Funding </a> <a href="../account/withdrawals.html" target="_parent">Withdrawals</a> <a href="../account/account-forms.html" target="_parent">Account Forms </a> <a href="../account/bonus.html" target="_parent">Bonuses</a></li>
                             </ul>
                         </div>
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../tools.html"><strong>Tools</strong></a> <a
-                                        href="../tools/trading-tools.html" target="_parent">Trading Tools </a> <a
-                                        href="../tools/trading-conditions.html" target="_parent">Trading Conditions </a>
+                                <li><a href="../tools.html"><strong>Tools</strong></a> <a href="../tools/trading-tools.html" target="_parent">Trading Tools </a> <a href="../tools/trading-conditions.html" target="_parent">Trading Conditions </a>
                                     <a href="../tools/holiday-hours-notices.html" target="_parent">Trading Hours &amp;
                                         Holiday
                                         Notice </a> <a href="../cfd-expiration-dates.html" target="_parent">CFD
@@ -1407,12 +1182,8 @@ whereToGoItem.injectIcons('.target-icon', icons);
                         </div>
                         <div class="col-md-2">
                             <ul class="footer_map">
-                                <li><a href="../investor-relations.html"><strong>Partnership</strong></a> <a
-                                        href="../partnership/introducing-brokers.html" target="_parent">Introducing
-                                        Brokers </a> <a href="../partnership/franchise-program.html"
-                                        target="_parent">Franchise Program </a> <a
-                                        href="../partnership/white-label.html" target="_parent">White Label </a> <a
-                                        href="../partnership/prime-of-primes.html" target="_parent">Prime of Primes</a>
+                                <li><a href="../investor-relations.html"><strong>Partnership</strong></a> <a href="../partnership/introducing-brokers.html" target="_parent">Introducing
+                                        Brokers </a> <a href="../partnership/franchise-program.html" target="_parent">Franchise Program </a> <a href="../partnership/white-label.html" target="_parent">White Label </a> <a href="../partnership/prime-of-primes.html" target="_parent">Prime of Primes</a>
                                     <a href="../partnership/cpa-affiliate-program.html" target="_parent">CPA Affiliate
                                         Program</a>
                                 </li>
@@ -1423,35 +1194,20 @@ whereToGoItem.injectIcons('.target-icon', icons);
                 <div class="footer_pa">
                     <div class="container">
                         <div class="row">
-                            <img class="w-100 h-auto d-block d-lg-none"
-                                src="../public_files/images/common/icons/payment_partners-201906.jpg">
+                            <img class="w-100 h-auto d-block d-lg-none" src="../public_files/images/common/icons/payment_partners-201906.jpg">
                             <div class="footer-icon-list d-none d-lg-block">
-                                <img class="footer-icon" alt="nab"
-                                    src="../public_files/images/common/icons/logo_footer_nab.png"
-                                    style="width: auto; height: 30px;">
-                                <img class="footer-icon" alt="neteller"
-                                    src="../public_files/images/common/icons/logo_footer_neteller.png"
-                                    style="width: auto; height: 20px;">
-                                <img class="footer-icon" alt="skrill"
-                                    src="../public_files/images/common/icons/logo_footer_skrill.png"
-                                    style="width: auto; height: 25px;">
-                                <img class="footer-icon" alt="swift"
-                                    src="../public_files/images/common/icons/logo_footer_swift.png"
-                                    style="width: auto; height: 25px;">
-                                <img class="footer-icon" alt="visa"
-                                    src="../public_files/images/common/icons/logo_footer_visa.png"
-                                    style="width: auto; height: 25px;">
-                                <img class="footer-icon" alt="mastercard"
-                                    src="../public_files/images/common/icons/logo_footer_mastercard.png"
-                                    style="width: auto; height: 25px;">
+                                <img class="footer-icon" alt="nab" src="../public_files/images/common/icons/logo_footer_nab.png" style="width: auto; height: 30px;">
+                                <img class="footer-icon" alt="neteller" src="../public_files/images/common/icons/logo_footer_neteller.png" style="width: auto; height: 20px;">
+                                <img class="footer-icon" alt="skrill" src="../public_files/images/common/icons/logo_footer_skrill.png" style="width: auto; height: 25px;">
+                                <img class="footer-icon" alt="swift" src="../public_files/images/common/icons/logo_footer_swift.png" style="width: auto; height: 25px;">
+                                <img class="footer-icon" alt="visa" src="../public_files/images/common/icons/logo_footer_visa.png" style="width: auto; height: 25px;">
+                                <img class="footer-icon" alt="mastercard" src="../public_files/images/common/icons/logo_footer_mastercard.png" style="width: auto; height: 25px;">
                             </div>
                         </div>
                     </div>
-                    <p><a href="../privacy-policy.html" target="_parent">Privacy Policy </a> | <a
-                            href="../cookie-policy.html" target="_parent"> Cookie
+                    <p><a href="../privacy-policy.html" target="_parent">Privacy Policy </a> | <a href="../cookie-policy.html" target="_parent"> Cookie
                             Policy</a> | <a href="../terms-conditions.html" target="_parent">Terms &amp; Conditions </a>
-                        | <a href="../website-disclaimer.html" target="_parent"> Website Disclaimer </a> | <a
-                            href="../risk-warning.html" target="_parent"> Risk
+                        | <a href="../website-disclaimer.html" target="_parent"> Website Disclaimer </a> | <a href="../risk-warning.html" target="_parent"> Risk
                             Warning</a></p>
                     <p>Copyright © : 2005-2020 MEX Group Worldwide Limited. All rights reserved. MultiBank Exchange is
                         the
@@ -1471,23 +1227,16 @@ whereToGoItem.injectIcons('.target-icon', icons);
     </section>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""
-                    src="../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid=""
-                    src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn"
-            href="../cdn-cgi/l/email-protection.html#a7c4d4e7cad2cbd3cec5c6c9ccc1df89c4c8ca">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid=""
-                    src="../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="../cdn-cgi/l/email-protection.html#a7c4d4e7cad2cbd3cec5c6c9ccc1df89c4c8ca">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
-        <a class="ib-registration-btn chat-btn"
-            onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
-            data-cf-modified-25a4ed03b2a18f3d06b293bb-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid=""
-                    src="../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+        <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-25a4ed03b2a18f3d06b293bb-="">
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1586,49 +1335,36 @@ whereToGoItem.injectIcons('.target-icon', icons);
         <div class="container row">
             <div class="col-12 col-md-7 mx-auto bg-white p-4">
                 <span class="btn-modal-close fa fa-times"></span>
-                <form action="https://www.multibankfx.com/form/contactus?" name='email_us_form'
-                    class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='email_us_form' target=''
-                    autocomplete='on'>
+                <form action="https://www.multibankfx.com/form/contactus?" name='email_us_form' class='multibank-form row mx-0 w-100 new' method='post' enctype='' id='email_us_form' target='' autocomplete='on'>
                     <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMzowMjo0Ng==' />
-                    <input type='hidden' name='token'
-                        value='$2y$10$ZF97prHYJv3Vocz.SnZcwur9b6RyNDL93ax1npAT5zlEU4U9dXkm2' />
-                    <input type='hidden' name='source'
-                        value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 03:02:32] https://www.multibankfx.com/article/multibank-mena-diamond-sponsor-jordan-expo<br/><br/>[2020-06-27 03:02:35] https://www.multibankfx.com/article/multibank-fx-championship-2019-starting-soon<br/><br/>[2020-06-27 03:02:44] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/>[2020-06-27 03:02:47] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/company-news?web=true' />
+                    <input type='hidden' name='token' value='$2y$10$ZF97prHYJv3Vocz.SnZcwur9b6RyNDL93ax1npAT5zlEU4U9dXkm2' />
+                    <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 03:02:32] https://www.multibankfx.com/article/multibank-mena-diamond-sponsor-jordan-expo<br/><br/>[2020-06-27 03:02:35] https://www.multibankfx.com/article/multibank-fx-championship-2019-starting-soon<br/><br/>[2020-06-27 03:02:44] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/>[2020-06-27 03:02:47] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/company-news?web=true' />
                     <div class='col-12 p-0'>
                         <label for='' class='mex-h3'>
                             EMAIL US</label>
-                        <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' d-none'
-                            name='label_title' placeholder='' value='' />
+                        <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' d-none' name='label_title' placeholder='' value='' />
                     </div>
                     <div class='d-none'>
                         <label for='' class='m-0 d-none'>
                         </label>
-                        <div class='form-check form-check-inline'><input data-message='Account Type is Required.'
-                                data-extra-message="Account type Invalid." class='   ' name='account_type' type='radio'
-                                required value='1' checked />
+                        <div class='form-check form-check-inline'><input data-message='Account Type is Required.' data-extra-message="Account type Invalid." class='   ' name='account_type' type='radio' required value='1' checked />
                             <label class='  ' for=''>INDIVIDUAL</label>
                         </div>
                     </div>
                     <div class='mex-form-item col-6 p-1 pb-3'>
                         <label for='' class='d-none'>
                             Full Name</label>
-                        <input type="text" data-message="Full Name is Required." data-extra-message="Full Name Invalid."
-                            data-regex="" class="form-control mb-0" name="name" $field_id_code placeholder="Full Name"
-                            required value="" />
+                        <input type="text" data-message="Full Name is Required." data-extra-message="Full Name Invalid." data-regex="" class="form-control mb-0" name="name" $field_id_code placeholder="Full Name" required value="" />
                     </div>
                     <div class='mex-form-item col-6 p-1 pb-3'>
                         <label for='' class='d-none'>
                             البريد الإلكتروني</label>
-                        <input type='email' data-message='Email is Required.' data-extra-message="Email is Invalid."
-                            data-regex='' class='form-control mb-0' name='email' placeholder='Email' required
-                            value='' />
+                        <input type='email' data-message='Email is Required.' data-extra-message="Email is Invalid." data-regex='' class='form-control mb-0' name='email' placeholder='Email' required value='' />
                     </div>
                     <div class='mex-form-item col-12 p-1 d-none'>
                         <label for='' class='d-none'>
                         </label>
-                        <select data-message='Confirm Email is Required.' data-extra-message="Email Mismatched."
-                            class='selection-country form-control  mb-0 select_with_country select_with_country'
-                            name='country_name' required>
+                        <select data-message='Confirm Email is Required.' data-extra-message="Email Mismatched." class='selection-country form-control  mb-0 select_with_country select_with_country' name='country_name' required>
                             <option value='' selected='selected'>Select Country</option>
                             <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
                             <option data-country_iso_code="AL" data-name='AL' value='AL'>ALBANIA</option>
@@ -1896,36 +1632,25 @@ whereToGoItem.injectIcons('.target-icon', icons);
                     <div class='d-none'>
                         <label for='' class='d-none'>
                         </label>
-                        <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' d-none'
-                            name='form_key' placeholder='' value='email_us_form' />
+                        <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' d-none' name='form_key' placeholder='' value='email_us_form' />
                     </div>
                     <div class='mex-form-item col-12 p-1 pb-3'>
                         <label for='' class='d-none'>
                             Phone</label>
-                        <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.'
-                            data-extra-message="Phone Number Invalid" data-regex=''
-                            class='input_with_phone form-control mb-0 input_with_phone' name='phone_display'
-                            placeholder='' required value='' />
+                        <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.' data-extra-message="Phone Number Invalid" data-regex='' class='input_with_phone form-control mb-0 input_with_phone' name='phone_display' placeholder='' required value='' />
                         <input type='hidden' name='phone' />
                     </div>
                     <div class='mex-form-item col-6 col-md-6 p-1 sms-code-container'>
-                        <input type='number' name='phone_sms_verif_code' class='sms_verif_code regCon oth_sp'
-                            placeholder='SMS Code' required='required' number='true' autocomplete='off'
-                            list='autocompleteOff' />
+                        <input type='number' name='phone_sms_verif_code' class='sms_verif_code regCon oth_sp' placeholder='SMS Code' required='required' number='true' autocomplete='off' list='autocompleteOff' />
                     </div>
                     <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
-                        <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset '
-                            id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
+                        <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset ' id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
                     </div>
                     <div class='mex-form-item col-12 mb-3 p-1'>
                         <label for='order_message' class='d-block'>
                         </label>
-                        <textarea data-message='Message is Required.' data-extra-message="Message is Invalid."
-                            data-regex='' class=' form-control w-100 ta-message' name='message' id='order_message'
-                            placeholder=''>Hello, I am interested in learning more about MultiBank products and services. Could you please contact me</textarea>
-                    </div><button type='submit' class='btn btn-mex ml-auto btn-submit'
-                        onsubmit="if (!window.__cfRLUnblockHandlers) return false; "
-                        data-cf-modified-25a4ed03b2a18f3d06b293bb-="">SEND</button>
+                        <textarea data-message='Message is Required.' data-extra-message="Message is Invalid." data-regex='' class=' form-control w-100 ta-message' name='message' id='order_message' placeholder=''>Hello, I am interested in learning more about MultiBank products and services. Could you please contact me</textarea>
+                    </div><button type='submit' class='btn btn-mex ml-auto btn-submit' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-25a4ed03b2a18f3d06b293bb-="">SEND</button>
                 </form>
             </div>
         </div>
@@ -1980,137 +1705,132 @@ whereToGoItem.injectIcons('.target-icon', icons);
     </style>
     <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="25a4ed03b2a18f3d06b293bb-text/javascript">
-    $(function(){
-        $('.email-us-tg').click(function(e){
-            e.preventDefault();
-            $('.modal-box__email-us').addClass('show');
-        });
-        $('.modal-box__email-us .btn-modal-close').click(function(e){
-            e.preventDefault();
-            $('.modal-box__email-us').removeClass('show');
-        });
-    })
-</script>
+        $(function() {
+            $('.email-us-tg').click(function(e) {
+                e.preventDefault();
+                $('.modal-box__email-us').addClass('show');
+            });
+            $('.modal-box__email-us .btn-modal-close').click(function(e) {
+                e.preventDefault();
+                $('.modal-box__email-us').removeClass('show');
+            });
+        })
+    </script>
     <script src="../public_files/static_js/lang_data/en.js" type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.dataTables.min.js"
-        type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
+    <script src="../public_files/static_js/jquery.dataTables.min.js" type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
     <script src="../public_files/static_js/lazysizes.min.js" type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.validate.min.js"
-        type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
-    <script src="../public_files/static_js/intlTelInput.min.js"
-        type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
+    <script src="../public_files/static_js/jquery.validate.min.js" type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
+    <script src="../public_files/static_js/intlTelInput.min.js" type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
     <script src="../public_files/static_js/app.js" type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
     <script type="25a4ed03b2a18f3d06b293bb-text/javascript" async>
-    url = new URL(window.location.href);
-    if (!url.searchParams.get('is_iframe')) {
-        window.__lc = window.__lc || {};
-        window.__lc.license = 3413162;
-        window.__lc.chat_between_groups = false;
-        window.__lc.group = 2;
+        url = new URL(window.location.href);
+        if (!url.searchParams.get('is_iframe')) {
+            window.__lc = window.__lc || {};
+            window.__lc.license = 3413162;
+            window.__lc.chat_between_groups = false;
+            window.__lc.group = 2;
 
-      
-    (function () {
-      var lc = document.createElement('script');
-      lc.type = 'text/javascript';
-      lc.async = true;
-      lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(lc, s);
-      window.LC_API = window.LC_API || {};
-      if (window.innerWidth < 640) {
-        LC_API.on_before_load = function() {
-          LC_API.hide_chat_window();
+
+            (function() {
+                var lc = document.createElement('script');
+                lc.type = 'text/javascript';
+                lc.async = true;
+                lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(lc, s);
+                window.LC_API = window.LC_API || {};
+                if (window.innerWidth < 640) {
+                    LC_API.on_before_load = function() {
+                        LC_API.hide_chat_window();
+                    }
+                    LC_API.on_chat_window_minimized = function() {
+                        setTimeout(function() {
+                            LC_API.hide_chat_window();
+                        }, 200);
+                    }
+                }
+            })();
         }
-        LC_API.on_chat_window_minimized = function() {
-          setTimeout(function() {
-            LC_API.hide_chat_window();
-          }, 200);
-        }
-      }
-    })();
-  }
-</script>
+    </script>
     <script type="25a4ed03b2a18f3d06b293bb-text/javascript">
-$(function() {
-    $('.mex-translatable').each(function() {
-        var url_parts = location.hostname.split('.');
-        if (url_parts.length == 3) {
-            var subdomain = url_parts.shift();
-        
-            if (subdomain == 'ae' && document.documentElement.lang == 'aen') {
-                subdomain = 'aen';
-            }
-            if ($(this).data(subdomain) && (typeof $(this).data(subdomain) !== 'undefined')) {
-                
+        $(function() {
+            $('.mex-translatable').each(function() {
+                var url_parts = location.hostname.split('.');
+                if (url_parts.length == 3) {
+                    var subdomain = url_parts.shift();
+
+                    if (subdomain == 'ae' && document.documentElement.lang == 'aen') {
+                        subdomain = 'aen';
+                    }
+                    if ($(this).data(subdomain) && (typeof $(this).data(subdomain) !== 'undefined')) {
 
 
-                var translation = $(this).data(subdomain);
-                $(this).html(translation);
-            }
-        }
-    });
+
+                        var translation = $(this).data(subdomain);
+                        $(this).html(translation);
+                    }
+                }
+            });
 
 
-    var test_lang =getUrlVars()['test_lang'];
-    if (typeof test_lang !== 'undefined') {
-        $('a').each(function() {
-            var old_url = $(this).attr("href"); 
-            if (typeof old_url !== 'undefined') {
-                var newUrl = old_url + '?test_lang=' + test_lang;
-                $(this).attr("href", newUrl); 
+            var test_lang = getUrlVars()['test_lang'];
+            if (typeof test_lang !== 'undefined') {
+                $('a').each(function() {
+                    var old_url = $(this).attr("href");
+                    if (typeof old_url !== 'undefined') {
+                        var newUrl = old_url + '?test_lang=' + test_lang;
+                        $(this).attr("href", newUrl);
+                    }
+                });
             }
         });
-    }
-});
-
-</script>
+    </script>
     <script type="25a4ed03b2a18f3d06b293bb-text/javascript">
-$(function() {
-        $('form:not("#demo_competition_form_2019_08_13") .sms_verif_code').val('215121');
-});
-</script>
+        $(function() {
+            $('form:not("#demo_competition_form_2019_08_13") .sms_verif_code').val('215121');
+        });
+    </script>
     <script type="25a4ed03b2a18f3d06b293bb-text/javascript">
-$(function(){
-var iframe_ibnum =getUrlVars()['ibNum'];
-var is_iframe = getUrlVars()['is_iframe'];
-console.log(typeof is_iframe);
-console.log(typeof iframe_ibnum);
-if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
-    $('a').each(function() {
-    var querystring = 'ibNum=888104724';
-    var href = $(this).attr('href');
-    if (href) {
-        href += (href.match(/\?/) ? '&' : '?') + querystring;
-        $(this).attr('href', href);
-    }
-});
-}
-});
-</script>
-    <script src="../public_files/static_js/swiper-4.3.5.min.js"
-        type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
+        $(function() {
+            var iframe_ibnum = getUrlVars()['ibNum'];
+            var is_iframe = getUrlVars()['is_iframe'];
+            console.log(typeof is_iframe);
+            console.log(typeof iframe_ibnum);
+            if (typeof iframe_ibnum === 'string' && typeof is_iframe === 'string') {
+                $('a').each(function() {
+                    var querystring = 'ibNum=888104724';
+                    var href = $(this).attr('href');
+                    if (href) {
+                        href += (href.match(/\?/) ? '&' : '?') + querystring;
+                        $(this).attr('href', href);
+                    }
+                });
+            }
+        });
+    </script>
+    <script src="../public_files/static_js/swiper-4.3.5.min.js" type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
     <script src="../public_files/static_js/app_home.js" type="25a4ed03b2a18f3d06b293bb-text/javascript"></script>
     <script type="25a4ed03b2a18f3d06b293bb-text/javascript">
-$(function() {
-//icons we need
-var icons = [
-'ic_why_multibank',
-'ic_security_of_funds',
-'ic_our_regulations',
-'ic_our_products',
-'ic_become_an_ib',
-'ic_live_chat_support',
-'ic_bonus_programs',
-'ic_trading_tools',
-'ic_compare_our_trading_platforms',
-'ic_download_mt4',
-'ic_partnership_programs',
-'ic_mymultibank_account_panel'
-];
-//inject them
-whereToGoItem.injectIcons('.target-icon', icons);
-});
-</script>
+        $(function() {
+            //icons we need
+            var icons = [
+                'ic_why_multibank',
+                'ic_security_of_funds',
+                'ic_our_regulations',
+                'ic_our_products',
+                'ic_become_an_ib',
+                'ic_live_chat_support',
+                'ic_bonus_programs',
+                'ic_trading_tools',
+                'ic_compare_our_trading_platforms',
+                'ic_download_mt4',
+                'ic_partnership_programs',
+                'ic_mymultibank_account_panel'
+            ];
+            //inject them
+            whereToGoItem.injectIcons('.target-icon', icons);
+        });
+    </script>
     <style>
         .ensure-fund-security-wrapper {
             width: 100%;
@@ -2150,8 +1870,7 @@ whereToGoItem.injectIcons('.target-icon', icons);
             }
         }
     </style>
-    <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js"
-        data-cf-settings="25a4ed03b2a18f3d06b293bb-|49" defer=""></script>
+    <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="25a4ed03b2a18f3d06b293bb-|49" defer=""></script>
 </body>
 
 </html>

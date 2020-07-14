@@ -1,17 +1,10 @@
-<?php
-
-
-$siteurl = "http://localhost/multibankfx";
-
-?>
-
 <div class="header">
     <div class="header-top d-none d-md-block">
         <div class="row">
             <div class="col-sm-6">
                 <ul class="header-top-left-menu hide-1024">
                     <li class="border-right hide-1200"><a
-                            href="cdn-cgi/l/email-protection.php#8ae9f9cae7ffe6fee3e8ebe4e1ecf2a4e9e5e7"><i
+                            href="cdn-cgi/l/email-protection.html#8ae9f9cae7ffe6fee3e8ebe4e1ecf2a4e9e5e7"><i
                                 class="ti-email">&nbsp;</i> <span><?php translate('EMAIL') ?></span> </a></li>
                     <li class="border-right hide-1024"><i class="ti-world">&nbsp;</i> <span><?php translate('Global Alexa Ranking:'); ?>
 14224</span></li>
@@ -44,8 +37,9 @@ $siteurl = "http://localhost/multibankfx";
             <div class="row nav-bar justify-content-between mx-0">
                 <div class="line-height-75 line-height-1280-55 header-bottom-left-container">
                     <div class="header-boottom-logo">
-                        <a href="/multibankfx/index.php">
-                            <img alt="logo" class="logo logo-dark header-logo" src="/multibankfx/public_files/images/common/logo_black_360.png" />
+                        <a href="index.php">
+                            <img alt="logo" class="logo logo-dark header-logo"
+                                 src="public_files/images/common/logo_black_360.png"/>
                         </a>
                     </div>
                 </div>
@@ -78,8 +72,9 @@ $siteurl = "http://localhost/multibankfx";
                     </div>
                 </div>
                 <div class="show-1200-flex align-items-center">
-                    <a class="nav-menu-mymex" style="min-width: unset !important;" href="https://my.multibankfx.com/en/traders/login">
-                        <img alt="" src="/multibankfx/public_files/images/common/icons/btn_mymex_icon.png" />
+                    <a class="nav-menu-mymex" style="min-width: unset !important;"
+                       href="https://my.multibankfx.com/en/traders/login">
+                        <img alt="" src="public_files/images/common/icons/btn_mymex_icon.png"/>
                     </a>
                     <div class="nav-menu-hamburger">
                         <i class="ti-menu" style="font-size: 20px; color: #FFF;"></i>
@@ -92,7 +87,7 @@ $siteurl = "http://localhost/multibankfx";
                         <div class="col-md-4 col-sm-12 col-xs-12">
                             <div class="menu_txt_content">
                                 <div class="mex-h2 uppercase mb0 "><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="/multibankfx/about.php"><?php translate('About
+                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="about.php"><?php translate('About
                                         us'); ?></a>
                                 </div>
                                 <p class="line-height-30"><?php translate('MultiBank was established in California, USA in 2005. '); ?> <?php translate('Since
@@ -101,7 +96,7 @@ $siteurl = "http://localhost/multibankfx";
                         </div>
                         <div class="col-md-4 col-sm-12 col-xs-12 nav-col-hr">
                             <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="/multibankfx/about.php"><?php translate('About us'); ?></a></h4>
+                                <h4 class="uppercase mb0"><a class="font-24" href="about.php"><?php translate('About us'); ?></a></h4>
                             </div>
                             <ul class="nav-menu-list">
                                 <li><a href="/multibankfx/about/why-multibank-group.php"><?php translate('Why Multibank'); ?></a></li>
@@ -112,8 +107,8 @@ $siteurl = "http://localhost/multibankfx";
                                 <li><a href="/multibankfx/about/management.php"><?php translate('Management'); ?></a></li>
                                 <li><a href="/multibankfx/about/awards.php"><?php translate('Awards') ?></a></li>
                                 <li><a href="/multibankfx/about/sponsorship.php"><?php translate('Sponsorship') ?></a></li>
-                                <li><a href="article/news_20180916.php"><?php translate('Company News'); ?></a></li>
-                                <li><a href="article/hiring-now-cyprus.php"><?php translate('Career'); ?></a></li>
+                                <li><a href="/multibankfx/article/news_20180916.php"><?php translate('Company News'); ?></a></li>
+                                <li><a href="/multibankfx/article/hiring-now-cyprus.php"><?php translate('Career'); ?></a></li>
                             </ul>
                         </div>
                         <div class="col-md-4 col-sm-12 col-xs-12 ">
@@ -121,7 +116,10 @@ $siteurl = "http://localhost/multibankfx";
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
+                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
+                                        data-entity-uuid=""
+                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
                             </div>
                         </div>
                     </div>
@@ -154,7 +152,10 @@ $siteurl = "http://localhost/multibankfx";
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
+                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
+                                        data-entity-uuid=""
+                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
                             </div>
                         </div>
                     </div>
@@ -188,7 +189,10 @@ $siteurl = "http://localhost/multibankfx";
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
+                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
+                                        data-entity-uuid=""
+                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
                             </div>
                         </div>
                     </div>
@@ -225,7 +229,10 @@ $siteurl = "http://localhost/multibankfx";
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
+                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
+                                        data-entity-uuid=""
+                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
                             </div>
                         </div>
                     </div>
@@ -260,7 +267,10 @@ $siteurl = "http://localhost/multibankfx";
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
+                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
+                                        data-entity-uuid=""
+                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
                             </div>
                         </div>
                     </div>
@@ -294,14 +304,17 @@ $siteurl = "http://localhost/multibankfx";
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center"><?php translate('OPEN AN ACCOUNT'); ?></h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="/multibankfx/account/live-account.php"><img alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/menu_ads_banner.png" /></a>
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
+                                        alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
+                                        data-entity-uuid=""
+                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
                             </div>
                         </div>
                     </div>
                 </li>
             </ul>
             <ul class="nav-menu-mobile text-uppercase">
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="/multibankfx/about.php"><?php translate('About us'); ?></a>
+                <li class="nav-menu-mobile-section py-1 mx-4"><a href="about.php"><?php translate('About us'); ?></a>
                     <ul class="text-center">
                         <li><a href="about/why-multibank-group.php"><?php translate('Why Multibank'); ?></a></li>
                         <li><a href="about/global-presence.php"><?php translate('Global Presence'); ?></a></li>
@@ -366,7 +379,8 @@ $siteurl = "http://localhost/multibankfx";
                         <li><a href="partnership/cpa-affiliate-program.php"><?php translate('CPA Affiliate Program'); ?></a></li>
                     </ul>
                 </li>
-                <li class="nav-menu-mobile-section py-1 px-4 lang-mobile-menu" style="border-top: 1px solid #ccc;"><a href="/multibankfx/investor-relations.php">EN</a>
+                <li class="nav-menu-mobile-section py-1 px-4 lang-mobile-menu" style="border-top: 1px solid #ccc;"><a
+                        href="investor-relations.php">EN</a>
                     <ul class="text-center">
                         <li><a href="https://es.multibankfx.com">Español</a></li>
 
