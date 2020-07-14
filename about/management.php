@@ -60,7 +60,7 @@
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img alt="Management" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management_top_banner.png" />
+        <section class="flex-center page-top-banner"><img alt="Management" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management_top_banner.png" />
             <div class="container text-center">
                 <div class="row">
                     <div class="col-xs-12">
@@ -76,7 +76,7 @@
         <section class="pt0 about-management-bg table-background">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 text-center mex-m-t-50 mex-m-b-30"><img alt=" Naser Taher" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/n_taher.jpg" style="width: 100%; max-width: 565px;" />
+                    <div class="col-md-12 text-center mex-m-t-50 mex-m-b-30"><img alt=" Naser Taher" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/n_taher.jpg" style="width: 100%; max-width: 565px;" />
                     </div>
                     <div class="col-md-12 text-center">
                         <div class="mex-h3 mex-m-b-15"><?php translate('Naser Taher'); ?><br />
@@ -103,13 +103,13 @@
 
                 <div class="row ">
                     <div class="d-none d-lg-block col-lg-5 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                        <div class="mex-card-cover"><img alt="management left" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/management1.jpg" />
+                        <div class="mex-card-cover"><img alt="management left" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/management1.jpg" />
                         </div>
                     </div>
                     <div class="col-lg-7 ">
                         <div class="row">
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Yahya Taher" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/y_taher.jpg" />
+                                <section class="mex-card-cover"><img alt="Yahya Taher" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/y_taher.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Yahya Taher'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Chief Executive Officer, MultiBank
@@ -128,7 +128,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Salem Kattoura" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/s_kattoura.jpg" />
+                                <section class="mex-card-cover"><img alt="Salem Kattoura" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/s_kattoura.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Salem Kattoura'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Chief Operating Officer, MultiBank
@@ -146,7 +146,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Kristina Pei" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/team-update/kristina-pei-03.jpg" />
+                                <section class="mex-card-cover"><img alt="Kristina Pei" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/team-update/kristina-pei-03.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Kristina Pei'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Finance Director, MultiBank Group'); ?>
@@ -163,7 +163,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Courtney Fitzsimmons" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/c_fitzsimmons.jpg" />
+                                <section class="mex-card-cover"><img alt="Courtney Fitzsimmons" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/c_fitzsimmons.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Courtney Fitzsimmons'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Chief Executive Officer, MEX Exchange
@@ -188,7 +188,7 @@
                     <div class="col-lg-7 ">
                         <div class="row">
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Hasan Aggad" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/h_aggad.jpg" />
+                                <section class="mex-card-cover"><img alt="Hasan Aggad" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/h_aggad.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Hasan Aggad'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Chief Executive Officer, MEX MENA'); ?></div>
@@ -199,7 +199,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Ivan Gonzalez" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/i_gonzalez.jpg" />
+                                <section class="mex-card-cover"><img alt="Ivan Gonzalez" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/i_gonzalez.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Ivan Gonzalez'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Chief Executive Officer, MEX Spain'); ?>
@@ -217,7 +217,7 @@
                         </div>
                     </div>
                     <div class="d-none d-lg-block col-lg-5 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/management5.jpg" />
+                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/management5.jpg" />
                         </section>
                     </div>
                 </div>
@@ -225,13 +225,13 @@
 
                 <div class="row ">
                     <div class="d-none d-lg-block col-lg-5 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                        <section class="mex-card-cover"><img alt="management bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/management7.jpg" />
+                        <section class="mex-card-cover"><img alt="management bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/management7.jpg" />
                         </section>
                     </div>
                     <div class="col-lg-7 ">
                         <div class="row">
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Alberto Gonzalez" class="card-img mex-img-cover" src="../public_files/images/about_us/management/team-update/Alberto-Gonzalez.jpg" />
+                                <section class="mex-card-cover"><img alt="Alberto Gonzalez" class="card-img mex-img-cover" src="/multibankfx/public_files/images/about_us/management/team-update/Alberto-Gonzalez.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Alberto Gonzalez'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Chief Executive Officer, MultiBank
@@ -248,7 +248,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Demir Savatli" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/demir_savatli.jpg" />
+                                <section class="mex-card-cover"><img alt="Demir Savatli" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/demir_savatli.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Demir Savatli'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Director/ Advisory Board, MultiBank
@@ -270,7 +270,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Soehairi Katni" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/team-update/Soehairi-Katni.jpg" />
+                                <section class="mex-card-cover"><img alt="Soehairi Katni" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/team-update/Soehairi-Katni.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Soehairi Katni'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Chief Executive Officer, MultiBank
@@ -289,7 +289,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Dao Cao Hung" class="card-img mex-img-cover" src="../public_files/images/about_us/management/team-update/Dao-Cao-Hung.jpg" />
+                                <section class="mex-card-cover"><img alt="Dao Cao Hung" class="card-img mex-img-cover" src="/multibankfx/public_files/images/about_us/management/team-update/Dao-Cao-Hung.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Dao Cao Hung'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Chief Executive Officer, MultiBank
@@ -314,7 +314,7 @@
                     <div class="col-lg-7 ">
                         <div class="row">
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Kerry Gan" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/team-update/kerry-gan-03.jpg" />
+                                <section class="mex-card-cover"><img alt="Kerry Gan" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/team-update/kerry-gan-03.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Kerry Gan'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Managing Director, MEX Group (APAC)'); ?>
@@ -334,7 +334,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Sophia Barnes" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/s_barnes.jpg" />
+                                <section class="mex-card-cover"><img alt="Sophia Barnes" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/s_barnes.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Sophia Barnes'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Director of Public Relations, MultiBank
@@ -360,7 +360,7 @@
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
                                 <section class="mex-card-cover">
-                                    <img alt="Mahmoud Kazma" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/m_kazma.jpg" />
+                                    <img alt="Mahmoud Kazma" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/m_kazma.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Mahmoud Kazma'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Director of Business Development,
@@ -382,7 +382,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Lincoln Chan" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/team-update/lincoln-chan-03.jpg" />
+                                <section class="mex-card-cover"><img alt="Lincoln Chan" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/team-update/lincoln-chan-03.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Lincoln Chan'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Director of Operations, MBG Markets'); ?>
@@ -402,7 +402,7 @@
                         </div>
                     </div>
                     <div class="d-none d-lg-block col-lg-5 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/management4.jpg" />
+                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/management4.jpg" />
                         </section>
                     </div>
                 </div>
@@ -410,13 +410,13 @@
 
                 <div class="row ">
                     <div class="d-none d-lg-block col-lg-5 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/management12.jpg" />
+                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/management12.jpg" />
                         </section>
                     </div>
                     <div class="col-lg-7 ">
                         <div class="row">
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Adel Jibrin" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/team-update/Adel-Jibrin.jpg" />
+                                <section class="mex-card-cover"><img alt="Adel Jibrin" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/team-update/Adel-Jibrin.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Adel Jibrin'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Director of Sales, MultiBank MENA'); ?>
@@ -434,7 +434,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Kelvin Yang" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/k_yang.jpg" />
+                                <section class="mex-card-cover"><img alt="Kelvin Yang" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/k_yang.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Kevin Yang'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Head of Information Technology,
@@ -461,7 +461,7 @@
                     <div class="col-lg-7">
                         <div class="row">
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Michel Fram, CFA" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/m_fram.jpg" />
+                                <section class="mex-card-cover"><img alt="Michel Fram, CFA" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/m_fram.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Michel Fram, CFA'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Head of Risk Management, MultiBank
@@ -478,7 +478,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Charbel Safi" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/team-update/Charbel-Safi.jpg" />
+                                <section class="mex-card-cover"><img alt="Charbel Safi" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/team-update/Charbel-Safi.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Charbel Safi'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Head of Trading, MultiBank Group'); ?>
@@ -499,7 +499,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Saleh Al Elt" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/s_al_eit.jpg" />
+                                <section class="mex-card-cover"><img alt="Saleh Al Elt" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/s_al_eit.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Saleh Al Eit'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Head of Software Development, MultiBank
@@ -522,7 +522,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Jingshi Zhang" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/j_zhang.jpg" />
+                                <section class="mex-card-cover"><img alt="Jingshi Zhang" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/j_zhang.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Jingshi Zhang'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Head of Website Department, MultiBank
@@ -547,7 +547,7 @@
                         </div>
                     </div>
                     <div class="d-none d-lg-block col-lg-5 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/management8.jpg" />
+                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/management8.jpg" />
                         </section>
                     </div>
                 </div>
@@ -555,13 +555,13 @@
 
                 <div class="row ">
                     <div class="d-none d-lg-block col-lg-5 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/management9.jpg" />
+                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/management9.jpg" />
                         </section>
                     </div>
                     <div class="col-lg-7">
                         <div class="row">
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Barry Ngai" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/b_ngai.jpg" />
+                                <section class="mex-card-cover"><img alt="Barry Ngai" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/b_ngai.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Barry Ngai'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Chief Executive Officer, Red Rock Pay'); ?>
@@ -579,7 +579,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Babar Hussain" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/b_hussain.jpg" />
+                                <section class="mex-card-cover"><img alt="Babar Hussain" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/b_hussain.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Babar Hussain'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Online Marketing Manager, MultiBank
@@ -608,7 +608,7 @@
                     <div class="col-lg-7 ">
                         <div class="row">
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Kitty Yu" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/team-update/kitty-yu-03.jpg" />
+                                <section class="mex-card-cover"><img alt="Kitty Yu" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/team-update/kitty-yu-03.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Kitty Yu'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Head of Accounts Department, MultiBank
@@ -625,7 +625,7 @@
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
                                 <section class="mex-card-cover">
-                                    <img alt="Roshan Wang" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/r_wang.jpg" />
+                                    <img alt="Roshan Wang" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/r_wang.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Roshan Wang'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Head of Analytics, MultiBank Group'); ?>
@@ -642,7 +642,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Emily Tan" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/team-update/emily-tan-03.jpg" />
+                                <section class="mex-card-cover"><img alt="Emily Tan" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/team-update/emily-tan-03.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Emily Tan'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('Head of Payment Solutions, MultiBank
@@ -658,7 +658,7 @@
                                 </section>
                             </div>
                             <div class="col-md-6 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                                <section class="mex-card-cover"><img alt="Joyce Lu" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/team-update/joyce-lu-03.jpg" />
+                                <section class="mex-card-cover"><img alt="Joyce Lu" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/team-update/joyce-lu-03.jpg" />
                                     <div class="card-content text-left">
                                         <div class="mex-h3 mex-m-b-5"><?php translate('Joyce Lu'); ?></div>
                                         <div class="mex-content mb0 text-overflow-2"><?php translate('HR & Admin Manager, MultiBank Group'); ?>
@@ -679,7 +679,7 @@
                         </div>
                     </div>
                     <div class="d-none d-lg-block col-lg-5 mex-p-l-5 mex-p-r-5 mex-m-b-10">
-                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/management/management10.jpg" />
+                        <section class="mex-card-cover"><img alt="management_bg" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/management/management10.jpg" />
                         </section>
                     </div>
                 </div>
@@ -687,7 +687,7 @@
 
             </div>
         </section>
-        <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script type="570454a4fb5a8d45acba6b04-text/javascript">
             $(function() {
                 var icons = [
@@ -726,60 +726,60 @@
                     </div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
-                            <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span></a>
+                            <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span></a>
                                 <div class="mex-content mex-clamp-3"><?php translate('Our Regulations'); ?></div>
                             </li>
-                            <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../products.html"><?php translate('Our Products'); ?></a></div>
-                                <a href="../products.html"> </a>
+                            <li><a href="/multibankfx/products.php"><span class="ico-ic_our_products"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php"><?php translate('Our Products'); ?></a></div>
+                                <a href="/multibankfx/products.php"> </a>
                             </li>
-                            <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
+                            <li><a href="/multibankfx/tools.php"><span class="ico-ic_trading_tools"></span> </a>
                                 <div class="mex-content mex-clamp-3"><?php translate('Trading Tools'); ?></div>
-                                <a href="../tools.html"> </a>
+                                <a href="/multibankfx/tools.php"> </a>
                             </li>
-                            <li><a href="why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html"><?php translate('Why Multibank'); ?></a>
+                            <li><a href="why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="why-multibank-group.php"><?php translate('Why Multibank'); ?></a>
                                 </div>
-                                <a href="why-multibank-group.html"> </a>
+                                <a href="why-multibank-group.php"> </a>
                             </li>
-                            <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html"><?php translate('Our
+                            <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/mfx/v1/about/regulations.php"><?php translate('Our
                                 Regulations'); ?></a></div>
-                                <a href="../mfx/v1/about/regulations.html"> </a>
+                                <a href="/multibankfx/mfx/v1/about/regulations.php"> </a>
                             </li>
-                            <li><a href="security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="security-of-funds.html"><?php translate('Security of Funds'); ?></a>
+                            <li><a href="security-of-funds.php"><span class="ico-ic_security_of_funds"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="security-of-funds.php"><?php translate('Security of Funds'); ?></a>
                                 </div>
-                                <a href="security-of-funds.html"> </a>
+                                <a href="security-of-funds.php"> </a>
                             </li>
-                            <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../account.html"><?php translate('Accounts and Funding'); ?></a>
+                            <li><a href="/multibankfx/account.php"><span class="ico-ic_accounts_funding"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php"><?php translate('Accounts and Funding'); ?></a>
                                 </div>
-                                <a href="../account.html"> </a>
+                                <a href="/multibankfx/account.php"> </a>
                             </li>
-                            <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../account/bonus.html"><?php translate('Bonus Programs'); ?></a>
+                            <li><a href="/multibankfx/account/bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account/bonus.php"><?php translate('Bonus Programs'); ?></a>
                                 </div>
-                                <a href="../account/bonus.html"> </a>
+                                <a href="/multibankfx/account/bonus.php"> </a>
                             </li>
-                            <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../investor-relations.html"><?php translate('Partnership
+                            <li><a href="/multibankfx/investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php"><?php translate('Partnership
                                 Programs'); ?></a></div>
-                                <a href="../investor-relations.html"> </a>
+                                <a href="/multibankfx/investor-relations.php"> </a>
                             </li>
-                            <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become an
+                            <li><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become an
                                 IB'); ?></a></div>
-                                <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
+                                <a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                             </li>
-                            <li><a href="milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="milestones.html"><?php translate('Our Milestones'); ?></a></div>
-                                <a href="milestones.html"> </a>
+                            <li><a href="milestones.php"><span class="ico-ic_our_milestones"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="milestones.php"><?php translate('Our Milestones'); ?></a></div>
+                                <a href="milestones.php"> </a>
                             </li>
-                            <li><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-570454a4fb5a8d45acba6b04-=""><span class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-570454a4fb5a8d45acba6b04-="">Live
+                            <li><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-570454a4fb5a8d45acba6b04-=""><span class="ico-ic_live_chat_support"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-570454a4fb5a8d45acba6b04-="">Live
                                         <?php translate('Chat Support'); ?></a></div>
-                                <a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-570454a4fb5a8d45acba6b04-=""> </a>
+                                <a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-570454a4fb5a8d45acba6b04-=""> </a>
                             </li>
                         </ul>
                     </div>
@@ -792,16 +792,16 @@
     
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="../cdn-cgi/l/email-protection.html#8eedfdcee3fbe2fae7ecefe0e5e8f6a0ede1e3">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#8eedfdcee3fbe2fae7ecefe0e5e8f6a0ede1e3">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-570454a4fb5a8d45acba6b04-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1268,7 +1268,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="570454a4fb5a8d45acba6b04-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -1281,12 +1281,12 @@
             });
         })
     </script>
-    <script src="../public_files/static_js/lang_data/en.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.dataTables.min.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
-    <script src="../public_files/static_js/lazysizes.min.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.validate.min.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
-    <script src="../public_files/static_js/intlTelInput.min.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
-    <script src="../public_files/static_js/app.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/app.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
     <script type="570454a4fb5a8d45acba6b04-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
@@ -1373,8 +1373,8 @@
             }
         });
     </script>
-    <script src="../public_files/static_js/swiper-4.3.5.min.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
-    <script src="../public_files/static_js/app_home.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/swiper-4.3.5.min.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/app_home.js" type="570454a4fb5a8d45acba6b04-text/javascript"></script>
     <script type="570454a4fb5a8d45acba6b04-text/javascript">
         $(function() {
             //icons we need

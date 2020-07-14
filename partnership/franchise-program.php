@@ -4,7 +4,7 @@
 <?php include_from_root('website_template/head.php'); ?>
 <body>
     <?php include_from_root('website_template/header_and_menu.php'); ?>
-  ?>
+
 
   <style>
     .nav-menu-hamburger,
@@ -65,24 +65,24 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-md-12 col-sm-12">
-          <h1 class="mex-h1 text-fff text-left">FRANCHISE PROGRAM</h1>
+          <h1 class="mex-h1 text-fff text-left"> <?php translate('FRANCHISE PROGRAM'); ?></h1>
           <div class="mex-content text-fff mex-m-b-30">
             <p class="mex-m-t-15">
-              MultiBank’s Franchise Program allows established Introducing
+            <?php translate('MultiBank’s Franchise Program allows established Introducing
               Brokers to open offices under the name of MultiBank in their
               territory, introduce their company as part of MultiBank,
               introduce themselves as Senior Managers of MultiBank and obtain
-              exclusivity of the MultiBank brand name and products.
+              exclusivity of the MultiBank brand name and products.'); ?>
             </p>
             <p class="mex-m-t-30">
-              MultiBank’s Franchise Program provides our partners with the
+            <?php translate('MultiBank’s Franchise Program provides our partners with the
               perfect opportunity to expand their business by becoming a part
-              of our Group and not just an Introducing Broker.
+              of our Group and not just an Introducing Broker.'); ?>
             </p>
             <p class="mex-m-t-30">
-              In addition, Franchise Partners receive a wide range of
+            <?php translate('In addition, Franchise Partners receive a wide range of
               exclusive benefits including expenses and revenue sharing,
-              marketing support and higher rebate schedules.
+              marketing support and higher rebate schedules.'); ?>
             </p>
           </div>
         </div>
@@ -112,20 +112,20 @@
       <div class="row d-block">
         <div class="col-lg-6 col-sm7 col-xs-12 right">
           <div class="mex-h1 text-1e32a3 text-left">
-            Become MultiBank’s Franchise Partner
+          <?php translate('Become MultiBank’s Franchise Partner'); ?>
           </div>
           <div class="mex-content mex-m-b-30">
             <ul class="mex-list-icon-check">
               <li>
-                Exclusive representation of MultiBank in your local region
+              <?php translate('Exclusive representation of MultiBank in your local region'); ?>
               </li>
-              <li>PL and expenses sharing agreements</li>
-              <li>Full access to all trading data and Back Office</li>
+              <li> <?php translate('PL and expenses sharing agreements'); ?></li>
+              <li> <?php translate('Full access to all trading data and Back Office'); ?></li>
               <li>
-                Enjoy close partnership and benefits with the MultiBank Senior
-                Management
+              <?php translate('Enjoy close partnership and benefits with the MultiBank Senior
+                Management'); ?>
               </li>
-              <li>Full marketing and technical support</li>
+              <li> <?php translate('Full marketing and technical support'); ?></li>
             </ul>
           </div>
         </div>
@@ -136,7 +136,7 @@
     <div class="container">
       <div class="row mex-m-b-40">
         <div class="mex-h1 text-center text-1e32a3 mx-auto">
-          Register to Join MultiBank’s Franchise Program
+        <?php translate('Register to Join MultiBank’s Franchise Program'); ?>
         </div>
       </div>
       <div class="row">
@@ -147,15 +147,15 @@
             <input type="hidden" name="source" value="[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:40] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:41] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:43] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:44] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/partnership/franchise-program?web=true" />
             <div class="form-group col-12 px-0 border-bottom border-secondary px-1">
               <label for="" class="mex-h3 text-left mex-m-t-15 mex-m-b-15">
-                CLIENT INFORMATION</label>
+              <?php translate('CLIENT INFORMATION'); ?></label>
               <input type="hidden" data-message="" data-extra-message="Full Name Invalid." data-regex="" class="form-control" name="label_title" placeholder="" value="" />
             </div>
             <div class="mex-form-item col-12 col-md-6 p-1">
-              <label for="" class="d-block"> Name</label>
+              <label for="" class="d-block">  <?php translate('Name'); ?></label>
               <input type="text" data-message="Full Name is Required." data-extra-message="Full Name Invalid." data-regex="" class="d-block" name="name" $field_id_code placeholder="" required value="" />
             </div>
             <div class="mex-form-item col-12 col-md-6 p-1">
-              <label for="" class="d-block"> Mobile</label>
+              <label for="" class="d-block">  <?php translate('Mobile'); ?></label>
               <input type="phone" data-ip_country_code="IN" data-message="Phone Number is required." data-extra-message="Phone Number Invalid." data-regex="" class="input_with_phone d-block" name="phone_display" placeholder="" required value="" />
               <input type="hidden" name="phone" />
             </div>
@@ -168,15 +168,15 @@
               </button>
             </div>
             <div class="mex-form-item col-12 col-md-6 p-1">
-              <label for="" class="d-block"> Email</label>
+              <label for="" class="d-block">  <?php translate('Email'); ?></label>
               <input type="email" data-message="Email is Required." data-extra-message="" data-regex="" class="d-block" name="email" placeholder="" required value="" />
             </div>
             <div class="mex-form-item col-12 col-md-6 p-1 mb-3">
-              <label for="" class="d-block"> Confirm Email</label>
+              <label for="" class="d-block">  <?php translate('Confirm Email'); ?></label>
               <input type="email" data-message="Confirm Email is Required." data-extra-message="Email Mismatched." data-regex="" class="d-block" name="confirm_email" placeholder="" required value="" />
             </div>
             <div class="d-none">
-              <label for="" class="d-block"> Country</label>
+              <label for="" class="d-block">  <?php translate('Country'); ?></label>
               <select data-message="Country is Required." data-extra-message="Country Code Invalid" class="selection-country d-block select_with_country" name="country_name" required>
                 <option value="" selected="selected">Select Country</option>
                 <option data-country_iso_code="AF" data-name="AF" value="AF">AFGHANISTAN</option>
@@ -430,15 +430,15 @@
               <input type="hidden" data-message="" data-extra-message="" data-regex="" class=" " name="form_name" placeholder="" required value="franchise_program_form" />
             </div>
             <button type="submit" class="btn btn-mex mx-auto" onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-9362f7f3cd03477831e71834-="">
-              SUBMIT
+            <?php translate('SUBMIT'); ?>
             </button>
           </form>
           <div class="px-1" style="padding: 15px 0px;">
             <div class="form-check form-check-inline">
-              <label class="form-check-label label-1" for="terms_conditions">By submitting this form, you agree to accept the
-                <a href="../terms-conditions.html" target="_blank" class="text-22A0C4" style="padding: 0 !important;">Terms &amp; Conditions</a>,
-                <a href="../privacy-policy.html" target="_blank" class="text-22A0C4" style="padding: 0 !important;">Privacy Policy</a>, and
-                <a href="../cookie-policy.html" target="_blank" class="text-22A0C4" style="padding: 0 !important;">Cookie Policy</a>.
+              <label class="form-check-label label-1" for="terms_conditions"> <?php translate('By submitting this form, you agree to accept the'); ?>
+                <a href="../terms-conditions.html" target="_blank" class="text-22A0C4" style="padding: 0 !important;"> <?php translate('Terms & Conditions'); ?></a>,
+                <a href="../privacy-policy.html" target="_blank" class="text-22A0C4" style="padding: 0 !important;"> <?php translate('Privacy Policy'); ?></a>,  <?php translate('and'); ?>
+                <a href="../cookie-policy.html" target="_blank" class="text-22A0C4" style="padding: 0 !important;"> <?php translate('Cookie Policy'); ?></a>.
               </label>
             </div>
           </div>
@@ -450,7 +450,7 @@
     <div class="container mex-m-b-80">
       <div class="col-md-12">
         <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-pt="" data-mys="SILA PILIH UNTUK TERUSKAN" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">
-          Choose Where to go next
+        <?php translate('Choose Where to go next'); ?>
         </div>
         <div class="icon-next-list">
           <ul class="bg-white target-icon">

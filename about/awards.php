@@ -57,10 +57,10 @@
     </style>
 
     <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        <iframe src="https://www.googletagmanager.com/ns.php?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="main-container">
-        <link href="../public_files/static_css/awards-carousel.css" rel="stylesheet" type="text/css" />
+        <link href="/multibankfx/public_files/static_css/awards-carousel.css" rel="stylesheet" type="text/css" />
         <section class="about-page-awards table-background_1 lazyloaded" data-bg="/drupal/v3/../../public_files/images/about_us/home_awards_bg.png" id="about-page-awards" style="background-image: url('../public_files/images/about_us/home_awards_bg.png');">
             <div class="container">
                 <div class="row">
@@ -78,225 +78,225 @@
                     <div style="clear:both;"></div>
                     <div class="multiple-items slider">
                         <div>
-                            <a href="awards.html">
-                                <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/Best_Forex_CFD_Broker_JFEX_Award.png" />
+                            <a href="awards.php">
+                                <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/Best_Forex_CFD_Broker_JFEX_Award.png" />
                             </a>
                             <div class="title"><?php translate('Best Forex and CFD Broker 2019'); ?></div>
                             <div class="text"><?php translate('16th Jordan Forex Expo & Awards'); ?></div>
                         </div>
                         <div>
-                            <a href="../article/multibank-wins-financial-services-provider-asia-award-2019.html">
-                                <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/Financial_Services_Provider_of_the_Year_Asia_2019.jpg" />
+                            <a href="/multibankfx/article/multibank-wins-financial-services-provider-asia-award-2019.php">
+                                <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/Financial_Services_Provider_of_the_Year_Asia_2019.jpg" />
                             </a>
                             <div class="title"><?php translate('Financial Services Provider of the Year (Asia) 2019'); ?></div>
                             <div class="text"><?php translate('Global Brands Magazine'); ?></div>
                         </div>
                         <div>
-                            <a href="../article/multibank-chosen-best-FX-CFD-broker-2019.html">
-                                <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_fx_broker_euas_2019.png" />
+                            <a href="/multibankfx/article/multibank-chosen-best-FX-CFD-broker-2019.php">
+                                <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_fx_broker_euas_2019.png" />
                             </a>
                             <div class="title"><?php translate('Best FX & CFD Broker (Europe & Asia) 2019'); ?></div>
                             <div class="text"><?php translate('International Investor'); ?></div>
                         </div>
                         <div>
-                            <a href="../article/multibank-wins-ecn-broker-best-forex-platform-2019.html">
-                                <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/ecn_broker_eu_2019.png" />
+                            <a href="/multibankfx/article/multibank-wins-ecn-broker-best-forex-platform-2019.php">
+                                <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/ecn_broker_eu_2019.png" />
                             </a>
                             <div class="title"><?php translate('ECN Broker of the Year (Europe) 2019'); ?></div>
                             <div class="text"><?php translate('International Business Magazine'); ?></div>
                         </div>
                         <div>
-                            <a href="../article/multibank-wins-ecn-broker-best-forex-platform-2019.html">
-                                <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_mena_2019.png" />
+                            <a href="/multibankfx/article/multibank-wins-ecn-broker-best-forex-platform-2019.php">
+                                <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_mena_2019.png" />
                             </a>
                             <div class="title"><?php translate('Best Forex Platform MENA 2019'); ?></div>
                             <div class="text"><?php translate('International Business Magazine'); ?></div>
                         </div>
                         <div>
-                            <a href="../article/multibank-named-best-financial-derivatives-broker-2019.html">
-                                <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/2019best_financial_derivatives_broker_europe.png" />
+                            <a href="/multibankfx/article/multibank-named-best-financial-derivatives-broker-2019.php">
+                                <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/2019best_financial_derivatives_broker_europe.png" />
                             </a>
                             <div class="title"><?php translate('Best Financial Derivatives Broker 2019'); ?></div>
                             <div class="text"><?php translate('Global Banking & Finance Review'); ?></div>
                         </div>
                         <div>
-                            <a href="../article/multibank-selected-best-forex-broker-forex-expo-dubai-2019.html">
-                                <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_broker_2019.png" />
+                            <a href="/multibankfx/article/multibank-selected-best-forex-broker-forex-expo-dubai-2019.php">
+                                <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_2019.png" />
                             </a>
                             <div class="title"><?php translate('Best Forex Broker 2019'); ?></div>
                             <div class="text"><?php translate('The Forex Expo Dubai'); ?></div>
                         </div>
                         <div>
-                            <a href="../article/milestones_multibank-chairman-naser-taher-awarded-ceo-of-the-year-2019.html">
-                                <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/2019CEO_of_the_year_financial_services_asia_europe.png" />
+                            <a href="/multibankfx/article/milestones_multibank-chairman-naser-taher-awarded-ceo-of-the-year-2019.php">
+                                <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/2019CEO_of_the_year_financial_services_asia_europe.png" />
                             </a>
                             <div class="title"><?php translate('CEO of the Year (Financial Services) (Asia & Europe) 2019'); ?></div>
                             <div class="text"><?php translate('Le Fonti Awards (International Alternative Investment Review)'); ?></div>
                         </div>
                         <div>
-                            <a href="../article/multibank-honored-best-ecn-broker-asia-2019.html">
-                                <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_ecn_broker_asia_2019.png" /></a>
+                            <a href="/multibankfx/article/multibank-honored-best-ecn-broker-asia-2019.php">
+                                <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_asia_2019.png" /></a>
                             <div class="title"><?php translate('Best ECN Broker of the Year (Asia) 2019'); ?></div>
                             <div class="text"><?php translate('Finance Derivative'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_education_provider_2019.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_education_provider_2019.png" />
                             <div class="title"><?php translate('Best Education Provider 2019'); ?></div>
                             <div class="text"><?php translate('FX Daily Info'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_platform_2018.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2018.png" />
                             <div class="title"><?php translate('Best Forex Trading Platform (Hong Kong) 2018'); ?></div>
                             <div class="text"><?php translate('International Finance Magazine'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_ecn_broker_2018.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2018.png" />
                             <div class="title"><?php translate('Best ECN Broker Europe 2018'); ?></div>
                             <div class="text"><?php translate('International Business Magazine'); ?></div>
                             +
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_ecn_platform_2018.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_ecn_platform_2018.png" />
                             <div class="title"><?php translate('Best Forex ECN Platform (Europe & Asia)'); ?></div>
                             <div class="text"><?php translate('Capital Finance International'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/most_admired_2017.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/most_admired_2017.png" />
                             <div class="title"><?php translate('30 Most Admired Companies of 2017'); ?></div>
                             <div class="text"><?php translate('Insights Success Magazine'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/broker_of_the_year_2017.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/broker_of_the_year_2017.png" />
                             <div class="title"><?php translate('Financial Derivatives Broker of the Year (Asia & Europe) 2017'); ?></div>
                             <div class="text"><?php translate('International Alternative Investment Review'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/ceo_of_the_year_2017.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/ceo_of_the_year_2017.png" />
                             <div class="title"><?php translate('CEO of the Year-- Financial Services (Asia & Europe) 2017'); ?></div>
                             <div class="text"><?php translate('International Alternative Investment Review'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_platform_2016.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2016.png" />
                             <div class="title"><?php translate('Best Forex Exchange Platform (Hong Kong) 2016'); ?></div>
                             <div class="text"><?php translate('Global Brands Magazine'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_ceo_2016.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_ceo_2016.png" />
                             <div class="title"><?php translate('Best Financial Services CEO (Hong Kong) 2016'); ?></div>
                             <div class="text"><?php translate('Global Brands Magazine'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_china_2016.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_china_2016.png" />
                             <div class="title"><?php translate('Best Forex Platform 2016'); ?></div>
                             <div class="text"><?php translate('China Forex Expo'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_execution_broker_2016.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_execution_broker_2016.png" />
                             <div class="title"><?php translate('Best Execution Broker 2016'); ?></div>
                             <div class="text"><?php translate('China Forex Expo'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_broker_2015.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_2015.png" />
                             <div class="title"><?php translate('Best Forex Broker 2015'); ?></div>
                             <div class="text"><?php translate('IFeng'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_platform_2015.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2015.png" />
                             <div class="title"><?php translate('Best Forex Trading Platform (Asia & Europe) 2015'); ?></div>
                             <div class="text"><?php translate('Capital Finance International'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_broker_europe_2015.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_europe_2015.png" />
                             <div class="title"><?php translate('Best Forex Broker Europe 2015'); ?></div>
                             <div class="text"><?php translate('International Alternative Investment Review'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_platform_2014.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_platform_2014.png" />
                             <div class="title"><?php translate('Best Institutional FX Platform 2014'); ?></div>
                             <div class="text"><?php translate('7th Saudi Money Expo'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/top_provider_2014.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/top_provider_2014.png" />
                             <div class="title"><?php translate('Top FX Liquidity Provider 2014'); ?></div>
                             <div class="text"><?php translate('6th Saudi Money Expo'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/most_secure_broker_2014.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/most_secure_broker_2014.png" />
                             <div class="title"><?php translate('Most Secure Broker 2014'); ?></div>
                             <div class="text"><?php translate('KG Forex World Conference'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_ecn_broker_2013.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2013.png" />
                             <div class="title"><?php translate('Best ECN Forex Broker Asia 2013'); ?><br> <?php translate('Best ECN Forex Broker Europe 2013'); ?></div>
                             <div class="text"><?php translate('Global Banking & Finance Review'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_company_leadership_2013.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_company_leadership_2013.png" />
                             <div class="title"><?php translate('Best Company for Leadership 2013'); ?></div>
                             <div class="text"><?php translate('International Alternative Investment Review'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/most_secure_broker_2013.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/most_secure_broker_2013.png" />
                             <div class="title"><?php translate('Most Secure Forex Broker 2013'); ?></div>
                             <div class="text"><?php translate('Shanghai Financial Investment Management Association'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_broker_2013.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_broker_2013.png" />
                             <div class="title"><?php translate('Best Forex Broker 2013'); ?></div>
                             <div class="text"><?php translate('Shanghai Financial Investment Management Association'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/broker_of_the_year_2013.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/broker_of_the_year_2013.png" />
                             <div class="title"><?php translate('Broker of the Year 2013'); ?></div>
                             <div class="text"><?php translate('China International Online Trading Expo'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_trading_platform_2013.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_trading_platform_2013.png" />
                             <div class="title"><?php translate('Best Forex Trading Platform 2013'); ?></div>
                             <div class="text"><?php translate('CNFOL'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/most_powerful_team_2013.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/most_powerful_team_2013.png" />
                             <div class="title"><?php translate('Most Powerful Forex Technical Research & Development Team 2013'); ?></div>
                             <div class="text"><?php translate('CNFOL'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/2013Asia.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/2013Asia.png" />
                             <div class="title"><?php translate('Most Secure Forex Broker 2013'); ?></div>
                             <div class="text"><?php translate('Asia Franchise Industry Association'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/2013Asia.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/2013Asia.png" />
                             <div class="title"><?php translate('Best Forex Broker 2013'); ?></div>
                             <div class="text"><?php translate('Asia Franchise Industry Association'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_trading_platform_2012.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_trading_platform_2012.png" />
                             <div class="title"><?php translate('Best Forex Trading Platform 2012'); ?></div>
                             <div class="text"><?php translate('Jinrongjie'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/rtb_china_awards_2012.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/rtb_china_awards_2012.png" />
                             <div class="title"><?php translate('RTB China Awards 2012'); ?></div>
                             <div class="text"><?php translate('Global RTB Summit'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_2012_11china.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_2012_11china.png" />
                             <div class="title"><?php translate('Best Forex Trading Platform 2012'); ?></div>
                             <div class="text"><?php translate('11th China International Investment & Finance Expo'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_ecn_broker_2012.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2012.png" />
                             <div class="title"><?php translate('Best ECN Broker (Asia) 2012'); ?></div>
                             <div class="text"><?php translate('Global Banking & Finance Review'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_provider_2011.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png" />
                             <div class="title"><?php translate('Best Forex Service Provider 2011'); ?></div>
                             <div class="text"><?php translate('Hexun'); ?></div>
                         </div>
                         <div>
-                            <img alt="" data-entity-type="" data-entity-uuid="" src="../public_files/images/about_us/awards/best_forex_provider_2011.png" />
+                            <img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png" />
                             <div class="title"><?php translate('Best Forex Trading Platform 2011'); ?></div>
                             <div class="text"><?php translate('Hexun'); ?></div>
                         </div>
@@ -304,8 +304,8 @@
                 </div>
             </div>
         </section>
-        <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-        <script type="text/javascript" src="../public_files/static_js/slick.js"></script>
+        <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script type="text/javascript" src="/multibankfx/public_files/static_js/slick.js"></script>
         <script type="text/javascript">
             $(function() {
                 $('.multiple-items').slick({
@@ -358,60 +358,60 @@
                     </div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
-                            <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span></a>
+                            <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span></a>
                                 <div class="mex-content mex-clamp-3"> <?php translate('Our Regulations'); ?></div>
                             </li>
-                            <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../products.html"> <?php translate('Our Products'); ?></a></div>
-                                <a href="../products.html"> </a>
+                            <li><a href="/multibankfx/products.php"><span class="ico-ic_our_products"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php"> <?php translate('Our Products'); ?></a></div>
+                                <a href="/multibankfx/products.php"> </a>
                             </li>
-                            <li><a href="../tools.html"><span class="ico-ic_trading_tools"></span> </a>
+                            <li><a href="/multibankfx/tools.php"><span class="ico-ic_trading_tools"></span> </a>
                                 <div class="mex-content mex-clamp-3"> <?php translate('Trading Tools'); ?></div>
-                                <a href="../tools.html"> </a>
+                                <a href="/multibankfx/tools.php"> </a>
                             </li>
-                            <li><a href="why-multibank-group.html"><span class="ico-ic_why_multibank"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="why-multibank-group.html"> <?php translate('Why Multibank'); ?></a>
+                            <li><a href="why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="why-multibank-group.php"> <?php translate('Why Multibank'); ?></a>
                                 </div>
-                                <a href="why-multibank-group.html"> </a>
+                                <a href="why-multibank-group.php"> </a>
                             </li>
-                            <li><a href="../mfx/v1/about/regulations.html"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../mfx/v1/about/regulations.html"> <?php translate('Our
+                            <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/mfx/v1/about/regulations.php"> <?php translate('Our
                                 Regulations'); ?></a></div>
-                                <a href="../mfx/v1/about/regulations.html"> </a>
+                                <a href="/multibankfx/mfx/v1/about/regulations.php"> </a>
                             </li>
-                            <li><a href="security-of-funds.html"><span class="ico-ic_security_of_funds"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="security-of-funds.html"> <?php translate('Security of Funds'); ?></a>
+                            <li><a href="security-of-funds.php"><span class="ico-ic_security_of_funds"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="security-of-funds.php"> <?php translate('Security of Funds'); ?></a>
                                 </div>
-                                <a href="security-of-funds.html"> </a>
+                                <a href="security-of-funds.php"> </a>
                             </li>
-                            <li><a href="../account.html"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../account.html"> <?php translate('Accounts and Funding'); ?></a>
+                            <li><a href="/multibankfx/account.php"><span class="ico-ic_accounts_funding"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php"> <?php translate('Accounts and Funding'); ?></a>
                                 </div>
-                                <a href="../account.html"> </a>
+                                <a href="/multibankfx/account.php"> </a>
                             </li>
-                            <li><a href="../account/bonus.html"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../account/bonus.html"> <?php translate('Bonus Programs'); ?></a>
+                            <li><a href="/multibankfx/account/bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account/bonus.php"> <?php translate('Bonus Programs'); ?></a>
                                 </div>
-                                <a href="../account/bonus.html"> </a>
+                                <a href="/multibankfx/account/bonus.php"> </a>
                             </li>
-                            <li><a href="../investor-relations.html"><span class="ico-ic_partnership_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../investor-relations.html"> <?php translate('Partnership
+                            <li><a href="/multibankfx/investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php"> <?php translate('Partnership
                                 Programs'); ?></a></div>
-                                <a href="../investor-relations.html"> </a>
+                                <a href="/multibankfx/investor-relations.php"> </a>
                             </li>
-                            <li><a href="../partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../partnership/introducing-brokers.html#introducing-brokers-form"> <?php translate('Become an
+                            <li><a href="/multibankfx/partnership/introducing-brokers.php#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.php#introducing-brokers-form"> <?php translate('Become an
                                 IB'); ?></a></div>
-                                <a href="../partnership/introducing-brokers.html#introducing-brokers-form"> </a>
+                                <a href="/multibankfx/partnership/introducing-brokers.php#introducing-brokers-form"> </a>
                             </li>
-                            <li><a href="milestones.html"><span class="ico-ic_our_milestones"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="milestones.html"> <?php translate('Our Milestones'); ?></a></div>
-                                <a href="milestones.html"> </a>
+                            <li><a href="milestones.php"><span class="ico-ic_our_milestones"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="milestones.php"> <?php translate('Our Milestones'); ?></a></div>
+                                <a href="milestones.php"> </a>
                             </li>
-                            <li><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-bd9fa8aaa7d9728df9c131fe-=""><span class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-bd9fa8aaa7d9728df9c131fe-=""> <?php translate('Live
+                            <li><a href="/multibankfx/index.php#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-bd9fa8aaa7d9728df9c131fe-=""><span class="ico-ic_live_chat_support"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/index.php#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-bd9fa8aaa7d9728df9c131fe-=""> <?php translate('Live
                                 Chat Support'); ?></a></div>
-                                <a href="../index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-bd9fa8aaa7d9728df9c131fe-=""> </a>
+                                <a href="/multibankfx/index.php#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-bd9fa8aaa7d9728df9c131fe-=""> </a>
                             </li>
                         </ul>
                     </div>
@@ -424,16 +424,16 @@
 
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="../cdn-cgi/l/email-protection.html#5e3d2d1e332b322a373c3f30353826703d3133">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.php#5e3d2d1e332b322a373c3f30353826703d3133">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-bd9fa8aaa7d9728df9c131fe-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -900,7 +900,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -913,12 +913,12 @@
             });
         })
     </script>
-    <script src="../public_files/static_js/lang_data/en.js" type="text/javascript"></script>
-    <script src="../public_files/static_js/jquery.dataTables.min.js" type="text/javascript"></script>
-    <script src="../public_files/static_js/lazysizes.min.js" type="text/javascript"></script>
-    <script src="../public_files/static_js/jquery.validate.min.js" type="text/javascript"></script>
-    <script src="../public_files/static_js/intlTelInput.min.js" type="text/javascript"></script>
-    <script src="../public_files/static_js/app.js" type="text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/app.js" type="text/javascript"></script>
     <script type="text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
@@ -964,7 +964,7 @@
 
 
                         var translation = $(this).data(subdomain);
-                        $(this).html(translation);
+                        $(this).php(translation);
                     }
                 }
             });
@@ -1005,8 +1005,8 @@
             }
         });
     </script>
-    <script src="../public_files/static_js/swiper-4.3.5.min.js" type="text/javascript"></script>
-    <script src="../public_files/static_js/app_home.js" type="text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/swiper-4.3.5.min.js" type="text/javascript"></script>
+    <script src="/multibankfx/public_files/static_js/app_home.js" type="text/javascript"></script>
     <script type="text/javascript">
         $(function() {
             //icons we need

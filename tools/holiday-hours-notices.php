@@ -63,10 +63,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-sm-12">
-                    <h1 class="mex-h1 text-fff text-left">Trading Hours & Holiday Notices</h1>
+                    <h1 class="mex-h1 text-fff text-left"><?php translate('Trading Hours & Holiday Notices'); ?></h1>
                     <div class="mex-content text-fff">
                         <p class="mex-m-t-15 text-fff">
-                            See the opening and closing hours for various markets, and be informed of upcoming bank holidays.
+                        <?php translate('See the opening and closing hours for various markets, and be informed of upcoming bank holidays.'); ?>
                         </p>
                     </div>
                 </div>
@@ -77,17 +77,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-center mex-m-b-40 uppercase">Trading Hours</div>
+                    <div class="mex-h1 text-center mex-m-b-40 uppercase"><?php translate('Trading Hours'); ?></div>
                 </div>
                 <div class="col-md-6">
-                    <div class="mex-h3 text-center mex-m-b-15">Forex</div>
+                    <div class="mex-h3 text-center mex-m-b-15"><?php translate('Forex'); ?></div>
                     <div class="table-responsive table-content">
                         <table class="table table-striped mex-table mex-has-type">
                             <thead>
                                 <tr>
-                                    <th style="position: sticky;">Quotes<div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    <th style="position: sticky;"><?php translate('Quotes'); ?><div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                     </th>
-                                    <th style="position: sticky;">Trading</th>
+                                    <th style="position: sticky;"><?php translate('Trading'); ?></th>
                                 </tr>
                             </thead>
                             <tbody class="table-tbody">
@@ -121,14 +121,14 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="mex-h3 text-center mex-m-b-15">Gold &amp; Silver</div>
+                    <div class="mex-h3 text-center mex-m-b-15"><?php translate('Gold & Silver'); ?></div>
                     <div class="table-responsive table-content">
                         <table class="table table-striped mex-table mex-has-type">
                             <thead>
                                 <tr>
-                                    <th style="position: sticky;">Quotes<div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
+                                    <th style="position: sticky;"><?php translate('Quotes'); ?><div class="border-right-blue" style="position:absolute;border:1px solid #818CCB; height:80%;right:0;top:10%"></div>
                                     </th>
-                                    <th style="position: sticky;">Trading</th>
+                                    <th style="position: sticky;"><?php translate('Trading'); ?></th>
                                 </tr>
                             </thead>
                             <tbody class="table-tbody">
@@ -168,9 +168,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-center mex-m-b-30 uppercase">Holiday Hours &amp; Notices</div>
+                    <div class="mex-h1 text-center mex-m-b-30 uppercase"><?php translate('Holiday Hours & Notices'); ?></div>
                     <div class="mex-content text-center mex-m-b-30">
-                        Please see MultiBank’s Holiday Hours to stay up to date on the relevant dates and trading sessions.
+                    <?php translate('Please see MultiBank’s Holiday Hours to stay up to date on the relevant dates and trading sessions.'); ?>
                     </div>
                 </div>
                 <div class="col-md-12">
@@ -449,10 +449,10 @@
                             </tbody>
                         </table>
                     </div>
-                    <div class="mex-content">*Please note these dates provided are subject to change.</div>
-                    <div class="mex-content">*Please note that there could be unexpected periods of volatility, low liquidity, and some LP’s will increase the spreads during holidays.</div>
-                    <div class="mex-content">*Dates are subject to change by the respective markets.</div>
-                    <div class="mex-content">*Clients are kindly requested to manage their accounts and positions during the trading hours of the company as listed above.</div>
+                    <div class="mex-content"><?php translate('*Please note these dates provided are subject to change.'); ?></div>
+                    <div class="mex-content"><?php translate('*Please note that there could be unexpected periods of volatility, low liquidity, and some LP’s will increase the spreads during holidays.'); ?></div>
+                    <div class="mex-content"><?php translate('*Dates are subject to change by the respective markets.'); ?></div>
+                    <div class="mex-content"><?php translate('*Clients are kindly requested to manage their accounts and positions during the trading hours of the company as listed above.'); ?></div>
                 </div>
             </div>
         </div>
@@ -724,7 +724,7 @@
     <section class="p0 choose-next-background subject-box-bg-light">
         <div class="container mex-m-b-80">
             <div class="col-md-12">
-                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>

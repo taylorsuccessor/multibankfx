@@ -64,11 +64,11 @@
             <div class="row">
                 <div class="col-sm-12 text-center">
                     <h1 class="mex-h1 text-fff text-center mex-m-b-40">
-                        TRADING CONDITIONS
+                    <?php translate('TRADING CONDITIONS'); ?>
                     </h1>
                 </div>
                 <div class="col-lg-6 col-md-10 col-sm-12 offset-lg-3 offset-md-1 mex-content text-fff mex-m-b-30 text-center">
-                    <p>Enjoy the best trading conditions in the industry for products including forex, metals, shares, indices, commodities and more! </p>
+                    <p><?php translate('Enjoy the best trading conditions in the industry for products including forex, metals, shares, indices, commodities and more!'); ?> </p>
                 </div>
             </div>
         </div>
@@ -83,12 +83,12 @@
                         </div>
                         <div class=" card-content bg-white text-left">
                             <div class="mex-h2 uppercase">
-                                Account Base Currencies
+                            <?php translate('Account Base Currencies'); ?>
                             </div>
                             <div class="mex-content">
-                                <p class="mex-p-b-15"><strong>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</strong></p>
-                                <p class="mex-p-b-15">Minimum deposit amount is US$50</p>
-                                <p class="mex-p-b-30">MultiBank MT4 platforms do not set up time zone, but apply the "Forex Market Hours”, setting 5:00 pm EST (opening hour) as 0:00 so that the charts can be presented in a standard 5 trading-day week for clients’ easier analysis. </p>
+                                <p class="mex-p-b-15"><strong><?php translate('USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD'); ?></strong></p>
+                                <p class="mex-p-b-15"><?php translate('Minimum deposit amount is US$50'); ?></p>
+                                <p class="mex-p-b-30"><?php translate('MultiBank MT4 platforms do not set up time zone, but apply the "Forex Market Hours”, setting 5:00 pm EST (opening hour) as 0:00 so that the charts can be presented in a standard 5 trading-day week for clients’ easier analysis.'); ?> </p>
                             </div>
                         </div>
                     </section>
@@ -100,22 +100,22 @@
                         </div>
                         <div class=" card-content bg-white text-left">
                             <div class="mex-h2 uppercase">
-                                MARGIN
+                            <?php translate('MARGIN'); ?>
                             </div>
                             <div class="mex-content">
-                                <p><strong>Forex</strong></p>
+                                <p><strong><?php translate('Forex'); ?></strong></p>
                                 <div class="col-xs-12">
                                     <ul class="mex-list-icon-check">
-                                        <li>One standard lot= 100,000 currency units</li>
+                                        <li><?php translate('One standard lot= 100,000 currency units'); ?></li>
                                     </ul>
                                 </div>
-                                <p><strong>Under leverage rate of 1:100:</strong></p>
+                                <p><strong><?php translate('Under leverage rate of 1:100:'); ?></strong></p>
                                 <div class="col-xs-12">
                                     <ul class="mex-list-icon-check">
-                                        <li>Margin per lot is 1,000 currency units (base currency)</li>
-                                        <li>Margin Recruitments:</li>
-                                        <li>Margin for USDJPY: USD1,000</li>
-                                        <li>Margin for EURUSD and other cross currency pairs: EUR 1,000 (the amount is automatically converted to USD at the exchange rate at the time of transaction)</li>
+                                        <li><?php translate('Margin per lot is 1,000 currency units (base currency)'); ?></li>
+                                        <li><?php translate('Margin Recruitments:'); ?></li>
+                                        <li><?php translate('Margin for USDJPY: USD1,000'); ?></li>
+                                        <li><?php translate('Margin for EURUSD and other cross currency pairs: EUR 1,000 (the amount is automatically converted to USD at the exchange rate at the time of transaction)'); ?></li>
                                     </ul>
                                 </div>
                             </div>
@@ -130,12 +130,12 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="mex-h1 text-1e32a3 text-left mex-m-b-40">
-                        Stop-out Level
+                    <?php translate('Stop-out Level'); ?>
                     </div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">MultiBank’s trading platforms are set to automatically close open positions when the stop-out level is reached. For all accounts, when the equity in trading account falls below 50% of the required margin, the stop-out level will be reached, and MultiBank will automatically close open positions at its opening prices, releasing in the order of highest to lowest margin until the margin level is reached.</p>
-                        <p class="mex-m-b-30">* When the market is experiencing swift fluctuations, there is no guarantee about the order of stop out. Instant adjustments may be made by MultiBank according to instant market situation, clients are responsible for risks that may arise thereof. MultiBank reserves the right of final explanation concerning the order of stop out.</p>
-                        <p class="mex-m-b-30">* Please note that when there is a hedged position in the account, instant widening of spread may cause equity change. If that leads the equity to drop into negative, stop out will be intrigued as a result.</p>
+                        <p class="mex-m-b-30"><?php translate('MultiBank’s trading platforms are set to automatically close open positions when the stop-out level is reached. For all accounts, when the equity in trading account falls below 50% of the required margin, the stop-out level will be reached, and MultiBank will automatically close open positions at its opening prices, releasing in the order of highest to lowest margin until the margin level is reached.'); ?></p>
+                        <p class="mex-m-b-30"><?php translate('* When the market is experiencing swift fluctuations, there is no guarantee about the order of stop out. Instant adjustments may be made by MultiBank according to instant market situation, clients are responsible for risks that may arise thereof. MultiBank reserves the right of final explanation concerning the order of stop out.'); ?></p>
+                        <p class="mex-m-b-30"><?php translate('* Please note that when there is a hedged position in the account, instant widening of spread may cause equity change. If that leads the equity to drop into negative, stop out will be intrigued as a result.'); ?></p>
                     </div>
                 </div>
             </div>
@@ -162,9 +162,9 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-sm-12">
-                    <div class="mex-h1 text-center mex-m-b-30 uppercase text-1e32a3">Maximum Lots per Click and Maximum Open Positions </div>
+                    <div class="mex-h1 text-center mex-m-b-30 uppercase text-1e32a3"><?php translate('Maximum Lots per Click and Maximum Open Positions');?> </div>
                     <div class="mex-content text-center mex-m-b-40">
-                        Restricted by market depth and for risk control, Maximum Lots per Click and Maximum Open Positions are as follows
+                    <?php translate('Restricted by market depth and for risk control, Maximum Lots per Click and Maximum Open Positions are as follows'); ?>
                     </div>
                     <div class="table-responsive table-content">
                         <table class="table table-striped mex-table mex-has-type">
@@ -172,10 +172,10 @@
                                 <tr>
                                     <th>Leverage</th>
                                     <th>Stop-out Level</th>
-                                    <th>Max. Lots <br>per Click (XAU)</th>
-                                    <th>Max. Lots <br>per Click (FX)</th>
-                                    <th>Max. Lots <br>per Click (CFDs)</th>
-                                    <th>Max. Open <br>Positions (on all products)</th>
+                                    <th>Max Lots <br>per Click (XAU)</th>
+                                    <th>Max Lots <br>per Click (FX)</th>
+                                    <th>Max Lots <br>per Click (CFDs)</th>
+                                    <th>Max Open <br>Positions (on all products)</th>
                                 </tr>
                             </thead>
                             <tbody class="table-tbody">
@@ -231,10 +231,10 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="mex-h1 text-1e32a3 text-left mex-m-b-30">
-                        Pending Orders
+                    <?php translate('Pending Orders'); ?>
                     </div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">Clients shall calculate the account equity when reaching the pending order price, to maintain required real-time margin for the execution of pending orders. While pending orders would be automatically cancelled if the margin level is not enough for the execution of the transaction when the price level has been reached.</p>
+                        <p class="mex-m-b-30"><?php translate('Clients shall calculate the account equity when reaching the pending order price, to maintain required real-time margin for the execution of pending orders. While pending orders would be automatically cancelled if the margin level is not enough for the execution of the transaction when the price level has been reached.'); ?></p>
                     </div>
                 </div>
             </div>
@@ -243,14 +243,14 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="mex-h1 text-1e32a3 text-left mex-m-b-30 mex-m-t-30">
-                        Hedged Positions
+                    <?php translate('Hedged Positions'); ?>
                     </div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">Hedged-position function is available on MultiBank’s MT4 trading platforms. Customers can choose whether to open hedged-position function (long/short) when opening accounts which does not use margin.</p>
-                        <p class="mex-m-b-30">Please be careful not to hold more than one hedged position at the same time to avoid possible risks. Holding a hedged position does not lock the profit/loss or guarantee the position.</p>
-                        <p class="mex-m-b-30">When the spread is widening in particular market situations, hedged positions would affect the account equity. In the case of open positions, it would further affect the rate of equity to margin, which may result in stop out in extreme situation.</p>
-                        <p class="mex-m-b-30">For example, for one standard lot of hedged position of EURUSD, 1 point of increase in market spread would result in floating loss of USD10 in account equity.</p>
-                        <p class="mex-m-b-30">Possible market conditions where spread widening may occur include: opening hours, closing (interest accrual) hours, news and data hours, holidays, thin market with large market entry, fluctuating market and other special market conditions. In addition, buy and sell orders of the hedged positions are accrued normally. However, MultiBank Group does not recommend hedged positions.</p>
+                        <p class="mex-m-b-30"><?php translate('Hedged-position function is available on MultiBank’s MT4 trading platforms. Customers can choose whether to open hedged-position function (long/short) when opening accounts which does not use margin.'); ?></p>
+                        <p class="mex-m-b-30"><?php translate('Please be careful not to hold more than one hedged position at the same time to avoid possible risks. Holding a hedged position does not lock the profit/loss or guarantee the position.'); ?></p>
+                        <p class="mex-m-b-30"><?php translate('When the spread is widening in particular market situations, hedged positions would affect the account equity. In the case of open positions, it would further affect the rate of equity to margin, which may result in stop out in extreme situation.'); ?></p>
+                        <p class="mex-m-b-30"><?php translate('For example, for one standard lot of hedged position of EURUSD, 1 point of increase in market spread would result in floating loss of USD10 in account equity.'); ?></p>
+                        <p class="mex-m-b-30"><?php translate('Possible market conditions where spread widening may occur include: opening hours, closing (interest accrual) hours, news and data hours, holidays, thin market with large market entry, fluctuating market and other special market conditions. In addition, buy and sell orders of the hedged positions are accrued normally. However, MultiBank Group does not recommend hedged positions.'); ?></p>
                     </div>
                 </div>
             </div>
@@ -259,16 +259,16 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="mex-h1 text-1e32a3 text-left mex-m-b-30 mex-m-t-30">
-                        Order Execution
+                    <?php translate('Order Execution'); ?>
                     </div>
                     <div class="mex-content mex-m-b-30">
                         <div class="col-xs-12">
                             <ul class="mex-list-icon-check">
-                                <li>Quotes by MultiBank fluctuate with market conditions</li>
-                                <li>In the case of special market conditions (e.g. data, news, market opening and closing hours), there may be a gap or widening spreads in the international market. On this occasion, the trading server does not guarantee the executing price. Orders would be executed in accordance with trading conditions or spreads at the time.</li>
-                                <li>For positions open during weekends or holidays: after market closure on weekends or holidays, if the exchange rate fluctuates significantly and leaves a gap before the reopening of the market due to news, events or other factors, your orders may not be able to be executed at the pre-set stop loss price. On this occasion, orders would be executed at real-time market price, or stop-out may be executed when margin level is not maintained. In consideration of possible gaps, you need to decide whether to close your position or wait until the market opens again before the market closure.</li>
-                                <li>If any disputes shall arise regarding order execution, please feel free to contact our 24-hour online customer service or call our 24-hour hotline, our customer service staff will notify the trading desk in real time. If you are not satisfied with the result, please email our technical department with your account number, order number, result and your opinion. If you hold an open position, please close the position and appeal based on your trading intention. If the order is retained out of your will, you shall take full responsibility for profit and loss caused due to fluctuations in the market during the complaint period. MultiBank Group reserves the right of final explanation of this statement.</li>
-                                <li>If your account has not been trading for three consecutive months, it will be archived as inactive. For inactive accounts, MultiBank Group may charge a monthly maintenance fee of $60 each month.</li>
+                                <li><?php translate('Quotes by MultiBank fluctuate with market conditions'); ?></li>
+                                <li><?php translate('In the case of special market conditions (e.g. data, news, market opening and closing hours), there may be a gap or widening spreads in the international market. On this occasion, the trading server does not guarantee the executing price. Orders would be executed in accordance with trading conditions or spreads at the time.'); ?></li>
+                                <li><?php translate('For positions open during weekends or holidays: after market closure on weekends or holidays, if the exchange rate fluctuates significantly and leaves a gap before the reopening of the market due to news, events or other factors, your orders may not be able to be executed at the pre-set stop loss price. On this occasion, orders would be executed at real-time market price, or stop-out may be executed when margin level is not maintained. In consideration of possible gaps, you need to decide whether to close your position or wait until the market opens again before the market closure.'); ?></li>
+                                <li><?php translate('If any disputes shall arise regarding order execution, please feel free to contact our 24-hour online customer service or call our 24-hour hotline, our customer service staff will notify the trading desk in real time. If you are not satisfied with the result, please email our technical department with your account number, order number, result and your opinion. If you hold an open position, please close the position and appeal based on your trading intention. If the order is retained out of your will, you shall take full responsibility for profit and loss caused due to fluctuations in the market during the complaint period. MultiBank Group reserves the right of final explanation of this statement.'); ?></li>
+                                <li><?php translate('If your account has not been trading for three consecutive months, it will be archived as inactive. For inactive accounts, MultiBank Group may charge a monthly maintenance fee of $60 each month.'); ?></li>
                             </ul>
                         </div>
                     </div>
@@ -279,7 +279,7 @@
     <section class="p0 choose-next-background subject-box-bg-light">
         <div class="container mex-m-b-80">
             <div class="col-md-12">
-                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="../products.html"><span class="ico-ic_our_products"></span> </a>

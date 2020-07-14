@@ -72,7 +72,7 @@ $(function() {
 
 function openDropdownMenu(type) {
     $('.nav-menu').show();
-    //$('.nav-menu').css("display", "block");
+    $('.nav-menu').css("display", "block");
 
     var menus = document.getElementsByClassName('header-nav-menu');
 
