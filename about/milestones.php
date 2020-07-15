@@ -76,7 +76,7 @@
             <section class="my-0 py-3">
                 <div class="container">
                     <div class="row">
-                        <div class="col-1 mr-3 mr-lg-0 col-lg-1 "><a class="timeline-arrow mr-3" id="prev-but">&lt;</a>
+                        <div class="col-1 mr-3 mr-lg-0 col-lg-1 "><a class="timeline-arrow mr-3" id="next-but">&lt;</a>
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="timeline-bar"></div>
@@ -84,7 +84,7 @@
                                 <div class="multiple-items timeline-scroll-container ">&nbsp;</div>
                             </div>
                         </div>
-                        <div class="col-1 ml-0 col-lg-1"><a class="timeline-arrow mr-3" id="next-but">&gt;</a></div>
+                        <div class="col-1 ml-0 col-lg-1"><a class="timeline-arrow mr-3" id="prev-but">&gt;</a></div>
                     </div>
                 </div>
             </section>
@@ -985,10 +985,10 @@
                                 <div class="mex-content mex-clamp-3"><?php translate('Trading Tools'); ?></div>
                                 <a href="/multibankfx/tools.php"> </a>
                             </li>
-                            <li><a href="why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="why-multibank-group.php"><?php translate('Why Multibank'); ?></a>
+                            <li><a href="/multibankfx/about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/why-multibank-group.php"><?php translate('Why Multibank'); ?></a>
                                 </div>
-                                <a href="why-multibank-group.php"> </a>
+                                <a href="/multibankfx/about/why-multibank-group.php"> </a>
                             </li>
                             <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
                                 <div class="mex-content mex-clamp-3"><a href="/multibankfx/mfx/v1/about/regulations.php"><?php translate('Our

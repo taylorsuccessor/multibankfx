@@ -63,9 +63,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-12">
-                    <h1 class="text-fff mex-h1 text-left">CFD Expiration Dates</h1>
+                    <h1 class="text-fff mex-h1 text-left"><?php translate('CFD Expiration Dates'); ?></h1>
                     <div class="mex-content mex-m-b-30 text-fff">
-                        <p class="mex-m-t-15">Please see below a list of upcoming CFD expiration dates.</p>
+                        <p class="mex-m-t-15"><?php translate('Please see below a list of upcoming CFD expiration dates.'); ?></p>
                     </div>
                 </div>
             </div>
@@ -98,7 +98,7 @@
                 <div class="col-xs-12 mb30 mb-sm-16 p0">
                     <div class="uppercase title text-center text-1e32a3  mex-h2 col-xs-12 mb20 mb-sm-16 ">June 2020</div>
                     <div class="uppercase title text-center text-1e32a3 mex-h2 col-xs-12 mb40 mb-sm-16 mex-m-b-0 font-20">
-                        <div class="offset-md-2 col-md-8 text-left font-20">Last Dealing Date</div>
+                        <div class="offset-md-2 col-md-8 text-left font-20"><?php translate('Last Dealing Date'); ?></div>
                     </div>
                     <div class="col-xs-12 col-md-8 offset-md-2">
 
@@ -107,9 +107,9 @@
                                 <thead>
                                     <tr>
                                         <th class="uppercase">CFD</th>
-                                        <th class="uppercase">Symbol</th>
-                                        <th class="uppercase">Close Only Date</th>
-                                        <th class="uppercase">Last Dealing Date</th>
+                                        <th class="uppercase"><?php translate('Symbol'); ?></th>
+                                        <th class="uppercase"><?php translate('Close Only Date'); ?></th>
+                                        <th class="uppercase"><?php translate('Last Dealing Date'); ?></th>
                                     </tr>
                                 </thead>
                                 <tbody class="table-tbody">
@@ -246,7 +246,7 @@
                 </div>
                 <div class="col-xs-12 mb48 mb-sm-16 p0">
                     <div class="uppercase title text-center text-1e32a3 mex-h2 col-xs-12 mb40 mb-sm-16 mex-m-b-0 font-20">
-                        <div class="offset-md-2 col-md-8 text-left">Open Trading Date</div>
+                        <div class="offset-md-2 col-md-8 text-left"><?php translate('Open Trading Date'); ?></div>
                     </div>
                     <div class="col-xs-12 col-md-8 offset-md-2">
                         <div class="table-content">
@@ -254,8 +254,8 @@
                                 <thead>
                                     <tr>
                                         <th class="uppercase">CFD</th>
-                                        <th class="uppercase">Symbol</th>
-                                        <th class="uppercase">Open Trading Date</th>
+                                        <th class="uppercase"><?php translate('Symbol'); ?></th>
+                                        <th class="uppercase"><?php translate('Open Trading Date'); ?></th>
                                     </tr>
                                 </thead>
                                 <tbody class="table-tbody">
@@ -366,38 +366,38 @@
 
                 <div class="col-xs-12  mb48 mb-sm-16  p0">
                     <div class="col-xs-12 offset-md-2 col-md-8 text-left font-18">
-                        *Please note these dates provided are subject to change.
+                    <?php translate('*Please note these dates provided are subject to change.'); ?>
                     </div>
                     <div class="col-xs-12 offset-md-2 col-md-8 text-left font-18">
-                        *Close only means client can close trades but not open new ones.
+                    <?php translate('*Close only means client can close trades but not open new ones.'); ?>
                     </div>
                     <div class="col-xs-12 offset-md-2 col-md-8 text-left font-18">
-                        *Last Dealing Date means the day all positions will be closed.
+                    <?php translate('*Last Dealing Date means the day all positions will be closed.'); ?>
                     </div>
                     <div class="col-xs-12 offset-md-2 col-md-8 text-left font-18">
-                        *Please note that there could be unexpected periods of volatility, low liquidity, and some LP’s will increase the spreads during expiry dates.
+                    <?php translate('*Please note that there could be unexpected periods of volatility, low liquidity, and some LP’s will increase the spreads during expiry dates.'); ?>
                     </div>
                     <div class="col-xs-12 offset-md-2 col-md-8 text-left font-18">
-                        *Dates are subject to change by the respective markets.
+                    <?php translate('*Dates are subject to change by the respective markets.'); ?>
                     </div>
                 </div>
                 <div class="col-xs-12 p0">
-                    <div class="uppercase title text-center text-1e32a3 mex-h2 mex-m-b-15">Symbols</div>
-                    <div class="mex-content mb40 mb-sm-16 col-xs-12">
-                        MultiBank Symbols use the following format: Symbol Root + Month Code + Year final digit<br>Ex: Brent Crude Oil Jan 2020 would use the symbol LCOF0
+                    <div class="uppercase title text-center text-1e32a3 mex-h2 mex-m-b-15"><?php translate('Symbols'); ?></div>
+                    <div class="mex-content mb40 mb-sm-16 col-xs-12 arabic-text-center">
+                    <?php translate('MultiBank Symbols use the following format: Symbol Root + Month Code + Year final digit<br>Ex: Brent Crude Oil Jan 2020 would use the symbol LCOF0'); ?>
                     </div>
                     <div class="col-xs-12 col-md-8 offset-md-2">
                         <div class="table-responsive table-content">
                             <table class="table table-striped mex-table mex-has-type">
                                 <thead>
                                     <tr>
-                                        <th class="uppercase th-width-50" colspan="2">Month Code</th>
+                                        <th class="uppercase th-width-50" colspan="2"><?php translate('Month Code'); ?></th>
                                     </tr>
                                 </thead>
                                 <tbody class="table-tbody">
                                     <tr>
                                         <td>
-                                            <p><b>Jan</b></p>
+                                            <p><b><?php translate('Jan'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>F</p>
@@ -405,7 +405,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p><b>Feb</b></p>
+                                            <p><b><?php translate('Feb'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>G</p>
@@ -413,7 +413,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p><b>Mar</b></p>
+                                            <p><b><?php translate('Mar'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>H</p>
@@ -421,7 +421,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p><b>Apr</b></p>
+                                            <p><b><?php translate('Apr'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>J</p>
@@ -429,7 +429,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p><b>May</b></p>
+                                            <p><b><?php translate('May'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>K</p>
@@ -437,7 +437,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p><b>Jun</b></p>
+                                            <p><b><?php translate('Jun'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>M</p>
@@ -445,7 +445,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p><b>Jul</b></p>
+                                            <p><b><?php translate('Jul'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>N</p>
@@ -453,7 +453,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p><b>Aug</b></p>
+                                            <p><b><?php translate('Aug'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>Q</p>
@@ -461,7 +461,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p><b>Sep</b></p>
+                                            <p><b><?php translate('Sep'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>U</p>
@@ -469,7 +469,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p><b>Oct</b></p>
+                                            <p><b><?php translate('Oct'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>V</p>
@@ -477,7 +477,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p><b>Nov</b></p>
+                                            <p><b><?php translate('Nov'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>X</p>
@@ -485,7 +485,7 @@
                                     </tr>
                                     <tr>
                                         <td>
-                                            <p><b>Dec</b></p>
+                                            <p><b><?php translate('Dec'); ?></b></p>
                                         </td>
                                         <td>
                                             <p>Z</p>
@@ -502,7 +502,7 @@
     <section class="p0 choose-next-background subject-box-bg-light">
         <div class="container mex-m-b-80">
             <div class="col-md-12">
-                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="products.php"><span class="ico-ic_our_products"></span> </a>

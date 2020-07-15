@@ -63,7 +63,7 @@
     <div class="main-container">
         <section class="flex-center page-top-banner"><img alt="Sponsorship" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/sponsorship_top_banner.jpg" />
             <div class="container mex-p-t-30 mex-p-b-30">
-                <div class="row">
+                <div class="row justify-content-start">
                     <div class="col-lg-6 col-md-10">
                         <h1 class="mex-h1 text-fff text-left"><?php translate('Sponsorship'); ?></h1>
                         <div class="mex-content col-md-10 col-lf-6 text-fff p0"><?php translate('At MultiBank, we sponsor partners who share

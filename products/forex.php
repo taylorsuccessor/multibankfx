@@ -4,59 +4,7 @@
 <?php include_from_root('website_template/head.php'); ?>
 <body>
     <?php include_from_root('website_template/header_and_menu.php'); ?>
-    <style>
-        .nav-menu-hamburger,
-        .nav-menu-mymex {
-            width: 35px;
-            height: 35px;
-
-            display: flex;
-            justify-content: center;
-            align-items: center;
-
-            margin: 5px 10px 5px 5px;
-
-            background-color: #000333;
-            border-radius: 6px;
-        }
-
-        .nav-menu-hamburger .ti-menu {
-            transform: translateY(-1px);
-        }
-
-        .nav-menu-mymex {
-            margin: 5px;
-        }
-
-        .nav-menu-mymex img {
-            width: 25px;
-            height: auto;
-        }
-
-        @media screen and (max-width: 1199px) {
-            .header-bottom-left-container {
-                line-height: inital !important;
-
-                display: flex;
-                align-items: center;
-            }
-
-            .header-boottom-logo {
-                height: auto;
-            }
-
-            .header-bottom-left-container a {
-                display: flex;
-                align-items: center;
-            }
-
-            .header-bottom-left-container .header-logo {
-                height: 30px;
-                padding-left: 15px;
-            }
-        }
-    </style>
-
+  
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="main-container">
         <section class="flex-center page-top-banner"><img alt="Trade Indices" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/forex_top_banner1.jpg" />
