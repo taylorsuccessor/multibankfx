@@ -61,7 +61,7 @@ function translate($text,$page_name=''){
     $row = $exist->fetch();
    
     if(isset($row['id'])){
-        echo $row['ar'];
+        echo $row['en'];
       
     }else{
         db_insert($dbConnection,'language',[
