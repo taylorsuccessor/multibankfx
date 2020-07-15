@@ -65,31 +65,31 @@
                 <div class="col-lg-3 hidden-xs"></div>
                 <div class="col-lg-6 col-sm-12 text-center">
                     <h1 class="mex-h1 text-fff text-center mex-m-b-40">
-                        TRADING TOOLS
+                    <?php translate('TRADING TOOLS'); ?>
                     </h1>
                     <div class="mex-m-b-30 row text-center">
                         <div class="col-lg-3 col-md-6 col-sm- col-6 text-fff mex-m-b-30">
                             <a href="trading-tools.html#vps" class="text-fff">
                                 <img src="/multibankfx/public_files/images/tools/VPS_Hosting_icon.png" alt="VPS Hosting">
-                                <p>VPS Hosting</p>
+                                <p><?php translate('VPS Hosting'); ?></p>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-6 text-fff mex-m-b-30">
                             <a href="trading-tools.html#experts-adv" class="text-fff">
                                 <img src="/multibankfx/public_files/images/tools/Expert_Advisors_icon.png" alt="Expert Advisors">
-                                <p>Expert Advisors</p>
+                                <p><?php translate('Expert Advisors'); ?></p>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-6 text-fff mex-m-b-30f">
                             <a href="trading-tools.html#nam-pamm" class="text-fff">
                                 <img src="/multibankfx/public_files/images/tools/MAM_PAMM_icon.png" alt="MAM/ PAMM">
-                                <p>MAM/ PAMM</p>
+                                <p><?php translate('MAM/PAMM'); ?></p>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-6 text-fff mex-m-b-30">
                             <a href="trading-tools.html#fix-api" class="text-fff">
                                 <img src="/multibankfx/public_files/images/tools/FIX_AP_icon.png" alt="FIX API">
-                                <p>FIX API</p>
+                                <p><?php translate('FIX API'); ?></p>
                             </a>
                         </div>
                     </div>
@@ -108,11 +108,11 @@
                         </div>
                         <div class="card-content bg-white text-left">
                             <h2 class="mex-h2 mex-m-b-15">
-                                FREE VPS Hosting
+                            <?php translate('FREE VPS Hosting'); ?>
                             </h2>
                             <div class="mex-content">
-                                <p class="mex-m-t-15">MultiBank offers free Virtual Private Servers (VPS) to all its customers through reliable third-party hosting vendors.</p>
-                                <p class="mex-m-t-15">Through the VPS, customers can run their trading terminals non-stop 24/7 and experience the most stable and reliable trading conditions while trading remotely from any location with convenience. </p>
+                                <p class="mex-m-t-15"><?php translate('MultiBank offers free Virtual Private Servers (VPS) to all its customers through reliable third-party hosting vendors.'); ?></p>
+                                <p class="mex-m-t-15"><?php translate('Through the VPS, customers can run their trading terminals non-stop 24/7 and experience the most stable and reliable trading conditions while trading remotely from any location with convenience.'); ?> </p>
                             </div>
                         </div>
                     </section>
@@ -124,15 +124,15 @@
                         </div>
                         <div class="card-content bg-white text-left">
                             <h2 class="mex-h2 mex-m-b-15">
-                                MultiBank VPS Hosting
+                            <?php translate('MultiBank VPS Hosting'); ?>
                             </h2>
                             <div class="mex-content">
                                 <ul class="mex-list-icon-check">
-                                    <li>Continue trading even while your PC is switched-off</li>
-                                    <li>No latency, creating smooth trading experience</li>
-                                    <li>Compatibility with all Operating Systems</li>
-                                    <li>Extremely high Data Rate Exchange between remote and main servers</li>
-                                    <li>Accessible anytime anywhere, without having to install MT4 trading terminal</li>
+                                    <li><?php translate('Continue trading even while your PC is switched-off'); ?></li>
+                                    <li><?php translate('No latency, creating smooth trading experience'); ?></li>
+                                    <li><?php translate('Compatibility with all Operating Systems'); ?></li>
+                                    <li><?php translate('Extremely high Data Rate Exchange between remote and main servers'); ?></li>
+                                    <li><?php translate('Accessible anytime anywhere, without having to install MT4 trading terminal'); ?></li>
                                 </ul>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
         <div class="container">
             <div class="row mex-m-b-40">
                 <div class="col-12 mex-h1 text-center text-1e32a3">
-                    Submit A VPS Request
+                <?php translate('Submit A VPS Request'); ?>
                 </div>
             </div>
             <div class="row">
@@ -169,27 +169,27 @@
                         <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:34] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:35] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:36] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:37] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/tools/trading-tools?web=true' />
                         <div class='form-group col-12 px-0 border-bottom border-secondary px-1'>
                             <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
-                                CLIENT INFORMATION</label>
+                            <?php translate('CLIENT INFORMATION'); ?></label>
                             <input type='hidden' data-message='' data-extra-message="Full Name Invalid." data-regex='' class=' form-control' name='label_title' placeholder='' value='' />
                         </div>
                         <div class='mex-form-item col-12 col-md-4 p-1'>
                             <label for='' class='d-block'>
-                                Name</label>
+                            <?php translate('Name'); ?></label>
                             <input type="text" data-message="Full Name is Required." data-extra-message="Full Name Invalid." data-regex="" class="d-block" name="name" $field_id_code placeholder="" required value="" />
                         </div>
                         <div class='mex-form-item col-12 col-md-4 p-1'>
                             <label for='' class='d-block'>
-                                Email</label>
+                            <?php translate('Email'); ?></label>
                             <input type='email' data-message='Email is Required.' data-extra-message="" data-regex='' class='d-block' name='email' placeholder='' required value='' />
                         </div>
                         <div class='mex-form-item col-12 col-md-4 p-1'>
                             <label for='' class='d-block'>
-                                Confirm Email</label>
+                            <?php translate('Confirm Email'); ?></label>
                             <input type='email' data-message='Confirm Email is Required.' data-extra-message="Email Mismatched." data-regex='' class='d-block' name='confirm_email' placeholder='' required value='' />
                         </div>
                         <div class='d-none'>
                             <label for='' class='d-block'>
-                                Country</label>
+                            <?php translate('Country'); ?></label>
                             <select data-message='Country Name Required.' data-extra-message="Country Name Invalid" class='selection-country d-block select_with_country' name='country_name' required>
                                 <option value='' selected='selected'>Select Country</option>
                                 <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
@@ -435,7 +435,7 @@
                             </select><input type="hidden" name="country_code" value="" /></div>
                         <div class='mex-form-item col-12 col-md-6 p-1'>
                             <label for='' class='d-block hide-label'>
-                                Mobile</label>
+                            <?php translate('Mobile'); ?></label>
                             <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.' data-extra-message="Phone Number Invalid." data-regex='' class='input_with_phone d-block' name='phone_display' placeholder='' required value='' />
                             <input type='hidden' name='phone' />
                         </div>
@@ -447,18 +447,18 @@
                         </div>
                         <div class='mex-form-item col-12 col-md-6 p-1'>
                             <label for='' class='d-block'>
-                                Account Number</label>
+                            <?php translate('Account Number'); ?></label>
                             <input type="text" data-message="Account Number is Required." data-extra-message="" data-regex="" class="d-block" name="ib_account" $field_id_code placeholder="" required value="" />
                         </div>
                         <div class=''>
                             <label for='' class=''>
                             </label>
                             <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' ' name='type' placeholder='' value='VPS' />
-                        </div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-61df31f33958fccb7868e01d-="">SUBMIT</button>
+                        </div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-61df31f33958fccb7868e01d-=""><?php translate('SUBMIT'); ?></button>
                     </form>
                     <div class="px-1 " style="padding:15px 0px;">
                         <div class="form-check form-check-inline">
-                            <label class="form-check-label label-1 " for="terms_conditions">By submitting this form, you agree to accept the <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp; Conditions</a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Cookie Policy</a>.
+                            <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you agree to accept the'); ?> <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                             </label>
                         </div>
                     </div>
@@ -476,12 +476,12 @@
                         </div>
                         <div class="card-content bg-white text-left">
                             <h2 class="mex-h2  mex-m-b-15">
-                                Experts Advisors
+                            <?php translate('Experts Advisors'); ?>
                             </h2>
                             <div class="mex-content mex-p-b-30">
-                                <p class="mex-m-t-15">Your Expert Advisors (EAs) can be integrated into any MultiBank MetaTrader 4 &amp; 5 platform without restrictions to perform automated trades and place orders at any time.</p>
-                                <p class="mex-m-t-15">With our sophisticated trading environment, your EA can monitor everything from indicators, support and resistance levels to multiple timeframes and, in turn, maximize your gains.</p>
-                                <p class="mex-m-t-15">For information on how to link your EA, please contact our Customer Service. </p>
+                                <p class="mex-m-t-15"><?php translate('Your Expert Advisors (EAs) can be integrated into any MultiBank MetaTrader 4 & 5 platform without restrictions to perform automated trades and place orders at any time.'); ?></p>
+                                <p class="mex-m-t-15"><?php translate('With our sophisticated trading environment, your EA can monitor everything from indicators, support and resistance levels to multiple timeframes and, in turn, maximize your gains.'); ?></p>
+                                <p class="mex-m-t-15"><?php translate('For information on how to link your EA, please contact our Customer Service.');?> </p>
                             </div>
                         </div>
                     </section>
@@ -493,10 +493,10 @@
                         </div>
                         <div class="card-content bg-white text-left">
                             <h2 class="mex-h2  mex-m-b-15">
-                                MAM &amp; PAMM Accounts
+                            <?php translate('MAM & PAMM Accounts'); ?>
                             </h2>
                             <div class="mex-content">
-                                <p class="mex-m-t-15">The Multi Account Managers (MAM) software provides professional traders and asset managers with an user-friendly interface, manage several trading accounts simultaneously and provides flexible platforms with a wide range of cutting edge technologies.</p>
+                                <p class="mex-m-t-15"><?php translate('The Multi Account Managers (MAM) software provides professional traders and asset managers with an user-friendly interface, manage several trading accounts simultaneously and provides flexible platforms with a wide range of cutting edge technologies.'); ?></p>
                             </div>
                         </div>
                     </section>
@@ -508,7 +508,7 @@
         <div class="container">
             <div class="row mex-m-b-40">
                 <div class="col-12 mex-h1 text-center text-1e32a3">
-                    Apply For MAM/ PAMM Account
+                <?php translate('Apply For MAM/ PAMM Account'); ?>
                 </div>
             </div>
             <div class="row">
@@ -519,27 +519,27 @@
                         <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:34] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:35] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:36] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:37] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/tools/trading-tools?web=true' />
                         <div class='form-group col-12 px-0 border-bottom border-secondary px-1'>
                             <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
-                                CLIENT INFORMATION</label>
+                            <?php translate('CLIENT INFORMATION'); ?></label>
                             <input type='hidden' data-message='पूरा नाम आवश्यक है' data-extra-message="Full Name Invalid." data-regex='' class=' form-control' name='lable_title' placeholder='' required value='' />
                         </div>
                         <div class='mex-form-item col-12 col-md-4 p-1'>
                             <label for='' class='d-block'>
-                                Name</label>
+                            <?php translate('Name'); ?></label>
                             <input type="text" data-message="Name is Required." data-extra-message="" data-regex="" class="d-block" name="name" $field_id_code placeholder="" required value="" />
                         </div>
                         <div class='mex-form-item col-12 col-md-4 p-1'>
                             <label for='' class='d-block'>
-                                Email</label>
+                            <?php translate('Email'); ?></label>
                             <input type='email' data-message='Email is Required.' data-extra-message="" data-regex='' class='d-block' name='email' placeholder='' required value='' />
                         </div>
                         <div class='mex-form-item col-12 col-md-4 p-1'>
                             <label for='' class='d-block'>
-                                Confirm Email</label>
+                            <?php translate('Confirm Email'); ?></label>
                             <input type='email' data-message='Confirm Email  is Required.' data-extra-message="Email Mismatched." data-regex='' class='d-block' name='confirm_email' placeholder='' required value='' />
                         </div>
                         <div class='d-none'>
                             <label for='' class='d-block'>
-                                Country</label>
+                            <?php translate('Country'); ?></label>
                             <select data-message='Country is Required.' data-extra-message="Country Code Invalid" class='selection-country d-block select_with_country' name='country_name' required>
                                 <option value='' selected='selected'>Select Country</option>
                                 <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
@@ -785,7 +785,7 @@
                             </select><input type="hidden" name="country_code" value="" /></div>
                         <div class='mex-form-item col-12 col-md-6 p-1'>
                             <label for='' class='d-block'>
-                                Mobile</label>
+                            <?php translate('Mobile'); ?></label>
                             <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.' data-extra-message="Phone Number Invalid." data-regex='' class='input_with_phone d-block' name='phone_display' placeholder='' required value='' />
                             <input type='hidden' name='phone' />
                         </div>
@@ -797,7 +797,7 @@
                         </div>
                         <div class='mex-form-item col-12 col-md-6 p-1'>
                             <label for='' class='d-block'>
-                                IB Account</label>
+                            <?php translate('IB Account'); ?></label>
                             <input type="text" data-message="IB Account is Required." data-extra-message="" data-regex="" class="d-block" name="ib_account" $field_id_code placeholder="" required value="" />
                         </div>
                         <div class=''>
@@ -809,11 +809,11 @@
                             <label for='' class=''>
                             </label>
                             <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' ' name='type' placeholder='' value='MAM/PAM' />
-                        </div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-61df31f33958fccb7868e01d-="">SUBMIT</button>
+                        </div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-61df31f33958fccb7868e01d-=""><?php translate('SUBMIT'); ?></button>
                     </form>
                     <div class="px-1 " style="padding:15px 0px;">
                         <div class="form-check form-check-inline">
-                            <label class="form-check-label label-1 " for="terms_conditions">By submitting this form, you agree to accept the <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp; Conditions</a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Cookie Policy</a>.
+                            <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you agree to accept the'); ?> <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                             </label>
                         </div>
                     </div>
@@ -827,20 +827,20 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12 mex-m-b-30">
                     <div class="mex-h1 text-1e32a3 text-left">
-                        MAM Advantages
+                    <?php translate('MAM Advantages'); ?>
                     </div>
                     <div class="mex-content mex-m-b-30">
                         <ul class="mex-list-icon-check">
-                            <li>Allows Expert Advisor (EA) trading of managed accounts from client side</li>
-                            <li>Overview of open trades, balances and margin levels for several accounts</li>
-                            <li>Manage and trade multiple accounts simultaneously</li>
-                            <li>Unlimited trading accounts</li>
-                            <li>Market watch window within MAM</li>
-                            <li>STP on master account for bulk order execution, with instant allocation to sub accounts</li>
-                            <li>Live order management monitoring within MAM including P&amp;L</li>
-                            <li>Allows Trade station signals to be traded on MT4 platform (separate module)</li>
-                            <li>“Group Order” execution from Main control screen</li>
-                            <li>Partial close of orders by Master account execution</li>
+                            <li><?php translate('Allows Expert Advisor (EA) trading of managed accounts from client side'); ?></li>
+                            <li><?php translate('Overview of open trades, balances and margin levels for several accounts'); ?></li>
+                            <li><?php translate('Manage and trade multiple accounts simultaneously'); ?></li>
+                            <li><?php translate('Unlimited trading accounts'); ?></li>
+                            <li><?php translate('Market watch window within MAM'); ?></li>
+                            <li><?php translate('STP on master account for bulk order execution, with instant allocation to sub accounts'); ?></li>
+                            <li><?php translate('Live order management monitoring within MAM including P&L'); ?></li>
+                            <li><?php translate('Allows Trade station signals to be traded on MT4 platform (separate module)'); ?></li>
+                            <li><?php translate('“Group Order” execution from Main control screen'); ?></li>
+                            <li><?php translate('Partial close of orders by Master account execution'); ?></li>
                         </ul>
                     </div>
                 </div>
@@ -853,10 +853,10 @@
             <div class="row d-block">
                 <div class="col-md-8 col-sm-12 text-center offset-md-2">
                     <div class="mex-h1 text-fff text-center mex-m-b-40">
-                        FIX API
+                    <?php translate('FIX API'); ?>
                     </div>
                     <div class="mex-content text-fff mex-m-b-30 text-center">
-                        MultiBank’s FIX API is a turnkey solution for institutional and high-volume clients looking for direct access to market, providing the best prices and conditions.
+                    <?php translate('MultiBank’s FIX API is a turnkey solution for institutional and high-volume clients looking for direct access to market, providing the best prices and conditions.'); ?>
                     </div>
                 </div>
             </div>
@@ -866,10 +866,10 @@
         <div class="container">
             <div class="row mex-m-b-40">
                 <div class="col-12 mex-h1 text-center text-1e32a3">
-                    How To Apply For API
+                <?php translate('How To Apply For API'); ?>
                 </div>
                 <div class="mex-content col-12 text-center">
-                    <p>It is easy to apply for MultiBank FIX API, just fill the below form and our Customer Service will get back to you.</p>
+                    <p><?php translate('It is easy to apply for MultiBank FIX API, just fill the below form and our Customer Service will get back to you.'); ?></p>
                 </div>
             </div>
             <div class="row">
@@ -880,27 +880,27 @@
                         <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:34] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:35] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:36] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:37] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/tools/trading-tools?web=true' />
                         <div class='form-group col-12 px-0 border-bottom border-secondary px-1'>
                             <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
-                                CLIENT INFORMATION</label>
+                            <?php translate('CLIENT INFORMATION'); ?></label>
                             <input type='hidden' data-message='' data-extra-message="Full Name Invalid." data-regex='' class=' form-control' name='label_title' placeholder='' value='' />
                         </div>
                         <div class='mex-form-item col-12 col-md-4 p-1'>
                             <label for='' class='d-block'>
-                                Name</label>
+                            <?php translate('Name'); ?></label>
                             <input type="text" data-message="Name is Required." data-extra-message="" data-regex="" class="d-block" name="name" $field_id_code placeholder="" required value="" />
                         </div>
                         <div class='mex-form-item col-12 col-md-4 p-1'>
                             <label for='' class='d-block'>
-                                Email</label>
+                            <?php translate('Email'); ?></label>
                             <input type='email' data-message='Email  is Required.' data-extra-message="" data-regex='' class='d-block' name='email' placeholder='' required value='' />
                         </div>
                         <div class='mex-form-item col-12 col-md-4 p-1'>
                             <label for='' class='d-block'>
-                                Confirm Email</label>
+                            <?php translate('Confirm Email'); ?></label>
                             <input type='email' data-message='Confirm Email is Required.' data-extra-message="Email Mismatched." data-regex='' class='d-block' name='confirm_email' placeholder='' required value='' />
                         </div>
                         <div class='d-none'>
                             <label for='' class='d-block'>
-                                Country</label>
+                            <?php translate('Country'); ?></label>
                             <select data-message='Country Name Required.' data-extra-message="Country Name Invalid" class='selection-country d-block select_with_country' name='country_name' required>
                                 <option value='' selected='selected'>Select Country</option>
                                 <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
@@ -1146,7 +1146,7 @@
                             </select><input type="hidden" name="country_code" value="" /></div>
                         <div class='mex-form-item col-12 col-md-6 p-1 mb-3'>
                             <label for='' class='d-block'>
-                                Mobile</label>
+                            <?php translate('Mobile'); ?></label>
                             <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.' data-extra-message="Phone Number Invalid." data-regex='' class='input_with_phone d-block' name='phone_display' placeholder='' required value='' />
                             <input type='hidden' name='phone' />
                         </div>
@@ -1158,7 +1158,7 @@
                         </div>
                         <div class='mex-form-item col-12 col-md-6 p-1 mb-3'>
                             <label for='' class='d-block'>
-                                IB Account</label>
+                            <?php translate('IB Account'); ?></label>
                             <input type="text" data-message="IB Account is Required." data-extra-message="" data-regex="" class="d-block" name="ib_account" $field_id_code placeholder="" required value="" />
                         </div>
                         <div class=''>
@@ -1175,11 +1175,11 @@
                             <label for='' class=''>
                             </label>
                             <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' sms_verif_code' name='phone_sms_verif_code' placeholder='' required value='' />
-                        </div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-61df31f33958fccb7868e01d-="">SUBMIT</button>
+                        </div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-61df31f33958fccb7868e01d-=""><?php translate('SUBMIT'); ?></button>
                     </form>
                     <div class="px-1 " style="padding:15px 0px;">
                         <div class="form-check form-check-inline">
-                            <label class="form-check-label label-1 " for="terms_conditions">By submitting this form, you agree to accept the <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp; Conditions</a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Cookie Policy</a>.
+                            <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you agree to accept the'); ?> <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, <?php translate('and'); ?> <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                             </label>
                         </div>
                     </div>
@@ -1190,55 +1190,55 @@
     <section class="p0 choose-next-background subject-box-bg-light">
         <div class="container mex-m-b-80">
             <div class="col-md-12">
-                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="/multibankfx/products.php"><span class="ico-ic_our_products"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php">Our Products</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php"><?php translate('Our Products'); ?></a></div>
                             <a href="/multibankfx/products.php"> </a>
                         </li>
                         <li><a href="/multibankfx/account.php"><span class="ico-ic_accounts_funding"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php">Accounts and Funding</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php"><?php translate('Accounts and Funding '); ?></a></div>
                             <a href="/multibankfx/account.php"> </a>
                         </li>
                         <li><a href="/multibankfx/account/bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/account/bonus.php">Bonus Programs</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/account/bonus.php"><?php translate('Bonus Programs'); ?></a></div>
                             <a href="/multibankfx/account/bonus.php"> </a>
                         </li>
                         <li><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form">Become an IB</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become an IB'); ?></a></div>
                             <a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                         </li>
                         <li><a href="/multibankfx/investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php">Partnership Programs</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php"><?php translate('Partnership Programs'); ?></a></div>
                             <a href="/multibankfx/investor-relations.php"> </a>
                         </li>
                         <li><a href="/multibankfx/about/security-of-funds.php"><span class="ico-ic_security_of_funds"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/security-of-funds.php">Security of Funds</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/security-of-funds.php"><?php translate('Security of Funds'); ?></a></div>
                             <a href="/multibankfx/about/security-of-funds.php"> </a>
                         </li>
                         <li><a href="https://my.mexgroup.com" target="_blank"><span class="ico-ic_mymultibank_account_panel"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="https://my.mexgroup.com" target="_blank">MyMultiBank Account Panel</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="https://my.mexgroup.com" target="_blank"><?php translate('MyMultiBank Account Panel '); ?></a></div>
                             <a href="https://my.mexgroup.com" target="_blank"> </a>
                         </li>
                         <li><a href="/multibankfx/scalping-policy.php"><span class="ico-ic_scalping_policy"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/scalping-policy.php">Scalping Policy</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/scalping-policy.php"><?php translate('Scalping Policy'); ?></a></div>
                             <a href="/multibankfx/scalping-policy.php"> </a>
                         </li>
                         <li><a href="/multibankfx/platforms/compare-platforms.php"><span class="ico-ic_compare_our_trading_platforms"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/platforms/compare-platforms.php">Compare our Trading Platforms</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/platforms/compare-platforms.php"><?php translate('Compare our Trading Platforms'); ?></a></div>
                             <a href="/multibankfx/platforms/compare-platforms.php"> </a>
                         </li>
                         <li><a href="/multibankfx/about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/why-multibank-group.php">Why Multibank</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/why-multibank-group.php"><?php translate('Why Multibank'); ?></a></div>
                             <a href="/multibankfx/about/why-multibank-group.php"> </a>
                         </li>
                         <li><a href="/multibankfx/about/milestones.php"><span class="ico-ic_our_milestones"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/milestones.php">Our Milestones</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/milestones.php"><?php translate('Our Milestones'); ?></a></div>
                             <a href="/multibankfx/about/milestones.php"> </a>
                         </li>
                         <li><a href="/multibankfx/tools.php"><span class="ico-ic_trading_tools"></span> </a>
-                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/tools.php">Trading Tools</a></div>
+                            <div class="mex-content mex-clamp-3"><a href="/multibankfx/tools.php"><?php translate('Trading Tools'); ?></a></div>
                             <a href="/multibankfx/tools.php"> </a>
                         </li>
                     </ul>

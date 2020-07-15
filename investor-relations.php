@@ -62,7 +62,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-12">
-                    <h1 class="mex-h1 text-fff text-left">PARTNERSHIP</h1>
+                    <h1 class="mex-h1 text-fff text-left"><?php translate('PARTNERSHIP'); ?></h1>
                 </div>
             </div>
         </div>
@@ -93,10 +93,10 @@
                             <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/home_partnership_introducing_broker@2x.png" alt="Introducing Brokers">
                             <div class="card-content text-left">
                                 <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase text-fff">
-                                    Introducing Brokers
+                                <?php translate('Introducing Brokers '); ?>
                                 </div>
                                 <div class="mex-content mb0 text-overflow-3">
-                                    Join MultiBank’s network of over 30,000 Introducing Brokers and enjoy the highest levels of personalized customer care.
+                                <?php translate('Join MultiBank’s network of over 30,000 Introducing Brokers and enjoy the highest levels of personalized customer care.'); ?>
                                 </div>
                             </div>
                         </a>
@@ -108,10 +108,10 @@
                             <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/home_partnership_franchise_program@2x.png" alt="Franchise Program">
                             <div class="card-content text-left">
                                 <div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">
-                                    Franchise Program
+                                <?php translate('Franchise Program'); ?>
                                 </div>
                                 <div class="mex-content mb0 text-overflow-3">
-                                    Open offices under the MultiBank name and obtain exclusivity of our products and services in the region
+                                <?php translate('Open offices under the MultiBank name and obtain exclusivity of our products and services in the region'); ?>
                                 </div>
                             </div>
                         </a>
@@ -123,10 +123,10 @@
                             <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/home_partnership_white_label@2x.png" alt="White Label">
                             <div class="card-content text-left">
                                 <div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">
-                                    White Label
+                                <?php translate('White Label'); ?>
                                 </div>
                                 <div class="mex-content mb0 text-overflow-3">
-                                    Become MultiBank’s White Label Partner and have your own proprietary trading system, branded in your corporate name
+                                <?php translate('Become MultiBank’s White Label Partner and have your own proprietary trading system, branded in your corporate name'); ?>
                                 </div>
                             </div>
                         </a>
@@ -138,10 +138,10 @@
                             <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/home_partnership_prime_of_primes@2x.png" alt="Prime of Primes">
                             <div class="card-content text-left">
                                 <div class="font-34  mex-m-b-5 font-type-cap uppercase text-fff">
-                                    Prime of Primes
+                                <?php translate('Prime of Primes'); ?>
                                 </div>
                                 <div class="mex-content mb0 text-overflow-3">
-                                    Complete A to Z prime technology solution for MultiBank’s institutional partners
+                                <?php translate('Complete A to Z prime technology solution for MultiBank’s institutional partners'); ?>
                                 </div>
                             </div>
                         </a>
@@ -153,10 +153,10 @@
                             <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/partnership_cpa_affiliate_program_newx.png" alt="CPA Affiliate Program">
                             <div class="card-content text-left">
                                 <div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">
-                                    CPA Affiliate Program
+                                <?php translate('CPA Affiliate Program'); ?>
                                 </div>
                                 <div class="mex-content mb0 text-overflow-3">
-                                    MultiBank’s CPA Affiliate Program allows digital marketers to earn commission for every active trader they introduce
+                                <?php translate('MultiBank’s CPA Affiliate Program allows digital marketers to earn commission for every active trader they introduce'); ?>
                                 </div>
                             </div>
                         </a>
@@ -168,7 +168,7 @@
     <section class="p0 choose-next-background subject-box-bg-light">
         <div class="container mex-m-b-80">
             <div class="col-md-12">
-                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-pt="" data-mys="SILA PILIH UNTUK TERUSKAN" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-pt="" data-mys="SILA PILIH UNTUK TERUSKAN" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li>

@@ -61,12 +61,12 @@
     <section class="flex-center page-top-banner">
         <img src="/multibankfx/public_files/images/tools/tools_topbanner.jpg" alt="tools top banner" class="mex-img-cover" />
         <div class="container">
-            <div class="row justify-content-end">
+            <div class="row justify-content-end top-banner-arabic">
                 <div class="col-xl-6 mex-p-t-30 mex-p-b-30">
                     <h1 class="mex-h1 text-fff text-left">
-                        TOOLS </h1>
+                    <?php translate('TOOLS'); ?> </h1>
                     <div class="mex-content text-fff mex-m-b-30">
-                        All your trading needs, all in one place
+                    <?php translate('All your trading needs, all in one place'); ?>
                     </div>
                 </div>
             </div>
@@ -97,32 +97,32 @@
                     <div class="row d-block">
                         <div class="col-lg-8 col-xl-6 offset-lg-2 offset-xl-3 text-center pt-xl-5">
                             <div class="mex-h1 text-fff text-center mex-m-t-30">
-                                TRADING TOOLS </div>
+                            <?php translate('TRADING TOOLS'); ?> </div>
                             <div class="mex-content text-fff mex-m-b-20 mex-m-t-40 text-center mt-lg-4 mt-xl-5">
-                                MultiBank offers simple yet powerful trading tools to help you manage your trade with ease and full control- all free of charge! </div>
+                            <?php translate('MultiBank offers simple yet powerful trading tools to help you manage your trade with ease and full control- all free of charge!'); ?> </div>
                             <div class="row text-center mex-m-b-40 mt-xl-5">
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff mb-s-30">
                                     <a href="tools/trading-tools.html#vps" class="text-fff">
                                         <img src="/multibankfx/public_files/images/tools/trading_tools/VPS_Hosting_icon.png" alt="VPS Hosting">
-                                        <p>VPS Hosting</p>
+                                        <p><?php translate('VPS Hosting'); ?></p>
                                     </a>
                                 </div>
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff mb-s-30">
                                     <a href="tools/trading-tools.html#experts-adv" class="text-fff">
                                         <img src="/multibankfx/public_files/images/tools/trading_tools/Expert_Advisors_icon.png" alt="Expert Advisors">
-                                        <p>Expert Advisors</p>
+                                        <p><?php translate('Expert Advisors'); ?></p>
                                     </a>
                                 </div>
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff">
                                     <a href="tools/trading-tools.html#nam-pamm" class="text-fff">
                                         <img src="/multibankfx/public_files/images/tools/trading_tools/MAM_PAMM_icon.png" alt="MAM/ PAMM">
-                                        <p>MAM/ PAMM</p>
+                                        <p><?php translate('MAM/PAMM'); ?></p>
                                     </a>
                                 </div>
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff">
                                     <a href="tools/trading-tools.html#fix-api" class="text-fff">
                                         <img src="/multibankfx/public_files/images/tools/trading_tools/FIX_AP_icon.png" alt="FIX API">
-                                        <p>FIX API</p>
+                                        <p><?php translate('FIX API'); ?></p>
                                     </a>
                                 </div>
                             </div>
@@ -143,10 +143,10 @@
                         <div class="card-content-box">
                             <div class=" card-content text-center">
                                 <div class="mex-h2 uppercase mex-m-b-20 text-overflow-1">
-                                    TRADING CONDITIONS </div>
+                                <?php translate('TRADING CONDITIONS'); ?> </div>
                                 <div class="mex-content text-overflow-3">
-                                    Enjoy the best trading conditions in the industry for products including forex, metals, shares, indices,commodities and more! </div>
-                                <a href="tools/trading-conditions.php" class="btn btn-mex mex-m-t-15">LEARN MORE</a>
+                                <?php translate('Enjoy the best trading conditions in the industry for products including forex, metals, shares, indices,commodities and more!'); ?> </div>
+                                <a href="tools/trading-conditions.php" class="btn btn-mex mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                             </div>
                         </div>
                     </section>
@@ -159,10 +159,10 @@
                         <div class="card-content-box">
                             <div class=" card-content bg-white text-center">
                                 <div class="mex-h2 uppercase mex-m-b-20 text-overflow-1">
-                                    TRADING HOURS &amp; HOLIDAY NOTICES </div>
+                                <?php translate('TRADING HOURS & HOLIDAY NOTICES'); ?> </div>
                                 <div class="mex-content text-overflow-3">
-                                    Stay up to date on relevant holiday hours and trading sessions </div>
-                                <a href="tools/holiday-hours-notices.php" class="btn btn-mex mex-m-t-15">LEARN MORE</a>
+                                <?php translate('Stay up to date on relevant holiday hours and trading sessions'); ?> </div>
+                                <a href="tools/holiday-hours-notices.php" class="btn btn-mex mex-m-t-15"><?php translate('LEARN MORE'); ?></a>
                             </div>
                         </div>
                     </section>
@@ -176,11 +176,11 @@
             <div class="row">
                 <div class="col-sm-12">
                     <h2 class="mex-h1 text-left">
-                        Scalping Policy </h2>
+                    <?php translate('Scalping Policy'); ?> </h2>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-t-15">Learn more about MultiBank’s scalping policy</p>
+                        <p class="mex-m-t-15"><?php translate('Learn more about MultiBank’s scalping policy'); ?></p>
                     </div>
-                    <a href="scalping-policy.php" class="btn btn-mex mex-m-r-15">LEARN MORE</a>
+                    <a href="scalping-policy.php" class="btn btn-mex mex-m-r-15"><?php translate('LEARN MORE'); ?></a>
                 </div>
             </div>
         </div>
@@ -188,7 +188,7 @@
     <section class="p0 choose-next-background subject-box-bg-light">
         <div class="container mex-m-b-80">
             <div class="col-md-12">
-                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="products.php"><span class="ico-ic_our_products"></span> </a>

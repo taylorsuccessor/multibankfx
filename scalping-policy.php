@@ -62,62 +62,62 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <h1 class="mex-h1 text-1e32a3 mex-m-b-40 text-center">Scalping Policy</h1>
+                    <h1 class="mex-h1 text-1e32a3 mex-m-b-40 text-center"><?php translate('Scalping Policy'); ?></h1>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <div class="mex-h3 mex-m-b-30"><strong>What is Scalping?</strong></div>
+                    <div class="mex-h3 mex-m-b-30"><strong><?php translate('What is Scalping?'); ?></strong></div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-10">In order to ensure the stability of the MultiBank platforms and products, we define "Scalping" as a method traders use where they open and close trades within 120 seconds trades.</p>
+                        <p class="mex-m-b-10"><?php translate('In order to ensure the stability of the MultiBank platforms and products, we define "Scalping" as a method traders use where they open and close trades within 120 seconds trades.'); ?></p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-10"><strong>IB Scalping policy:</strong>Introducing Brokers cannot receive any Fees for transactions that are defined as Scalping transactions.</p>
+                        <p class="mex-m-b-10"><strong><?php translate('IB Scalping policy:'); ?></strong><?php translate('Introducing Brokers cannot receive any Fees for transactions that are defined as Scalping transactions.'); ?></p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-10"><strong>Customer Scalping policy:</strong> Scalping is not allowed for Individual Clients on all our trading platforms.</p>
+                        <p class="mex-m-b-10"><strong><?php translate('Customer Scalping policy:'); ?></strong> <?php translate('Scalping is not allowed for Individual Clients on all our trading platforms.'); ?></p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <div class="mex-h3 mex-m-b-30"><strong>Stale Trading</strong></div>
+                    <div class="mex-h3 mex-m-b-30"><strong><?php translate('Stale Trading'); ?></strong></div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">In order to ensure the stability of the MultiBank platforms and products, we define "Stale Trading" as a method traders use where they open and close trades within 10 seconds. MultiBank considers these trades abusive and does not allow these trades on its platforms and products. Should Stale Trades occur in your account, MultiBank reserves the right to cancel them immediately.</p>
+                        <p class="mex-m-b-30"><?php translate('In order to ensure the stability of the MultiBank platforms and products, we define "Stale Trading" as a method traders use where they open and close trades within 10 seconds. MultiBank considers these trades abusive and does not allow these trades on its platforms and products. Should Stale Trades occur in your account, MultiBank reserves the right to cancel them immediately.'); ?></p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <div class="mex-h3 mex-m-b-30"><strong>Idle Prices</strong></div>
+                    <div class="mex-h3 mex-m-b-30"><strong><?php translate('Idle Prices'); ?></strong></div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">We have an agency execution model and
+                        <p class="mex-m-b-30"><?php translate('We have an agency execution model and
                             automatically cover all client positions with executing brokers and liquidity providers. On rare
                             occasions the aggregated price feed which we provide to clients can become “idle”. We reserve the
                             right to reverse the profit and loss realized from orders where idle stroke happened. We will
                             investigate these cases and notify the client via e-mail or telephone that trades are cancelled. We
                             will always check to ensure that the reversal does not generate an unintended position. If the order
                             is executed and subsequently reversed to open a position, any subsequent order(s) closing this
-                            position would also be reversed leaving the net P&amp;L at zero, this way the client will not be
-                            disadvantaged by this reversal due to our invalid price delivery.</p>
+                            position would also be reversed leaving the net P&L at zero, this way the client will not be
+                            disadvantaged by this reversal due to our invalid price delivery.'); ?></p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <div class="mex-h3 mex-m-b-30"><strong>Misquotes</strong></div>
+                    <div class="mex-h3 mex-m-b-30"><strong><?php translate('Misquotes'); ?></strong></div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">We have an agency execution model and
+                        <p class="mex-m-b-30"><?php translate('We have an agency execution model and
                             automatically cover all client positions with executing brokers and liquidity providers. Although we
                             mitigate the risk of invalid price feeds reaching clients through utilizing a price aggregation
                             system which generates a price from multiple liquidity providers (typically in excess of 10
@@ -126,23 +126,23 @@
                             occurred. We will investigate these cases and notify the client via e-mail or telephone that trades
                             are cancelled. We will always check to ensure that the reversal does not generate an unintended
                             position. If the order is executed and subsequently reversed to open a position, any subsequent
-                            order(s) closing this position would also be reversed leaving the net P&amp;L at zero, this way the
-                            client will not be disadvantaged by this reversal due to our invalid price delivery.</p>
+                            order(s) closing this position would also be reversed leaving the net P&L at zero, this way the
+                            client will not be disadvantaged by this reversal due to our invalid price delivery.'); ?></p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <div class="mex-h3 mex-m-b-30"><strong>Stale quotes and misquotes policy</strong></div>
+                    <div class="mex-h3 mex-m-b-30"><strong><?php translate('Stale quotes and misquotes policy'); ?></strong></div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">MultiBank quoted prices on rare occasions may
+                        <p class="mex-m-b-30"><?php translate('MultiBank quoted prices on rare occasions may
                             become “stale” or “skewed”. MultiBank reserves the right to cancel orders executed at idle or skewed
                             prices. MultiBank will actively monitor/report and investigate such trading activity and if those
                             trades were cancelled will notify the client accordingly. MultiBank will pursue the fair treatment
                             of its Customers and will use its best endeavors to make sure cancellations are performed fairly and
                             that the client is not disadvantaged by the cancellation i.e. there are no inadvertent positions
-                            left open and the client's Net Position is in line with the client's positions at the time of
-                            correction.</p>
+                            left open and the client(s) Net Position is in line with the client(s) positions at the time of
+                            correction.'); ?></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@
     <section class="p0 choose-next-background subject-box-bg-light">
         <div class="container mex-m-b-80">
             <div class="col-md-12">
-                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li><a href="products.php"><span class="ico-ic_our_products"></span> </a>

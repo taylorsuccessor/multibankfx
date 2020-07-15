@@ -471,3 +471,12 @@ p{
 .arabic-text-center{
     text-align: center !important;
 }
+ .mex-list-icon-check{
+     direction: rtl;
+ }
+ .col-lg-6.col-sm5.col-xs-12.p32.pt24.pb24{
+     text-align: right !important;
+ }
+ .top-banner-arabic{
+     justify-content: start !important;
+ }

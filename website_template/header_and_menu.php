@@ -86,7 +86,7 @@
                         <div class="col-md-4 col-sm-12 col-xs-12">
                             <div class="menu_txt_content">
                                 <div class="mex-h2 uppercase mb0 "><a
-                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="about.php"><?php translate('About
+                                        class="font-40  text-left mex-p-l-none mex-p-r-none" href="/multibankfx/about.php"><?php translate('About
                                         us'); ?></a>
                                 </div>
                                 <p class="line-height-30"><?php translate('MultiBank was established in California, USA in 2005. '); ?> <?php translate('Since
@@ -95,7 +95,7 @@
                         </div>
                         <div class="col-md-4 col-sm-12 col-xs-12 nav-col-hr">
                             <div class="nav-menu-heading">
-                                <h4 class="uppercase mb0"><a class="font-24" href="about.php"><?php translate('About us'); ?></a></h4>
+                                <h4 class="uppercase mb0"><a class="font-24" href="/multibankfx/about.php"><?php translate('About us'); ?></a></h4>
                             </div>
                             <ul class="nav-menu-list">
                                 <li><a href="/multibankfx/about/why-multibank-group.php"><?php translate('Why Multibank'); ?></a></li>
@@ -313,7 +313,7 @@
                 </li>
             </ul>
             <ul class="nav-menu-mobile text-uppercase">
-                <li class="nav-menu-mobile-section py-1 mx-4"><a href="about.php"><?php translate('About us'); ?></a>
+                <li class="nav-menu-mobile-section py-1 mx-4"><a href="/multibankfx/about.php"><?php translate('About us'); ?></a>
                     <ul class="text-center">
                         <li><a href="/multibankfx/about/why-multibank-group.php"><?php translate('Why Multibank'); ?></a></li>
                         <li><a href="/multibankfx/about/global-presence.php"><?php translate('Global Presence'); ?></a></li>

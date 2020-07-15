@@ -63,12 +63,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-12">
-                    <h1 class="mex-h1 text-left">Prime Liquidity &amp; Technology</h1>
+                    <h1 class="mex-h1 text-left"> <?php translate('Prime Liquidity & Technology');?></h1>
                 </div>
                 <div class="col-lg-6 col-md-8 col-sm-8 col-8">
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-t-15">MEX Prime is the institutional division of MultiBank Group. MEX Prime serves institutional clients through main brokerage centers in Australia, UAE and the BVI.</p>
-                        <p class="mex-m-t-30">Combining prime liquidity, cutting edge technology and exclusive relationship management, MEX Prime empowers our institutional customers to deliver development and expansion in the global financial capital markets.</p>
+                        <p class="mex-m-t-15"> <?php translate('MEX Prime is the institutional division of MultiBank Group. MEX Prime serves institutional clients through main brokerage centers in Australia, UAE and the BVI.'); ?></p>
+                        <p class="mex-m-t-30"> <?php translate('Combining prime liquidity, cutting edge technology and exclusive relationship management, MEX Prime empowers our institutional customers to deliver development and expansion in the global financial capital markets.'); ?></p>
                     </div>
                 </div>
             </div>
@@ -85,9 +85,9 @@
                         <div class="card-content-box">
                             <div class=" card-content bg-white text-center">
                                 <div class="mex-h2 uppercase text-left text-overflow-1 mex-m-b-20">
-                                    White Label </div>
+                                <?php translate('White Label'); ?> </div>
                                 <div class="mex-content text-left text-overflow-3">
-                                    MEX Prime has over a decade of experience in providing banks and brokers financial, technological and regulatory solutions to establish and run their own financial services brokerage firm. </div>
+                                <?php translate('MEX Prime has over a decade of experience in providing banks and brokers financial, technological and regulatory solutions to establish and run their own financial services brokerage firm.');?> </div>
                             </div>
                         </div>
                     </section>
@@ -100,9 +100,9 @@
                         <div class="card-content-box">
                             <div class=" card-content bg-white text-center">
                                 <div class="mex-h2 uppercase text-left text-overflow-1 mex-m-b-20">
-                                    Service &amp; Support </div>
+                                <?php translate('Service & Support'); ?> </div>
                                 <div class="mex-content text-left text-overflow-3">
-                                    MEX Prime experts provide dedicate support handling liquidity integration, white label development, on-boarding, project management, branding and corporate setups. </div>
+                                <?php translate('MEX Prime experts provide dedicate support handling liquidity integration, white label development, on-boarding, project management, branding and corporate setups.'); ?> </div>
                             </div>
                         </div>
                     </section>
@@ -115,9 +115,9 @@
                         <div class="card-content-box">
                             <div class=" card-content bg-white text-center">
                                 <div class="mex-h2 uppercase text-left text-overflow-1 mex-m-b-20">
-                                    Bridge </div>
+                                <?php translate('Bridge'); ?> </div>
                                 <div class="mex-content text-left text-overflow-3">
-                                    The MultiBank bridge technology streams directly into the most popular front-end trading platforms and via API into custom-built front-ends or via our MT4 Bridge into our Partner’s MT4. </div>
+                                <?php translate('The MultiBank bridge technology streams directly into the most popular front-end trading platforms and via API into custom-built front-ends or via our MT4 Bridge into our Partner’s MT4.'); ?> </div>
                             </div>
                         </div>
                     </section>
@@ -128,7 +128,7 @@
     <section class="table-background plants">
         <div class="container">
             <div class="mex-h1 text-center text-1e32a3 mex-m-b-40">
-                Sign up for prime of primes
+            <?php translate('Sign up for prime of primes'); ?>
             </div>
             <div class="row">
                 <div class="col-lg-8 col-12 mx-auto shadow-box bg-white">
@@ -138,17 +138,17 @@
                         <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:43] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:44] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:45] https://www.multibankfx.com/<br/><br/>[2020-06-27 02:49:47] https://www.multibankfx.com/<br/><br/> <br/><br/> posted From: www.multibankfx.com/partnership/prime-of-primes?web=true' />
                         <div class='form-group col-12 px-0 border-bottom border-secondary px-1'>
                             <label for='' class='mex-h3 text-left mex-m-t-15 mex-m-b-15'>
-                                CLIENT INFORMATION</label>
+                            <?php translate('CLIENT INFORMATION'); ?></label>
                             <input type='hidden' data-message='' data-extra-message="Full Name Invalid." data-regex='' class=' form-control' name='label_title' placeholder='' value='' />
                         </div>
                         <div class='mex-form-item col-12 col-md-6 p-1'>
                             <label for='' class='d-block'>
-                                Name</label>
+                            <?php translate('Name'); ?></label>
                             <input type="text" data-message="Full Name is Required." data-extra-message="Full Name Invalid." data-regex="" class="d-block" name="name" $field_id_code placeholder="" required value="" />
                         </div>
                         <div class='mex-form-item col-12 col-md-6 p-1'>
                             <label for='' class='d-block'>
-                                Mobile</label>
+                            <?php translate('Mobile'); ?></label>
                             <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.' data-extra-message="Phone Number Invalid." data-regex='' class='input_with_phone d-block' name='phone_display' placeholder='' required value='' />
                             <input type='hidden' name='phone' />
                         </div>
@@ -160,17 +160,17 @@
                         </div>
                         <div class='mex-form-item col-12 col-md-6 p-1'>
                             <label for='' class='d-block'>
-                                Email</label>
+                            <?php translate('Email'); ?></label>
                             <input type='email' data-message='Email is Required.' data-extra-message="" data-regex='' class='d-block' name='email' placeholder='' required value='' />
                         </div>
                         <div class='mex-form-item col-12 col-md-6 p-1 mb-3'>
                             <label for='' class='d-block'>
-                                Confirm Email</label>
+                            <?php translate('Confirm Email'); ?></label>
                             <input type='email' data-message='Confirm Email is Required.' data-extra-message="Email Mismatched." data-regex='' class='d-block' name='confirm_email' placeholder='' required value='' />
                         </div>
                         <div class='d-none'>
                             <label for='' class='d-block'>
-                                Country</label>
+                            <?php translate('Country'); ?></label>
                             <select data-message='Country Code Required.' data-extra-message="Country Code Invalid" class='selection-country d-block select_with_country' name='country_name' required>
                                 <option value='' selected='selected'>Select Country</option>
                                 <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
@@ -423,11 +423,11 @@
                             <label for='' class=''>
                             </label>
                             <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' ' name='form_name' placeholder='' required value='prime_of_primes_form' />
-                        </div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-e55e4685f19caaab0342d74f-="">SUBMIT</button>
+                        </div><button type='submit' class='btn btn-mex mx-auto' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-e55e4685f19caaab0342d74f-=""> <?php translate('SUBMIT'); ?></button>
                     </form>
                     <div class="px-1 " style="padding:15px 0px;">
                         <div class="form-check form-check-inline">
-                            <label class="form-check-label label-1 " for="terms_conditions">By submitting this form, you agree to accept the <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp; Conditions</a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Cookie Policy</a>.
+                            <label class="form-check-label label-1 " for="terms_conditions"> <?php translate('By submitting this form, you agree to accept the'); ?> <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"> <?php translate('Terms & Conditions'); ?></a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"> <?php translate('Privacy Policy'); ?></a>,  <?php translate('and'); ?> <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"> <?php translate('Cookie Policy'); ?></a>.
                             </label>
                         </div>
                     </div>
@@ -438,7 +438,7 @@
     <section class="p0 choose-next-background subject-box-bg-light">
         <div class="container mex-m-b-80">
             <div class="col-md-12">
-                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-pt="" data-mys="SILA PILIH UNTUK TERUSKAN" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-pt="" data-mys="SILA PILIH UNTUK TERUSKAN" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"> <?php translate('Choose Where to go next'); ?></div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
                         <li>
