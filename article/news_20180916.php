@@ -60,8 +60,8 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="main-container">
         <div class="news-content">
-            <h1 class="mex-h1 news-martop">Company News</h1>
-            <p class="text-center mex-sub-content">Keep up to date with MultiBank’s latest news</p>
+            <h1 class="mex-h1 news-martop"><?php translate('Company News'); ?></h1>
+            <p class="text-center mex-sub-content"><?php translate('Keep up to date with MultiBank’s latest news'); ?></p>
             <div class="row" style="width: 97%; margin: 0 auto;">
                 <div class="col-12 col-lg-9 mex-m-b-50">
                     <div class="news-con-det clearfix ">
@@ -70,13 +70,12 @@
                                 <a class="article-block" href="./multibank-fast-n-furious-trading-contest-announcement.php">
                                     <div class="news-con-det-l">
                                         <img src="/multibankfx/public_files/blog/thumbnails/2020_winners_announced_thumbnail.png" alt="Winners Announced for the MultiBank Fast & Furious Trading Contest" />
-                                        <p class="news-con-h4 news-con-blue article-big-title">Winners Announced for the
-                                            MultiBank Fast & Furious Trading Contest</p>
+                                        <p class="news-con-h4 news-con-blue article-big-title"><?php translate('Winners Announced for the MultiBank Fast & Furious Trading Contest'); ?></p>
                                         <p class="news-con-date news-con-date-m">2020-02-18</p>
-                                        <p class="news-con-main">The top 3 winners of MultiBank’s latest demo trading
+                                        <p class="news-con-main"><?php translate('The top 3 winners of MultiBank’s latest demo trading
                                             contest are out! The MultiBank Fast & Furious Trading Contest was a
                                             month-long demo trading contest that allowed traders around the world to
-                                            show off their trading skills on our demo MT4 platform. </p>
+                                            show off their trading skills on our demo MT4 platform.'); ?> </p>
                                     </div>
                                 </a></div>
                             <div class="col-xs-12 col-sm-12 col-md-7">
@@ -85,8 +84,8 @@
                                         <div class="news-con-det-rbox clearfix news-con-det-marnone">
                                             <img src="/multibankfx/public_files/blog/thumbnails/MB_BMW_thumbnail_1.jpg" alt="MultiBank Fast & Furious Trading Contest Starts Jan 6, 2020! " />
                                             <div class="news-con-det-rbox-r">
-                                                <p class="news-con-h4 news-con-blue article-big-title">MultiBank Fast &
-                                                    Furious Trading Contest Starts Jan 6, 2020! </p>
+                                                <p class="news-con-h4 news-con-blue article-big-title"><?php translate('MultiBank Fast &
+                                                    Furious Trading Contest Starts Jan 6, 2020!'); ?> </p>
                                                 <p class="news-con-date">2019-12-27</p>
                                             </div>
                                         </div>
@@ -95,8 +94,8 @@
                                         <div class="news-con-det-rbox clearfix">
                                             <img src="/multibankfx/public_files/blog/thumbnails/PH_Investor_Night_thumbnail.jpg" alt="MultiBank Philippines Hosts Investors Night 2019" />
                                             <div class="news-con-det-rbox-r">
-                                                <p class="news-con-h4 news-con-blue article-big-title">MultiBank
-                                                    Philippines Hosts Investors Night 2019</p>
+                                                <p class="news-con-h4 news-con-blue article-big-title"><?php translate('MultiBank
+                                                    Philippines Hosts Investors Night 2019'); ?></p>
                                                 <p class="news-con-date">2019-12-07</p>
                                             </div>
                                         </div>
@@ -105,8 +104,8 @@
                                         <div class="news-con-det-rbox clearfix">
                                             <img src="/multibankfx/public_files/blog/thumbnails/malaysia_seminar_thumbnail_en.jpg" alt="MultiBank Malaysia Hosted Successful Trading Seminar in Kuala Lumpur" />
                                             <div class="news-con-det-rbox-r">
-                                                <p class="news-con-h4 news-con-blue article-big-title">MultiBank
-                                                    Malaysia Hosted Successful Trading Seminar in Kuala Lumpur</p>
+                                                <p class="news-con-h4 news-con-blue article-big-title"><?php translate('MultiBank
+                                                    Malaysia Hosted Successful Trading Seminar in Kuala Lumpur'); ?></p>
                                                 <p class="news-con-date">2019-11-17</p>
                                             </div>
                                         </div>
@@ -119,35 +118,35 @@
                         <a class="article-block" href="multibank-attends-macau-grand-prix-2019.php">
                             <div class="news-con-det-sec news-con-det-marnone">
                                 <img src="/multibankfx/public_files/blog/thumbnails/macau_gp_2019_thumbnail.jpg" alt="MultiBank Group Attends Macau Grand Prix 2019" />
-                                <p class="news-con-h4 news-con-blue article-big-title">MultiBank Group Attends Macau
-                                    Grand Prix 2019</p>
+                                <p class="news-con-h4 news-con-blue article-big-title"><?php translate('MultiBank Group Attends Macau
+                                    Grand Prix 2019'); ?></p>
                                 <p class="news-con-date news-con-date-m">2019-11-17</p>
-                                <p class="news-con-main">In partnership with BMW M Motorsport, MultiBank Group took part
+                                <p class="news-con-main"><?php translate('In partnership with BMW M Motorsport, MultiBank Group took part
                                     in the 2019 Macau Grand Prix in support of BMW Team Schnitzer and returning champion
-                                    Augusto Farfus in the grand finale of FIA GT World Cup.</p>
+                                    Augusto Farfus in the grand finale of FIA GT World Cup.'); ?></p>
                             </div>
                         </a>
                         <a class="article-block" href="multibank-fx-championship-2019-winners-announced.php">
                             <div class="news-con-det-sec">
                                 <img src="/multibankfx/public_files/blog/thumbnails/1104_demo_competition_thumbnail.jpg" alt="MultiBank FX Championship 2019 Winners Announced!" />
-                                <p class="news-con-h4 news-con-blue article-big-title">MultiBank FX Championship 2019
-                                    Winners Announced!</p>
+                                <p class="news-con-h4 news-con-blue article-big-title"><?php translate('MultiBank FX Championship 2019
+                                    Winners Announced!'); ?></p>
                                 <p class="news-con-date news-con-date-m">2019-11-04</p>
-                                <p class="news-con-main">MultiBank Group is excited to announce the winners of the
+                                <p class="news-con-main"><?php translate('MultiBank Group is excited to announce the winners of the
                                     MultiBank FX Championship 2019! Our month-long demo trading contest was an
                                     opportunity for traders around the world to hone their trading skills while
                                     competing for our exciting cash prizes of USD 7,000, USD 3,000 and USD 2,000 for the
-                                    top 3 winners.</p>
+                                    top 3 winners.'); ?></p>
                             </div>
                         </a>
                         <a class="article-block" href="multibank-attends-forex-expo-dubai-wins-best-forex-broker.php">
                             <div class="news-con-det-sec">
                                 <img src="/multibankfx/public_files/blog/thumbnails/dubai_expo_thumbnail.jpg" alt="MultiBank Attends the Forex Expo Dubai and Takes Home “Best Forex Broker” Award" />
-                                <p class="news-con-h4 news-con-blue article-big-title">MultiBank Attends the Forex Expo
-                                    Dubai and Takes Home “Best Forex Broker” Award</p>
+                                <p class="news-con-h4 news-con-blue article-big-title"><?php translate('MultiBank Attends the Forex Expo
+                                    Dubai and Takes Home “Best Forex Broker” Award'); ?></p>
                                 <p class="news-con-date news-con-date-m">2019-10-02</p>
-                                <p class="news-con-main">On 2nd and 3rd October, the Gulf region’s only forex expo took
-                                    place at Jumeirah Emirates Towers in Dubai. </p>
+                                <p class="news-con-main"><?php translate('On 2nd and 3rd October, the Gulf region’s only forex expo took
+                                    place at Jumeirah Emirates Towers in Dubai.'); ?> </p>
                             </div>
                         </a>
                     </div>
@@ -160,41 +159,41 @@
                             <input type='hidden' name='source' value='[2020-06-27 02:49:03] https://www.multibankfx.com/<br/><br/>[2020-06-27 03:02:32] https://www.multibankfx.com/article/multibank-mena-diamond-sponsor-jordan-expo<br/><br/>[2020-06-27 03:02:35] https://www.multibankfx.com/article/multibank-fx-championship-2019-starting-soon<br/><br/>[2020-06-27 03:02:44] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/>[2020-06-27 03:02:46] https://www.multibankfx.com/article/hiring-forex-sales-managers-for-dubai<br/><br/> <br/><br/> posted From: www.multibankfx.com/about/company-news?web=true' />
                             <div class='bg-000 text-center mex-m-x-n15 w-110'>
                                 <label for='' class='mex-h3 text-white py-2 mb-0'>
-                                    CONTACT US FOR INQUIRIES</label>
+                                <?php translate('CONTACT US FOR INQUIRIES'); ?></label>
                                 <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' form-control' name='label_title' placeholder='' value='' />
                             </div>
                             <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                 <label for='' class='m-0'>
                                 </label>
                                 <div class='form-check form-check-inline'><input data-message='Account Type is Required.' data-extra-message="Account type Invalid." class='   ' name='account_type' type='radio' required value='1' checked />
-                                    <label class='  ' for=''>INDIVIDUAL</label>
+                                    <label class='  ' for=''><?php translate('INDIVIDUAL'); ?></label>
                                 </div>
                             </div>
                             <div class='mex-form-item col-6 p-1 cb-partnership font-16 text-center'>
                                 <label for='' class='m-0'>
                                 </label>
                                 <div class='form-check form-check-inline'><input data-message='Account Type is Required.' data-extra-message="Account Type Invalid." class='   ' name='account_type' type='radio' required value='2' />
-                                    <label class='  ' for=''>PARTNERSHIP</label>
+                                    <label class='  ' for=''><?php translate('PARTNERSHIP'); ?></label>
                                 </div>
                             </div>
                             <div class='mex-form-item col-12 p-1'>
                                 <label for='' class='d-none'>
-                                    Full Name</label>
+                                <?php translate('Full Name'); ?></label>
                                 <input type="text" data-message="Full Name is Required." data-extra-message="Full Name Invalid." data-regex="" class="form-control mb-0" name="name" $field_id_code placeholder="Full Name" required value="" />
                             </div>
                             <div class='mex-form-item col-12 p-1'>
                                 <label for='' class='d-none'>
-                                    Email</label>
+                                <?php translate('Email'); ?></label>
                                 <input type='email' data-message='Email is Required.' data-extra-message="Email is Invalid." data-regex='' class='form-control mb-0' name='email' placeholder='Email' required value='' />
                             </div>
                             <div class='mex-form-item col-12 p-1'>
                                 <label for='' class='d-none'>
-                                    Confirm Email</label>
+                                <?php translate('Confirm Email');?></label>
                                 <input type='email' data-message='Confirm Email is Required.' data-extra-message="Email Mismatched." data-regex='' class='form-control mb-0' name='confirm_email' placeholder='Confirm Email' required value='' />
                             </div>
                             <div class='d-none'>
                                 <label for='' class='d-none'>
-                                    Country</label>
+                                <?php translate('Country'); ?></label>
                                 <select data-message='Country is Required.' data-extra-message="Country Name Invalid" class='selection-country form-control  mb-0 select_with_country select_with_country' name='country_name' required>
                                     <option value='' selected='selected'>Select Country</option>
                                     <option data-country_iso_code="AF" data-name='AF' value='AF'>AFGHANISTAN</option>
@@ -495,35 +494,34 @@
                             </div>
                             <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
                                 <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset ' id='button-send-callme_form' type='button' title='Send Code'>Send Code</button>
-                            </div><button type='submit' class='btn-contact mx-1 mt-2 mb-0' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-25a4ed03b2a18f3d06b293bb-="">SUBMIT</button>
+                            </div><button type='submit' class='btn-contact mx-1 mt-2 mb-0' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-25a4ed03b2a18f3d06b293bb-=""><?php translate('SUBMIT'); ?></button>
                         </form>
                         <hr class="mx-1">
                         <div class="px-1 contact-form-button-container">
                             <a href="/multibankfx/account/live-account.php" class="d-flex btn btn-mex-red mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                                 <span>&#xe91d;</span>
                                 <div class="btn-vr"></div>
-                                OPEN LIVE ACCOUNT
+                                <?php translate('OPEN LIVE ACCOUNT'); ?>
                             </a>
                             <a href="/multibankfx/demo_competition.php" class="d-flex btn btn-mex-blue mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                                 <span>&#xe918;</span>
                                 <div class="btn-vr"></div>
-                                OPEN DEMO ACCOUNT
+                                <?php translate('OPEN DEMO ACCOUNT'); ?>
                             </a>
                             <a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form" class="d-flex btn btn-mex-gray mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                                 <span>&#xe920;</span>
                                 <div class="btn-vr"></div>
-                                IB REGISTRATION
+                                <?php translate('IB REGISTRATION'); ?>
                             </a>
                             <a href="/multibankfx/account/account-funding.php" class="d-flex btn btn-mex mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                                 <span>&#xe921;</span>
                                 <div class="btn-vr"></div>
-                                FUND YOUR ACCOUNT
+                                <?php translate('FUND YOUR ACCOUNT'); ?>
                             </a>
                             <div class="px-1 font-10" style="padding:0px;">
                                 <div class="form-check form-check-inline">
-                                    <label class="form-check-label label-1 " for="terms_conditions">By submitting this
-                                        form, you agree to accept the <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Terms &amp;
-                                            Conditions</a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, and <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Cookie Policy</a>.
+                                    <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this
+                                        form, you agree to accept the'); ?> <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                                     </label>
                                 </div>
                             </div>
@@ -574,65 +572,59 @@
         <section class="p0 choose-next-background subject-box-bg-light">
             <div class="container mex-m-b-80">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
                             <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span></a>
-                                <div class="mex-content mex-clamp-3">Our Regulations</div>
+                                <div class="mex-content mex-clamp-3"><?php translate('Our Regulations'); ?></div>
                             </li>
                             <li><a href="/multibankfx/products.php"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php">Our Products</a></div>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php"><?php translate('Our Products'); ?></a></div>
                                 <a href="/multibankfx/products.php"> </a>
                             </li>
                             <li><a href="/multibankfx/tools.php"><span class="ico-ic_trading_tools"></span> </a>
-                                <div class="mex-content mex-clamp-3">Trading Tools</div>
+                                <div class="mex-content mex-clamp-3"><?php translate('Trading Tools'); ?></div>
                                 <a href="/multibankfx/tools.php"> </a>
                             </li>
                             <li><a href="/multibankfx/about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span>
                                 </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/why-multibank-group.php">Why
-                                        Multibank</a></div>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/why-multibank-group.php"><?php translate('Why Multibank'); ?></a></div>
                                 <a href="/multibankfx/about/why-multibank-group.php"> </a>
                             </li>
                             <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/mfx/v1/about/regulations.php">Our
-                                        Regulations</a></div>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/mfx/v1/about/regulations.php"><?php translate('Our Regulations'); ?></a></div>
                                 <a href="/multibankfx/mfx/v1/about/regulations.php"> </a>
                             </li>
                             <li><a href="/multibankfx/about/security-of-funds.php"><span class="ico-ic_security_of_funds"></span>
                                 </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/security-of-funds.php">Security
-                                        of Funds</a></div>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/security-of-funds.php"><?php translate('Security of Funds'); ?></a></div>
                                 <a href="/multibankfx/about/security-of-funds.php"> </a>
                             </li>
                             <li><a href="/multibankfx/account.php"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php">Accounts and Funding</a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php"><?php translate('Accounts and Funding'); ?></a>
                                 </div>
                                 <a href="/multibankfx/account.php"> </a>
                             </li>
                             <li><a href="/multibankfx/account/bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account/bonus.php">Bonus Programs</a>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account/bonus.php"><?php translate('Bonus Programs'); ?></a>
                                 </div>
                                 <a href="/multibankfx/account/bonus.php"> </a>
                             </li>
                             <li><a href="/multibankfx/investor-relations.php"><span class="ico-ic_partnership_programs"></span>
                                 </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php">Partnership
-                                        Programs</a></div>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php"><?php translate('Partnership Programs'); ?></a></div>
                                 <a href="/multibankfx/investor-relations.php"> </a>
                             </li>
                             <li><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form">Become
-                                        an IB</a></div>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become an IB'); ?></a></div>
                                 <a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"> </a>
                             </li>
                             <li><a href="/multibankfx/about/milestones.php"><span class="ico-ic_our_milestones"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/milestones.php">Our
-                                        Milestones</a></div>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/milestones.php"><?php translate('Our Milestones'); ?></a></div>
                                 <a href="/multibankfx/about/milestones.php"> </a>
                             </li>
                             <li><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-25a4ed03b2a18f3d06b293bb-=""><span class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-25a4ed03b2a18f3d06b293bb-="">Live Chat Support</a></div>
+                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-25a4ed03b2a18f3d06b293bb-=""><?php translate('Live Chat Support'); ?></a></div>
                                 <a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-25a4ed03b2a18f3d06b293bb-=""> </a>
                             </li>
                         </ul>

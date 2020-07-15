@@ -63,7 +63,7 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <h1 class="mex-h1 text-1e32a3 mex-m-b-40 text-center">
-                        Privacy Policy </h1>
+                    <?php translate('Privacy Policy'); ?> </h1>
                 </div>
             </div>
         </div>
@@ -71,7 +71,7 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="mex-h3 mex-m-b-15">
-                        Introduction </div>
+                    Introduction </div>
                     <div class="mex-content mex-m-b-30">
                         <p class="mex-m-b-30">
                             <div>MultiBank Group needs to collect personal information from our clients and prospective clients in order to provide them with our products, services and any relevant information.</div>
