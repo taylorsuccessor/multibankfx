@@ -61,7 +61,7 @@
     <section class="flex-center page-top-banner">
         <img class="mex-img-cover" src="/multibankfx/public_files/images/tools/Trading_Conditions_topbanner.jpg" alt="Trading Conditions banner">
         <div class="container">
-            <div class="row">
+            <div class="row arabic-content-center">
                 <div class="col-sm-12 text-center">
                     <h1 class="mex-h1 text-fff text-center mex-m-b-40">
                     <?php translate('TRADING CONDITIONS'); ?>

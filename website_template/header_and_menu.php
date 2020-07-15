@@ -25,7 +25,7 @@
                     class="btn btn-sm btn-red mr-1 header-mb-btn d-md-flex d-none align-items-center"
                     href="/multibankfx/account/live-account.php"><i class="ti-user">&nbsp;</i><?php translate('Live Account'); ?></a> <a
                     class="btn btn-sm btn-blue hide-768 mr-1 d-flex align-items-center"
-                    href="demo_competition.php"><i class="ti-desktop">&nbsp;</i><?php translate('Demo Account') ?></a>
+                    href="/multibankfx/demo_competition.php"><i class="ti-desktop">&nbsp;</i><?php translate('Demo Account') ?></a>
 
                 <a class="btn btn-sm btn-grey hide-768 mr-1 d-flex align-items-center"
                    href="/multibankfx/partnership/introducing-brokers.php"><i
@@ -215,7 +215,7 @@
                             </div>
                             <ul class="nav-menu-list">
                                 <li><a href="/multibankfx/account/live-account.php"><?php translate('Live Account'); ?></a></li>
-                                <li><a href="demo_competition.php"><?php translate('Demo Account'); ?></a></li>
+                                <li><a href="/multibankfx/demo_competition.php"><?php translate('Demo Account'); ?></a></li>
                                 <li><a href="/multibankfx/account/islamic-account.php"><?php translate('Islamic Account'); ?></a></li>
                                 <li><a href="/multibankfx/account/account-funding.php"><?php translate('Account Funding'); ?></a></li>
                                 <li><a href="/multibankfx/account/withdrawals.php"><?php translate('Withdrawals');?></a></li>
@@ -351,7 +351,7 @@
                 <li class="nav-menu-mobile-section py-1 mx-4"><a href="/multibankfx/account.php"><?php translate('Account & Funding'); ?></a>
                     <ul class="text-center">
                         <li><a href="/multibankfx/account/live-account.php"><?php translate('Live Account'); ?></a></li>
-                        <li><a href="demo_competition.php"><?php translate('Demo Account'); ?></a></li>
+                        <li><a href="/multibankfx/demo_competition.php"><?php translate('Demo Account'); ?></a></li>
                         <li><a href="/multibankfx/account/islamic-account.php"><?php translate('Islamic Account'); ?></a></li>
                         <li><a href="/multibankfx/account/account-funding.php"><?php translate('Account Funding'); ?></a></li>
                         <li><a href="/multibankfx/account/withdrawals.php"><?php translate('Withdrawals'); ?></a></li>

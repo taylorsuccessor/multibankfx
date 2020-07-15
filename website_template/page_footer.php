@@ -64,7 +64,7 @@
                     </div>
                     <div class="col-md-2">
                         <ul class="footer_map">
-                            <li><a href="/multibankfx/account.php"><strong><?php translate('Accounts & Funding'); ?></strong></a> <a href="/multibankfx/account/live-account.php" target="_parent"><?php translate('Live Account'); ?> </a> <a href="demo_competition.php" target="_parent"><?php translate('Demo Account'); ?> </a> <a href="/multibankfx/account/islamic-account.php" target="_parent"><?php translate('Islamic Account'); ?> </a> <a href="/multibankfx/account/account-funding.php" target="_parent"><?php translate('Account Funding'); ?> </a> <a href="/multibankfx/account/withdrawals.php" target="_parent"><?php translate('Withdrawals'); ?></a> <a href="/multibankfx/account/account-forms.php" target="_parent"><?php translate('Account Forms'); ?> </a> <a href="/multibankfx/account/bonus.php" target="_parent"><?php translate('Bonuses'); ?></a></li>
+                            <li><a href="/multibankfx/account.php"><strong><?php translate('Accounts & Funding'); ?></strong></a> <a href="/multibankfx/account/live-account.php" target="_parent"><?php translate('Live Account'); ?> </a> <a href="/multibankfx/demo_competition.php" target="_parent"><?php translate('Demo Account'); ?> </a> <a href="/multibankfx/account/islamic-account.php" target="_parent"><?php translate('Islamic Account'); ?> </a> <a href="/multibankfx/account/account-funding.php" target="_parent"><?php translate('Account Funding'); ?> </a> <a href="/multibankfx/account/withdrawals.php" target="_parent"><?php translate('Withdrawals'); ?></a> <a href="/multibankfx/account/account-forms.php" target="_parent"><?php translate('Account Forms'); ?> </a> <a href="/multibankfx/account/bonus.php" target="_parent"><?php translate('Bonuses'); ?></a></li>
                         </ul>
                     </div>
                     <div class="col-md-2">
@@ -73,7 +73,7 @@
                                 <a href="/multibankfx/tools/trading-conditions.php" target="_parent"><?php translate('Trading Conditions'); ?> </a> <a href="/multibankfx/tools/holiday-hours-notices.php" target="_parent"><?php translate('Trading Hours &
                                     Holiday
                                     Notice'); ?></a> 
-                                    <a href="cfd-expiration-dates.php" target="_parent"><?php translate('CFD Expiration
+                                    <a href="/multibankfx/cfd-expiration-dates.php" target="_parent"><?php translate('CFD Expiration
                                     Dates'); ?></a>
 
                                 <a href="/multibankfx/scalping-policy.php" target="_parent"><?php translate('Scalping Policy'); ?></a></li>

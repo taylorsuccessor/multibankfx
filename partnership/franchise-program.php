@@ -5,7 +5,6 @@
 <body>
     <?php include_from_root('website_template/header_and_menu.php'); ?>
 
-
   <style>
     .nav-menu-hamburger,
     .nav-menu-mymex {

@@ -68,7 +68,7 @@
                 <div class="col-sm-12 p0 flex-box">
                     <div class="col-sm-12 col-md-4 mb-s-30">
                         <section class="mex-block-card-v bg-white p0 tools-mex-block-card-v box-animate">
-                            <a href="ecn-pro.html#eCNPro">
+                            <a href="ecn-pro.php">
                                 <div class="card-img-box">
                                     <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/platforms/platform_left1.png" alt="ECN PRO">
                                 </div>
@@ -102,7 +102,7 @@
                     </div>
                     <div class="col-sm-12 col-md-4 mb-s-30">
                         <section class="mex-block-card-v  p0 bg-white tools-mex-block-card-v box-animate">
-                            <a href="maximus.html#maximus">
+                            <a href="maximus.php">
                                 <div class="card-img-box">
                                     <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/platforms/platform_left2.png" alt="MAXIMUS">
                                 </div>
@@ -295,7 +295,7 @@
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
             <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#d7b4a497baa2bba3beb5b6b9bcb1aff9b4b8ba">
+        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.php d7b4a497baa2bba3beb5b6b9bcb1aff9b4b8ba">
             <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-cbf7dbb96ed41ae2eea9f0db-="">

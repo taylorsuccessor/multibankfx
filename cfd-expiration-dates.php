@@ -383,7 +383,7 @@
                 </div>
                 <div class="col-xs-12 p0">
                     <div class="uppercase title text-center text-1e32a3 mex-h2 mex-m-b-15"><?php translate('Symbols'); ?></div>
-                    <div class="mex-content mb40 mb-sm-16 col-xs-12">
+                    <div class="mex-content mb40 mb-sm-16 col-xs-12 arabic-text-center">
                     <?php translate('MultiBank Symbols use the following format: Symbol Root + Month Code + Year final digit<br>Ex: Brent Crude Oil Jan 2020 would use the symbol LCOF0'); ?>
                     </div>
                     <div class="col-xs-12 col-md-8 offset-md-2">

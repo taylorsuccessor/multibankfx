@@ -4697,7 +4697,7 @@
                             <div class="d-inline" id="stock_company_name_label"></div>
                         </strong></div>
                     <div class=" "></div>
-                    <div class="mex-h3" style="font-family: &quot;Calibri&quot;,&quot;SF Pro&quot;, Arial, sans-serif;"><strong>Your information</strong></div>
+                    <div class="mex-h3" style="font-family: Calibri,SF Pro, Arial, sans-serif;"><strong>Your information</strong></div>
                     <form action="https://www.multibankfx.com/form/ordershare?" name='order_share_form' class='multibank-form row mex-p-b-40' method='post' enctype='' id='order_share_form' target='' autocomplete='on'>
                         <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0OToyMg==' />
                         <input type='hidden' name='token' value='$2y$10$7bfUF2t/2sDnNmU3/ENjTujiDQ544uF9K0lIXb3I09Vb5GUAQAKFK' />
