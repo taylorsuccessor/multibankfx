@@ -63,9 +63,9 @@
             <div class="row">
                 <div class="col-md-6 col-sm-12">
                     <h1 class="mex-h1 text-left">
-                        Contact Us
+                    <?php translate('Contact Us'); ?>
                     </h1>
-                    <div class="mex-content">For any questions or inquiries, please do not hesitate to contact our 24/5 professional multilingual Customer Service.</div>
+                    <div class="mex-content"><?php translate('For any questions or inquiries, please do not hesitate to contact our 24/5 professional multilingual Customer Service.'); ?></div>
                 </div>
             </div>
         </div>
@@ -276,9 +276,9 @@
                             </div>
                             <div class="col-xl-6 col-12 row flex-column justify-content-center align-items-center mx-0 py-4">
                                 <div class="mex-h1 mb-0">
-                                    EMAIL </div>
+                                <?php translate('EMAIL'); ?> </div>
                                 <div class="mex-content">
-                                    <p class="mex-m-t-15"><strong>Customer Support:</strong> <a href="cdn-cgi/l/email-protection.html#8fecfccfe2fae3fbe6edeee1e4e9f7a1ece0e2"><span class="__cf_email__" data-cfemail="ea8999aa879f869e83888b84818c92c4898587">[email&#160;protected]</span></a>
+                                    <p class="mex-m-t-15"><strong><?php translate('Customer Support:'); ?></strong> <a href="cdn-cgi/l/email-protection.html#8fecfccfe2fae3fbe6edeee1e4e9f7a1ece0e2"><span class="__cf_email__" data-cfemail="ea8999aa879f869e83888b84818c92c4898587">[email&#160;protected]</span></a>
                                     </p>
                                 </div>
                             </div>
@@ -288,9 +288,9 @@
                         <div class="row mx-0">
                             <div class="col-xl-6 col-12 row flex-column justify-content-center align-items-center mx-0 py-4">
                                 <div class="mex-h1 mb-0">
-                                    Live Chat </div>
+                                <?php translate('Live Chat'); ?> </div>
                                 <div class="mex-content">
-                                    <p class="mex-m-t-15"><a href="contact.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" class="btn btn-mex mb0 mb-xs-0 " data-cf-modified-946a46f760e8050dffa511d1-="">Live Chat</a></p>
+                                    <p class="mex-m-t-15"><a href="contact.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" class="btn btn-mex mb0 mb-xs-0 " data-cf-modified-946a46f760e8050dffa511d1-=""><?php translate('Live Chat'); ?></a></p>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-12 p0">
@@ -309,7 +309,7 @@
                             </div>
                             <div class="col-xl-6 col-12 row flex-column justify-content-center align-items-center mx-0 py-4">
                                 <div class="mex-h1 mb-0">
-                                    CONNECT TO US </div>
+                                <?php translate('CONNECT TO US'); ?> </div>
                                 <div class="mex-content">
                                     <p class="mex-m-t-15">
                                         <a href="https://www.facebook.com/multibank.official" target="_blank"><img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/en_foote_btn_01.png" style="width:26px; height:auto"></i>
@@ -337,7 +337,7 @@
                         <input type='hidden' name='source' value='https://www.multibankfx.com/ <br/><br/> posted From: www.multibankfx.com/contact?web=true' />
                         <div class='col-12 text-left p-1'>
                             <label for='' class='mex-h2 mb20 mb-xs-16 uppercase'>
-                                REQUEST A VIDEO CONFERENCE</label>
+                            <?php translate('REQUEST A VIDEO CONFERENCE'); ?></label>
                             <input type='hidden' data-message='' data-extra-message="" data-regex='' class=' ' name='label_title' placeholder='' value='' />
                         </div>
                         <div class='col-12 col-md-6 mex-form-item px-1 pb-3'>
@@ -611,7 +611,7 @@
                                 <option data-country_iso_code="YE" data-name='YE' value='YE'>YEMEN</option>
                                 <option data-country_iso_code="ZM" data-name='ZM' value='ZM'>ZAMBIA</option>
                                 <option data-country_iso_code="ZW" data-name='ZW' value='ZW'>ZIMBABWE</option>
-                            </select><input type="hidden" name="country_code" value="" /></div><button type='submit' class='btn btn-mex mx-auto mt-1 mb-2' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-946a46f760e8050dffa511d1-="">SUBMIT</button>
+                            </select><input type="hidden" name="country_code" value="" /></div><button type='submit' class='btn btn-mex mx-auto mt-1 mb-2' onsubmit="if (!window.__cfRLUnblockHandlers) return false; " data-cf-modified-946a46f760e8050dffa511d1-=""><?php translate('SUBMIT'); ?></button>
                     </form>
                 </div>
             </div>
