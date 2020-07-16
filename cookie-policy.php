@@ -62,9 +62,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <h1 class="mex-h1 text-1e32a3 mex-m-b-40 text-center">Cookie Policy</h1>
+                    <h1 class="mex-h1 text-1e32a3 mex-m-b-40 text-center"><?php translate('Cookie Policy'); ?></h1>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">MultiBank Group is committed to protecting your privacy. As such, we are here to share with you all relevant information on how to manage your cookies.</p>
+                        <p class="mex-m-b-30"><?php translate('MultiBank Group is committed to protecting your privacy. As such, we are here to share with you all relevant information on how to manage your cookies.'); ?></p>
                     </div>
                 </div>
             </div>
@@ -72,27 +72,27 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <div class="mex-h3 mex-m-b-15">What are cookies?</div>
+                    <div class="mex-h3 mex-m-b-15"><?php translate('What are cookies?'); ?></div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">Cookies are small data files. When you visit a website, the website sends the cookie to your computer. Your computer stores it in a file located inside your web browser.<br>
-                            Cookies do not transfer viruses or malware to your computer. Because the data in a cookie does not change when it travels back and forth, it has no way to affect how your computer runs, but they act more like logs (i.e. they record user activity and remember stateful information) and they get updated every time you visit a website.<br>
-                            We may obtain information about you by accessing cookies, sent by our website. Different types of cookies keep track of different activities. For example, session cookies are used only when a person is actively navigating a website. Once you leave the website, the session cookie disappears. For a more detailed list of cookies we use, please read the relevant section below.</p>
+                        <p class="mex-m-b-30"><?php translate('Cookies are small data files. When you visit a website, the website sends the cookie to your computer. Your computer stores it in a file located inside your web browser.
+                        Cookies do not transfer viruses or malware to your computer. Because the data in a cookie does not change when it travels back and forth, it has no way to affect how your computer runs, but they act more like logs (i.e. they record user activity and remember stateful information) and they get updated every time you visit a website.<br>
+                            We may obtain information about you by accessing cookies, sent by our website. Different types of cookies keep track of different activities. For example, session cookies are used only when a person is actively navigating a website. Once you leave the website, the session cookie disappears. For a more detailed list of cookies we use, please read the relevant section below.'); ?></p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <div class="mex-h3 mex-m-b-15">What types of cookies we use</div>
+                    <div class="mex-h3 mex-m-b-15"><?php translate('What types of cookies we use'); ?></div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30"><strong>Functional cookies - </strong>These cookies are essential for the running of our website. Without these cookies our websites would not function properly. These are saved temporarily as login information and expire once the browser is closed.</p>
-                        <p class="mex-m-b-30"><strong>Analytical cookies - </strong>The information provided by analytical cookies allows us to analyze patterns of visitor behavior and we use that information to enhance the overall experience or identify areas of the website which may require maintenance. The information is anonymous (i.e. it cannot be used to identify you and does not contain personal information such as your name and email address) and it is only used for statistical purposes. Behavioral cookies are similar to analytical and remember that you have visited a website and use that information to provide you with content which is tailored to your interests.</p>
-                        <p class="mex-m-b-30"><strong>Third Party cookies - </strong>These cookies are used by third parties and mostly by social media websites like Google+, Facebook or YouTube. Third Party cookies allow us to offer you easy ways to share our content throughout your social media and also present you with the videos we post on YouTube. You can disable the use of these cookies through your browser’s privacy settings but please do note that this will also disable all the functions described above.</p>
+                        <p class="mex-m-b-30"><strong><?php translate('Functional cookies -'); ?> </strong><?php translate('These cookies are essential for the running of our website. Without these cookies our websites would not function properly. These are saved temporarily as login information and expire once the browser is closed.'); ?></p>
+                        <p class="mex-m-b-30"><strong><?php translate('Analytical cookies -'); ?> </strong><?php translate('The information provided by analytical cookies allows us to analyze patterns of visitor behavior and we use that information to enhance the overall experience or identify areas of the website which may require maintenance. The information is anonymous (i.e. it cannot be used to identify you and does not contain personal information such as your name and email address) and it is only used for statistical purposes. Behavioral cookies are similar to analytical and remember that you have visited a website and use that information to provide you with content which is tailored to your interests.'); ?></p>
+                        <p class="mex-m-b-30"><strong><?php translate('Third Party cookies -'); ?> </strong><?php translate('These cookies are used by third parties and mostly by social media websites like Google+, Facebook or YouTube. Third Party cookies allow us to offer you easy ways to share our content throughout your social media and also present you with the videos we post on YouTube. You can disable the use of these cookies through your browser’s privacy settings but please do note that this will also disable all the functions described above.'); ?></p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <div class="mex-h3 mex-m-b-15">Full list of cookies we use</div>
+                    <div class="mex-h3 mex-m-b-15"><?php translate('Full list of cookies we use'); ?></div>
                     <div class="mex-content mex-m-b-30">
                         <div class="table-responsive table-content table-incomplete">
                             <table class="table table-striped mex-table mex-has-type table-easy">
@@ -629,17 +629,17 @@
             </div>
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <div class="mex-h3 mex-m-b-15">Manage Cookies</div>
+                    <div class="mex-h3 mex-m-b-15"><?php translate('Manage Cookies'); ?></div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">You can delete cookies any time you want by using the settings in your web browser. You can also choose to disable cookies from your web browser, but this would mean that our website and other websites may not function properly if you do this, and as a result you may not be able to sign in. Further information on deleting or controlling cookies can be found at <a href="https://ico.org.uk/your-data-matters/online/cookies/" class="text-1e32a3">https://ico.org.uk/your-data-matters/online/cookies/</a> .</p>
+                        <p class="mex-m-b-30"><?php translate('You can delete cookies any time you want by using the settings in your web browser. You can also choose to disable cookies from your web browser, but this would mean that our website and other websites may not function properly if you do this, and as a result you may not be able to sign in. Further information on deleting or controlling cookies can be found at'); ?> <a href="https://ico.org.uk/your-data-matters/online/cookies/" class="text-1e32a3"><?php translate('https://ico.org.uk/your-data-matters/online/cookies/'); ?></a> .</p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <div class="mex-h3 mex-m-b-15">Additional Information</div>
+                    <div class="mex-h3 mex-m-b-15"><?php translate('Additional Information'); ?></div>
                     <div class="mex-content mex-m-b-30">
-                        <p class="mex-m-b-30">We are committed to keeping your personal information safe. For more information on how we handle your data, please read our <a href="privacy-policy.php" class="text-1e32a3">Privacy Policy</a>.If you have further questions please do not hesitate to<a href="contact.php" class="text-1e32a3"> Contact us</a>.</p>
+                        <p class="mex-m-b-30"><?php translate('We are committed to keeping your personal information safe. For more information on how we handle your data, please read our'); ?> <a href="privacy-policy.php" class="text-1e32a3"><?php translate('Privacy Policy'); ?></a>.<?php translate('If you have further questions please do not hesitate to'); ?><a href="contact.php" class="text-1e32a3"> <?php translate('Contact us'); ?></a>.</p>
                     </div>
                 </div>
             </div>

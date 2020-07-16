@@ -220,7 +220,7 @@
         <section class="p0 choose-next-background subject-box-bg-light">
             <div class="container mex-m-b-80">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next</div>
+                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next');?></div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
                             <li><a href="platforms/download-center.php"><span class="ico-ic_download_mt4"></span> </a>

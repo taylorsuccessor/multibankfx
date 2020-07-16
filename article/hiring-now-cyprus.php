@@ -65,28 +65,27 @@
             <div class="container">
                 <div>
                     <div class="col-10 col-sm-10 col-md-8 col-xl-6 ">
-                        <h1 class="mex-h1 text-left">Career with MultiBank Group</h1>
+                        <h1 class="mex-h1 text-left"><?php translate('Career with MultiBank Group'); ?></h1>
                         <div class="mex-content mex-m-b-30">
                             <div class="mex-content">
-                                <h4 class="mex-m-t-15">Join MultiBank &amp; become part of our team!</h4>
+                                <h4 class="mex-m-t-15"><?php translate('Join MultiBank & become part of our team!'); ?></h4>
                             </div>
                             <div class="mex-content">
                                 <ul class="mex-list-disc">
-                                    <li>5 day work week</li>
-                                    <li>Multicultural working environment</li>
-                                    <li>Positions available worldwide</li>
-                                    <li>Excellent remuneration and quarterly performance bonuses</li>
-                                    <li>Excellent career prospect</li>
-                                    <li>Extensive financial knowledge training &amp; development</li>
-                                    <li>Medical and dental insurance coverage</li>
-                                    <li>Priority will be given to applicants with the earliest availability</li>
+                                    <li><?php translate('5 day work week'); ?></li>
+                                    <li><?php translate('Multicultural working environment'); ?></li>
+                                    <li><?php translate('Positions available worldwide'); ?></li>
+                                    <li><?php translate('Excellent remuneration and quarterly performance bonuses'); ?></li>
+                                    <li><?php translate('Excellent career prospect'); ?></li>
+                                    <li><?php translate('Extensive financial knowledge training & development'); ?></li>
+                                    <li><?php translate('Medical and dental insurance coverage'); ?></li>
+                                    <li><?php translate('Priority will be given to applicants with the earliest availability'); ?></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="mex-content black-bg-career">
-                            <p class="mex-m-t-15 mex-m-b-15 text-fff show-ass">Submit your CV to: <a class="text-22A0C4" href="/multibankfx/cdn-cgi/l/email-protection.html#63090c0110230e160f170a01020d08051b4d000c0e"><span class="__cf_email__" data-cfemail="96fcf9f4e5d6fbe3fae2fff4f7f8fdf0eeb8f5f9fb">[email&#160;protected]</span></a><br />
-                                Shortlisted candidate will be contacted for interview arrangement by Human Resources
-                                Department</p>
+                            <p class="mex-m-t-15 mex-m-b-15 text-fff show-ass"><?php translate('Submit your CV to:');?> <a class="text-22A0C4" href="/multibankfx/cdn-cgi/l/email-protection.html#63090c0110230e160f170a01020d08051b4d000c0e"><span class="__cf_email__" data-cfemail="96fcf9f4e5d6fbe3fae2fff4f7f8fdf0eeb8f5f9fb">[email&#160;protected]</span></a><br />
+                            <?php translate('Shortlisted candidate will be contacted for interview arrangement by Human Resources Department'); ?></p>
                         </div>
                     </div>
                 </div>
@@ -96,24 +95,24 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <div class="mex-h1 text-1e32a3 mex-m-b-40 text-center">MultiBank Group Introduction</div>
+                        <div class="mex-h1 text-1e32a3 mex-m-b-40 text-center"><?php translate('MultiBank Group Introduction'); ?></div>
                     </div>
                     <div class="col-lg-7 col-sm-12 align-self-center">
                         <div>
                             <div>
                                 <div class="mex-content">
-                                    <p class="mex-m-b-30 text-justify">MultiBank was established in California, USA in 2005.
+                                    <p class="mex-m-b-30 text-justify"><?php translate('MultiBank was established in California, USA in 2005.
                                         We maintain offices worldwide including but not limited to Sydney, Los Angeles,
                                         Frankfurt, Vienna, Barcelona, Dubai, Beijing, Ho Chi Minh City, Limassol (Cyprus)
-                                        and others. Our companies are heavily regulated worldwide by:</p>
+                                        and others. Our companies are heavily regulated worldwide by:'); ?></p>
                                     <ul class="mex-list-disc pl-3">
-                                        <li>the Australian Securities and Investment Commission (“ASIC”)</li>
+                                        <li><?php translate('the Australian Securities and Investment Commission (“ASIC”)'); ?></li>
 
-                                        <li>the Federal Financial Supervisory Authority (“BaFin”) of Germany</li>
-                                        <li>the Financial Market Authority (“FMA”) of Austria</li>
-                                        <li>the National Securities Market Commission (“CNMV”) of Spain</li>
-                                        <li>the Financial Services Commission (“FSC”) of the BVI</li>
-                                        <li>the Cayman Islands Monetary Authority ("CIMA")</li>
+                                        <li><?php translate('the Federal Financial Supervisory Authority (“BaFin”) of Germany'); ?></li>
+                                        <li><?php translate('the Financial Market Authority (“FMA”) of Austria'); ?></li>
+                                        <li><?php translate('the National Securities Market Commission (“CNMV”) of Spain'); ?></li>
+                                        <li><?php translate('the Financial Services Commission (“FSC”) of the BVI'); ?></li>
+                                        <li><?php translate('the Cayman Islands Monetary Authority ("CIMA")'); ?></li>
 
                                     </ul>
                                 </div>
@@ -131,7 +130,7 @@
             <div class="container">
                 <div class="row mx-0">
                     <div class="col-md-12 col-sm-12">
-                        <button class="btn btn-mex mx-auto btn-submit" id="btn-apply-now-carrer" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:showCarrerForm(); return false;" data-cf-modified-e82652eb7e23596d131e786d-="">Apply Now
+                        <button class="btn btn-mex mx-auto btn-submit" id="btn-apply-now-carrer" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:showCarrerForm(); return false;" data-cf-modified-e82652eb7e23596d131e786d-=""><?php translate('Apply Now'); ?>
                         </button>
                         <div id="carrer-form-container" class="d-none">
                             <div class="mex-h2 mex-m-b-15">Please select the position you wish to apply for &amp; click
@@ -798,12 +797,12 @@
         <section class="p0 choose-next-background subject-box-bg-light">
             <div class="container mex-m-b-80">
                 <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?>
                     </div>
                     <div class="icon-next-list">
                         <ul class="bg-white target-icon">
                             <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span></a>
-                                <div class="mex-content mex-clamp-3">Our Regulations</div>
+                                <div class="mex-content mex-clamp-3"><?php translate('Our Regulations'); ?></div>
                             </li>
                             <li><a href="/multibankfx/products.php"><span class="ico-ic_our_products"></span> </a>
                                 <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php">Our Products</a></div>

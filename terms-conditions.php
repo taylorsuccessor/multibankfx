@@ -63,11 +63,11 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <h1 class="mex-h1 text-1e32a3 mex-m-b-40 text-center">
-                        Terms &amp; Conditions </h1>
+                    <?php translate('Terms & Conditions'); ?> </h1>
                     <div class="mex-content text-center">
                         <p>
-                            <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Client_Agreement.pdf" class="btn btn-mex-red mex-m-r-15 mex-m-b-15 clo-md-6" target="_blank">MEX Exchange</a>
-                            <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MultiBank-FX-International-Client-Agreement.pdf" class="btn btn-mex-blue mex-m-r-15 mex-m-b-15 clo-md-6" target="_blank">MultiBank FX International</a>
+                            <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MEX_Client_Agreement.pdf" class="btn btn-mex-red mex-m-r-15 mex-m-b-15 clo-md-6" target="_blank"><?php translate('MEX Exchange '); ?></a>
+                            <a href="/multibankfx/public_files/images/documents/pdf/account-forms/MultiBank-FX-International-Client-Agreement.pdf" class="btn btn-mex-blue mex-m-r-15 mex-m-b-15 clo-md-6" target="_blank"><?php translate('MultiBank FX International'); ?></a>
                         </p>
                     </div>
                 </div>

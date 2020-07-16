@@ -66,13 +66,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-12"><h1 class="mex-h1 text-left">
-                    BONUSES </h1>
-                    <div class="mex-content mex-m-b-30"><p class="mex-m-t-15">Check out MultiBank’s exclusive bonuses,
-                        promotions and offers!<br/>Choose from our latest bonuses, whether you’re an Introducing Broker
-                        or an individual client </p></div>
-                    <div class="mex-m-t-15"><a href="bonus.php" class="btn btn-mex-gray mex-m-r-15 mex-m-b-10">Individual
-                        Clients</a><a href="bonus-ib.php" class="btn btn-mex mex-m-r-15 mex-m-b-10">Introducing
-                        Broker</a></div>
+                <?php translate('BONUSES'); ?> </h1>
+                    <div class="mex-content mex-m-b-30"><p class="mex-m-t-15"><?php translate('Check out MultiBank’s exclusive bonuses,
+                        promotions and offers!'); ?><br/><?php translate('Choose from our latest bonuses, whether you’re an Introducing Broker
+                        or an individual client'); ?> </p></div>
+                    <div class="mex-m-t-15"><a href="bonus.php" class="btn btn-mex-gray mex-m-r-15 mex-m-b-10"><?php translate('Individual
+                        Clients'); ?></a><a href="bonus-ib.php" class="btn btn-mex mex-m-r-15 mex-m-b-10"><?php translate('Introducing Broker'); ?></a></div>
                 </div>
             </div>
         </div>
@@ -102,28 +101,28 @@
                                 <a>
                                     <span class="tab-img-cover d-none d-xl-block"><img
                                             src="/multibankfx/public_files/images/accounts_funding/tab_imperial_bonus.jpg"></span>
-                                    Imperial Bonus</a>
+                                            <?php translate('Imperial Bonus'); ?></a>
                             </li>
                             <li class="tab-title bonus-page-tab" data-tab="loyalty-bonus">
                                 <a>
                                     <span class="tab-img-cover d-none d-xl-block"><img
                                             src="/multibankfx/public_files/images/accounts_funding/tab_loyalty_bonus.jpg"></span>
-                                    Loyalty Bonus</a>
+                                            <?php translate('Loyalty Bonus'); ?></a>
                             </li>
                         </ul>
                         <div class="tab-content have-box-shadow col-12 mex-content">
                             <div class="tab-pane bonus-page-pane active" id="imperial-bonus">
-                                <h2 class="mex-h1 text-1e32a3 mex-m-t-15 uppercase text-left">Imperial Bonus</h2>
-                                <p class="mex-m-b-20">New clients can earn up to $5,000 on their first-time
-                                    deposits!</p>
+                                <h2 class="mex-h1 text-1e32a3 mex-m-t-15 uppercase text-left"><?php translate('Imperial Bonus'); ?></h2>
+                                <p class="mex-m-b-20"><?php translate('New clients can earn up to $5,000 on their first-time
+                                    deposits!'); ?></p>
                                 <div class="col-xs-12 mex-m-b-30">
                                     <div class="table-responsive mex-xs-p-none">
                                         <table class="table table-striped mex-table mex-has-type text-center">
                                             <thead>
                                             <tr>
-                                                <th class="text-center">Deposit Amount</th>
-                                                <th class="text-center">Imperial Bonus</th>
-                                                <th class="text-center">Lots RT Target</th>
+                                                <th class="text-center"><?php translate('Deposit Amount'); ?></th>
+                                                <th class="text-center"><?php translate('Imperial Bonus'); ?></th>
+                                                <th class="text-center"><?php translate('Lots RT Target'); ?></th>
                                             </tr>
                                             </thead>
                                             <tbody>
@@ -176,43 +175,43 @@
                                         </table>
                                     </div>
                                 </div>
-                                <h4>Terms &amp; Conditions</h4>
+                                <h4><?php translate('Terms & Conditions'); ?></h4>
                                 <ul class="mex-list-conditions mex-m-t-15">
-                                    <li>1. The Imperial Bonus is losable and available to be used within 3 months of
-                                        account opening
+                                    <li><?php translate('1. The Imperial Bonus is losable and available to be used within 3 months of
+                                        account opening'); ?>
                                     </li>
-                                    <li>2. This bonus is applicable to initial first-time deposits and not to further
-                                        additional deposits (top ups)
+                                    <li><?php translate('2. This bonus is applicable to initial first-time deposits and not to further
+                                        additional deposits (top ups)'); ?>
                                     </li>
-                                    <li>3. This bonus is withdrawable once the lots round-trip target is reached (please
-                                        see below ‘Lots RT Target’ table)
+                                    <li><?php translate('3. This bonus is withdrawable once the lots round-trip target is reached (please
+                                        see below ‘Lots RT Target’ table)'); ?>
                                     </li>
-                                    <li>4. This bonus is non-rebate generating</li>
-                                    <li>5. This bonus is available across all trading platforms and trading companies of
-                                        MultiBank Group
+                                    <li><?php translate('4. This bonus is non-rebate generating'); ?></li>
+                                    <li><?php translate('5. This bonus is available across all trading platforms and trading companies of
+                                        MultiBank Group'); ?>
                                     </li>
-                                    <li>6. This bonus shall be automatically deducted in case withdrawals are made
-                                        before the lots round-trip target is reached
+                                    <li><?php translate('6. This bonus shall be automatically deducted in case withdrawals are made
+                                        before the lots round-trip target is reached'); ?>
                                     </li>
-                                    <li>7. Manipulation of the system by arbitrage trading is strictly prohibited.</li>
-                                    <li>8. MultiBank Group reserves the right to correct the trading calculation in the
-                                        event of any suspected abuse or manipulation of this bonus policy and promotion.
+                                    <li><?php translate('7. Manipulation of the system by arbitrage trading is strictly prohibited.'); ?></li>
+                                    <li><?php translate('8. MultiBank Group reserves the right to correct the trading calculation in the
+                                        event of any suspected abuse or manipulation of this bonus policy and promotion.'); ?>
                                     </li>
                                 </ul>
                             </div>
                             <div class="tab-pane bonus-page-pane" id="loyalty-bonus">
-                                <h2 class="mex-h1 text-1e32a3 mex-m-t-15 uppercase text-left">Loyalty Bonus</h2>
-                                <p class="mex-m-b-20">MultiBank’s Loyalty Bonus is for our long-term customers, who can
+                                <h2 class="mex-h1 text-1e32a3 mex-m-t-15 uppercase text-left"><?php translate('Loyalty Bonus'); ?></h2>
+                                <p class="mex-m-b-20"><?php translate('MultiBank’s Loyalty Bonus is for our long-term customers, who can
                                     earn up to $3,500 when they top up their trading accounts. To qualify, all you need
-                                    to do is meet the below trading lots requirement.</p>
+                                    to do is meet the below trading lots requirement.'); ?></p>
                                 <div class="col-xs-12 mex-m-b-30">
                                     <div class="table-responsive mex-xs-p-none">
                                         <table class="table table-striped mex-table mex-has-type text-center">
                                             <thead>
                                             <tr>
-                                                <th class="text-center">Deposit Amount</th>
-                                                <th class="text-center">Loyalty Bonus</th>
-                                                <th class="text-center">Lots RT Target</th>
+                                                <th class="text-center"><?php translate('Deposit Amount'); ?></th>
+                                                <th class="text-center"><?php translate('Loyalty Bonus'); ?></th>
+                                                <th class="text-center"><?php translate('Lots RT Target'); ?></th>
                                             </tr>
                                             </thead>
                                             <tbody>
@@ -265,31 +264,31 @@
                                         </table>
                                     </div>
                                 </div>
-                                <h4>Terms &amp; Conditions</h4>
+                                <h4><?php translate('Terms & Conditions'); ?></h4>
                                 <ul class="mex-list-conditions mex-m-t-15">
-                                    <li>1. The Loyalty Bonus is losable and available to be used within 3 months</li>
-                                    <li>2. This bonus is applicable only to additional deposits (top ups), and does not
-                                        apply to your initial first-time deposit
+                                    <li><?php translate('1. The Loyalty Bonus is losable and available to be used within 3 months'); ?></li>
+                                    <li><?php translate('2. This bonus is applicable only to additional deposits (top ups), and does not
+                                        apply to your initial first-time deposit'); ?>
                                     </li>
-                                    <li>3. The bonus is only withdrawable once the lots round trip target is reached
-                                        (please see below ‘Lots RT Target’ table)
+                                    <li><?php translate('3. The bonus is only withdrawable once the lots round trip target is reached
+                                        (please see below ‘Lots RT Target’ table)'); ?>
                                     </li>
-                                    <li>4. This bonus is non-rebate generating</li>
-                                    <li>5. This bonus is available across all platforms and trading companies of
-                                        MultiBank Group
+                                    <li><?php translate('4. This bonus is non-rebate generating'); ?></li>
+                                    <li><?php translate('5. This bonus is available across all platforms and trading companies of
+                                        MultiBank Group'); ?>
                                     </li>
-                                    <li>6. Trades opened and closed in less than 120 seconds and CFD trades do not count
-                                        towards the lots target
+                                    <li><?php translate('6. Trades opened and closed in less than 120 seconds and CFD trades do not count
+                                        towards the lots target'); ?>
                                     </li>
-                                    <li>7. This bonus cannot be used in combination with any other bonuses</li>
-                                    <li>8. Manipulation of the system by arbitrage trading is strictly prohibited, and
-                                        the company reserves the right to correct trading calculations
+                                    <li><?php translate('7. This bonus cannot be used in combination with any other bonuses'); ?></li>
+                                    <li><?php translate('8. Manipulation of the system by arbitrage trading is strictly prohibited, and
+                                        the company reserves the right to correct trading calculations'); ?>
                                     </li>
-                                    <li>9. This bonus shall be automatically deducted in case withdrawals are made
-                                        before the lots round-trip target is reached
+                                    <li><?php translate('9. This bonus shall be automatically deducted in case withdrawals are made
+                                        before the lots round-trip target is reached'); ?>
                                     </li>
-                                    <li>10. MultiBank Group reserves the right to correct the trading calculation in the
-                                        event of any suspected abuse or manipulation of this bonus policy and promotion.
+                                    <li><?php translate('10. MultiBank Group reserves the right to correct the trading calculation in the
+                                        event of any suspected abuse or manipulation of this bonus policy and promotion.'); ?>
                                     </li>
                                 </ul>
                             </div>
@@ -306,7 +305,7 @@
                      data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph=""
                      data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru=""
                      data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?"
-                     data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب">Choose Where to go next
+                     data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?>
                 </div>
                 <div class="icon-next-list">
                     <ul class="bg-white target-icon">
