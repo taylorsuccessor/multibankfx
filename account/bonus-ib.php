@@ -1265,9 +1265,9 @@
         type="9221275646d340e84872cc8a-text/javascript"></script>
 <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="9221275646d340e84872cc8a-text/javascript"></script>
 <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="9221275646d340e84872cc8a-text/javascript"></script>
-<script src="/multibankfx/public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
+<script src="/multibankfx/public_files/static_js/intlTelInput.min.js"
         type="9221275646d340e84872cc8a-text/javascript"></script>
-<script src="/multibankfx/public_files/static_js/app.js%3Fversion=20200612"
+<script src="/multibankfx/public_files/static_js/app.js"
         type="9221275646d340e84872cc8a-text/javascript"></script>
 <script type="9221275646d340e84872cc8a-text/javascript" async>
     url = new URL(window.location.href);

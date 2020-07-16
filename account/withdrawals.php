@@ -233,7 +233,7 @@
                         <div class="mex-h2 text-center text-1e32a3 mex-m-b-40">
                         <?php translate('SUBMIT A WITHDRAWAL REQUEST'); ?>
                         </div>
-                        <div class="mex-content text-right">
+                        <div class="mex-content text-left arabic-text-right">
                             <p><strong><?php translate('Withdraw via MyMultiBank:'); ?></strong> <?php translate('To withdraw funds from your account simply submit
                                 your withdrawal request online using the MyMultiBank account area.'); ?></p>
                             <p><strong><?php translate('Withdraw via Email:'); ?></strong> <?php translate('Alternatively, please send us an email to'); ?> <a class="text-1e32a3" href="/multibankfx/cdn-cgi/l/email-protection.html#394e504d515d4b584e79544c554d505b5857525f41175a5654"><span class="__cf_email__" data-cfemail="3d4a544955594f5c4a7d50485149545f5c53565b45135e5250">[email&#160;protected]</span></a>

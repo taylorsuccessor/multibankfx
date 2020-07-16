@@ -16,7 +16,7 @@ $(document).ready(function () {
         paginationClickable: true,
         spaceBetween: 30,
         centeredSlides: true,
-        autoplayDisableOnInteraction: false,
+        autoplayDisableOnInteraction: false
     });
 })
 
