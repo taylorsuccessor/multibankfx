@@ -666,64 +666,7 @@
                 </div>
             </div>
         </section>
-        <section class="p0 choose-next-background subject-box-bg-light">
-            <div class="container mex-m-b-80">
-                <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-it="SCEGLI DOVE ANDARE" data-mys="SILA PILIH UNTUK TERUSKAN" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
-                    <div class="icon-next-list">
-                        <ul class="bg-white target-icon">
-                            <li><a href="mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span></a>
-                                <div class="mex-content mex-clamp-3"><?php translate('Our Regulations'); ?></div>
-                            </li>
-                            <li><a href="products.php"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="products.php"><?php translate('Our Products'); ?></a></div>
-                                <a href="products.php"> </a>
-                            </li>
-                            <li><a href="tools.php"><span class="ico-ic_trading_tools"></span> </a>
-                                <div class="mex-content mex-clamp-3"><?php translate('Trading Tools'); ?></div>
-                                <a href="tools.php"> </a>
-                            </li>
-                            <li><a href="about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="about/why-multibank-group.php"><?php translate('Why Multibank'); ?></a></div>
-                                <a href="about/why-multibank-group.php"> </a>
-                            </li>
-                            <li><a href="mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations">&nbsp;</span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="mfx/v1/about/regulations.php"><?php translate('Our Regulations'); ?></a></div>
-                                <a href="mfx/v1/about/regulations.php"> </a>
-                            </li>
-                            <li><a href="about/security-of-funds.php"><span class="ico-ic_security_of_funds"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="about/security-of-funds.php"><?php translate('Security of Funds'); ?></a></div>
-                                <a href="about/security-of-funds.php"> </a>
-                            </li>
-                            <li><a href="account.php"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="account.php"><?php translate('Accounts & Funding '); ?></a></div>
-                                <a href="account.php"> </a>
-                            </li>
-                            <li><a href="account/bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="account/bonus.php"><?php translate('Bonus Programs'); ?></a></div>
-                                <a href="account/bonus.php"> </a>
-                            </li>
-                            <li><a href="investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="investor-relations.php"><?php translate('Partnership Programs'); ?></a></div>
-                                <a href="investor-relations.php"> </a>
-                            </li>
-                            <li><a href="partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become an IB'); ?></a></div>
-                                <a href="partnership/introducing-brokers.html#introducing-brokers-form"> </a>
-                            </li>
-                            <li><a href="about/milestones.php"><span class="ico-ic_our_milestones"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="about/milestones.php"><?php translate('Our Milestones'); ?></a></div>
-                                <a href="about/milestones.php"> </a>
-                            </li>
-                            <li><a href="index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-264a9d99fba7749106dd85a3-=""><span class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-264a9d99fba7749106dd85a3-=""><?php translate('Live Chat Support'); ?></a></div>
-                                <a href="index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-264a9d99fba7749106dd85a3-=""> </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include_from_root('website_template/choose_where_to.php');?>
     </div>
     <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
