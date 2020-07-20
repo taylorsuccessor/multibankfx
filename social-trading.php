@@ -56,6 +56,372 @@
             }
         }
     </style>
+    <style>
+    .social-trading-banner > img, .st-section > img {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+    }
+
+    .st-banner-btn-container {
+        position: absolute;
+        bottom: 10px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .st-banner-text-container > div {
+        padding-left: 55%;
+        padding-bottom: 10%;
+    }
+
+    .st-top-title {
+        display: block;
+        width: 70%;
+        height: auto;
+        margin-bottom: 30px;
+    }
+
+    .st-top-subtitle {
+        width: 70%;
+        height: auto;
+    }
+
+    .st-banner-text-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+
+        height: 100%;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .st_benefit_icon {
+        position: absolute;
+        top: -60px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 120px;
+        height: 120px;
+
+        padding: 20px;
+        background-color: #FFF;
+        border-radius: 50%;
+    }
+
+    .st_benefit_card img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .st_benefit_card.benefit {
+        box-shadow: 5px 5px 3px rgba(0,0,0,0.12), 0 0px 2px rgba(0,0,0,0.24);
+    }
+
+    .st_benefit_card.invest {
+        padding: 0;
+    }
+
+    .st_benefit_card.invest img {
+        width: 100%;
+        height: auto;
+    }
+
+    .fi_copy_trade {
+        height: 100%;
+        background-color: #fff;
+    }
+
+    .st_benefit_card.benefit, .fi_copy_trade {
+        box-shadow: 5px 5px 3px rgba(0,0,0,0.12), 0 0 2px rgba(0,0,0,0.24);
+    }
+
+    .st_benefit_container {
+    }
+
+    .fi_copy_trade_card {
+        padding: 30px 15px 15px 15px;
+        background-color: #FFF;
+    }
+
+    .st_benefit_card {
+        padding: 60px 15px 15px 15px;
+        background-color: #FFF;
+        height: 100%;
+    }
+
+    .st-la-btn {
+        background-color: #ce0b0b;
+        border: none;
+        color: #fff;
+        border-radius: 50px !important;
+    }
+
+    .st-la-btn:hover {
+        background-color: #ce0b0b;
+        border: none;
+        color: #fff;
+    }
+
+    .st-shadow-box {
+        box-shadow: 0 0 5px 2px rgba(0,0,0,0.4);
+    }
+
+    .btn-st-blue, .btn-st-green, .btn-st-red, .btn-st-005190,.btn-st-006AD0, .btn-st-1ba6df {
+        padding: 20px 20px;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        text-transform: uppercase;
+        min-width: 150px;
+        line-height: 14px;
+        font-size: 18px;
+        font-weight: 500;
+        letter-spacing: 1px;
+        border-radius: 0;
+        text-align: center;
+    }
+
+    .btn-st-blue {
+        background: #2643AF;
+        color: #fff;
+        border: 2px solid #2643AF;
+    }
+
+    .btn-st-green {
+         background: #1dba2f;
+         color: #fff;
+         border: 2px solid #1dba2f;
+    }
+
+    .btn-st-red {
+        background: #ce0b0b;
+        color: #fff;
+        border: 2px solid #1dba2f;
+    }
+
+    .btn-st-blue.transparent {
+        background: rgba(38,67,175, 0.6);
+        border: none;
+    }
+
+    .btn-st-green.transparent {
+        background: rgba(29,186,47, 0.6);
+        border: none;
+    }
+
+    .btn-st-red.transparent {
+        background: rgba(206,11,11, 0.6);
+        border: none;
+    }
+
+    .btn-st-005190 {
+        background: #005190;
+        color: #fff;
+        border: 2px solid #005190;
+    }
+    
+    .btn-st-005190:hover {
+        background: #007fbf;
+        color: #fff;
+        border: 2px solid #007fbf;
+    }
+    
+
+    .btn-st-006AD0 {
+        background: #006AD0;
+        color: #fff;
+        border: 2px solid #006AD0;
+    }
+    
+    .btn-st-006AD0:hover {
+        background: #0690ef;
+        color: #fff;
+        border: 2px solid #0690ef;
+    }
+    
+
+    .btn-st-1ba6df {
+        background: #1BA6DF;
+        color: #fff;
+        border: 2px solid #1BA6DF;
+    }
+    
+    .btn-st-1ba6df:hover{
+        background: #0A7DA5;
+        color: #fff;
+        border: 2px solid #0A7DA5;
+    }    
+    
+
+    .btn-st-green:hover, .btn-st-blue:hover {
+        color: #fff;
+    }
+
+    .btn-st-px-60 {
+        padding-left: 60px !important;
+        padding-right: 60px !important;
+    }
+
+    .text-005190 {
+        color: #005190;
+    }
+
+    .text-1ba6df {
+        color: #1BA6DF;
+    }
+
+    .mex-list-icon-check li:before {
+        background: #1dba2f !important;
+    }
+
+    .st-h2 {
+        font-size: 32px !important;
+        line-height: 48px !important;
+    }
+
+    .mex-list-icon-check.st-list li {
+        font-size: 16px !important;
+    }
+
+    .st-benefit-portrait-img {
+        height: 600px;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .st-h4 {
+        font-weight: 400;
+        font-size: 16px;
+    }
+
+    .st-h2 {
+        font-size: 36px !important;
+        line-height: 44px !important;
+    }
+
+    .st-benefit-landscape-img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .st-row {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+
+    .st-col-xs-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .st-grow-wealth-list li{
+        margin-bottom: 10px;
+    }
+
+    .fa-ul {
+        margin-left: 30px !important;
+    }
+
+    .st-table-element {
+        background-color: #F3F4F6;
+    }
+
+    .st-table-element:hover {
+        background-color: #07AA50;
+        color: #fff;
+    }
+
+    .st-table-text {
+        font-weight: 400;
+    }
+
+    .st-slide-header {
+        position: relative;
+        background-color: #006ACE;
+        cursor: pointer;
+    }
+
+    .st-slide-header::after {
+            position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    font-size: 40px;
+    content: "\e64b";
+    font-family: 'themify';
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    transition-duration: 0.3s;
+
+    }
+
+    .st-slide-content {
+        background-color: #F7F7F7;
+        display: none;
+    }
+
+    .st-nav-content {
+        border: 1px solid #01518F
+    }
+
+    .st-nav.nav-tabs {
+        border-bottom: none;
+        margin-bottom: 1px;
+    }
+
+    .st-nav.nav-tabs .nav-link {
+        border-radius: 0 !important;
+        border-color: transparent !important;
+        background-color: #EAE9E7;
+        color: #575757;
+    }
+
+    .st-nav.nav-tabs .nav-link.active {
+        background-color: #045493;
+        color: #ffff;
+    }
+
+    .st-nav-panel {
+        display: none;
+    }
+
+    .st-nav-panel.active {
+         display: block;
+    }
+
+   
+    @media (max-width: 1199px) {
+        .st-mb-xl-100 {
+            margin-bottom: 100px !important;
+        }
+
+        .st-benefit-bg {
+            height: 100% !important;
+            object-fit: cover;
+        }
+    }
+
+    
+</style>
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="page-top-banner p-0">

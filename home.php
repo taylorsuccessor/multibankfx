@@ -122,7 +122,7 @@
         <div class="swiper-wrapper">
 
             <div class="swiper-slide home-page" style="overflow: hidden;">
-                <a href="about/why-multibank-group.php">
+                <a href="/multibankfx/about/why-multibank-group.php">
                     <div class="min1 d-none d-lg-block" style="background-image:url('public_files/images/home/en_cityscape_1920x800.jpg');">
                     </div>
                     <div class="min2 d-block d-lg-none" style="background-image:url('public_files/images/home/en_cityscape_750x600.jpg');">
@@ -131,7 +131,7 @@
                 </a>
             </div>
             <div class="swiper-slide home-page" style="overflow: hidden;">
-                <a href="products/shares.php">
+                <a href="/multibankfx/products/shares.php">
                     <div class="min1 d-none d-lg-block" style="background-image:url('public_files/images/home/en_shares-1920x800.jpg');">
                     </div>
                     <div class="min2 d-block d-lg-none" style="background-image:url('public_files/images/home/en_shares-750x600.jpg');">
@@ -483,22 +483,22 @@
                     </form>
                     <hr class="mx-1 my-2 bg-dark">
                     <div class="px-1 contact-form-button-container">
-                        <a href="account/live-account.php" class="d-flex btn btn-mex-red mex-m-b-5 col-md-12 col-xs-12 align-items-center">
+                        <a href="/multibankfx/account/live-account.php" class="d-flex btn btn-mex-red mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                             <span>&#xe91d;</span>
                             <div class="btn-vr"></div>
                             <?php translate('OPEN LIVE ACCOUNT'); ?>
                         </a>
-                        <a href="demo_competition.php" class="d-flex btn btn-mex-blue mex-m-b-5 col-md-12 col-xs-12 align-items-center">
+                        <a href="/multibankfx/demo_competition.php" class="d-flex btn btn-mex-blue mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                             <span>&#xe918;</span>
                             <div class="btn-vr"></div>
                             <?php translate('OPEN DEMO ACCOUNT'); ?>
                         </a>
-                        <a href="partnership/introducing-brokers.html#introducing-brokers-form" class="d-flex btn btn-mex-gray mex-m-b-5 col-md-12 col-xs-12 align-items-center">
+                        <a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form" class="d-flex btn btn-mex-gray mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                             <span>&#xe920;</span>
                             <div class="btn-vr"></div>
                             <?php translate('IB REGISTRATION'); ?>
                         </a>
-                        <a href="account/account-funding.php" class="d-flex btn btn-mex mex-m-b-5 col-md-12 col-xs-12 align-items-center">
+                        <a href="/multibankfx/account/account-funding.php" class="d-flex btn btn-mex mex-m-b-5 col-md-12 col-xs-12 align-items-center">
                             <span>&#xe921;</span>
                             <div class="btn-vr"></div>
                             <?php translate('FUND YOUR ACCOUNT'); ?>
@@ -506,7 +506,7 @@
                         <div class="px-1 font-10" style="padding:0px;">
                             <div class="form-check form-check-inline">
                                 <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you
-                                agree to accept the'); ?> <a href="terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
+                                agree to accept the'); ?> <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                                 </label>
                             </div>
                         </div>
@@ -612,7 +612,7 @@
                 </div>
                 <div class="col-4 col-md-6 col-lg-3 mex-m-b-30">
                     <section class="mex-block-card-v mex-qtr box-animate section-products">
-                        <a href="https://www.multibankfx.com/products/forex">
+                        <a href="/multibankfx/products/forex.php">
                             <div class="card-img-box">
                                 <img class="card-img mex-img-cover lazyloadXXX" src="/multibankfx/public_files/images/home/home_product_forex.jpg" alt="Forex">
                             </div>
@@ -627,7 +627,7 @@
                 </div>
                 <div class="col-4 col-md-6 col-lg-3 mex-m-b-30 d-none d-md-block">
                     <section class="mex-block-card-v mex-qtr box-animate section-products">
-                        <a href="https://www.multibankfx.com/products/metals">
+                        <a href="/multibankfx/products/metals.php">
                             <div class="card-img-box">
                                 <img alt="Metals" class="card-img mex-img-cover  lazyloadXXX" src="/multibankfx/public_files/images/home/home_product_metals.jpg">
                             </div>
@@ -644,7 +644,7 @@
                 </div>
                 <div class="col-4 col-md-6 col-lg-3 mex-m-b-30 ">
                     <section class="mex-block-card-v mex-qtr box-animate section-products">
-                        <a href="https://www.multibankfx.com/products/shares">
+                        <a href="/multibankfx/products/shares.php">
                             <div class="card-img-box">
                                 <img alt="Shares" class="card-img mex-img-cover lazyloadXXX" src="/multibankfx/public_files/images/home/home_product_shares.jpg">
                             </div>
@@ -659,7 +659,7 @@
                 </div>
                 <div class="col-4 col-md-6 col-lg-3 mex-m-b-30 ">
                     <section class="mex-block-card-v mex-qtr box-animate section-products">
-                        <a href="https://www.multibankfx.com/products/indices">
+                        <a href="/multibankfx/products/indices.php">
                             <div class="card-img-box">
                                 <img alt="Indices" class="card-img mex-img-cover lazyloadXXX" src="/multibankfx/public_files/images/home/home_product_indices.jpg">
                             </div>
@@ -675,7 +675,7 @@
                 <div class="mx-auto col-12 row justify-content-sm-start justify-content-lg-center"></div>
                 <div class="col-4 col-md-6 col-lg-3  mex-m-b-30  ">
                     <section class="mex-block-card-v mex-qtr box-animate section-products">
-                        <a href="https://www.multibankfx.com/products/commodities">
+                        <a href="/multibankfx/products/commodities.php">
                             <div class="card-img-box">
                                 <img alt="Commodities" class="card-img mex-img-cover lazyloadXXX" src="/multibankfx/public_files/images/home/home_product_commodities.jpg">
                             </div>
@@ -690,7 +690,7 @@
                 </div>
                 <div class="col-4 col-md-6 col-lg-3 mex-m-b-30">
                     <section class="mex-block-card-v mex-qtr box-animate section-products">
-                        <a href="https://www.multibankfx.com/partnership/white-label">
+                        <a href="/multibankfx/partnership/white-label.php">
                             <div class="card-img-box">
                                 <img alt="white label" class="card-img mex-img-cover lazyloadXXX" src="/multibankfx/public_files/images/home/home_product_white_label.jpg">
                             </div>
@@ -705,7 +705,7 @@
                 </div>
                 <div class="col-4 col-md-6 col-lg-3 mex-m-b-30 d-none d-md-block">
                     <section class="mex-block-card-v mex-qtr box-animate section-products">
-                        <a href="https://www.multibankfx.com/partnership/prime-of-primes">
+                        <a href="/multibankfx/partnership/prime-of-primes.php">
                             <div class="card-img-box">
                                 <img alt="Prime of Primes" class="card-img mex-img-cover lazyloadXXX" src="/multibankfx/public_files/images/home/home_product_prime.jpg">
                             </div>
@@ -720,7 +720,7 @@
                 </div>
                 <div class="col-4 col-md-6 col-lg-3 mex-m-b-30">
                     <section class="mex-block-card-v mex-qtr box-animate section-products">
-                        <a href="https://www.multibankfx.com/social-trading">
+                        <a href="/multibankfx/social-trading.php">
                             <div class="card-img-box">
                                 <img class="card-img mex-img-cover lazyloadXXX" src="/multibankfx/public_files/images/home/home_product_social_trading.jpg" alt="Social Trading Platform">
                             </div>
@@ -751,7 +751,7 @@
                     <li>Social Trading Platform</li>
                 </ul>
             </div>
-            <a class="btn btn-mex text-fff" style="margin-left: 20px; padding: 10px 20px;" href="https://www.multibankfx.com/products">Learn More</a>
+            <a class="btn btn-mex text-fff" style="margin-left: 20px; padding: 10px 20px;" href="/multibankfx/products.php">Learn More</a>
         </div>
     </section>
     <section class="p0 mex-block-full sectiopn-trade-with-confidence d-md-block d-none">
@@ -823,10 +823,10 @@
                             trade on.</span>
                     </div>
                     <div class="col-12">
-                        <a href="/account/live-account" class="btn btn-mex-red mex-m-b-15 "
+                        <a href="/multibankfx/account/live-account.php" class="btn btn-mex-red mex-m-b-15 "
                             style="min-width: initial; padding: 13px 10px;"><i class="fa fa-user mex-m-r-5"
                                 aria-hidden="true"></i>Live Account</a>
-                        <a href="/account/demo-account" class="btn btn-mex-blue mex-m-b-15"
+                        <a href="/multibankfx/account/demo-account.php" class="btn btn-mex-blue mex-m-b-15"
                             style="min-width: initial; padding: 13px 10px;"><i class="fa fa-desktop mex-m-r-5"
                                 aria-hidden="true"></i>Demo Account</a>
                     </div>
@@ -844,7 +844,7 @@
             <div class="swiper-wrapper" style="transform: translate3d(-2932px, 0px, 0px); transition-duration: 300ms;">
                 <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2"
                     style="width: 1436px; margin-right: 30px;">
-                    <a href="/account/bonus-ib">
+                    <a href="/multibankfx/account/bonus-ib.php">
                         <div class="min1 d-none d-lg-block">
                             <img class="lazyloadXXX" src="/multibankfx/public_files/images/home/home_bonus_5000.jpg" alt="image">
                         </div>
@@ -855,7 +855,7 @@
                 </div>
                 <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="0"
                     style="width: 1436px; margin-right: 30px;">
-                    <a href="/account/bonus">
+                    <a href="/multibankfx/account/bonus.php">
                         <div class="min1 d-none d-lg-block">
                             <img class=" lazyloadXXX"
                                 src="/multibankfx/public_files/images/home/home_bonus_extra.jpg" alt="image">
@@ -868,7 +868,7 @@
                 </div>
                 <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1"
                     style="width: 1436px; margin-right: 30px;">
-                    <a href="/account/bonus?default_bonus=refer_bonus">
+                    <a href="/multibankfx/account/bonus.php">
                         <div class="min1 d-none d-lg-block">
                             <img class=" lazyloadXXX" src="/multibankfx/public_files/images/home/home_bonus_400.jpg"
                                 alt="image">
@@ -881,7 +881,7 @@
                 </div>
                 <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2"
                     style="width: 1436px; margin-right: 30px;">
-                    <a href="/account/bonus-ib">
+                    <a href="/multibankfx/account/bonus-ib.php">
                         <div class="min1 d-none d-lg-block">
                             <img class=" lazyloadXXX" src="/multibankfx/public_files/images/home/home_bonus_5000.jpg"
                                 alt="image">
@@ -894,7 +894,7 @@
                 </div>
                 <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0"
                     style="width: 1436px; margin-right: 30px;">
-                    <a href="/account/bonus">
+                    <a href="/multibankfx/account/bonus.php">
                         <div class="min1 d-none d-lg-block">
                             <!--<img class="lazyloadXXX" src="/multibankfx/public_files/images/about_us/global_presence/home_bonus_extra.png"-->
                             <!--    alt="image">-->
@@ -958,11 +958,11 @@
                         MT5
                     </div>
                     <div class="col-12 mt-4 text-center">
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="/platforms/download-center"><i
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/platforms/download-center.php"><i
                                 class="fa fa-bars mr-2"></i>MT4</a>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="/platforms/download-center"><i
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/platforms/download-center.php"><i
                                 class="fa fa-mobile mr-2"></i>Mobile</a>
-                        <a class="btn btn-mex btn-sm mex-m-b-15" href="/mql5"><i class="fa fa-desktop mr-2"
+                        <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/mql5.php"><i class="fa fa-desktop mr-2"
                                 style="top: 1px; position: relative;"></i> Web Trading</a>
                     </div>
                 </div>
@@ -988,7 +988,7 @@
                                 <div class="mex-content text-overflow-2 text-overflow-3-xs">
                                     Learn more about MultiBank’s award-winning platforms and comprehensive partnership
                                     programs </div>
-                                <a href="/about/why-multibank-group"
+                                <a href="/multibankfx/about/why-multibank-group.php"
                                     class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN MORE</a>
                             </div>
                         </div>
@@ -1010,7 +1010,7 @@
                                     MultiBank comprises a number of companies which are regulated by top financial
                                     bodies worldwide
                                     including ASIC, BaFin, FMA, CNMV, FSC, and CIMA</div>
-                                <a href="/about/regulations" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN
+                                <a href="/multibankfx/about/regulations.php" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN
                                     MORE</a>
                             </div>
                         </div>
@@ -1025,7 +1025,7 @@
                         <div class="card-img-overlay text-center d-flex flex-column justify-content-center">
                             <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase text-fff">
                                 OUR ADVANTAGES </div>
-                            <div class="mex-content mb0 text-overflow-3"> <a href="/about/why-multibank-group"
+                            <div class="mex-content mb0 text-overflow-3"> <a href="/multibankfx/about/why-multibank-group.php"
                                     class="btn btn-mex text-white">Learn
                                     More</a>
                             </div>
@@ -1040,7 +1040,7 @@
                         <div class="card-img-overlay text-center d-flex flex-column justify-content-center">
                             <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase text-fff">
                                 REGULATIONS </div>
-                            <div class="mex-content mb0 text-overflow-3"> <a href="/about/regulations"
+                            <div class="mex-content mb0 text-overflow-3"> <a href="/multibankfx/about/regulations.php"
                                     class="btn btn-mex text-white">Learn More</a>
                             </div>
                         </div>
@@ -1053,7 +1053,7 @@
                         <div class="card-img-overlay text-center d-flex flex-column justify-content-center">
                             <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase text-fff">
                                 SECURITY OF FUNDS </div>
-                            <div class="mex-content mb0 text-overflow-3"> <a href="/about/security-of-funds"
+                            <div class="mex-content mb0 text-overflow-3"> <a href="/multibankfx/about/security-of-funds.php"
                                     class="btn btn-mex text-white">Learn
                                     More</a>
                             </div>
@@ -1068,7 +1068,7 @@
                         <div class="card-img-overlay text-center d-flex flex-column justify-content-center">
                             <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase text-fff">
                                 MILESTONES </div>
-                            <div class="mex-content mb0 text-overflow-3"> <a href="/about/milestones"
+                            <div class="mex-content mb0 text-overflow-3"> <a href="/multibankfx/about/milestones.php"
                                     class="btn btn-mex text-white">Learn More</a>
                             </div>
                         </div>
@@ -1574,7 +1574,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                     SECURITY OF FUNDS </div>
                                 <div class="mex-content text-overflow-2">
                                     Clients enjoy the highest level of funds security through MultiBank </div>
-                                <a href="/about/security-of-funds"
+                                <a href="/multibankfx/about/security-of-funds.php"
                                     class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN MORE</a>
                             </div>
                         </div>
@@ -1593,7 +1593,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                     MILESTONES </div>
                                 <div class="mex-content text-overflow-2">
                                     Learn more about MultiBank’s achievements from over the years </div>
-                                <a href="/about/milestones" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN
+                                <a href="/multibankfx/about/milestones.php" class="btn btn-mex mex-m-r-15 mex-m-b-15 mex-m-t-15">LEARN
                                     MORE</a>
                             </div>
                         </div>
@@ -1623,7 +1623,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         style="transform: translate3d(-1097px, 0px, 0px); transition-duration: 0ms;">
                         <div class="swiper-slide swiper-slide-duplicate width-30" data-swiper-slide-index="34"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX" src="/multibankfx/public_files/images/about_us/awards/2013Asia.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Broker 2013</span>
                                 <span class="mex-content ">Asia Franchise Industry Association</span>
@@ -1631,7 +1631,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30" data-swiper-slide-index="35"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_trading_platform_2012.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform 2012</span>
@@ -1640,7 +1640,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30" data-swiper-slide-index="36"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/rtb_china_awards_2012.png">
                                 <span class="mex-h3 mex-m-b-5 ">RTB China Awards 2012</span>
@@ -1649,7 +1649,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30" data-swiper-slide-index="37"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_2012_11china.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform 2012</span>
@@ -1659,7 +1659,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30" data-swiper-slide-index="38"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2012.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best ECN Broker (Asia) 2012</span>
@@ -1668,7 +1668,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30" data-swiper-slide-index="39"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Service Provider 2011</span>
@@ -1677,7 +1677,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30 swiper-slide-prev"
                             data-swiper-slide-index="40" style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform 2011</span>
@@ -1686,7 +1686,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30 swiper-slide-active" data-swiper-slide-index="0"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/Best_Forex_CFD_Broker_JFEX_Award.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex and CFD Broker 2019</span>
@@ -1695,7 +1695,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30 swiper-slide-next" data-swiper-slide-index="1"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-wins-financial-services-provider-asia-award-2019">
+                            <a href="/multibankfx/article/multibank-wins-financial-services-provider-asia-award-2019.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/Financial_Services_Provider_of_the_Year_Asia_2019.jpg">
                                 <span class="mex-h3 mex-m-b-5 ">Financial Services Provider of the Year (Asia)
@@ -1705,7 +1705,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="2"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-chosen-best-FX-CFD-broker-2019">
+                            <a href="/multibankfx/article/multibank-chosen-best-FX-CFD-broker-2019.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_fx_broker_euas_2019.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best FX &amp; CFD Broker (Europe &amp; Asia)
@@ -1715,7 +1715,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-40" data-swiper-slide-index="3"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-wins-ecn-broker-best-forex-platform-2019">
+                            <a href="/multibankfx/article/multibank-wins-ecn-broker-best-forex-platform-2019.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/ecn_broker_eu_2019.png">
                                 <span class="mex-h3 mex-m-b-5 ">ECN Broker of the Year (Europe) 2019</span>
@@ -1724,7 +1724,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="4"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-wins-ecn-broker-best-forex-platform-2019">
+                            <a href="/multibankfx/article/multibank-wins-ecn-broker-best-forex-platform-2019.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_mena_2019.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Platform MENA 2019</span>
@@ -1733,7 +1733,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="5"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-named-best-financial-derivatives-broker-2019">
+                            <a href="/multibankfx/article/multibank-named-best-financial-derivatives-broker-2019.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/2019best_financial_derivatives_broker_europe.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Financial Derivatives Broker 2019</span>
@@ -1742,7 +1742,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="6"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-selected-best-forex-broker-forex-expo-dubai-2019">
+                            <a href="/multibankfx/article/multibank-selected-best-forex-broker-forex-expo-dubai-2019.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_2019.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Broker 2019</span>
@@ -1752,7 +1752,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="7"
                             style="width: 136.714px; margin-right: 20px;">
                             <a
-                                href="/article/milestones_multibank-chairman-naser-taher-awarded-ceo-of-the-year-2019">
+                                href="/multibankfx/article/milestones_multibank-chairman-naser-taher-awarded-ceo-of-the-year-2019.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/2019CEO_of_the_year_financial_services_asia_europe.png">
                                 <span class="mex-h3 mex-m-b-5 ">CEO of the Year (Financial Services) (Asia &amp;
@@ -1763,7 +1763,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="8"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-honored-best-ecn-broker-asia-2019">
+                            <a href="/multibankfx/article/multibank-honored-best-ecn-broker-asia-2019.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_asia_2019.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best ECN Broker of the Year (Asia) 2019</span>
@@ -1772,7 +1772,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="9"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_education_provider_2019.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Education Provider 2019</span>
@@ -1781,7 +1781,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="10"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class=" lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2018.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform (Hong Kong) 2018</span>
@@ -1790,7 +1790,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="11"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2018.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best ECN Broker Europe 2018</span>
@@ -1799,7 +1799,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="12"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_ecn_platform_2018.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex ECN Platform (Europe &amp; Asia)</span>
@@ -1808,7 +1808,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="13"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/most_admired_2017.png">
                                 <span class="mex-h3 mex-m-b-5 ">30 Most Admired Companies of 2017</span>
@@ -1817,7 +1817,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="14"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/ceo_of_the_year_2017.png">
                                 <span class="mex-h3 mex-m-b-5 ">Financial Derivatives Broker of the Year (Asia &amp;
@@ -1828,7 +1828,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="15"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/ceo_of_the_year_2017.png">
                                 <span class="mex-h3 mex-m-b-5 ">CEO of the Year-- Financial Services (Asia &amp;
@@ -1838,7 +1838,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="16"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2016.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Exchange Platform (Hong Kong) 2016</span>
@@ -1847,7 +1847,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="17"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_ceo_2016.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Financial Services CEO (Hong Kong) 2016</span>
@@ -1856,7 +1856,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="18"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_china_2016.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Platform 2016</span>
@@ -1865,7 +1865,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="19"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_execution_broker_2016.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Execution Broker 2016</span>
@@ -1874,7 +1874,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="20"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_2015.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Broker 2015</span>
@@ -1883,7 +1883,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="21"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_platform_2015.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform (Asia &amp; Europe)
@@ -1893,7 +1893,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="22"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_europe_2015.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Broker Europe 2015</span>
@@ -1902,7 +1902,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="23"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_platform_2014.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Institutional FX Platform 2014</span>
@@ -1911,7 +1911,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="24"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/top_provider_2014.png">
                                 <span class="mex-h3 mex-m-b-5 ">Top FX Liquidity Provider 2014</span>
@@ -1920,7 +1920,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="25"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/most_secure_broker_2014.png">
                                 <span class="mex-h3 mex-m-b-5 ">Most Secure Broker 2014</span>
@@ -1929,7 +1929,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="26"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2013.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best ECN Forex Broker Asia 2013<br> Best ECN Forex
@@ -1940,7 +1940,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="27"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_company_leadership_2013.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Company for Leadership 2013</span>
@@ -1949,7 +1949,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="28"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_broker_2013.png"> <span
                                     class="mex-h3 mex-m-b-5 ">Most Secure Forex Broker 2013</span>
@@ -1959,7 +1959,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="29"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_broker_2013.png"> <span
                                     class="mex-h3 mex-m-b-5 ">Best Forex Broker 2013</span>
@@ -1969,7 +1969,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="30"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/broker_of_the_year_2013.png">
                                 <span class="mex-h3 mex-m-b-5 ">Broker of the Year 2013</span>
@@ -1978,7 +1978,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="31"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/most_powerful_team_2013.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform 2013</span>
@@ -1987,7 +1987,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="32"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/most_powerful_team_2013.png">
                                 <span class="mex-h3 mex-m-b-5 ">Most Powerful Forex Technical Research &amp;
@@ -1998,7 +1998,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="33"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/2013Asia.png"> <span
                                     class="mex-h3 mex-m-b-5 ">Most Secure Forex Broker 2013</span>
@@ -2007,7 +2007,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="34"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/2013Asia.png"> <span
                                     class="mex-h3 mex-m-b-5 ">Best Forex Broker 2013</span>
@@ -2016,7 +2016,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="35"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_trading_platform_2012.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform 2012</span>
@@ -2025,7 +2025,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="36"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/rtb_china_awards_2012.png"> <span
                                     class="mex-h3 mex-m-b-5 ">RTB China Awards 2012</span>
@@ -2034,7 +2034,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="37"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_2012_11china.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Trading Platform 2012</span>
@@ -2044,7 +2044,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="38"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_ecn_broker_2012.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best ECN Broker (Asia) 2012</span>
@@ -2053,7 +2053,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30" data-swiper-slide-index="39"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Service Provider 2011</span>
@@ -2062,7 +2062,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide width-30 swiper-slide-duplicate-prev" data-swiper-slide-index="40"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_provider_2011.png"
                                     alt="best_forex_provider_2011">
@@ -2072,7 +2072,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30 swiper-slide-duplicate-active"
                             data-swiper-slide-index="0" style="width: 136.714px; margin-right: 20px;">
-                            <a href="/about/awards">
+                            <a href="/multibankfx/about/awards.php">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/Best_Forex_CFD_Broker_JFEX_Award.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex and CFD Broker 2019</span>
@@ -2081,7 +2081,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30 swiper-slide-duplicate-next"
                             data-swiper-slide-index="1" style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-wins-financial-services-provider-asia-award-2019">
+                            <a href="/multibankfx/article/multibank-wins-financial-services-provider-asia-award-2019">
                                 <!--<img class="lazyloadXXX"-->
                                 <!--    src="/multibankfx/public_files/images/about_us/awards/Financial_Services_Provider_of_the_Year_Asia_2019.png">-->
                                     
@@ -2092,7 +2092,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30" data-swiper-slide-index="2"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-chosen-best-FX-CFD-broker-2019">
+                            <a href="/multibankfx/article/multibank-chosen-best-FX-CFD-broker-2019">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_fx_broker_euas_2019.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best FX &amp; CFD Broker (Europe &amp; Asia)
@@ -2102,7 +2102,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30" data-swiper-slide-index="3"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-wins-ecn-broker-best-forex-platform-2019">
+                            <a href="/multibankfx/article/multibank-wins-ecn-broker-best-forex-platform-2019">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/ecn_broker_eu_2019.png">
                                 <span class="mex-h3 mex-m-b-5 ">ECN Broker of the Year (Europe) 2019</span>
@@ -2111,7 +2111,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30" data-swiper-slide-index="4"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-wins-ecn-broker-best-forex-platform-2019">
+                            <a href="/multibankfx/article/multibank-wins-ecn-broker-best-forex-platform-2019">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_mena_2019.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Platform MENA 2019</span>
@@ -2120,7 +2120,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30" data-swiper-slide-index="5"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-named-best-financial-derivatives-broker-2019">
+                            <a href="/multibankfx/article/multibank-named-best-financial-derivatives-broker-2019">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/2019best_financial_derivatives_broker_europe.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Financial Derivatives Broker 2019</span>
@@ -2129,7 +2129,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         </div>
                         <div class="swiper-slide swiper-slide-duplicate width-30" data-swiper-slide-index="6"
                             style="width: 136.714px; margin-right: 20px;">
-                            <a href="/article/multibank-selected-best-forex-broker-forex-expo-dubai-2019">
+                            <a href="/multibankfx/article/multibank-selected-best-forex-broker-forex-expo-dubai-2019">
                                 <img class="lazyloadXXX"
                                     src="/multibankfx/public_files/images/about_us/awards/best_forex_broker_2019.png">
                                 <span class="mex-h3 mex-m-b-5 ">Best Forex Broker 2019</span>
@@ -2168,11 +2168,11 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                             </h4>
                             <p class=" platforms_box_txt mex-clamp-4 mex-content">Ideal for traders looking for an ECN
                                 experience with tight spreads and zero platform fees</p>
-                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/platforms/multibank-pro"><i
+                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/platforms/multibank-pro.php"><i
                                     class="fa fa-bar-chart" aria-hidden="true"></i>MT4</a>
-                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/platforms/multibank-pro"><i
+                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/platforms/multibank-pro.php"><i
                                     class="fa fa-mobile" aria-hidden="true"></i>Mobile</a>
-                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/mql5"><i class="fa fa-desktop" style="top: 1px;
+                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/mql5.php"><i class="fa fa-desktop" style="top: 1px;
     position: relative;"></i> Web Trading</a>
                         </div>
                     </div>
@@ -2186,11 +2186,11 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                             </h4>
                             <p class=" platforms_box_txt mex-clamp-4 mex-content">Recommended for traders looking for no
                                 restrictions on EA and scalping trading</p>
-                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/platforms/maximus"><i
+                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/platforms/maximus.php"><i
                                     class="fa fa-bar-chart" aria-hidden="true"></i>MT4</a>
-                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/platforms/maximus"><i class="fa fa-mobile"
+                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/platforms/maximus.php"><i class="fa fa-mobile"
                                     aria-hidden="true"></i>Mobile</a>
-                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/mql5"><i class="fa fa-desktop"
+                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/mql5.php"><i class="fa fa-desktop"
                                     style="top: 1px;position: relative;"></i> Web Trading</a>
                         </div>
                     </div>
@@ -2205,11 +2205,11 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                 trading functionalities such as advanced scripting tools for custom indicators and
                                 expert
                                 advisors</p>
-                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/platforms/mt5-platform"><i
+                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/platforms/mt5-platform.php"><i
                                     class="fa fa-bar-chart" aria-hidden="true"></i>MT5</a>
-                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/platforms/mt5-platform"><i
+                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/platforms/mt5-platform.php"><i
                                     class="fa fa-mobile" aria-hidden="true"></i>Mobile</a>
-                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/mql5"><i class="fa fa-desktop"
+                            <a class="btn btn-mex btn-sm mex-m-b-15" href="/multibankfx/mql5.php"><i class="fa fa-desktop"
                                     style="top: 1px;position: relative;"></i> Web Trading</a>
                         </div>
                     </div>
@@ -2253,7 +2253,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                         MT5<br>Platform
                     </div>
                     <div class="col-12 d-flex justify-content-center my-4">
-                        <a href="/platforms" class="btn btn-mex text-white">Learn More</a>
+                        <a href="/multibankfx/platforms.php" class="btn btn-mex text-white">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -2283,7 +2283,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                 </div>
                 <div class="col-12 col-md-6 col-xl-4 mex-m-b-30 d-none d-md-block">
                     <section class="mex-card-cover box-animate">
-                        <a href="/partnership/franchise-program">
+                        <a href="/multibankfx/partnership/franchise-program.php">
                             <img class="card-img mex-img-cover lazyloadXXX"
                                 src="/multibankfx/public_files/images/partnership/home_partnership_franchise_program@2x.png"
                                 alt="Franchise Program">
@@ -2300,7 +2300,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                 </div>
                 <div class="col-12 col-md-6 col-xl-4 mex-m-b-30 d-none d-md-block">
                     <section class="mex-card-cover box-animate">
-                        <a href="/partnership/white-label">
+                        <a href="/multibankfx/partnership/white-label.php">
                             <img alt="White Label" class="card-img mex-img-cover lazyloadXXX" src="/multibankfx/public_files/images/partnership/home_partnership_white_label@2x.png" >
 ">
                             <div class="card-content text-left">
@@ -2316,7 +2316,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                 </div>
                 <div class="col-12 col-md-6 col-xl-4 mex-m-b-30 d-none d-md-block">
                     <section class="mex-card-cover box-animate">
-                        <a href="/partnership/prime-of-primes">
+                        <a href="/multibankfx/partnership/prime-of-primes.php">
                             <img alt="Prime of Primes" class="card-img mex-img-cover lazyloadXXX"
                                 src="/multibankfx/public_files/images/partnership/home_partnership_prime_of_primes@2x.png">
                             <div class="card-content text-left">
@@ -2331,7 +2331,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                 </div>
                 <div class="col-12 col-md-6 col-xl-4 mex-m-b-30 d-none d-md-block">
                     <section class="mex-card-cover box-animate">
-                        <a href="/partnership/cpa-affiliate-program">
+                        <a href="/multibankfx/partnership/cpa-affiliate-program.php">
                             <img class="card-img mex-img-cover lazyloadXXX"
                                 src="/multibankfx/public_files/static_html_files/_medias/partnership_cpa_affiliate_program_newx.png"
                                 alt="CPA Affiliate Program">
@@ -2356,7 +2356,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center">
                         <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase text-fff">
                             Introducing Brokers </div>
-                        <div class="mex-content mb0 text-overflow-3"> <a href="/partnership/introducing-brokers"
+                        <div class="mex-content mb0 text-overflow-3"> <a href="/multibankfx/partnership/introducing-brokers.php"
                                 class="btn btn-mex text-white">Learn
                                 More</a>
                         </div>
@@ -2371,7 +2371,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center">
                         <div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">
                             Franchise Program </div>
-                        <div class="mex-content mb0 text-overflow-3"> <a href="/partnership/franchise-program"
+                        <div class="mex-content mb0 text-overflow-3"> <a href="/multibankfx/partnership/franchise-program.php"
                                 class="btn btn-mex text-white">Learn
                                 More</a></div>
                     </div>
@@ -2384,7 +2384,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center">
                         <div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">
                             White Label </div>
-                        <div class="mex-content mb0 text-overflow-3"> <a href="/partnership/white-label"
+                        <div class="mex-content mb0 text-overflow-3"> <a href="/multibankfx/partnership/white-label.php"
                                 class="btn btn-mex text-white">Learn More</a></div>
                     </div>
                 </div>
@@ -2396,7 +2396,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center">
                         <div class="font-34  mex-m-b-5 font-type-cap uppercase text-fff">
                             Prime of Primes </div>
-                        <div class="mex-content mb0 text-overflow-3"> <a href="/partnership/prime-of-primes"
+                        <div class="mex-content mb0 text-overflow-3"> <a href="/multibankfx/partnership/prime-of-primes.php"
                                 class="btn btn-mex text-white">Learn
                                 More</a></div>
                     </div>
@@ -2422,7 +2422,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2020-02-18</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-fast-n-furious-trading-contest-announcement"
+                                                    href="/multibankfx/article/multibank-fast-n-furious-trading-contest-announcement"
                                                     class="text-222 mex-clamp-4 text-left pl-3">Winners Announced for
                                                     the MultiBank Fast &amp;
                                                     Furious Trading Contest</a></div>
@@ -2435,7 +2435,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                             style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-12-27</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-fast-n-furious-trading-contest"
+                                                    href="/multibankfx/article/multibank-fast-n-furious-trading-contest"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank Fast &amp;
                                                     Furious Trading Contest
                                                     Starts Jan 6, 2020! </a></div>
@@ -2448,7 +2448,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                             style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-12-07</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-philippines-hosts-investors-night-2019"
+                                                    href="/multibankfx/article/multibank-philippines-hosts-investors-night-2019"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank Philippines
                                                     Hosts Investors Night
                                                     2019</a></div>
@@ -2460,7 +2460,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                             style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-11-17</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-malaysia-hosted-successful-trading-seminar-in-kuala-lumpur"
+                                                    href="/multibankfx/article/multibank-malaysia-hosted-successful-trading-seminar-in-kuala-lumpur"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank Malaysia
                                                     Hosted Successful Trading
                                                     Seminar in Kuala Lumpur</a></div>
@@ -2472,7 +2472,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-11-17</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-attends-macau-grand-prix-2019"
+                                                    href="/multibankfx/article/multibank-attends-macau-grand-prix-2019"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank Group Attends
                                                     Macau Grand Prix 2019</a>
                                             </div>
@@ -2483,7 +2483,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-11-04</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-fx-championship-2019-winners-announced"
+                                                    href="/multibankfx/article/multibank-fx-championship-2019-winners-announced"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank FX
                                                     Championship 2019 Winners
                                                     Announced!</a></div>
@@ -2494,7 +2494,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-10-02</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-attends-forex-expo-dubai-wins-best-forex-broker"
+                                                    href="/multibankfx/article/multibank-attends-forex-expo-dubai-wins-best-forex-broker"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank Attends the
                                                     Forex Expo Dubai and Takes
                                                     Home “Best Forex Broker” Award</a></div>
@@ -2506,7 +2506,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-09-18</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-mena-diamond-sponsor-jordan-expo"
+                                                    href="/multibankfx/article/multibank-mena-diamond-sponsor-jordan-expo"
                                                     class="text-222 mex-clamp-4 text-left pl-3">Diamond Sponsor
                                                     MultiBank MENA Attends Jordan Expo
                                                     2019</a></div>
@@ -2517,7 +2517,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-09-14</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-wins-financial-services-provider-asia-award-2019"
+                                                    href="/multibankfx/article/multibank-wins-financial-services-provider-asia-award-2019"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank Group Wins
                                                     “Financial Services Provider
                                                     of the Year (Asia) 2019” Award from Global Brands Magazine</a></div>
@@ -2529,7 +2529,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-08-13</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-fx-championship-2019-starting-soon"
+                                                    href="/multibankfx/article/multibank-fx-championship-2019-starting-soon"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank FX
                                                     Championship Starting Soon! USD
                                                     12,000 CASH Giveaway to Top 3 Demo Contest Winners</a></div>
@@ -2540,7 +2540,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-08-01</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-latam-regional-headquarter-launched-mexico"
+                                                    href="/multibankfx/article/multibank-latam-regional-headquarter-launched-mexico"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank LATAM Launches
                                                     in Mexico</a></div>
                                             <div class="mex-new-img col-3"><img class="mex-img-cover lazyloadXXX"
@@ -2550,7 +2550,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-07-26</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/hiring-forex-sales-managers-for-dubai"
+                                                    href="/multibankfx/article/hiring-forex-sales-managers-for-dubai"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank’s Dubai Office
                                                     Now Hiring Forex Sales
                                                     Managers. Join Us Today!</a></div>
@@ -2562,7 +2562,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-07-04</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/artur-filipowicz-joins-multibank-head-institutional-sales"
+                                                    href="/multibankfx/article/artur-filipowicz-joins-multibank-head-institutional-sales"
                                                     class="text-222 mex-clamp-4 text-left pl-3">FX Veteran Artur
                                                     Filipowicz Joins MultiBank as
                                                     Head of Institutional Sales</a></div>
@@ -2574,7 +2574,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-06-08</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-elite-sponsor-forex-day-madrid-2019"
+                                                    href="/multibankfx/article/multibank-elite-sponsor-forex-day-madrid-2019"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank Elite Sponsor
                                                     at Forex Day Madrid
                                                     2019</a></div>
@@ -2585,7 +2585,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-05-27</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-chosen-best-FX-CFD-broker-2019"
+                                                    href="/multibankfx/article/multibank-chosen-best-FX-CFD-broker-2019"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank Chosen as Best
                                                     FX &amp; CFD Broker
                                                     (Europe &amp; Asia) 2019 by International Investor Magazine</a>
@@ -2598,7 +2598,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-05-22</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-makes-appearance-ifx-cyprus-expo"
+                                                    href="/multibankfx/article/multibank-makes-appearance-ifx-cyprus-expo"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank Makes an
                                                     Appearance at the iFX Cyprus
                                                     Expo</a></div>
@@ -2609,7 +2609,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-05-17</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-adds-uber-shares-cfd-offerings"
+                                                    href="/multibankfx/article/multibank-adds-uber-shares-cfd-offerings"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank Adds Uber to
                                                     Its Shares CFD
                                                     Offerings</a></div>
@@ -2620,7 +2620,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-05-15</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/visit-multibank-ifx-cyprus-2019"
+                                                    href="/multibankfx/article/visit-multibank-ifx-cyprus-2019"
                                                     class="text-222 mex-clamp-4 text-left pl-3">Visit Us at Booth 52 at
                                                     iFX Expo 2019 in
                                                     Cyprus</a></div>
@@ -2631,7 +2631,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-05-03</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/hiring-now-cyprus"
+                                                    href="/multibankfx/article/hiring-now-cyprus"
                                                     class="text-222 mex-clamp-4 text-left pl-3">MultiBank Group Is Now
                                                     Hiring Senior Account
                                                     Managers. Join us Today!</a></div>
@@ -2643,7 +2643,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                                         <li class="row mx-0 mex-new-content swiper-slide" style="height: 133.75px;">
                                             <div class="mex-h3 col-1 pl-4 text-left">2019-04-30</div>
                                             <div class="mex-new-desc mex-content col-8"><a
-                                                    href="/article/multibank-honored-best-ecn-broker-asia-2019"
+                                                    href="/multibankfx/article/multibank-honored-best-ecn-broker-asia-2019"
                                                     class="text-222 mex-clamp-4 text-left pl-3">Finance Derivative
                                                     Honors MultiBank Group as “Best
                                                     ECN Broker of the Year (Asia) 2019”</a></div>
@@ -2660,7 +2660,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
                     </section>
                 </div>
                 <div class="text-center mex-p-15 index_sup_a col-12">
-                    <a href="/about/company-news" class="btn btn-mex ">MORE</a>
+                    <a href="/multibankfx/about/company-news.php" class="btn btn-mex ">MORE</a>
                 </div>
             </div>
         </div>

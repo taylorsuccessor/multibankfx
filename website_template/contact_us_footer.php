@@ -11,13 +11,13 @@
                 <div class="border-line col-md-6 col-lg-4 col-sm-12 col-xs-12 hidden-md">
                     <div class="mex-h3  mex-p-v-15 "><?php translate('Phone Numbers Worldwide'); ?></div>
                     <ul class="contact-country">
-                        <li class="d-block"><a href="tel:+12139924748?call"><img alt="US" class="country-icon" data-entity-type="" data-entity-uuid="" src="public_files/images/common/country/usa_big.png" />
+                        <li class="d-block"><a href="tel:+12139924748?call"><img alt="US" class="country-icon" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/country/usa_big.png" />
                                 <span> <strong><?php translate('US:'); ?></strong> +1 213 992 4748 </span> </a></li>
-                        <li class="d-block"><a href="tel:+34931220671?call"><img alt="Spain" class="country-icon" data-entity-type="" data-entity-uuid="" src="public_files/images/common/country/spain_big.png" />
+                        <li class="d-block"><a href="tel:+34931220671?call"><img alt="Spain" class="country-icon" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/country/spain_big.png" />
                                 <span> <strong><?php translate('Spain:'); ?></strong> +34 931220671</span></a></li>
-                        <li class="d-block"><a href="tel:+6202129264151?call"><img alt="Indonesia" class="country-icon" data-entity-type="" data-entity-uuid="" src="public_files/images/common/country/indonesia_big.png" />
+                        <li class="d-block"><a href="tel:+6202129264151?call"><img alt="Indonesia" class="country-icon" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/country/indonesia_big.png" />
                                 <span> <strong><?php translate('Indonesia:'); ?></strong> +62 02129264151 </span> </a></li>
-                        <li class="d-block"><a href="tel:+60322010966?call"><img alt="Malaysia" class="country-icon" data-entity-type="" data-entity-uuid="" src="public_files/images/common/country/malaysia_big.png" />
+                        <li class="d-block"><a href="tel:+60322010966?call"><img alt="Malaysia" class="country-icon" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/country/malaysia_big.png" />
                                 <span> <strong><?php translate('Malaysia:'); ?></strong> +60 32 201 0966</span> </a></li>
 
                         <li class="d-block"><a href="tel:+60322010966?call"><img alt="Malaysia" class="country-icon" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/country/uae.png" />
@@ -60,7 +60,7 @@
                         <div class="col-4 text-center mx-auto">
                             <div class="mex-h3 mb-2 footer-mb-social-media"><?php translate('EMAIL US'); ?></div>
                             <a href="cdn-cgi/l/email-protection.php#711202311c041d051813101f1a17095f121e1c">
-                                <img class="footer-contact-ic" src="public_files/images/common/icon_contact_mail.png" />
+                                <img class="footer-contact-ic" src="/multibankfx/public_files/images/common/icon_contact_mail.png" />
                             </a>
                         </div>
                         <div class="col-4 text-center mx-auto">
