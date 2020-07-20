@@ -412,76 +412,7 @@
                 });
             });
         </script>
-        <section class="p0 choose-next-background subject-box-bg-light">
-            <div class="container mex-m-b-80">
-                <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-ru="" data-mys="SILA PILIH UNTUK TERUSKAN" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?>
-                    </div>
-                    <div class="icon-next-list">
-                        <ul class="bg-white target-icon">
-                            <li><a href="/multibankfx/platforms/download-center.php"><span class="ico-ic_download_mt4"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/platforms/download-center.php">Download
-                                        MT4</a></div>
-                                <a href="/multibankfx/platforms/download-center.php"> </a>
-                            </li>
-                            <li><a href="/multibankfx/products.php"><span class="ico-ic_our_products"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/products.php">Our Products</a></div>
-                                <a href="/multibankfx/products.php"> </a>
-                            </li>
-                            <li><a href="/multibankfx/tools.php"><span class="ico-ic_trading_tools"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/tools.php">Trading Tools</a></div>
-                                <a href="/multibankfx/tools.php"> </a>
-                            </li>
-                            <li><a href="/multibankfx/about/why-multibank-group.php"><span class="ico-ic_why_multibank"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/why-multibank-group.php">Why
-                                        Multibank</a></div>
-                                <a href="/multibankfx/about/why-multibank-group.php"> </a>
-                            </li>
-                            <li><a href="/multibankfx/mfx/v1/about/regulations.php"><span class="ico-ic_our_regulations"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/mfx/v1/about/regulations.php">Our
-                                        Regulations</a></div>
-                                <a href="/multibankfx/mfx/v1/about/regulations.php"> </a>
-                            </li>
-                            <li><a href="/multibankfx/about/security-of-funds.php"><span class="ico-ic_security_of_funds"></span>
-                                </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/security-of-funds.php">Security of
-                                        Funds</a></div>
-                                <a href="/multibankfx/about/security-of-funds.php"> </a>
-                            </li>
-                            <li><a href="/multibankfx/account.php"><span class="ico-ic_accounts_funding"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/account.php">Accounts and Funding</a>
-                                </div>
-                                <a href="/multibankfx/account.php"> </a>
-                            </li>
-                            <li><a href="bonus.php"><span class="ico-ic_bonus_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="bonus.php">Bonus Programs</a></div>
-                                <a href="bonus.php"> </a>
-                            </li>
-                            <li><a href="/multibankfx/investor-relations.php"><span class="ico-ic_partnership_programs"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/investor-relations.php">Partnership
-                                        Programs</a></div>
-                                <a href="/multibankfx/investor-relations.php"> </a>
-                            </li>
-                            <li><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form">Become an
-                                        IB</a></div>
-                                <a href="/multibankfx/partnership/introducing-brokers.html#introducing-brokers-form"> </a>
-                            </li>
-                            <li><a href="/multibankfx/about/milestones.php"><span class="ico-ic_our_milestones"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/about/milestones.php">Our Milestones</a>
-                                </div>
-                                <a href="/multibankfx/about/milestones.php"> </a>
-                            </li>
-                            <li><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-6864ba4d28184620dfa2cc29-=""><span class="ico-ic_live_chat_support"></span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-6864ba4d28184620dfa2cc29-="">Live
-                                        Chat Support</a></div>
-                                <a href="/multibankfx/index.html#" onclick="if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-6864ba4d28184620dfa2cc29-=""> </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include_from_root('website_template/choose_where_to.php');?>
     </div>
     <script type="6864ba4d28184620dfa2cc29-text/javascript">
         $(function() {

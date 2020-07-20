@@ -302,65 +302,7 @@
                 </div>
             </div>
         </section>
-        <section class="p0 choose-next-background subject-box-bg-light">
-            <div class="container mex-m-b-80">
-                <div class="col-md-12">
-                    <div class="mex-h1 text-1e32a3 text-center uppercase mex-p-t-80 mex-p-b-40 mex-translatable" data-es="ELIGE DÓNDE IR A CONTINUACIÓN" data-de="WOHIN ALS NÄCHSTES" data-ph="" data-vn="CHỌN NƠI ĐẾN KẾ TIẾP" data-id="" data-pt="" data-mys="SILA PILIH UNTUK TERUSKAN" data-ru="" data-it="SCEGLI DOVE ANDARE" data-fr="Où allez?" data-th="เลือกว่าจะไปที่ไหน" data-ae="أختر أين تريد الذهاب"><?php translate('Choose Where to go next'); ?></div>
-                    <div class="icon-next-list">
-                        <ul class="bg-white target-icon">
-                            <li><a href="about/why-multibank-group.php"><span class="ico-ic_why_multibank"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="about/why-multibank-group.php"><?php translate('Why Multibank'); ?></a></div>
-                                <a href="about/why-multibank-group.php"> </a>
-                            </li>
-                            <li><a href="about/security-of-funds.php"><span class="ico-ic_security_of_funds"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="about/security-of-funds.php"><?php translate('Security of Funds'); ?></a></div>
-                                <a href="about/security-of-funds.php"> </a>
-                            </li>
-                            <li><a href="products.php"><span class="ico-ic_our_products"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="products.php"><?php translate('Our Products'); ?></a></div>
-                                <a href="products.php"> </a>
-                            </li>
-                            <li><a href="platforms/compare-platforms.php"><span class="ico-ic_compare_our_trading_platforms"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="platforms/compare-platforms.php"><?php translate('Compare our Trading Platforms'); ?></a></div>
-                                <a href="platforms/compare-platforms.php"> </a>
-                            </li>
-                            <li><a href="platforms/download-center.php"><span class="ico-ic_download_mt4"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="platforms/download-center.php"><?php translate('Download MT4'); ?></a></div>
-                                <a href="platforms/download-center.php"> </a>
-                            </li>
-                            <li><a href="partnership/introducing-brokers.html#introducing-brokers-form"><span class="ico-ic_become_an_ib"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="partnership/introducing-brokers.html#introducing-brokers-form"><?php translate('Become an IB'); ?></a></div>
-                                <a href="partnership/introducing-brokers.html#introducing-brokers-form"> </a>
-                            </li>
-                            <li><a href="account/bonus.php"><span class="ico-ic_bonus_programs"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="account/bonus.php"><?php translate('Bonus Programs'); ?></a></div>
-                                <a href="account/bonus.php"> </a>
-                            </li>
-                            <li><a href="tools.php"><span class="ico-ic_trading_tools"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="tools.php"><?php translate('Trading Tools'); ?></a></div>
-                                <a href="tools.php"> </a>
-                            </li>
-                            <li><a href="scalping-policy.php"><span class="ico-ic_scalping_policy"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="scalping-policy.php"><?php translate('Scalping Policy'); ?></a></div>
-                                <a href="scalping-policy.php"> </a>
-                            </li>
-                            <li><a href="https://my.mexgroup.com" target="_blank"><span class="ico-ic_mymultibank_account_panel"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="https://my.mexgroup.com" target="_blank"><?php translate('MyMultiBank Account Panel'); ?></a></div>
-                                <a href="https://my.mexgroup.com" target="_blank"> </a>
-                            </li>
-                            <li><a href="investor-relations.php"><span class="ico-ic_partnership_programs"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="investor-relations.php"><?php translate('Partnership Programs'); ?></a></div>
-                                <a href="investor-relations.php"> </a>
-                            </li>
-                            <li><a href="about/milestones.php"><span class="ico-ic_our_milestones"> </span> </a>
-                                <div class="mex-content mex-clamp-3"><a href="about/milestones.php"><?php translate('Our Milestones'); ?></a></div>
-                                <a href="about/milestones.php"> </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include_from_root('website_template/choose_where_to.php');?>
     </div>
     <?php include_from_root('website_template/page_footer.php'); ?>
 
