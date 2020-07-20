@@ -772,10 +772,10 @@
                                     <strong>Open an account &amp; start trading today!</strong>
                                 </div>
                                 <div class="live-account-wrapper">
-                                    <a href="/account/live-account"
+                                    <a href="/multibankfx/account/live-account.php"
                                         class="btn btn-mex-red mex-m-r-15 mex-m-b-15 col-md-6 col-xs-12 start-trading-mobile-btn-1"><i
                                             class="fa fa-user mex-m-r-5" aria-hidden="true"></i>Live Account</a>
-                                    <a href="/account/demo-account"
+                                    <a href="/multibankfx/account/demo-account.php"
                                         class="btn btn-mex-blue mex-m-r-15 mex-m-b-15 col-md-6 col-xs-12 start-trading-mobile-btn-2"><i
                                             class="fa fa-desktop mex-m-r-5" aria-hidden="true"></i>Demo Account</a>
                                 </div>
@@ -796,7 +796,7 @@
                                     and withdrawals.
                                 </div>
                             </div>
-                            <a href="/account/account-funding" class="btn btn-mex mex-m-r-15 mex-m-b-15"
+                            <a href="/multibankfx/account/account-funding.php" class="btn btn-mex mex-m-r-15 mex-m-b-15"
                                 style="margin-top: 38px;">Deposit Now</a>
                         </div>
                     </div>
@@ -806,16 +806,15 @@
     </section>
     <section class="d-md-none d-block twc-section">
         <div class="mex-h1 text-1e32a3 text-center uppercase mt-3">Trade with confidence</div>
-        <div class="container" style="
-  background-image: url(/multibankfx/public_files/images/home/home_trade_start_trading.png);
-  background-size: cover;">
+        <div class="container" style="background-image: url(/multibankfx/public_files/images/home/home_trade_start_trading.png);
+                                      background-size: cover;">
             <div class="row">
                 <div style="
-  height: 100%;
-  width: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
-  position: absolute;
-" class="col-12"></div>
+                        height: 100%;
+                        width: 100%;
+                        background-color: rgba(255, 255, 255, 0.5);
+                        position: absolute;
+                        " class="col-12"></div>
                 <div class="col-12 py-5  d-block"
                     style="background-size: cover;background-color: rgba(#fff, #fff, #fff, 0.5) !important;">
                     <div class="col-lg-8 col-12 p-lg-0  mex-m-b-15 text-left">
@@ -973,7 +972,7 @@
     <section class="bg-gray mex-p-t-none">
         <div class="container">
             <h1 class="mex-h1 text-1e32a3 text-center mex-m-t-50 mex-m-b-30">About MultiBank Group</h1>
-            <div class="row about-custom-mobile">
+            <div class="row about-custom-mobile d-none d-md-flex">
                 <div class="col-12 col-md-6 mb-4 mb-md-0">
                     <section class="mex-block-card bg-white shadow-box-animate">
                         <div class="card-img-box hover-img-zoom">
@@ -1079,7 +1078,7 @@
         </div>
     </section>
     <section class="pt64 pb16 table-background global-presence d-none d-md-block lazyload" id="home_global_presence"
-        style="background-image: url('/public_files/images/about_us/global_presence/home_global_presence_bg.jpg')">
+        style="background-image: url(/multibankfx/public_files/images/about_us/global_presence/home_global_presence_bg.jpg)">
         <div class="mex-content">
             <h2 class="mex-h1 text-fff text-center">Global Presence</h2>
         </div>

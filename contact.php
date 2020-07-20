@@ -86,8 +86,7 @@
 
                                     <li><a href="tel:+43720775835?call"><img alt="Austria" src="/multibankfx/public_files/images/common/country/austria.png"><span><strong>Austria:</strong> +43 720 775835</span></a>
                                     </li>
-                                    <li><a href="tel:+390230578823?call"><img alt="Italy" src="/multibankfx/public_files/images/common/country/italy.png"><span><strong>Italy:</strong> +39 0230578823</span></a>
-                                    </li>
+                                   
                                     <li><a href="tel:+351304500657?call"><img alt="Portugal" src="/multibankfx/public_files/images/common/country/portugal.png"><span><strong>Portugal:</strong> +351 304 500 657</span></a>
                                     </li>
                                     <li><a href="tel:+35725262058?call"><img alt="Cyprus" src="/multibankfx/public_files/images/common/country/cyprus.png"><span><strong>Cyprus:</strong> +357 25 262058</span></a>
