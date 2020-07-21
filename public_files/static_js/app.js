@@ -3,19 +3,19 @@ var is_menu_hover = false;
 var is_menu_btn_hover = false;
 
 var special_country_list = new Array(
-    "AT","BE","BG","HR","CY","CZ","DK",
-    "EE","FI","FR","DE","GR","HU","IE",
-    "IT","LV","LT","LU","MT","NL","PL",
-    "PT","RO","SM","SK","SI","ES","SE",
-    "GB","VA","UK","AU"
+    "AT", "BE", "BG", "HR", "CY", "CZ", "DK",
+    "EE", "FI", "FR", "DE", "GR", "HU", "IE",
+    "IT", "LV", "LT", "LU", "MT", "NL", "PL",
+    "PT", "RO", "SM", "SK", "SI", "ES", "SE",
+    "GB", "VA", "UK", "AU"
 );
 //
 
-var telOnlyCountryList = ['al','at','by','be','bg','hr','cy','cz','dk','ee','fi','fr','ge','de','gr','hu','ie','it','kz','lv','lt','lu','mt','mc','nl','no','pl','pt','ro','ru','rs','sk','si','es','se','ch','tr','ua','gb','bh','eg','jo','kw','om','qa','sa','ae','ar','bo','br','cl','co','cr','ec','mx','pz','py','pe','uy','ve','ca','id','my','ph','vn','hk'];
+var telOnlyCountryList = ['al', 'at', 'by', 'be', 'bg', 'hr', 'cy', 'cz', 'dk', 'ee', 'fi', 'fr', 'ge', 'de', 'gr', 'hu', 'ie', 'it', 'kz', 'lv', 'lt', 'lu', 'mt', 'mc', 'nl', 'no', 'pl', 'pt', 'ro', 'ru', 'rs', 'sk', 'si', 'es', 'se', 'ch', 'tr', 'ua', 'gb', 'bh', 'eg', 'jo', 'kw', 'om', 'qa', 'sa', 'ae', 'ar', 'bo', 'br', 'cl', 'co', 'cr', 'ec', 'mx', 'pz', 'py', 'pe', 'uy', 've', 'ca', 'id', 'my', 'ph', 'vn', 'hk'];
 
 /**** Additional JS ******/
-$(function(){
-    $('.std-la-form .selection-country').change(function(){
+$(function() {
+    $('.std-la-form .selection-country').change(function() {
         var country = $(this).find('option:selected').data('name');
         $(this).parent().find('input[name="country_name"]').val(country);
         var form = $(this).parent().parent('form');
@@ -32,16 +32,16 @@ $(function() {
     if (width <= 1024) {
         $('nav-menu').empty();
     } else {
-        $('.header-menu-trigger').click(function () {
+        $('.header-menu-trigger').click(function() {
             $(this).addClass('active');
             var menu_type = $(this).data('type') + '-menu';
             openDropdownMenu(menu_type);
 
             $('.nav-menu').unbind('hover');
 
-            $('.nav-menu').hover(function () {
+            $('.nav-menu').hover(function() {
                 is_menu_hover = true;
-            }, function () {
+            }, function() {
                 is_menu_hover = false;
                 closeDropdownMenu(menu_type);
             });
@@ -94,7 +94,7 @@ var itiList = {};
 
 // Form Funcionality
 $(function() {
-    $('.send-verification-code-btn').click(function (e) {
+    $('.send-verification-code-btn').click(function(e) {
         e.preventDefault();
         // var country = $(this).parent().parent().find(".select_with_country").children("option:selected");
         var formId = $(this).parent().parent().attr('id');
@@ -119,8 +119,8 @@ $(function() {
             $.ajax({
                 url: '/api/sendSMSCode',
                 type: 'POST',
-                data: {'countrycode': countryCode, 'phone': filteredPhoneCode},
-                success: function (data) {
+                data: { 'countrycode': countryCode, 'phone': filteredPhoneCode },
+                success: function(data) {
                     var response = JSON.parse(data);
 
                     if (response.response.status.toLowerCase() == 'success') {
@@ -128,7 +128,7 @@ $(function() {
                         smscode.parent().append('<span class="form-tooltip active success">SMS Code Sent</span>');
                         smscode.data('verified', '0');
                         let countdownSeconds = 60;
-                        var countdown = setInterval(function(){
+                        var countdown = setInterval(function() {
                             sendBtn.text('(' + countdownSeconds + ')');
                             countdownSeconds--;
                             if (countdownSeconds <= 0) {
@@ -139,7 +139,7 @@ $(function() {
                                 }
                                 sendBtn.text('Send Code');
                             }
-                        },1000);
+                        }, 1000);
                     } else {
                         sendBtn.attr("disabled", false);
                     }
@@ -174,8 +174,8 @@ $(function() {
         $.ajax({
             url: '/api/verifySMSCode',
             type: 'POST',
-            data: {'countrycode': countryCode, 'phone': filteredPhoneCode, 'verify_code': smscode.val()},
-            success: function (data) {
+            data: { 'countrycode': countryCode, 'phone': filteredPhoneCode, 'verify_code': smscode.val() },
+            success: function(data) {
                 var response = JSON.parse(data);
                 if (response.response.status.toLowerCase() == 'success') {
                     smscode.addClass('border-valid');
@@ -546,7 +546,7 @@ $(document).ready(function () {
 });
 */
 
-$('.bonus-page-tab').click(function(event){
+$('.bonus-page-tab').click(function(event) {
     var tab = $(this).data('tab');
 
     $('.bonus-page-tab').removeClass('active');
@@ -576,13 +576,13 @@ $(function() {
         $(this).find('.text').show();
     });
 
-    $('.slidebar a').mouseout(function () {
+    $('.slidebar a').mouseout(function() {
         $(this).find('.text').hide();
     });
 
     function toggleSideBar() {
         var scrollTop = $(window).scrollTop();
-        if ( scrollTop >= winHeight && window.innerWidth >= 768) {
+        if (scrollTop >= winHeight && window.innerWidth >= 768) {
             $('.slidebar').show(200);
         } else if (scrollTop < winHeight && window.innerWidth >= 768) {
             $('.slidebar').hide(200);
@@ -591,7 +591,7 @@ $(function() {
 
     function toggleHeader() {
         var scrollTop = $(window).scrollTop();
-        if ( scrollTop >= winHeight && !isHeaderFixed && window.innerWidth >= 1200) {
+        if (scrollTop >= winHeight && !isHeaderFixed && window.innerWidth >= 1200) {
             $('.header').addClass('sticky');
             //$('.header-spacer').addClass('active');
             isHeaderFixed = true;
@@ -604,7 +604,7 @@ $(function() {
 
     function toggleLPBtn() {
         var scrollTop = $(window).scrollTop();
-        if ( scrollTop >= winHeight && window.innerWidth >= 1200) {
+        if (scrollTop >= winHeight && window.innerWidth >= 1200) {
             $('.bottom-bar').slideDown(300);
         } else if (scrollTop < winHeight && window.innerWidth >= 1200) {
             $('.bottom-bar').slideUp(300);
@@ -647,7 +647,7 @@ $(function() {
 
 function getUrlVars() {
     var vars = {};
-    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m, key, value) {
         vars[key] = value;
     });
     return vars;
@@ -665,11 +665,11 @@ $(function() {
         $('.lei-input-container').removeClass('visible');
         $('.lei-input-container').addClass('invisible');
     }
-    
+
     if ($('#la_select_company').length) {
         alterForm_TinField();
     }
-    
+
     //show or hide second holder document fields
     /*
     if($('#la_select_client_type').val() == 3) {
@@ -680,11 +680,11 @@ $(function() {
       jointAccountDocFields.hideJointAccountDocFields();
    }
    */
-   
-   
+
+
     $('#la_select_company').change(function() {
         alterForm_TinField();
-        
+
         if ($('#la_select_company option:selected').val() == '1' && $('#la_select_client_type option:selected').val() == '1') {
             $('.lei-input-container').removeClass('invisible');
             $('.lei-input-container').addClass('visible');
@@ -708,7 +708,7 @@ $(function() {
             var allowedExtensions = /(\.jpg|\.jpeg|\.png|\.doc|\.pdf|\.docx)$/i;
             $(this).parent().find('.file-upload-error').remove();
 
-            if(!allowedExtensions.exec(filePath)){
+            if (!allowedExtensions.exec(filePath)) {
                 $(this).parent().append('<div class="text-danger file-upload-error">Invalid file format.<br/>.jpeg/.jpg/.png/.doc/.docx/.pdf only</div>');
                 realInput.val('');
                 return false;
@@ -718,9 +718,9 @@ $(function() {
                 return false;
             } else {
                 const name = realInput.val().split(/\\|\//).pop();
-                const truncated = name.length > 20
-                    ? name.substr(name.length - 20)
-                    : name;
+                const truncated = name.length > 20 ?
+                    name.substr(name.length - 20) :
+                    name;
 
                 var fileInfo = $(this).parent().find('.file-info');
                 fileInfo.text(truncated);
@@ -731,7 +731,7 @@ $(function() {
 
     var ibNum = getUrlVars()["ibNum"];
     if (typeof ibNum !== 'undefined') {
-        var type = ibNum.substring(0,2);
+        var type = ibNum.substring(0, 2);
         var regulatorValue = 1;
         switch (type) {
             case '88':
@@ -752,32 +752,32 @@ $(function() {
 
 function alterForm_TinField() {
     var na = 'not available';
-    var companyRequireTinNumber = new Array("1");   //we set 1 as string as html input return string
+    var companyRequireTinNumber = new Array("1"); //we set 1 as string as html input return string
     var selectedCompany = $('#la_select_company option:selected').val();
-    if(companyRequireTinNumber.indexOf(selectedCompany) >= 0) {
-        $('.la-container-has_tin').removeClass("d-none");                       //we show the check box
-        $('.std-la-form input[name=has_tin]').prop('required',true);                           //make it required
-        $('.std-la-form input[name=tin_number]').prop('required',true);                        //together with the field
-        if($('.std-la-form input[name=has_tin]:checked').val() == 1) {
+    if (companyRequireTinNumber.indexOf(selectedCompany) >= 0) {
+        $('.la-container-has_tin').removeClass("d-none"); //we show the check box
+        $('.std-la-form input[name=has_tin]').prop('required', true); //make it required
+        $('.std-la-form input[name=tin_number]').prop('required', true); //together with the field
+        if ($('.std-la-form input[name=has_tin]:checked').val() == 1) {
             //yes has been selected, so let the user input or reshow what was submitted
-            if($('.std-la-form input[name=tin_number]').val() == na) {
+            if ($('.std-la-form input[name=tin_number]').val() == na) {
                 $('.std-la-form input[name=tin_number]').val('');
             }
-            $('.la-container-tin_number').removeClass("d-none");                //we show the field
-        }else if($('.std-la-form input[name=has_tin]:checked').val() == 0){
+            $('.la-container-tin_number').removeClass("d-none"); //we show the field
+        } else if ($('.std-la-form input[name=has_tin]:checked').val() == 0) {
             // no is selected, set "not available" and hide field
-            $('.la-container-tin_number').addClass("d-none");                       //we hide the field tin_number
-            $('.std-la-form input[name=tin_number]').val(na);                 //we set tin_number as "not available"
+            $('.la-container-tin_number').addClass("d-none"); //we hide the field tin_number
+            $('.std-la-form input[name=tin_number]').val(na); //we set tin_number as "not available"
 
         }
-    }else {
+    } else {
         //no need TIN
         $('.std-la-form input[name=has_tin]').prop('checked', false); //we uncheck has_tin
-        $('.la-container-has_tin').addClass("d-none");                      //we hide the check box
-        $('.std-la-form input[name=tin_number]').val('');             //we set tin_number as ""
-        $('.la-container-tin_number').addClass("d-none");                   //we hide the field
-        $('.std-la-form input[name=tin_number]').prop('required',false);                   //we set tin_number as not required
-        $('.std-la-form input[name=has_tin]').prop('required',false);                    //we set has_tin as not required
+        $('.la-container-has_tin').addClass("d-none"); //we hide the check box
+        $('.std-la-form input[name=tin_number]').val(''); //we set tin_number as ""
+        $('.la-container-tin_number').addClass("d-none"); //we hide the field
+        $('.std-la-form input[name=tin_number]').prop('required', false); //we set tin_number as not required
+        $('.std-la-form input[name=has_tin]').prop('required', false); //we set has_tin as not required
 
     }
 }
@@ -819,7 +819,7 @@ function switchLayout() {
 
             break;
     }
-    
+
     if (selectedClientType == '1' && $('#la_select_company option:selected').val() == '1') {
         $('.lei-input-container').removeClass('invisible');
         $('.lei-input-container').addClass('visible');
@@ -830,32 +830,32 @@ function switchLayout() {
 }
 
 var jointAccountDocFields = {
-  listJointAccountDocFields: function() {
-   return ['secondary_file_id_front', 'secondary_file_id_back', 'secondary_file_address_proof'];
-  },
-  disableJointAccountDocFields: function() {
-    var fields = this.listJointAccountDocFields();
-    for (var i = 0; i < fields.length; i++) { 
-      $("input[name=" + fields[i] + "]").prop( "disabled", true);
+    listJointAccountDocFields: function() {
+        return ['secondary_file_id_front', 'secondary_file_id_back', 'secondary_file_address_proof'];
+    },
+    disableJointAccountDocFields: function() {
+        var fields = this.listJointAccountDocFields();
+        for (var i = 0; i < fields.length; i++) {
+            $("input[name=" + fields[i] + "]").prop("disabled", true);
+        }
+    },
+    enableJointAccountDocFields: function() {
+        var fields = this.listJointAccountDocFields();
+        for (var i = 0; i < fields.length; i++) {
+            $("input[name=" + fields[i] + "]").removeAttr("disabled");
+        }
+    },
+    showJointAccountDocFields: function() {
+        $(".secondary-file-upload-container").show();
+    },
+    hideJointAccountDocFields: function() {
+        $(".secondary-file-upload-container").hide();
     }
-  },
-  enableJointAccountDocFields: function () {
-    var fields = this.listJointAccountDocFields();
-    for (var i = 0; i < fields.length; i++) { 
-      $("input[name=" + fields[i] + "]").removeAttr("disabled");
-    }  
-  },
-  showJointAccountDocFields: function() {
-    $(".secondary-file-upload-container").show();
-  },
-  hideJointAccountDocFields: function () {
-    $(".secondary-file-upload-container").hide();
-  }
 };
 
 // Regulations
 //Regulations page start
-$(document).ready(function () {
+$(document).ready(function() {
     if ($('#regulations-global-presence').length) {
         var regulations_swiper = new Swiper('#regulations-global-presence', {
             navigation: {
@@ -865,7 +865,7 @@ $(document).ready(function () {
             pagination: {
                 el: '.global-presence .swiper-pagination',
                 clickable: true,
-                renderBullet: function (index, className) {
+                renderBullet: function(index, className) {
                     switch (index) {
                         case 0:
                             text = 'ASIC';
@@ -896,7 +896,7 @@ $(document).ready(function () {
                             text = 'RAK';
                             img_url = '/public_files/images/common/country/uae.png';
                             break;
-                        //case 7:text='TFG';img_url='/resource/newwebsite/v1_0/images/country/china.png';break;
+                            //case 7:text='TFG';img_url='/resource/newwebsite/v1_0/images/country/china.png';break;
                     }
                     return '<span class="' + className + '" data-img="' + img_url + '">' +
                         '<span>' + text + '</span>' +
@@ -913,17 +913,17 @@ $(document).ready(function () {
                 },
             },
             on: {
-                init: function () {
+                init: function() {
                     regulations_toggle_card(this)
                 },
-                slideChangeTransitionStart: function () {
+                slideChangeTransitionStart: function() {
                     regulations_toggle_card(this)
                 },
             },
         });
 
 
-        $(window).resize(function () {
+        $(window).resize(function() {
             regulations_swiper_next();
         })
         regulations_swiper_next()
@@ -1014,22 +1014,22 @@ function slider_login() {
 
 $(function() {
     slider_login()
-    $(window).resize(function () {
+    $(window).resize(function() {
         slider_login()
     })
 
-    $('#login_Block_Modal').on('hidden.bs.modal', function (e) {
+    $('#login_Block_Modal').on('hidden.bs.modal', function(e) {
         var login_obj = $('#login_Block_Modal .login_Block');
         login_obj.remove();
         $('body').append(login_obj);
     });
-    $('#login_Block_Modal').on('show.bs.modal', function (e) {
+    $('#login_Block_Modal').on('show.bs.modal', function(e) {
         var login_obj = $('.login_Block');
         login_obj.remove();
         $('#login_Block_Modal .modal-body').append(login_obj);
     });
 
-    $(document).on('click', '.login_Block .title span', function () {
+    $(document).on('click', '.login_Block .title span', function() {
         var form_obj = $('.' + $(this).attr('data-name'));
 
         if ($(this).attr('data-name') == 'long-form-block') {
@@ -1049,7 +1049,7 @@ $(function() {
 /***  Where to go ***/
 /* definition of default label */
 
-if(typeof whereToGoItemLabel === 'undefined') {
+if (typeof whereToGoItemLabel === 'undefined') {
     //the language specific language object is not loaded from static_js/lang_data/, lets use the English labels below
     var whereToGoItemLabel = {
         //attributes
@@ -1101,7 +1101,7 @@ var whereToGoItem = {
     ic_global_offices: '<a href="/about/global-presence"><span class="ico-ic_global_offices"></span><div class="mex-content mex-clamp-3">' + whereToGoItemLabel.ic_global_offices_label + '</div></a>',
     ic_awards: '<a href="/about/awards"><span class="ico-ic_awards"></span><div class="mex-content mex-clamp-3">' + whereToGoItemLabel.ic_awards_label + '</div></a>',
     //method
-    injectIcons: function (cssSelector_, icons_) {
+    injectIcons: function(cssSelector_, icons_) {
         /**
          * Insert list of Where to go icons in ul selected by cssSelector_
          * The selected tag should be an ul
@@ -1109,10 +1109,10 @@ var whereToGoItem = {
         var list = '';
         var attrName = '';
         $(cssSelector_).hide();
-        for(i = 0; i < icons_.length; i++) {
+        for (i = 0; i < icons_.length; i++) {
             attrName = icons_[i];
-            if(this.hasOwnProperty(attrName)) {
-                list += '<li>'+ this[attrName] +'</li>';
+            if (this.hasOwnProperty(attrName)) {
+                list += '<li>' + this[attrName] + '</li>';
             }
         }
         $(cssSelector_).html(list);
@@ -1141,14 +1141,14 @@ $(function() {
         validator.destroy();
 
         var exchange = ["neteller", "skrill", "fasapay", "bank_transfer", "credit_card", "paytrust", "perfectmoney"];
-        var multibankfx = ["neteller", "skrill", "bank_transfer","credit_card", "paytrust", "perfectmoney", "fxbit", "globepay", "thunderxpay"];
+        var multibankfx = ["neteller", "skrill", "bank_transfer", "credit_card", "paytrust", "perfectmoney", "fxbit", "globepay", "thunderxpay"];
         var clearing = ["neteller", "skrill", "bank_transfer", "credit_card", "paytrust", "perfectmoney", "fxbit"];
-        
+
         if (document.documentElement.lang === 'vn') {
             clearing.push('ngan_luong');
             multibankfx.push("ngan_luong");
         }
-        
+
         // var exchange = ["neteller", "skrill", "fasapay", "bank_transfer", "credit_card", "paytrust", "perfectmoney","help_2_pay"];
         // var multibankfx = ["neteller", "skrill", "bank_transfer","credit_card", "paytrust", "perfectmoney","help_2_pay", "fxbit"];
         // var clearing = ["neteller", "skrill", "bank_transfer", "credit_card", "paytrust", "perfectmoney","help_2_pay", "fxbit"];
@@ -1183,8 +1183,8 @@ $(function() {
             }
         })
 
-        $('#withdrawal_selection_form .deposit_table td').click(function () {
-            $('#withdrawal_selection_form .deposit_table td').each(function () {
+        $('#withdrawal_selection_form .deposit_table td').click(function() {
+            $('#withdrawal_selection_form .deposit_table td').each(function() {
                 $(this).removeClass('active');
             });
             $(this).addClass('active');
@@ -1196,7 +1196,7 @@ $(function() {
             closeWithdrawalForm();
         });
 
-        $('#withdrawal_selection_form .deposit_amount_value').change(function () {
+        $('#withdrawal_selection_form .deposit_amount_value').change(function() {
             update_amount_value($(this).val())
             return false;
         })
@@ -1259,7 +1259,7 @@ function deleteMktCookie(name_, domain_, path_) {
 */
 
 
-$(document).ready(function () {
+$(document).ready(function() {
 
     if ($('#about-page-awards .swiper-container').length) {
         new Swiper('#about-page-awards .swiper-container', {
@@ -1279,10 +1279,10 @@ $(document).ready(function () {
                 },
             },
             on: {
-                init: function () {
+                init: function() {
                     about_toggle_card_awards(this)
                 },
-                slideChangeTransitionStart: function () {
+                slideChangeTransitionStart: function() {
                     about_toggle_card_awards(this)
                 },
             },
@@ -1310,15 +1310,14 @@ $(document).ready(function () {
     }
 })
 
-$(function(){
-        if(document.getElementById('leaderboard')){
-            let leaderboard_display_time = new Date('2020-01-05T22:00:00Z').getTime();
-            let now = new Date().getTime();
-            if(now >= leaderboard_display_time){
-                $('#leaderboard').show();
-            }
-            else{
-                $('#leaderboard').hide();
-            }
+$(function() {
+    if (document.getElementById('leaderboard')) {
+        let leaderboard_display_time = new Date('2020-01-05T22:00:00Z').getTime();
+        let now = new Date().getTime();
+        if (now >= leaderboard_display_time) {
+            $('#leaderboard').show();
+        } else {
+            $('#leaderboard').hide();
         }
-    });
+    }
+});
