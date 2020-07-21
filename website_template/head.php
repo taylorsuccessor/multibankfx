@@ -29,10 +29,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KNJQJTN');
     </script>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-    <link rel="shortcut icon" href="/multibankfx/public_files/images/common/icons/favicon.ico">
-    <link rel="stylesheet" href="/multibankfx/public_files/static_min_css/library.min.css">
-    <link rel="stylesheet" href="/multibankfx/public_files/static_min_css/custom.min.css">
-    <!-- <link rel="stylesheet" href="/multibankfx/public_files/static_css/custom.css"> -->
+    <link rel="shortcut icon" href="public_files/images/common/icons/favicon.ico">
+    <link rel="stylesheet" href="public_files/static_min_css/library.min.css">
+    <link rel="stylesheet" href="public_files/static_min_css/custom.min.css">
+    <!-- <link rel="stylesheet" href="public_files/static_css/custom.css"> -->
     <style>
         form {
             position: relative;
@@ -70,12 +70,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         }
     </style>
     <link rel="stylesheet" type="text/css"
-          href="/multibankfx/public_files/static_css/payment_gateway/form_validate.css">
-    <link rel="stylesheet" type="text/css" href="/multibankfx/public_files/static_css/font-awesome.min.css">
+          href="public_files/static_css/payment_gateway/form_validate.css">
+    <link rel="stylesheet" type="text/css" href="public_files/static_css/font-awesome.min.css">
     <script type="62d2d0d9881871a18debc942-text/javascript"
-            src="/multibankfx/public_files/static_js/jquery.ba-throttle-debounce.js"></script>
-    <script src="/multibankfx/public_files/static_js/jquery-3.3.1.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
+            src="public_files/static_js/jquery.ba-throttle-debounce.js"></script>
+    <script src="public_files/static_js/jquery-3.3.1.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
     <script type="785e4eb336bec21b04c19cf7-text/javascript">const page_dir = 'ltr';</script>
-    <link rel="stylesheet" type="text/css" href="/multibankfx/public_files/static_css/swiper-3.4.2.min.css">
-    <link rel="stylesheet" href="/multibankfx/public_files/static_css/rtl.css">
+    <link rel="stylesheet" type="text/css" href="public_files/static_css/swiper-3.4.2.min.css">
+    <link rel="stylesheet" href="public_files/static_css/rtl.css">
 </head>

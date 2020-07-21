@@ -7,31 +7,31 @@
         <div class="icon-next-list">
           <ul class="bg-white target-icon">
             <li>
-              <a href="/multibankfx/about/why-multibank-group.php">
+              <a href="about/why-multibank-group.php">
                 <span class="ico-ic_why_multibank"></span>
                 <div class="mex-content mex-clamp-3">Why Multibank</div>
               </a>
             </li>
             <li>
-              <a href="/multibankfx/mfx/v1/about/regulations.php">
+              <a href="mfx/v1/about/regulations.php">
                 <span class="ico-ic_our_regulations"></span>
                 <div class="mex-content mex-clamp-3">Our Regulations</div>
               </a>
             </li>
             <li>
-              <a href="/multibankfx/about/security-of-funds.php">
+              <a href="about/security-of-funds.php">
                 <span class="ico-ic_security_of_funds"></span>
                 <div class="mex-content mex-clamp-3">Security of Funds</div>
               </a>
             </li>
             <li>
-              <a href="/multibankfx/about/milestones.php">
+              <a href="about/milestones.php">
                 <span class="ico-ic_our_milestones"></span>
                 <div class="mex-content mex-clamp-3">Our Milestones</div>
               </a>
             </li>
             <li>
-              <a href="/multibankfx/contact.php">
+              <a href="contact.php">
                 <span class="ico-ic_Call_Our_24_7_Hotline"></span>
                 <div class="mex-content mex-clamp-3">
                   Call Our 24/5 Hotline
@@ -45,7 +45,7 @@
               </a>
             </li>
             <li>
-              <a href="/multibankfx/investor-relations.php">
+              <a href="investor-relations.php">
                 <span class="ico-ic_partnership_programs"></span>
                 <div class="mex-content mex-clamp-3">
                   Partnership Programs
@@ -53,19 +53,19 @@
               </a>
             </li>
             <li>
-              <a href="/multibankfx/account/bonus.php">
+              <a href="account/bonus.php">
                 <span class="ico-ic_bonus_programs"></span>
                 <div class="mex-content mex-clamp-3">Bonus Programs</div>
               </a>
             </li>
             <li>
-              <a href="/multibankfx/partnership/introducing-brokers.php">
+              <a href="partnership/introducing-brokers.php">
                 <span class="ico-ic_become_an_ib"></span>
                 <div class="mex-content mex-clamp-3">Become an IB</div>
               </a>
             </li>
             <li>
-              <a href="/multibankfx/platforms/compare-platforms.php">
+              <a href="platforms/compare-platforms.php">
                 <span class="ico-ic_compare_our_trading_platforms"></span>
                 <div class="mex-content mex-clamp-3">
                   Compare our Trading Platforms
@@ -73,13 +73,13 @@
               </a>
             </li>
             <li>
-              <a href="/multibankfx/tools.php">
+              <a href="tools.php">
                 <span class="ico-ic_trading_tools"></span>
                 <div class="mex-content mex-clamp-3">Trading Tools</div>
               </a>
             </li>
             <li>
-              <a href="/multibankfx/products.php">
+              <a href="products.php">
                 <span class="ico-ic_our_products"></span>
                 <div class="mex-content mex-clamp-3">Our Products</div>
               </a>
