@@ -16,11 +16,6 @@ include $root_path.'database/db_driver.php';
 
     function include_from_root($path)
     {
-        try {
         global $root_path;
         include($root_path.$path);
-    }
-        catch(Exception $error){
-            echo $error ->getMessage();
-        }
 }
