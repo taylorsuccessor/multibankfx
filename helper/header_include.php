@@ -13,13 +13,14 @@ $request_file =( $request_file=='' )?'home.php':$request_file;
 
 include $root_path.'database/db_driver.php';
 
-try {
+
     function include_from_root($path)
     {
+        try {
         global $root_path;
         include($root_path . $path);
     }
-}
-catch(Exception $error){
- $error ->getMessage();
+        catch(Exception $error){
+            $error ->getMessage();
+        }
 }
