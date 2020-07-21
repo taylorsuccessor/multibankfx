@@ -736,7 +736,7 @@
                 </div>
             </div>
         </div>
-        <!--<div class="col-12 py-5 mb-5 d-block d-md-none" style=" display:none !important; background-image: url('/multibankfx/public_files/images/home/bg_our_product.png')">-->
+        <!--<div class="col-12 py-5 mb-5 d-block d-md-none" style=" display:none !important; background-image: url('public_files/images/home/bg_our_product.png')">-->
         <div class="col-12 py-5 mb-5 d-block d-md-none" style=" display:none !important; ">
             <div class="d-flex mex-h3 text-1e32a3">
                 <ul class="mr-2" style="list-style: disc;">
@@ -806,7 +806,7 @@
     </section>
     <section class="d-md-none d-block twc-section">
         <div class="mex-h1 text-1e32a3 text-center uppercase mt-3">Trade with confidence</div>
-        <div class="container" style="background-image: url(/multibankfx/public_files/images/home/home_trade_start_trading.png);
+        <div class="container" style="background-image: url(public_files/images/home/home_trade_start_trading.png);
                                       background-size: cover;">
             <div class="row">
                 <div style="
@@ -920,7 +920,7 @@
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
         </div>
     </section>
-    <section class="bg-white p0 index-platforms d-md-none" style="background-image: url(/multibankfx/public_files/images/home/home_platforms_bg.jpg);background-size: contain;
+    <section class="bg-white p0 index-platforms d-md-none" style="background-image: url(public_files/images/home/home_platforms_bg.jpg);background-size: contain;
     background-position: center;
     background-repeat: no-repeat;">
         <div class="container" style="    background-color: rgba(255,255,255,0.8);height: 100%;padding: 40px 0;">
@@ -1078,7 +1078,7 @@
         </div>
     </section>
     <section class="pt64 pb16 table-background global-presence d-none d-md-block lazyload" id="home_global_presence"
-        style="background-image: url(/multibankfx/public_files/images/about_us/global_presence/home_global_presence_bg.jpg)">
+        style="background-image: url(public_files/images/about_us/global_presence/home_global_presence_bg.jpg)">
         <div class="mex-content">
             <h2 class="mex-h1 text-fff text-center">Global Presence</h2>
         </div>
@@ -1604,7 +1604,7 @@ global_presence_british_virgin_islands.jpg" alt="British Virgin Islands"></div>
     </section>
     <h2 class=" text-center text-1e32a3 uppercase mb-4 d-block d-md-none" style="padding-top: 15px;">Awards</h2>
     <section class="about-page-awards table-background_1" id="about-page-awards"
-    style="padding:30px 0; background-image: url(/multibankfx/public_files/images/about_us/home_awards_bg.png);background-position: top;background-size: cover;">
+    style="padding:30px 0; background-image: url(public_files/images/about_us/home_awards_bg.png);background-position: top;background-size: cover;">
     <div class="container index-awards">
         <div class="row">
             <div class="col-md-12 text-center mex-m-b-30 d-none d-md-block d-lg-block">

@@ -61,13 +61,13 @@
     </noscript>
     <section id="banner-global-presence" style="margin:0; padding:0;">
         <div class="d-none d-lg-block">
-            <img alt="" class="responsive" data-entity-type="" data-entity-uuid="" src="../public_files/images/landing_page/global-presence-new/global_presence_en_desktop-min.jpg" />
+            <img alt="" class="responsive" data-entity-type="" data-entity-uuid="" src="public_files/images/landing_page/global-presence-new/global_presence_en_desktop-min.jpg" />
         </div>
         <div class="d-block d-lg-none">
-            <img alt="" class="responsive" data-entity-type="" data-entity-uuid="" src="../public_files/images/landing_page/global-presence-new/global_presence_en_mobile-min.jpg" />
+            <img alt="" class="responsive" data-entity-type="" data-entity-uuid="" src="public_files/images/landing_page/global-presence-new/global_presence_en_mobile-min.jpg" />
         </div>
     </section>
-    <section class="pt64 pb16 table-background global-presence lazyload d-block" id="home_global_presence" style="background-image: url(../public_files/images/about_us/global_presence/home_global_presence_bg.jpg)">
+    <section class="pt64 pb16 table-background global-presence lazyload d-block" id="home_global_presence" style="background-image: url(public_files/images/about_us/global_presence/home_global_presence_bg.jpg)">
         <div class="mex-content">
             <h2 class="mex-h1 text-fff text-center">Global Presence</h2>
         </div>
@@ -75,7 +75,7 @@
             <div class="swiper-wrapper mex-m-b-100">
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_cayman_islands.jpg" alt="Cayman Islands" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_cayman_islands.jpg" alt="Cayman Islands" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Cayman Islands'); ?>
@@ -91,7 +91,7 @@
                 </div>
                 <div class="swiper-slide ">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_hong_kong.jpg" alt="Hong Kong" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_hong_kong.jpg" alt="Hong Kong" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Hong Kong'); ?>
@@ -107,7 +107,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_australia.jpg" alt="Australia" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_australia.jpg" alt="Australia" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Australia'); ?>
@@ -127,7 +127,7 @@
 
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_germany.jpg" alt="Germany" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_germany.jpg" alt="Germany" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Germany'); ?>
@@ -145,7 +145,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_austria.jpg" alt="Austria" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_austria.jpg" alt="Austria" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Austria'); ?>
@@ -163,7 +163,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_spain.jpg" alt="Spain" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_spain.jpg" alt="Spain" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate(' Spain'); ?>
@@ -182,7 +182,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_usa.jpg" alt="USA" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_usa.jpg" alt="USA" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('USA'); ?>
@@ -198,7 +198,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_mexico.jpg" alt="Mexico" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_mexico.jpg" alt="Mexico" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Mexico'); ?>
@@ -216,7 +216,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_china.jpg" alt="China" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_china.jpg" alt="China" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('China'); ?>
@@ -232,7 +232,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_vietnam.jpg" alt="UAE" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_vietnam.jpg" alt="UAE" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Vietnam'); ?>
@@ -249,7 +249,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_philippines.jpg" alt="UAE" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_philippines.jpg" alt="UAE" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Philippines'); ?>
@@ -267,7 +267,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_malaysia.jpg" alt="UAE" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_malaysia.jpg" alt="UAE" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Malaysia'); ?>
@@ -285,7 +285,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_uae2.jpg" alt="UAE" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_uae2.jpg" alt="UAE" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('UAE'); ?>
@@ -304,7 +304,7 @@
 
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_kuwai.jpg" alt="British Virgin Islands" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_kuwai.jpg" alt="British Virgin Islands" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Kuwait'); ?>
@@ -322,7 +322,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_cyprus.jpg" alt="British Virgin Islands" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_cyprus.jpg" alt="British Virgin Islands" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Cyprus'); ?>
@@ -338,7 +338,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_turkey.jpg" alt="British Virgin Islands" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_turkey.jpg" alt="British Virgin Islands" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('Turkey'); ?>
@@ -355,7 +355,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_british_virgin_islands.jpg" alt="British Virgin Islands" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_british_virgin_islands.jpg" alt="British Virgin Islands" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('British Virgin Islands'); ?>
@@ -371,7 +371,7 @@
                 </div>
                 <div class="swiper-slide">
                     <section class="mex-block-card-v mex-third">
-                        <div class="card-img-box"><img class="card-img mex-img-cover" src="../public_files/images/about_us/global_presence/global_presence_british_virgin_islands_mbg.jpg" alt="British Virgin Islands MBG" /></div>
+                        <div class="card-img-box"><img class="card-img mex-img-cover" src="public_files/images/about_us/global_presence/global_presence_british_virgin_islands_mbg.jpg" alt="British Virgin Islands MBG" /></div>
                         <div class="card-content bg-white text-center">
                             <div class="mex-h3 mex-clamp-1 mex-m-b-15">
                                 <?php translate('British Virgin Islands'); ?>
@@ -409,7 +409,7 @@
             }
         }
     </style>
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="406a3611760a995fa473b71b-text/javascript">
         $(function() {
             var icons = [
@@ -434,16 +434,16 @@
 
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="../cdn-cgi/l/email-protection.html#620111220f170e160b00030c09041a4c010d0f">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#620111220f170e160b00030c09041a4c010d0f">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-406a3611760a995fa473b71b-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="../public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -910,7 +910,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="406a3611760a995fa473b71b-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -923,12 +923,12 @@
             });
         })
     </script>
-    <script src="../public_files/static_js/lang_data/en.js" type="406a3611760a995fa473b71b-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.dataTables.min.js" type="406a3611760a995fa473b71b-text/javascript"></script>
-    <script src="../public_files/static_js/lazysizes.min.js" type="406a3611760a995fa473b71b-text/javascript"></script>
-    <script src="../public_files/static_js/jquery.validate.min.js" type="406a3611760a995fa473b71b-text/javascript"></script>
-    <script src="../public_files/static_js/intlTelInput.min.js" type="406a3611760a995fa473b71b-text/javascript"></script>
-    <script src="../public_files/static_js/app.js" type="406a3611760a995fa473b71b-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="406a3611760a995fa473b71b-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="406a3611760a995fa473b71b-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="406a3611760a995fa473b71b-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="406a3611760a995fa473b71b-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="406a3611760a995fa473b71b-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="406a3611760a995fa473b71b-text/javascript"></script>
     <script type="406a3611760a995fa473b71b-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
@@ -1015,8 +1015,8 @@
             }
         });
     </script>
-    <script src="../public_files/static_js/swiper-4.3.5.min.js" type="406a3611760a995fa473b71b-text/javascript"></script>
-    <script src="../public_files/static_js/app_home.js" type="406a3611760a995fa473b71b-text/javascript"></script>
+    <script src="public_files/static_js/swiper-4.3.5.min.js" type="406a3611760a995fa473b71b-text/javascript"></script>
+    <script src="public_files/static_js/app_home.js" type="406a3611760a995fa473b71b-text/javascript"></script>
     <style>
         .home-banner-form .btn-contact {
             line-height: 1.1;
