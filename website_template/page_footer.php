@@ -170,3 +170,43 @@
         </div>
     </div>
 </section>
+
+<script>
+// $(document).delegate('form', 'submit', function(event) {
+//     var $form = $(this);
+//     var id = $form.attr('id');
+//     var data = $form.serialize();
+//     // ...
+// // });
+
+
+//         $(function () {
+//                  $(document).delegate('form', 'submit', function(event) {{
+//                                 e.preventDefault(); 
+
+//                                 var form = $(this);
+//                                 var id = $form.attr('id');
+//                                 var url = $form.attr('action');
+//                                 var formData = form.serialize();
+//                             $.ajax({
+//                                     type: "POST",
+//                                     url: url, //submission.php
+//                                     data: formData // serializes the form's elements.
+
+//                                     beforeSend: function(data) {
+
+//                                     console.log("data is here");
+//                                     // console.log('form data'+data);
+//                                         },
+//                                     success: function(data)
+//                                     {
+//                                         alert("submitted form"); // show response from the php script.
+//                                     }
+//                                 })
+
+
+//                         });
+                         
+//                          });
+
+</script>

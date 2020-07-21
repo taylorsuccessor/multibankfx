@@ -113,7 +113,7 @@
                 <div class="col-md-6 col-lg-4 col-sm-12 col-xs-12 d-none d-md-block">
                     <div class="mex-h3  mex-p-v-15 text-sm-center text-md-left">GET A CALL BACK</div>
                     <div style="width: 100%;">
-                        <form action="https://www.multibankfx.com/form/callback?" name='call_back_footer_form'
+                        <form action="" name='call_back_footer_form' action=""
                               class='multibank-form row mx-0 w-100 new' method='post' enctype=''
                               id='call_back_footer_form' target='' autocomplete='on'>
                             <input type='hidden' name='t_date' value='MjAyMC0wNi0yNyAwMjo0ODo1Nw=='/>
@@ -164,7 +164,7 @@
                             <div class='d-none'>
                                 <label for='' class='d-none'>
                                 </label>
-                                <select data-message='Country Name is Required.'
+                                <!-- <select data-message='Country Name is Required.'
                                         data-extra-message="Country Name Invalid."
                                         class='selection-country form-control  mb-0 select_with_country select_with_country'
                                         name='country_name' required>
@@ -480,20 +480,21 @@
                                     <option data-country_iso_code="YE" data-name='YE' value='YE'>YEMEN</option>
                                     <option data-country_iso_code="ZM" data-name='ZM' value='ZM'>ZAMBIA</option>
                                     <option data-country_iso_code="ZW" data-name='ZW' value='ZW'>ZIMBABWE</option>
-                                </select><input type="hidden" name="country_code" value=""/></div>
+                                </select><input type="hidden" name="country_code" value=""/> -->
+                                </div>
                             <div class='mex-form-item col-12 p-1'>
                                 <label for='' class='d-none'>
                                 </label>
-                                <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.'
+                                <!-- <input type='phone' data-ip_country_code='IN' data-message='Phone Number is required.'
                                        data-extra-message="Phone Number Invalid" data-regex=''
                                        class='input_with_phone form-control mb-0 input_with_phone' name='phone_display'
                                        placeholder='' required value=''/>
-                                <input type='hidden' name='phone'/>
+                                <input type='hidden' name='phone'/> -->
                             </div>
                             <div class='mex-form-item col-6 col-md-6 p-1 sms-code-container'>
-                                <input type='number' name='phone_sms_verif_code' class='sms_verif_code regCon oth_sp'
+                                <!-- <input type='number' name='phone_sms_verif_code' class='sms_verif_code regCon oth_sp'
                                        placeholder='SMS Code' required='required' number='true' autocomplete='off'
-                                       list='autocompleteOff'/>
+                                       list='autocompleteOff'/> -->
                             </div>
                             <div class='mex-form-item col-6 col-md-6 p-1 send-code-container'>
                                 <button class='btn btn-mex w-100 h-40p send-verification-code-btn min-w-unset '
@@ -524,3 +525,45 @@
         </div>
     </div>
 </section>
+
+<script>
+
+
+// $("#call_back_footer_form").submit(function(e) {
+
+
+//         e.preventDefault(); // avoid to execute the actual submit of the form.
+
+//         var form = $(this);
+//         var url = 'contact_us_footer.php';
+//         var datais = form.serialize();
+//         // console.log('form is here'+form);
+//         // console.log('url is here',url);
+//         // alert('hi');
+
+//         $.ajax({
+//             type: "POST",
+//             url: url, //submission.php
+//             data: datais, // serializes the form's elements.
+
+//             beforeSend: function(data) {
+        
+//         // alert('hi');
+//         // alert(data);
+//             // console.log('form data'+data);
+//                 },
+//             success: function(data)
+//             {
+//                 // alert('working great');
+//                 // alert(data); // show response from the php script.
+//             }
+//         })
+
+//         });
+
+      
+
+</script>
+<?php
+
+?>

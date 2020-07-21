@@ -7,11 +7,12 @@ $url_base_path =str_replace('/private','',$url_base_path);
 $url_base_path =str_replace($document_root,'',$url_base_path);
 
 $request_url = trim($_SERVER['REQUEST_URI']);
-echo $url_base_path;
-echo $request_url;
+// echo $url_base_path;
+// echo $request_url;
 $request_file = str_replace('/multibankfx/','',$request_url);
 
 $request_file =( $request_file=='' )?'home.php':$request_file;
+
 
 include $root_path.'database/db_driver.php';
 

@@ -1,4 +1,12 @@
 
+
+<?php
+
+
+$siteurl ="http://localhost/multibankfx";
+
+?>
+
 <div class="header">
     <div class="header-top d-none d-md-block">
         <div class="row">
@@ -24,12 +32,12 @@
                 <a class="btn btn-sm btn-gold mr-1 header-mb-btn d-md-flex d-none align-items-center"
                    href="contact.html"><i class="ti-headphone-alt">&nbsp;</i>Contact Us</a> <a
                     class="btn btn-sm btn-red mr-1 header-mb-btn d-md-flex d-none align-items-center"
-                    href="account/live-account.html"><i class="ti-user">&nbsp;</i>Live Account</a> <a
+                    href="account/live-account.php"><i class="ti-user">&nbsp;</i>Live Account</a> <a
                     class="btn btn-sm btn-blue hide-768 mr-1 d-flex align-items-center"
-                    href="demo_competition.html"><i class="ti-desktop">&nbsp;</i>Demo Account</a>
+                    href="account/demo-account.php"><i class="ti-desktop">&nbsp;</i>Demo Account</a>
 
                 <a class="btn btn-sm btn-grey hide-768 mr-1 d-flex align-items-center"
-                   href="partnership/introducing-brokers.html"><i
+                   href="partnership/<?php echo "introducing-brokers.php" ?>"><i
                         style="font-family: 'icomoon' !important; font-size:9px; font-style: normal; margin-right: 5px;">&nbsp;&#xe920;</i>IB
                     Registration</a></div>
         </div>
@@ -40,8 +48,9 @@
                 <div class="line-height-75 line-height-1280-55 header-bottom-left-container">
                     <div class="header-boottom-logo">
                         <a href="index.html">
+
                             <img alt="logo" class="logo logo-dark header-logo"
-                                 src="public_files/images/common/logo_black_360.png"/>
+                                 src="<?php echo $siteurl;?>/public_files/images/common/logo_black_360.png"/>
                         </a>
                     </div>
                 </div>
@@ -120,10 +129,10 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
                                         alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
                                         data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                        src="public_files/images/common/menu_ads_banner.png"/></a>
                             </div>
                         </div>
                     </div>
@@ -143,11 +152,11 @@
                                 <h4 class="uppercase mb0"><a class="font-24" href="products.html">Products</a></h4>
                             </div>
                             <ul class="nav-menu-list">
-                                <li><a href="products/forex.html">Forex</a></li>
-                                <li><a href="products/metals.html">Metals</a></li>
-                                <li><a href="products/shares.html">Shares</a></li>
-                                <li><a href="products/indices.html">Indices</a></li>
-                                <li><a href="products/commodities.html">Commodities</a></li>
+                                <li><a href="products/forex.php">Forex</a></li>
+                                <li><a href="products/metals.php">Metals</a></li>
+                                <li><a href="products/shares.php">Shares</a></li>
+                                <li><a href="products/indices.php">Indices</a></li>
+                                <li><a href="products/commodities.php">Commodities</a></li>
 
                             </ul>
                         </div>
@@ -156,10 +165,10 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
                                         alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
                                         data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                        src="public_files/images/common/menu_ads_banner.png"/></a>
                             </div>
                         </div>
                     </div>
@@ -193,10 +202,10 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
                                         alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
                                         data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                        src="public_files/images/common/menu_ads_banner.png"/></a>
                             </div>
                         </div>
                     </div>
@@ -219,13 +228,13 @@
                                 </h4>
                             </div>
                             <ul class="nav-menu-list">
-                                <li><a href="account/live-account.html">Live Account</a></li>
-                                <li><a href="demo_competition.html">Demo Account</a></li>
-                                <li><a href="account/islamic-account.html">Islamic Account</a></li>
-                                <li><a href="account/account-funding.html">Account Funding</a></li>
-                                <li><a href="account/withdrawals.html">Withdrawals</a></li>
-                                <li><a href="account/account-forms.html">Account Forms</a></li>
-                                <li><a href="account/bonus.html">Bonuses</a></li>
+                                <li><a href="account/live-account.php">Live Account</a></li>
+                                <li><a href="account/demo-account.php">Demo Account</a></li>
+                                <li><a href="account/islamic-account.php">Islamic Account</a></li>
+                                <li><a href="account/account-funding.php">Account Funding</a></li>
+                                <li><a href="account/withdrawals.php">Withdrawals</a></li>
+                                <li><a href="account/account-forms.php">Account Forms</a></li>
+                                <li><a href="account/bonus.php">Bonuses</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4 col-sm-12  col-xs-12 ">
@@ -233,10 +242,10 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
                                         alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
                                         data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                        src="public_files/images/common/menu_ads_banner.png"/></a>
                             </div>
                         </div>
                     </div>
@@ -271,10 +280,10 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
                                         alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
                                         data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                        src="public_files/images/common/menu_ads_banner.png"/></a>
                             </div>
                         </div>
                     </div>
@@ -296,11 +305,11 @@
                                                              href="investor-relations.html">Partnership</a></h4>
                             </div>
                             <ul class="nav-menu-list">
-                                <li><a href="partnership/introducing-brokers.html">Introducing Brokers</a></li>
-                                <li><a href="partnership/franchise-program.html">Franchise Program</a></li>
-                                <li><a href="partnership/white-label.html">White Label</a></li>
-                                <li><a href="partnership/prime-of-primes.html">Prime of Primes</a></li>
-                                <li><a href="partnership/cpa-affiliate-program.html">CPA Affiliate Program</a></li>
+                                <li><a href="partnership/<?php echo "introducing-brokers.php" ?>">Introducing Brokers</a></li>
+                                <li><a href="partnership/franchise-program.php">Franchise Program</a></li>
+                                <li><a href="partnership/white-label.php">White Label</a></li>
+                                <li><a href="partnership/prime-of-primes.php">Prime of Primes</a></li>
+                                <li><a href="partnership/cpa-affiliate-program.php">CPA Affiliate Program</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4 col-sm-12  col-xs-12 ">
@@ -308,10 +317,10 @@
                                 <div class="nav-menu-heading">
                                     <h4 class="uppercase mb0 text-center">OPEN AN ACCOUNT</h4>
                                 </div>
-                                <a class="d-block w-75 mx-auto" href="account/live-account.html"><img
+                                <a class="d-block w-75 mx-auto" href="account/live-account.php"><img
                                         alt="OPEN AN ACCOUNT" class="w-100 h-auto" data-entity-type=""
                                         data-entity-uuid=""
-                                        src="public_files/images/common/menu_ads_banner.png%3Fv=0327"/></a>
+                                        src="public_files/images/common/menu_ads_banner.png"/></a>
                             </div>
                         </div>
                     </div>
@@ -334,11 +343,11 @@
                 </li>
                 <li class="nav-menu-mobile-section py-1 mx-4"><a href="products.html">Products</a>
                     <ul class="text-center">
-                        <li><a href="products/forex.html">Forex</a></li>
-                        <li><a href="products/metals.html">Metals</a></li>
-                        <li><a href="products/shares.html">Shares</a></li>
-                        <li><a href="products/indices.html">Indices</a></li>
-                        <li><a href="products/commodities.html">Commodities</a></li>
+                        <li><a href="products/forex.php">Forex</a></li>
+                        <li><a href="products/metals.php">Metals</a></li>
+                        <li><a href="products/shares.php">Shares</a></li>
+                        <li><a href="products/indices.php">Indices</a></li>
+                        <li><a href="products/commodities.php">Commodities</a></li>
 
                     </ul>
                 </li>
@@ -355,13 +364,13 @@
                 </li>
                 <li class="nav-menu-mobile-section py-1 mx-4"><a href="account.html">Account &amp; Funding</a>
                     <ul class="text-center">
-                        <li><a href="account/live-account.html">Live Account</a></li>
-                        <li><a href="demo_competition.html">Demo Account</a></li>
-                        <li><a href="account/islamic-account.html">Islamic Account</a></li>
-                        <li><a href="account/account-funding.html">Account Funding</a></li>
-                        <li><a href="account/withdrawals.html">Withdrawals</a></li>
-                        <li><a href="account/account-forms.html">Account Forms</a></li>
-                        <li><a href="account/bonus.html">Bonuses</a></li>
+                        <li><a href="account/live-account.php">Live Account</a></li>
+                        <li><a href="account/demo-account.php">Demo Account</a></li>
+                        <li><a href="account/islamic-account.php">Islamic Account</a></li>
+                        <li><a href="account/account-funding.php">Account Funding</a></li>
+                        <li><a href="account/withdrawals.php">Withdrawals</a></li>
+                        <li><a href="account/account-forms.php">Account Forms</a></li>
+                        <li><a href="account/bonus.php">Bonuses</a></li>
                     </ul>
                 </li>
                 <li class="nav-menu-mobile-section py-1 mx-4"><a href="tools.html">Tools</a>
@@ -376,11 +385,11 @@
                 </li>
                 <li class="nav-menu-mobile-section py-1 mx-4"><a href="investor-relations.html">Partnership</a>
                     <ul class="text-center">
-                        <li><a href="partnership/introducing-brokers.html">Introducing Brokers</a></li>
-                        <li><a href="partnership/franchise-program.html">Franchise Program</a></li>
+                        <li><a href="partnership/<?php echo "introducing-brokers.php" ?>">Introducing Brokers</a></li>
+                        <li><a href="partnership/franchise-program.php">Franchise Program</a></li>
                         <li><a href="partnership/white-label.html">White Label</a></li>
-                        <li><a href="partnership/prime-of-primes.html">Prime of Primes</a></li>
-                        <li><a href="partnership/cpa-affiliate-program.html">CPA Affiliate Program</a></li>
+                        <li><a href="partnership/prime-of-primes.php">Prime of Primes</a></li>
+                        <li><a href="partnership/cpa-affiliate-program.php">CPA Affiliate Program</a></li>
                     </ul>
                 </li>
                 <li class="nav-menu-mobile-section py-1 px-4 lang-mobile-menu" style="border-top: 1px solid #ccc;"><a

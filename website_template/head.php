@@ -1,4 +1,7 @@
+<?php 
 
+$siteurl ="http://localhost/multibankfx";
+?>
 <head>
     <meta charset='UTF-8'>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
@@ -22,6 +25,10 @@
     <link rel="alternate" href="https://th.multibankfx.com/" hreflang="th-TH"/>
     <link rel="alternate" href="https://fr.multibankfx.com/" hreflang="fr-FR"/>
     <link rel="alternate" href="index.html" hreflang="x-default"/>
+    <!-- sherali -->
+    <script src="./public_files/static_js/jquery-3.3.1.min.js" type="text/javascript"></script>
+  
+
 
     <script type="785e4eb336bec21b04c19cf7-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -29,9 +36,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KNJQJTN');
     </script>
-    <link rel="shortcut icon" href="public_files/images/common/icons/favicon.ico">
-    <link rel="stylesheet" href="public_files/static_min_css/library.min.css">
-    <link rel="stylesheet" href="public_files/static_min_css/custom.min.css">
+    <link rel="shortcut icon" href="<?php echo $siteurl;?>/public_files/images/common/icons/favicon.ico">
+    <link rel="stylesheet" href="<?php echo $siteurl;?>/public_files/static_min_css/library.min.css">
+    <link rel="stylesheet" href="<?php echo $siteurl;?>/public_files/static_min_css/custom.min.css">
     <style>
         form {
             position: relative;
@@ -68,8 +75,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             height: 0;
         }
     </style>
-    <script src="public_files/static_js/jquery-3.3.1.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script>
+    <!-- <script src="public_files/static_js/jquery-3.3.1.min.js" type="785e4eb336bec21b04c19cf7-text/javascript"></script> -->
     <script type="785e4eb336bec21b04c19cf7-text/javascript">const page_dir = 'ltr';</script>
-    <link rel="stylesheet" type="text/css" href="public_files/static_css/swiper-3.4.2.min.css">
-    <link rel="stylesheet" href="public_files/static_css/rtl.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo $siteurl;?>/public_files/static_css/custom.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo $siteurl;?>/public_files/static_css/swiper-3.4.2.min.css">
+    <link rel="stylesheet" href="<?php echo $siteurl;?>/public_files/static_css/rtl.css">
+    <script src="./public_files/static_js/forms_ajax_request.js" type="text/javascript"></script>
 </head>
+<?php ?>
