@@ -7,7 +7,7 @@ $url_base_path =str_replace('/private','',$url_base_path);
 $url_base_path =str_replace($document_root,'',$url_base_path);
 
 $request_url = trim($_SERVER['REQUEST_URI']);
-$request_file = str_replace('/multibankfx/','',$request_url);
+$request_file = str_replace('/','',$request_url);
 
 $request_file =( $request_file=='' )?'home.php':$request_file;
 
