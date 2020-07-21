@@ -59,7 +59,7 @@
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="flex-center page-top-banner">
-        <img class="mex-img-cover" src="/multibankfx/public_files/images/tools/img_topbanner_tools.jpg" alt="Trading Tools">
+        <img class="mex-img-cover" src="public_files/images/tools/img_topbanner_tools.jpg" alt="Trading Tools">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 hidden-xs"></div>
@@ -70,25 +70,25 @@
                     <div class="mex-m-b-30 row text-center">
                         <div class="col-lg-3 col-md-6 col-sm- col-6 text-fff mex-m-b-30">
                             <a href="trading-tools.html#vps" class="text-fff">
-                                <img src="/multibankfx/public_files/images/tools/VPS_Hosting_icon.png" alt="VPS Hosting">
+                                <img src="public_files/images/tools/VPS_Hosting_icon.png" alt="VPS Hosting">
                                 <p><?php translate('VPS Hosting'); ?></p>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-6 text-fff mex-m-b-30">
                             <a href="trading-tools.html#experts-adv" class="text-fff">
-                                <img src="/multibankfx/public_files/images/tools/Expert_Advisors_icon.png" alt="Expert Advisors">
+                                <img src="public_files/images/tools/Expert_Advisors_icon.png" alt="Expert Advisors">
                                 <p><?php translate('Expert Advisors'); ?></p>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-6 text-fff mex-m-b-30f">
                             <a href="trading-tools.html#nam-pamm" class="text-fff">
-                                <img src="/multibankfx/public_files/images/tools/MAM_PAMM_icon.png" alt="MAM/ PAMM">
+                                <img src="public_files/images/tools/MAM_PAMM_icon.png" alt="MAM/ PAMM">
                                 <p><?php translate('MAM/PAMM'); ?></p>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-6 text-fff mex-m-b-30">
                             <a href="trading-tools.html#fix-api" class="text-fff">
-                                <img src="/multibankfx/public_files/images/tools/FIX_AP_icon.png" alt="FIX API">
+                                <img src="public_files/images/tools/FIX_AP_icon.png" alt="FIX API">
                                 <p><?php translate('FIX API'); ?></p>
                             </a>
                         </div>
@@ -104,7 +104,7 @@
                 <div id="vps" class="col-lg-6 col-md-6 col-sm-12 col-12 mb-s-30">
                     <section class="mex-block-card-v tools-mex-block-card-v">
                         <div class="card-img-box">
-                            <img src="/multibankfx/public_files/images/tools/bn_vps_VPS_Hosting.png" alt="VPS Hosting" class="card-img mex-img-cover" />
+                            <img src="public_files/images/tools/bn_vps_VPS_Hosting.png" alt="VPS Hosting" class="card-img mex-img-cover" />
                         </div>
                         <div class="card-content bg-white text-left">
                             <h2 class="mex-h2 mex-m-b-15">
@@ -120,7 +120,7 @@
                 <div id="mt-vps" class="col-lg-6 col-md-6 col-sm-12 col-12 mb-s-30">
                     <section class="mex-block-card-v tools-mex-block-card-v">
                         <div class="card-img-box">
-                            <img src="/multibankfx/public_files/images/tools/bn_multibank_VPS_Hosting.png" alt="MultiBank VPS Hosting" class="card-img mex-img-cover" />
+                            <img src="public_files/images/tools/bn_multibank_VPS_Hosting.png" alt="MultiBank VPS Hosting" class="card-img mex-img-cover" />
                         </div>
                         <div class="card-content bg-white text-left">
                             <h2 class="mex-h2 mex-m-b-15">
@@ -458,7 +458,7 @@
                     </form>
                     <div class="px-1 " style="padding:15px 0px;">
                         <div class="form-check form-check-inline">
-                            <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you agree to accept the'); ?> <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
+                            <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you agree to accept the'); ?> <a href="terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                             </label>
                         </div>
                     </div>
@@ -472,7 +472,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-s-30" id="experts-adv">
                     <section class="mex-block-card-v tools-mex-block-card-v">
                         <div class="card-img-box">
-                            <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/tools/bn_experts.png" alt="Experts Advisors">
+                            <img class="card-img mex-img-cover" src="public_files/images/tools/bn_experts.png" alt="Experts Advisors">
                         </div>
                         <div class="card-content bg-white text-left">
                             <h2 class="mex-h2  mex-m-b-15">
@@ -489,7 +489,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-s-30" id="nam-pamm">
                     <section class="mex-block-card-v tools-mex-block-card-v">
                         <div class="card-img-box">
-                            <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/tools/bn_experts_accounts.png" alt="MAM &amp; PAMM Accounts">
+                            <img class="card-img mex-img-cover" src="public_files/images/tools/bn_experts_accounts.png" alt="MAM &amp; PAMM Accounts">
                         </div>
                         <div class="card-content bg-white text-left">
                             <h2 class="mex-h2  mex-m-b-15">
@@ -813,7 +813,7 @@
                     </form>
                     <div class="px-1 " style="padding:15px 0px;">
                         <div class="form-check form-check-inline">
-                            <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you agree to accept the'); ?> <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
+                            <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you agree to accept the'); ?> <a href="terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Privacy Policy'); ?></a>, <?php translate('and'); ?> <a href="cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                             </label>
                         </div>
                     </div>
@@ -822,7 +822,7 @@
         </div>
     </section>
     <section class="mex-block-h600 flex-center">
-        <img class="mex-img-cover" src="/multibankfx/public_files/images/tools/bg_mam_bg.png" alt="MAM Advantages">
+        <img class="mex-img-cover" src="public_files/images/tools/bg_mam_bg.png" alt="MAM Advantages">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-12 mex-m-b-30">
@@ -848,7 +848,7 @@
         </div>
     </section>
     <section class="flex-center" id="fix-api">
-        <img class="mex-img-cover" src="/multibankfx/public_files/images/tools/tools_trading_tools_fix_ap.png" alt="FIX API">
+        <img class="mex-img-cover" src="public_files/images/tools/tools_trading_tools_fix_ap.png" alt="FIX API">
         <div class="container">
             <div class="row d-block">
                 <div class="col-md-8 col-sm-12 text-center offset-md-2">
@@ -1179,7 +1179,7 @@
                     </form>
                     <div class="px-1 " style="padding:15px 0px;">
                         <div class="form-check form-check-inline">
-                            <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you agree to accept the'); ?> <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, <?php translate('and'); ?> <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
+                            <label class="form-check-label label-1 " for="terms_conditions"><?php translate('By submitting this form, you agree to accept the'); ?> <a href="terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Terms & Conditions'); ?></a>, <a href="privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;">Privacy Policy</a>, <?php translate('and'); ?> <a href="cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"><?php translate('Cookie Policy'); ?></a>.
                             </label>
                         </div>
                     </div>
@@ -1192,16 +1192,16 @@
     <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#c7a4b487aab2abb3aea5a6a9aca1bfe9a4a8aa">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#c7a4b487aab2abb3aea5a6a9aca1bfe9a4a8aa">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-61df31f33958fccb7868e01d-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1646,7 +1646,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="61df31f33958fccb7868e01d-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -1659,12 +1659,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="61df31f33958fccb7868e01d-text/javascript"></script>
     <script type="61df31f33958fccb7868e01d-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

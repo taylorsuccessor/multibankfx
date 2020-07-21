@@ -19,10 +19,10 @@
     <link rel="alternate" href="https://th.multibankfx.com/account/account-funding/skrill" hreflang="th-TH"/>
     <link rel="alternate" href="https://fr.multibankfx.com/account/account-funding/skrill" hreflang="fr-FR"/>
     <link rel="alternate" href="skrill.php" hreflang="x-default"/>
-    <link rel="stylesheet" type="text/css" href="/multibankfx/public_files/static_css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/multibankfx/public_files/static_css/payment_gateway/form_validate.css">
+    <link rel="stylesheet" type="text/css" href="public_files/static_css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="public_files/static_css/payment_gateway/form_validate.css">
     <script type="cb8c8ef391586875fbd71653-text/javascript"
-            src="/multibankfx/public_files/static_js/jquery-3.3.1.min.js"></script>
+            src="public_files/static_js/jquery-3.3.1.min.js"></script>
     <style>
         .sup-size {
             color: #FF0000;
@@ -102,7 +102,7 @@
             <div class="col-12 col-md-8 col-lg-7 mx-auto md-card elevation-1">
                 <div class="top-logo card-title">
                     <a class="logo">
-                        <img src="/multibankfx/public_files/images/payment_gateway/skrill_logo.svg" alt="MultiBank Group"
+                        <img src="public_files/images/payment_gateway/skrill_logo.svg" alt="MultiBank Group"
                              width="220px">
                     </a>
                 </div>
@@ -243,11 +243,11 @@
                     <div class="business-disclaimer">
                         <div class="label">This business is suitable for</div>
                         <div class="logo-group">
-                            <img src="/multibankfx/public_files/images/payment_gateway/business/dci_logo.png"/>
-                            <img src="/multibankfx/public_files/images/payment_gateway/business/mastercard_logo.png"/>
-                            <img src="/multibankfx/public_files/images/payment_gateway/business/amex_logo.png"/>
-                            <img src="/multibankfx/public_files/images/payment_gateway/business/visa_logo.jpg"/>
-                            <img src="/multibankfx/public_files/images/payment_gateway/business/jcb_logo.gif"/>
+                            <img src="public_files/images/payment_gateway/business/dci_logo.png"/>
+                            <img src="public_files/images/payment_gateway/business/mastercard_logo.png"/>
+                            <img src="public_files/images/payment_gateway/business/amex_logo.png"/>
+                            <img src="public_files/images/payment_gateway/business/visa_logo.jpg"/>
+                            <img src="public_files/images/payment_gateway/business/jcb_logo.gif"/>
                         </div>
                     </div>
                 </div>
@@ -256,9 +256,9 @@
     </div>
 </section>
 <script type="cb8c8ef391586875fbd71653-text/javascript"
-        src="/multibankfx/public_files/static_js/jquery.validate.min.js"></script>
+        src="public_files/static_js/jquery.validate.min.js"></script>
 <script type="cb8c8ef391586875fbd71653-text/javascript"
-        src="/multibankfx/public_files/static_js/payment_gateway/form_validate.js"></script>
+        src="public_files/static_js/payment_gateway/form_validate.js"></script>
 <script type="cb8c8ef391586875fbd71653-text/javascript">
     $(function() {
         $('#skrill_payment_form').validateForm();

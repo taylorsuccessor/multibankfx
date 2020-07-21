@@ -59,7 +59,7 @@
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="flex-center page-top-banner">
-        <img class="mex-img-cover" src="/multibankfx/public_files/images/partnership/prime_of_primes/Prime_of_Primes_banner1.jpg" alt="Prime Liquidity &amp; Technology">
+        <img class="mex-img-cover" src="public_files/images/partnership/prime_of_primes/Prime_of_Primes_banner1.jpg" alt="Prime Liquidity &amp; Technology">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-12">
@@ -80,7 +80,7 @@
                 <div class="col-sm-12 col-md-4 col-lg-4 mex-m-b-15">
                     <section class="mex-block-card bg-white shadow-box-animate">
                         <div class="card-img-box">
-                            <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/prime_of_primes/white-label-4box.png" alt="White Label">
+                            <img class="card-img mex-img-cover" src="public_files/images/partnership/prime_of_primes/white-label-4box.png" alt="White Label">
                         </div>
                         <div class="card-content-box">
                             <div class=" card-content bg-white text-center">
@@ -95,7 +95,7 @@
                 <div class="col-sm-12 col-md-4 col-lg-4 mex-m-b-15">
                     <section class="mex-block-card bg-white shadow-box-animate">
                         <div class="card-img-box">
-                            <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/prime_of_primes/Service-and-Support-4box.png" alt="Service &amp; Support">
+                            <img class="card-img mex-img-cover" src="public_files/images/partnership/prime_of_primes/Service-and-Support-4box.png" alt="Service &amp; Support">
                         </div>
                         <div class="card-content-box">
                             <div class=" card-content bg-white text-center">
@@ -110,7 +110,7 @@
                 <div class="col-sm-12 col-md-4 col-lg-4 mex-m-b-15">
                     <section class="mex-block-card bg-white shadow-box-animate">
                         <div class="card-img-box">
-                            <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/prime_of_primes/Bridge-4box.png" alt="Bridge">
+                            <img class="card-img mex-img-cover" src="public_files/images/partnership/prime_of_primes/Bridge-4box.png" alt="Bridge">
                         </div>
                         <div class="card-content-box">
                             <div class=" card-content bg-white text-center">
@@ -427,7 +427,7 @@
                     </form>
                     <div class="px-1 " style="padding:15px 0px;">
                         <div class="form-check form-check-inline">
-                            <label class="form-check-label label-1 " for="terms_conditions"> <?php translate('By submitting this form, you agree to accept the'); ?> <a href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"> <?php translate('Terms & Conditions'); ?></a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"> <?php translate('Privacy Policy'); ?></a>,  <?php translate('and'); ?> <a href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"> <?php translate('Cookie Policy'); ?></a>.
+                            <label class="form-check-label label-1 " for="terms_conditions"> <?php translate('By submitting this form, you agree to accept the'); ?> <a href="terms-conditions.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"> <?php translate('Terms & Conditions'); ?></a>, <a href="privacy-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"> <?php translate('Privacy Policy'); ?></a>,  <?php translate('and'); ?> <a href="cookie-policy.php" target="_blank" class="text-22A0C4" style="padding:0 !important;"> <?php translate('Cookie Policy'); ?></a>.
                             </label>
                         </div>
                     </div>
@@ -440,16 +440,16 @@
     <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#ccafbf8ca1b9a0b8a5aeada2a7aab4e2afa3a1">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#ccafbf8ca1b9a0b8a5aeada2a7aab4e2afa3a1">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-e55e4685f19caaab0342d74f-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -894,7 +894,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="e55e4685f19caaab0342d74f-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -907,12 +907,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="e55e4685f19caaab0342d74f-text/javascript"></script>
     <script type="e55e4685f19caaab0342d74f-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

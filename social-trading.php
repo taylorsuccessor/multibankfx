@@ -426,7 +426,7 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="page-top-banner p-0">
         <div class="banner_overlay"></div>
-        <img class="mex-img-cover" src="/multibankfx/public_files/images/social_trading/social_trading_t_banner.jpg" alt="Trade Forex" />
+        <img class="mex-img-cover" src="public_files/images/social_trading/social_trading_t_banner.jpg" alt="Trade Forex" />
         <div class="st-banner-text-container">
             <div>
                 <div class="slider-title">
@@ -436,11 +436,11 @@
                 <div class="slider-desc">INVEST SMARTER- COPY THE TRADES OF CONSISTENTLY PROFITABLE TRADERS OR SCALE
                     YOUR INCOME BY EARNING FEES FROM INVESTORS WHO COPY YOUR ACCOUNT</div>
                 <div class="slider-icons">
-                    <div class="slider-icon"><a href="social-trading/trader.php"><img src="/multibankfx/public_files/images/social_trading/icon_investor.png"><br />TRADER >></a></div>
-                    <div class="slider-icon"><a href="social-trading/investor.php"><img src="/multibankfx/public_files/images/social_trading/icon_signal_provider.png"><br />INVESTOR >></a>
+                    <div class="slider-icon"><a href="social-trading/trader.php"><img src="public_files/images/social_trading/icon_investor.png"><br />TRADER >></a></div>
+                    <div class="slider-icon"><a href="social-trading/investor.php"><img src="public_files/images/social_trading/icon_signal_provider.png"><br />INVESTOR >></a>
                     </div>
-                    <div class="slider-icon"><a href="social-trading/faq.php"><img src="/multibankfx/public_files/images/social_trading/icon_faq.png"><br />FAQ >></a></div>
-                    <div class="slider-icon"><a href="social-trading/leaderboard.php"><img src="/multibankfx/public_files/images/social_trading/icon_leader_board.png"><br />LEADERBOARD >></a>
+                    <div class="slider-icon"><a href="social-trading/faq.php"><img src="public_files/images/social_trading/icon_faq.png"><br />FAQ >></a></div>
+                    <div class="slider-icon"><a href="social-trading/leaderboard.php"><img src="public_files/images/social_trading/icon_leader_board.png"><br />LEADERBOARD >></a>
                     </div>
                 </div>
             </div>
@@ -460,7 +460,7 @@
         </div>
     </section>
     <section class="flex-center">
-        <img class="mex-img-cover" src="/multibankfx/public_files/images/platforms/download_center/download_center_mobile_trader_banner.jpg" alt=" MEX Mobile Trader">
+        <img class="mex-img-cover" src="public_files/images/platforms/download_center/download_center_mobile_trader_banner.jpg" alt=" MEX Mobile Trader">
         <div class="container">
             <div class="row justify-content-end">
                 <div class="col-lg-6 ">
@@ -469,8 +469,8 @@
                             Download MT4 Trading App
                         </div>
                         <div class="row ">
-                            <a class="col-5 d-block" href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4"><img class="w-100" src="/multibankfx/public_files/images/platforms/download_center/download_center_mobile_google_play.png" alt="Get it on Google Play"></a>
-                            <a class="col-5 d-block" href="https://itunes.apple.com/us/app/metatrader-4/id496212596"><img class="w-100" src="/multibankfx/public_files/images/platforms/download_center/download_center_mobile_app_store.png" alt="Doenload in the App Store"></a>
+                            <a class="col-5 d-block" href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4"><img class="w-100" src="public_files/images/platforms/download_center/download_center_mobile_google_play.png" alt="Get it on Google Play"></a>
+                            <a class="col-5 d-block" href="https://itunes.apple.com/us/app/metatrader-4/id496212596"><img class="w-100" src="public_files/images/platforms/download_center/download_center_mobile_app_store.png" alt="Doenload in the App Store"></a>
                         </div>
                     </div>
                 </div>
@@ -478,24 +478,24 @@
         </div>
     </section>
     <section class="st-section">
-        <img src="/multibankfx/public_files/images/social_trading/st_earn_money_bg.jpg" alt="" />
+        <img src="public_files/images/social_trading/st_earn_money_bg.jpg" alt="" />
         <div class="container">
             <div class="mex-h2 text-005190 mex-m-b-20 text-center">
                 How to Earn Money through Social Trading as a Trader
             </div>
             <div class="mex-m-b-50 row">
                 <div class="mex-m-b-20 col-4">
-                    <img src="/multibankfx/public_files/images/social_trading/st_earn_money_step1.png" alt="" class="col-3-step" />
+                    <img src="public_files/images/social_trading/st_earn_money_step1.png" alt="" class="col-3-step" />
                     <div class="text-left text-005190 mex-h3 mex-m-t-20">Open A Master Account</div>
                     <div class="">Become a Signal Provider</div>
                 </div>
                 <div class="mex-m-b-20 col-4">
-                    <img src="/multibankfx/public_files/images/social_trading/st_earn_money_step2.png" alt="" class="col-3-step" />
+                    <img src="public_files/images/social_trading/st_earn_money_step2.png" alt="" class="col-3-step" />
                     <div class="text-left text-005190 mex-h3 mex-m-t-20">Performance Ranking</div>
                     <div class="">Share your successful trading performance with the public</div>
                 </div>
                 <div class="mex-m-b-20 col-4">
-                    <img src="/multibankfx/public_files/images/social_trading/st_earn_money_step3.png" alt="" class="col-3-step" />
+                    <img src="public_files/images/social_trading/st_earn_money_step3.png" alt="" class="col-3-step" />
                     <div class="text-left text-005190 mex-h3 mex-m-t-20">Gain Subscribers</div>
                     <div class="">Get Investors to copy your trades. The more Investors subscribing to your Master
                         Account, the more you earn!</div>
@@ -505,7 +505,7 @@
         </div>
     </section>
     <section class="st-section">
-        <img style="height: 50%;" class="mex-img-cover st-benefit-bg" src="/multibankfx/public_files/images/social_trading/st_benefit_bg.jpg" alt="Social Trading">
+        <img style="height: 50%;" class="mex-img-cover st-benefit-bg" src="public_files/images/social_trading/st_benefit_bg.jpg" alt="Social Trading">
         <div class="container text-center">
             <div class="mex-h2 text-fff text-center">
                 Benefits of MultiBank Social Trading
@@ -513,7 +513,7 @@
             <div class="row mex-m-t-120 mex-m-b-10">
                 <div class="col-12 col-sm-6 col-xl-3 st_benefit_container st-mb-xl-100">
                     <div class="st_benefit_card benefit">
-                        <div class="st_benefit_icon"><img src="/multibankfx/public_files/images/social_trading/st_benefit_icon1.png" alt="Professional" /></div>
+                        <div class="st_benefit_icon"><img src="public_files/images/social_trading/st_benefit_icon1.png" alt="Professional" /></div>
                         <p class="text-left text-005190 mex-h3">Professional</p>
                         <p class="text-left">Professional global brokerage operating No Dealing Desk (NDD) execution on
                             aggregated executable prices, offering the lowest spreads in the industry</p>
@@ -521,7 +521,7 @@
                 </div>
                 <div class="col-12 col-sm-6 col-xl-3 st_benefit_container st-mb-xl-100">
                     <div class="st_benefit_card benefit">
-                        <div class="st_benefit_icon"><img src="/multibankfx/public_files/images/social_trading/st_benefit_icon2.png" alt="Fast" /></div>
+                        <div class="st_benefit_icon"><img src="public_files/images/social_trading/st_benefit_icon2.png" alt="Fast" /></div>
                         <p class="text-left text-005190 mex-h3">Fast</p>
                         <p class="text-left">Simple and copy function to copy transactions within a few milliseconds. We
                             have a complete network of servers spread across the major interbank liquidity centers such
@@ -530,7 +530,7 @@
                 </div>
                 <div class="col-12 col-sm-6 col-xl-3 st_benefit_container st-mb-xl-100">
                     <div class="st_benefit_card benefit">
-                        <div class="st_benefit_icon"><img src="/multibankfx/public_files/images/social_trading/st_benefit_icon3.png" alt="Profitable" /></div>
+                        <div class="st_benefit_icon"><img src="public_files/images/social_trading/st_benefit_icon3.png" alt="Profitable" /></div>
                         <p class="text-left text-005190 mex-h3">Profitable</p>
                         <p class="text-left">We offer the best conditions to money managers and our 320,000 customers,
                             who can invest with ease in successful strategies and make significant profits</p>
@@ -538,7 +538,7 @@
                 </div>
                 <div class="col-12 col-sm-6 col-xl-3 st_benefit_container st-mb-xl-100">
                     <div class="st_benefit_card benefit">
-                        <div class="st_benefit_icon"><img src="/multibankfx/public_files/images/social_trading/st_benefit_icon4.png" alt="Automatic" /></div>
+                        <div class="st_benefit_icon"><img src="public_files/images/social_trading/st_benefit_icon4.png" alt="Automatic" /></div>
                         <p class="text-left text-005190 mex-h3">Automatic</p>
                         <p class="text-left">When Investors subscribe to a Master Account, the investment amount will be
                             automatically calculated in proportion to equity invested</p>
@@ -556,7 +556,7 @@
         <div class="container">
             <div class="row mex-m-x-80">
                 <div class="col-12 col-lg-6">
-                    <img style="width: 90%; height: auto; margin-bottom: 50px;" src="/multibankfx/public_files/images/social_trading/st_grow_wealth_pad.png" />
+                    <img style="width: 90%; height: auto; margin-bottom: 50px;" src="public_files/images/social_trading/st_grow_wealth_pad.png" />
                 </div>
                 <div class="col-12 col-lg-6">
                     <p class="text-fff">Become a Signal Provider & Expand Your Income Stream</p>
@@ -590,21 +590,21 @@
             <div class="row">
                 <div class="col-12 col-md-6 col-xl-3 st_benefit_container mex-m-b-40">
                     <div class="st_benefit_card invest">
-                        <img src="/multibankfx/public_files/images/social_trading/st_invest1.jpg" />
+                        <img src="public_files/images/social_trading/st_invest1.jpg" />
                         <p class="text-left mex-p-15">It's easy, just browse our Leaderboard and look for successful
                             Signal Providers to copy.</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-xl-3 st_benefit_container mex-m-b-40">
                     <div class="st_benefit_card invest">
-                        <img src="/multibankfx/public_files/images/social_trading/st_invest2.jpg" />
+                        <img src="public_files/images/social_trading/st_invest2.jpg" />
                         <p class="text-left mex-p-15">Create your own investment portolio based on a range of Signal
                             Providers you'd like to copy.</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-xl-3 st_benefit_container mex-m-b-40">
                     <div class="st_benefit_card invest">
-                        <img src="/multibankfx/public_files/images/social_trading/st_invest3.jpg" />
+                        <img src="public_files/images/social_trading/st_invest3.jpg" />
                         <p class="text-left mex-p-15">Simply subscribe to the Master Accounts of Signal Providers you're
                             interested in following, and you will automatically start copying their new positions in
                             your trading account</p>
@@ -612,7 +612,7 @@
                 </div>
                 <div class="col-12 col-md-6 col-xl-3 st_benefit_container mex-m-b-40">
                     <div class="st_benefit_card invest">
-                        <img src="/multibankfx/public_files/images/social_trading/st_invest4.jpg" />
+                        <img src="public_files/images/social_trading/st_invest4.jpg" />
                         <p class="text-left mex-p-10 mex-p-15">Through your account panel, unsubscribe from any Master
                             Account with a simply click, and establish risk protection levels and access many more
                             features</p>
@@ -642,13 +642,13 @@
                     <div class="row mx-0"><a href="social-trading/investor.php" class="btn-st-006AD0 text-fff ml-0">Become An Investor</a></div>
                 </div>
                 <div class="col-12 col-lg-6 col-xl-4 text-right">
-                    <img class="w-100" src="/multibankfx/public_files/images/social_trading/st_improve_pc.png" />
+                    <img class="w-100" src="public_files/images/social_trading/st_improve_pc.png" />
                 </div>
             </div>
         </div>
     </section>
     <section class="st-section">
-        <img style="object-fit: cover;" src="/multibankfx/public_files/images/social_trading/st_earn_money_bg.jpg" alt="" />
+        <img style="object-fit: cover;" src="public_files/images/social_trading/st_earn_money_bg.jpg" alt="" />
         <div class="container text-center">
             <div class="mex-h2 mex-m-b-20 text-005190">Still Have Questions About MultiBank Social Trading?</div>
             <div class="">Check out our <a href="social-trading/faq.php" class="text-005190">FAQ</a> or <a class="text-005190">Request</a> a Call Back Now!</div>
@@ -915,16 +915,16 @@
     <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#e08393a08d958c948982818e8b8698ce838f8d">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-bdaa9b02232eaa47ac948bf3-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1404,12 +1404,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="bdaa9b02232eaa47ac948bf3-text/javascript"></script>
     <script type="bdaa9b02232eaa47ac948bf3-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

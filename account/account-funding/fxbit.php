@@ -19,14 +19,14 @@
     <link rel="alternate" href="https://th.multibankfx.com/account/account-funding/fxbit" hreflang="th-TH"/>
     <link rel="alternate" href="https://fr.multibankfx.com/account/account-funding/fxbit" hreflang="fr-FR"/>
     <link rel="alternate" href="fxbit.php" hreflang="x-default"/>
-    <link rel="stylesheet" type="text/css" href="/multibankfx/public_files/static_css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="public_files/static_css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css"
-          href="/multibankfx/public_files/static_css/payment_gateway/form_validate.css">
-    <link rel="stylesheet" type="text/css" href="/multibankfx/public_files/static_css/font-awesome.min.css">
+          href="public_files/static_css/payment_gateway/form_validate.css">
+    <link rel="stylesheet" type="text/css" href="public_files/static_css/font-awesome.min.css">
     <script type="62d2d0d9881871a18debc942-text/javascript"
-            src="/multibankfx/public_files/static_js/jquery.ba-throttle-debounce.js"></script>
+            src="public_files/static_js/jquery.ba-throttle-debounce.js"></script>
     <script type="62d2d0d9881871a18debc942-text/javascript"
-            src="/multibankfx/public_files/static_js/jquery-3.3.1.min.js"></script>
+            src="public_files/static_js/jquery-3.3.1.min.js"></script>
     <style>
         .top-logo {
             display: flex;
@@ -212,7 +212,7 @@
             <div class="col-12 col-md-8 col-lg-7 mx-auto md-card elevation-1">
                 <div class="top-logo card-title">
                     <a class="logo">
-                        <img src="/multibankfx/public_files/images/payment_gateway/fxbit_logo" alt="MultiBank Group"
+                        <img src="public_files/images/payment_gateway/fxbit_logo" alt="MultiBank Group"
                              width="220px">
                     </a>
                     <div class="timer" style="float:right;display:none;">
@@ -336,9 +336,9 @@
                         </div>
                     </div>
                     <div class="business-disclaimer">
-                        <img src="/multibankfx/public_files/images/payment_gateway/bitcoin.png"
+                        <img src="public_files/images/payment_gateway/bitcoin.png"
                              style="width: 100px;height: auto;float: right; ">
-                        <img src="/multibankfx/public_files/images/payment_gateway/business/etherium.png"
+                        <img src="public_files/images/payment_gateway/business/etherium.png"
                              style="width: 100px;height: auto;float: right;padding-left:10px;">
                     </div>
                 </div>
@@ -488,9 +488,9 @@ function makeTimer(endTime) {
 
 </script>
 <script type="62d2d0d9881871a18debc942-text/javascript"
-        src="/multibankfx/public_files/static_js/jquery.validate.min.js"></script>
+        src="public_files/static_js/jquery.validate.min.js"></script>
 <script type="62d2d0d9881871a18debc942-text/javascript"
-        src="/multibankfx/public_files/static_js/payment_gateway/form_validate.js"></script>
+        src="public_files/static_js/payment_gateway/form_validate.js"></script>
 <script type="62d2d0d9881871a18debc942-text/javascript">
     $(function() {
         $('#fx_bit_payment_form').validateForm();

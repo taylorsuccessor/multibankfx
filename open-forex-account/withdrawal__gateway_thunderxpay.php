@@ -146,15 +146,15 @@
                         </div>
                     </div>
                     <div class="col-lg-12  deposit_container-bank-icon">
-                        <img class="form-icon" data-method="neteller" src="/multibankfx/public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Neteller Pay">
-                        <img class="form-icon" data-method="skrill" src="/multibankfx/public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill">
-                        <img class="form-icon" data-method="fasapay" src="/multibankfx/public_files/images/accounts_funding/payment_icons/fasapay.jpg" alt="FasaPay">
-                        <img class="form-icon" data-method="bank_transfer" src="/multibankfx/public_files/images/accounts_funding/payment_icons/bank_wire.jpg" alt="Bank Transfer">
-                        <img class="form-icon" data-method="credit_card" src="/multibankfx/public_files/images/accounts_funding/payment_icons/card.jpg" alt="Credit Card">
-                        <img class="form-icon" data-method="paytrust" src="/multibankfx/public_files/images/accounts_funding/payment_icons/paytrust.jpg" alt="Paytrust">
-                        <img class="form-icon" data-method="ngan_luong" src="/multibankfx/public_files/images/accounts_funding/payment_icons/nganluong.jpg" alt="Ngan Luong">
-                        <img class="form-icon" data-method="globepay" src="/multibankfx/public_files/images/payment_gateway/globepay_logo" alt="GlobePay">
-                        <img class="form-icon" data-method="thunderxpay" src="/multibankfx/public_files/images/payment_gateway/thunderx_logo.png" alt="Thunder X Pay">
+                        <img class="form-icon" data-method="neteller" src="public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Neteller Pay">
+                        <img class="form-icon" data-method="skrill" src="public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill">
+                        <img class="form-icon" data-method="fasapay" src="public_files/images/accounts_funding/payment_icons/fasapay.jpg" alt="FasaPay">
+                        <img class="form-icon" data-method="bank_transfer" src="public_files/images/accounts_funding/payment_icons/bank_wire.jpg" alt="Bank Transfer">
+                        <img class="form-icon" data-method="credit_card" src="public_files/images/accounts_funding/payment_icons/card.jpg" alt="Credit Card">
+                        <img class="form-icon" data-method="paytrust" src="public_files/images/accounts_funding/payment_icons/paytrust.jpg" alt="Paytrust">
+                        <img class="form-icon" data-method="ngan_luong" src="public_files/images/accounts_funding/payment_icons/nganluong.jpg" alt="Ngan Luong">
+                        <img class="form-icon" data-method="globepay" src="public_files/images/payment_gateway/globepay_logo" alt="GlobePay">
+                        <img class="form-icon" data-method="thunderxpay" src="public_files/images/payment_gateway/thunderx_logo.png" alt="Thunder X Pay">
 
                     </div>
                 </form>
@@ -851,7 +851,7 @@
             </form>
         </div>
     </section>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="da8ab604027a2bd8fffd2e50-text/javascript">
         $(function() {
             //set payment method according to get param
@@ -907,16 +907,16 @@
     <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#fb9888bb968e978f92999a95909d83d5989496">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#fb9888bb968e978f92999a95909d83d5989496">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-da8ab604027a2bd8fffd2e50-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1361,7 +1361,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="da8ab604027a2bd8fffd2e50-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -1374,12 +1374,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="da8ab604027a2bd8fffd2e50-text/javascript"></script>
     <script type="da8ab604027a2bd8fffd2e50-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

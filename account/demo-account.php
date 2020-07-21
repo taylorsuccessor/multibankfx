@@ -63,7 +63,7 @@
 <div class="main-container">
     <section class="flex-center page-top-banner"><img alt="Demo Account" class="mex-img-cover" data-entity-type=""
                                                       data-entity-uuid=""
-                                                      src="/multibankfx/public_files/images/accounts_funding/demo_account_top_banner.jpg"/>
+                                                      src="public_files/images/accounts_funding/demo_account_top_banner.jpg"/>
         <div class="container">
             <div class="row">
                 <div class="col-8 col-sm-8 col-md-7 col-lg-6 ">
@@ -463,11 +463,11 @@
                     <div class="px-1 " style="padding:15px 0px;">
                         <div class="form-check form-check-inline">
                             <label class="form-check-label label-1 " for="terms_conditions">By submitting this form, you
-                                agree to accept the <a href="/multibankfx/terms-conditions.php" target="_blank"
+                                agree to accept the <a href="terms-conditions.php" target="_blank"
                                                        class="text-22A0C4" style="padding:0 !important;">Terms &amp;
-                                    Conditions</a>, <a href="/multibankfx/privacy-policy.php" target="_blank" class="text-22A0C4"
+                                    Conditions</a>, <a href="privacy-policy.php" target="_blank" class="text-22A0C4"
                                                        style="padding:0 !important;">Privacy Policy</a>, and <a
-                                        href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4"
+                                        href="cookie-policy.php" target="_blank" class="text-22A0C4"
                                         style="padding:0 !important;">Cookie Policy</a>.
                             </label>
                         </div>
@@ -478,7 +478,7 @@
     </section>
     <?php include_from_root('website_template/choose_where_to.php');?>
 </div>
-<script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 <script type="11f25f6a1053fe5650fdae05-text/javascript">
     $(function() {
 //icons we need
@@ -850,22 +850,22 @@
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""
-                               src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50"/> </span>
+                               src="public_files/images/home/sidebar_icon/phone.png" width="50"/> </span>
     </a>
     <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
         <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid=""
-                                src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50"/> </span>
+                                src="public_files/images/home/sidebar_icon/whatsapp.png" width="50"/> </span>
     </a>
     <a class="email-us-tg demo-account-btn email-btn"
-       href="/multibankfx/cdn-cgi/l/email-protection.html#90f3e3d0fde5fce4f9f2f1fefbf6e8bef3fffd">
+       href="cdn-cgi/l/email-protection.html#90f3e3d0fde5fce4f9f2f1fefbf6e8bef3fffd">
         <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid=""
-                                src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50"/> </span>
+                                src="public_files/images/home/sidebar_icon/email.png" width="50"/> </span>
     </a>
     <a class="ib-registration-btn chat-btn"
        onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
        data-cf-modified-11f25f6a1053fe5650fdae05-="">
         <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid=""
-                                src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50"/> </span>
+                                src="public_files/images/home/sidebar_icon/chat.png" width="50"/> </span>
     </a>
 </div>
 <style type="text/css">.slidebar a span.btn {
@@ -1354,7 +1354,7 @@
         border-radius: 0;
     }
 </style>
-<script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 <script type="11f25f6a1053fe5650fdae05-text/javascript">
     $(function(){
         $('.email-us-tg').click(function(e){
@@ -1368,14 +1368,14 @@
     })
 
 </script>
-<script src="/multibankfx/public_files/static_js/lang_data/en.js" type="11f25f6a1053fe5650fdae05-text/javascript"></script>
-<script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js"
+<script src="public_files/static_js/lang_data/en.js" type="11f25f6a1053fe5650fdae05-text/javascript"></script>
+<script src="public_files/static_js/jquery.dataTables.min.js"
         type="11f25f6a1053fe5650fdae05-text/javascript"></script>
-<script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="11f25f6a1053fe5650fdae05-text/javascript"></script>
-<script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="11f25f6a1053fe5650fdae05-text/javascript"></script>
-<script src="/multibankfx/public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
+<script src="public_files/static_js/lazysizes.min.js" type="11f25f6a1053fe5650fdae05-text/javascript"></script>
+<script src="public_files/static_js/jquery.validate.min.js" type="11f25f6a1053fe5650fdae05-text/javascript"></script>
+<script src="public_files/static_js/intlTelInput.min.js%3Fversion=20191128"
         type="11f25f6a1053fe5650fdae05-text/javascript"></script>
-<script src="/multibankfx/public_files/static_js/app.js%3Fversion=20200612"
+<script src="public_files/static_js/app.js%3Fversion=20200612"
         type="11f25f6a1053fe5650fdae05-text/javascript"></script>
 <script type="11f25f6a1053fe5650fdae05-text/javascript" async>
     url = new URL(window.location.href);

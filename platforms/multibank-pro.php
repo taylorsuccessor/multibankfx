@@ -58,7 +58,7 @@
     </style>
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <section class="flex-center page-top-banner"><img alt="MULTIBANK PRO PLATFORM" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/platforms/multibank_pro/mutibank_bg.jpg" />
+    <section class="flex-center page-top-banner"><img alt="MULTIBANK PRO PLATFORM" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/platforms/multibank_pro/mutibank_bg.jpg" />
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-sm-12">
@@ -600,16 +600,16 @@
     <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#05667645687069716c67646b6e637d2b666a68">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#05667645687069716c67646b6e637d2b666a68">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-81fd1278d9ff4cfee588db82-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1054,7 +1054,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="81fd1278d9ff4cfee588db82-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -1067,12 +1067,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="81fd1278d9ff4cfee588db82-text/javascript"></script>
     <script type="81fd1278d9ff4cfee588db82-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

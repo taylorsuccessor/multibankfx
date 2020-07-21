@@ -19,8 +19,8 @@
     <link rel="alternate" href="https://th.multibankfx.com/account/account-funding/neteller-clr" hreflang="th-TH"/>
     <link rel="alternate" href="https://fr.multibankfx.com/account/account-funding/neteller-clr" hreflang="fr-FR"/>
     <link rel="alternate" href="neteller-clr.php" hreflang="x-default"/>
-    <link rel="stylesheet" href="/multibankfx/public_files/static_css/bootstrap.min.css">
-    <link rel="stylesheet" href="/multibankfx/public_files/static_css/payment_gateway/form_validate.css">
+    <link rel="stylesheet" href="public_files/static_css/bootstrap.min.css">
+    <link rel="stylesheet" href="public_files/static_css/payment_gateway/form_validate.css">
     <script type="b6f2cf2ad08a0741873e80e3-text/javascript"
             src='../../public_files/static_js/jquery-3.3.1.min.js'></script>
 </head>
@@ -31,7 +31,7 @@
             <div class="col-12 col-md-8 col-lg-7 mx-auto p-0 md-card elevation-1">
                 <div class="top-logo card-title">
                     <a class="logo">
-                        <img src="/multibankfx/public_files/images/payment_gateway/neteller_logo.svg" alt="MultiBank Group"
+                        <img src="public_files/images/payment_gateway/neteller_logo.svg" alt="MultiBank Group"
                              width="220px">
                     </a>
                     <div class="title-regulator">Mex Clearing</div>
@@ -162,7 +162,7 @@
 
 </style>
 <script type="b6f2cf2ad08a0741873e80e3-text/javascript"
-        src="/multibankfx/public_files/static_js/jquery.validate.min.js"></script>
+        src="public_files/static_js/jquery.validate.min.js"></script>
 <script type="b6f2cf2ad08a0741873e80e3-text/javascript"
         src='../../public_files/static_js/payment_gateway/form_validate.js'></script>
 <script type="b6f2cf2ad08a0741873e80e3-text/javascript">

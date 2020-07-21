@@ -84,45 +84,45 @@
                             <div class="col-md-6">
                                 <ul class="country_list">
 
-                                    <li><a href="tel:+43720775835?call"><img alt="Austria" src="/multibankfx/public_files/images/common/country/austria.png"><span><strong>Austria:</strong> +43 720 775835</span></a>
+                                    <li><a href="tel:+43720775835?call"><img alt="Austria" src="public_files/images/common/country/austria.png"><span><strong>Austria:</strong> +43 720 775835</span></a>
                                     </li>
                                    
-                                    <li><a href="tel:+351304500657?call"><img alt="Portugal" src="/multibankfx/public_files/images/common/country/portugal.png"><span><strong>Portugal:</strong> +351 304 500 657</span></a>
+                                    <li><a href="tel:+351304500657?call"><img alt="Portugal" src="public_files/images/common/country/portugal.png"><span><strong>Portugal:</strong> +351 304 500 657</span></a>
                                     </li>
-                                    <li><a href="tel:+35725262058?call"><img alt="Cyprus" src="/multibankfx/public_files/images/common/country/cyprus.png"><span><strong>Cyprus:</strong> +357 25 262058</span></a>
+                                    <li><a href="tel:+35725262058?call"><img alt="Cyprus" src="public_files/images/common/country/cyprus.png"><span><strong>Cyprus:</strong> +357 25 262058</span></a>
                                     </li>
-                                    <li><a href="tel:+35315269775?call"><img src="/multibankfx/public_files/images/common/country/ireland.png" alt="Ireland"><span><strong>Ireland:</strong> +353 1526 97 75</span></a>
+                                    <li><a href="tel:+35315269775?call"><img src="public_files/images/common/country/ireland.png" alt="Ireland"><span><strong>Ireland:</strong> +353 1526 97 75</span></a>
                                     </li>
-                                    <li><a href="tel:+31850643953?call"><img alt="Netherlands" src="/multibankfx/public_files/images/common/country/netherlands.png"><span><strong>Netherlands:</strong> +31 85 064 39 53</span></a>
+                                    <li><a href="tel:+31850643953?call"><img alt="Netherlands" src="public_files/images/common/country/netherlands.png"><span><strong>Netherlands:</strong> +31 85 064 39 53</span></a>
                                     </li>
-                                    <li><a href="tel:+46812410901?call"><img alt="Sweden" src="/multibankfx/public_files/images/common/country/sweden.png"><span><strong>Sweden:</strong> +46 8 124 109 01</span></a>
+                                    <li><a href="tel:+46812410901?call"><img alt="Sweden" src="public_files/images/common/country/sweden.png"><span><strong>Sweden:</strong> +46 8 124 109 01</span></a>
                                     </li>
-                                    <li><a href="tel:+358942722419?call"><img alt="Finland" src="/multibankfx/public_files/images/common/country/finland.png"><span><strong>Finland:</strong> +358 9 4272 2419</span></a>
+                                    <li><a href="tel:+358942722419?call"><img alt="Finland" src="public_files/images/common/country/finland.png"><span><strong>Finland:</strong> +358 9 4272 2419</span></a>
                                     </li>
-                                    <li><a href="tel:+40312295897?call"><img alt="Romania" src="/multibankfx/public_files/images/common/country/romania.png"><span><strong>Romania:</strong> +40 31 229 58 97</span></a>
+                                    <li><a href="tel:+40312295897?call"><img alt="Romania" src="public_files/images/common/country/romania.png"><span><strong>Romania:</strong> +40 31 229 58 97</span></a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul class="country_list">
-                                    <li><a href="tel:+4969257377474?call"><img alt="Germany" src="/multibankfx/public_files/images/common/country/germany.png"><span><strong>Germany:</strong> +49 69 257377474</span></a>
+                                    <li><a href="tel:+4969257377474?call"><img alt="Germany" src="public_files/images/common/country/germany.png"><span><strong>Germany:</strong> +49 69 257377474</span></a>
                                     </li>
-                                    <li><a href="tel:+41445083119?call"><img src="/multibankfx/public_files/images/common/country/switzerland.png" alt="Switzerland"><span><strong>Switzerland:</strong>+41 44 508 31 19</span></a>
+                                    <li><a href="tel:+41445083119?call"><img src="public_files/images/common/country/switzerland.png" alt="Switzerland"><span><strong>Switzerland:</strong>+41 44 508 31 19</span></a>
                                     </li>
-                                    <li><a href="tel:+34931220671?call"><img src="/multibankfx/public_files/images/common/country/spain.png" alt="Spain"><span><strong>Spain:</strong> +34 931 220 671</span></a>
+                                    <li><a href="tel:+34931220671?call"><img src="public_files/images/common/country/spain.png" alt="Spain"><span><strong>Spain:</strong> +34 931 220 671</span></a>
                                     </li>
-                                    <li><a href="tel:+33185653794?call"><img src="/multibankfx/public_files/images/common/country/france.png" alt="France"><span><strong>France:</strong> +33 1 85 65 37 94</span></a>
+                                    <li><a href="tel:+33185653794?call"><img src="public_files/images/common/country/france.png" alt="France"><span><strong>France:</strong> +33 1 85 65 37 94</span></a>
                                     </li>
-                                    <li><a href="tel:+302111987269?call"><img src="/multibankfx/public_files/images/common/country/greece.png" alt="Greece"><span><strong>Greece:</strong> +30 21 1198 7269</span></a>
+                                    <li><a href="tel:+302111987269?call"><img src="public_files/images/common/country/greece.png" alt="Greece"><span><strong>Greece:</strong> +30 21 1198 7269</span></a>
                                     </li>
-                                    <li><a href="tel:+4578746950?call"><img src="/multibankfx/public_files/images/common/country/denmark.png" alt="Denmark"><span><strong>Denmark:</strong> +45 78 74 69 50</span></a>
+                                    <li><a href="tel:+4578746950?call"><img src="public_files/images/common/country/denmark.png" alt="Denmark"><span><strong>Denmark:</strong> +45 78 74 69 50</span></a>
                                     </li>
 
-                                    <li><a href="tel:+48222098905?call"><img src="/multibankfx/public_files/images/common/country/poland.png" alt="Poland"><span><strong>Poland:</strong> +48 22 209 89 05</span></a>
+                                    <li><a href="tel:+48222098905?call"><img src="public_files/images/common/country/poland.png" alt="Poland"><span><strong>Poland:</strong> +48 22 209 89 05</span></a>
                                     </li>
-                                    <li><a href="tel:+38617774548?call"><img src="/multibankfx/public_files/images/common/country/slovenia.png" alt="Slovenia"><span><strong>Slovenia:</strong> +386 1 777 4548</span></a>
+                                    <li><a href="tel:+38617774548?call"><img src="public_files/images/common/country/slovenia.png" alt="Slovenia"><span><strong>Slovenia:</strong> +386 1 777 4548</span></a>
                                     </li>
-                                    <li><a href="tel:+3619993981?call"><img alt="Hungary" src="/multibankfx/public_files/images/common/country/hungary.png"><span><strong>Hungary:</strong> +36 1 999 3981</span></a>
+                                    <li><a href="tel:+3619993981?call"><img alt="Hungary" src="public_files/images/common/country/hungary.png"><span><strong>Hungary:</strong> +36 1 999 3981</span></a>
                                     </li>
                                 </ul>
                             </div>
@@ -135,7 +135,7 @@
                         <div class="row mx-0">
                             <div class="col-md-6">
                                 <ul class="country_list">
-                                    <li><a href="tel:+61291954000?call"><img alt="image" src="/multibankfx/public_files/images/common/country/australia.png"><span><strong>Australia:</strong> +61 2 9195 4000</span></a>
+                                    <li><a href="tel:+61291954000?call"><img alt="image" src="public_files/images/common/country/australia.png"><span><strong>Australia:</strong> +61 2 9195 4000</span></a>
                                     </li>
                                 </ul>
                             </div>
@@ -150,27 +150,27 @@
                         <div class="row mx-0">
                             <div class="col-md-6">
                                 <ul class="country_list">
-                                    <li><a href="tel:4001208619?call"><img alt="China" src="/multibankfx/public_files/images/common/country/china.png"><span><strong>China (toll free):</strong> 400 120 8619</span></a>
+                                    <li><a href="tel:4001208619?call"><img alt="China" src="public_files/images/common/country/china.png"><span><strong>China (toll free):</strong> 400 120 8619</span></a>
                                     </li>
-                                    <li><a href="tel:+82264108937?call"><img alt="South Korea" src="/multibankfx/public_files/images/common/country/south-korea.png"><span><strong>South Korea:</strong> +82 70 7488 3596</span></a>
+                                    <li><a href="tel:+82264108937?call"><img alt="South Korea" src="public_files/images/common/country/south-korea.png"><span><strong>South Korea:</strong> +82 70 7488 3596</span></a>
                                     </li>
-                                    <li><a href="tel:+60322010966?call"><img alt="Malaysia" src="/multibankfx/public_files/images/common/country/malaysia.png"><span><strong>Malaysia:</strong> +60 32 201 0966</span></a>
+                                    <li><a href="tel:+60322010966?call"><img alt="Malaysia" src="public_files/images/common/country/malaysia.png"><span><strong>Malaysia:</strong> +60 32 201 0966</span></a>
                                     </li>
-                                    <li><a><img alt="Pakistan" src="/multibankfx/public_files/images/common/country/pakistan.png"><span><strong>Pakistan (toll free):</strong>00800 90033050</span></a>
+                                    <li><a><img alt="Pakistan" src="public_files/images/common/country/pakistan.png"><span><strong>Pakistan (toll free):</strong>00800 90033050</span></a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul class="country_list">
-                                    <li><a href="tel:+886255940487?call"><img alt="Taiwan" src="/multibankfx/public_files/images/common/country/taiwan.png"><span><strong>Taiwan:</strong> +886 255 940 487</span></a>
+                                    <li><a href="tel:+886255940487?call"><img alt="Taiwan" src="public_files/images/common/country/taiwan.png"><span><strong>Taiwan:</strong> +886 255 940 487</span></a>
                                     </li>
 
 
-                                    <li><a href="tel:+66600024176?call"><img alt="thailand" src="/multibankfx/public_files/images/common/country/thailand.png"><span><strong>Thailand:</strong> +66 60 002 4176</span></a>
+                                    <li><a href="tel:+66600024176?call"><img alt="thailand" src="public_files/images/common/country/thailand.png"><span><strong>Thailand:</strong> +66 60 002 4176</span></a>
                                     </li>
-                                    <li><a href="tel:+6531590257?call"><img alt="Singapore" src="/multibankfx/public_files/images/common/country/singapore.png"><span><strong>Singapore:</strong> +65 3159 0257</span></a>
+                                    <li><a href="tel:+6531590257?call"><img alt="Singapore" src="public_files/images/common/country/singapore.png"><span><strong>Singapore:</strong> +65 3159 0257</span></a>
                                     </li>
-                                    <li><a href="tel:+6202129264151?call"><img alt="Indonesia" src="/multibankfx/public_files/images/common/country/indonesia.png"><span><strong>Indonesia:</strong> +62 21 29264151</span></a>
+                                    <li><a href="tel:+6202129264151?call"><img alt="Indonesia" src="public_files/images/common/country/indonesia.png"><span><strong>Indonesia:</strong> +62 21 29264151</span></a>
                                     </li>
                                 </ul>
                             </div>
@@ -183,13 +183,13 @@
                         <div class="row mx-0">
                             <div class="col-md-6">
                                 <ul class="country_list">
-                                    <li><a href="tel:+97148751311?call"><img alt="UAE" src="/multibankfx/public_files/images/common/country/uae.png"><span><strong>UAE:</strong> +971 4875 1311</span></a>
+                                    <li><a href="tel:+97148751311?call"><img alt="UAE" src="public_files/images/common/country/uae.png"><span><strong>UAE:</strong> +971 4875 1311</span></a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="col-md-6" style="display: none;">
                                 <ul class="country_list">
-                                    <li><a href="tel:+97365009627?call"><img alt="Bahrain" src="/multibankfx/public_files/images/common/country/bahrain.png"><span><strong>Bahrain:</strong> +973 65009627</span></a>
+                                    <li><a href="tel:+97365009627?call"><img alt="Bahrain" src="public_files/images/common/country/bahrain.png"><span><strong>Bahrain:</strong> +973 65009627</span></a>
                                     </li>
                                 </ul>
                             </div>
@@ -204,7 +204,7 @@
                                 <ul class="country_list">
                                     <li>
                                         <a href="tel:+27105348100?call">
-                                            <img alt="South Africa" src="/multibankfx/public_files/images/common/country/south_africa.png">
+                                            <img alt="South Africa" src="public_files/images/common/country/south_africa.png">
                                             <span><strong>South Africa:</strong> +27 10 534 8100</span>
                                         </a>
                                     </li>
@@ -221,17 +221,17 @@
                         <div class="row mx-0">
                             <div class="col-md-6">
                                 <ul class="country_list">
-                                    <li><a href="tel:+12139924748?call"><img alt="USA" src="/multibankfx/public_files/images/common/country/usa.png"><span><strong>USA:</strong> +1 213 992 4748</span></a>
+                                    <li><a href="tel:+12139924748?call"><img alt="USA" src="public_files/images/common/country/usa.png"><span><strong>USA:</strong> +1 213 992 4748</span></a>
                                     </li>
-                                    <li><a href="tel:+525588808058?call"><img alt="Mexico" src="/multibankfx/public_files/images/common/country/mexico.png"><span><strong>Mexico:</strong> +52 558 880 8058</span></a>
+                                    <li><a href="tel:+525588808058?call"><img alt="Mexico" src="public_files/images/common/country/mexico.png"><span><strong>Mexico:</strong> +52 558 880 8058</span></a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul class="country_list">
-                                    <li><a href="tel:+14377033123?call"><img alt="Canada" src="/multibankfx/public_files/images/common/country/canada.png"><span><strong>Canada:</strong> +1 437 703 3123</span></a>
+                                    <li><a href="tel:+14377033123?call"><img alt="Canada" src="public_files/images/common/country/canada.png"><span><strong>Canada:</strong> +1 437 703 3123</span></a>
                                     </li>
-                                    <li><a href="tel:+13457691891?call"><img alt="Cayman Islands" src="/multibankfx/public_files/images/common/country/cayman_island.png"><span><strong>Cayman Islands:</strong> + 1 345 769 1891</span></a>
+                                    <li><a href="tel:+13457691891?call"><img alt="Cayman Islands" src="public_files/images/common/country/cayman_island.png"><span><strong>Cayman Islands:</strong> + 1 345 769 1891</span></a>
                                     </li>
                                 </ul>
                             </div>
@@ -244,17 +244,17 @@
                         <div class="row mx-0">
                             <div class="col-md-6">
                                 <ul class="country_list">
-                                    <li><a href="tel:+541152357046?call"><img alt="Argentina" src="/multibankfx/public_files/images/common/country/argentina.png"><span><strong>Argentina:</strong> +54 1152357046</span></a>
+                                    <li><a href="tel:+541152357046?call"><img alt="Argentina" src="public_files/images/common/country/argentina.png"><span><strong>Argentina:</strong> +54 1152357046</span></a>
                                     </li>
-                                    <li><a href="tel:+551131817843?call"><img alt="image" src="/multibankfx/public_files/images/common/country/brazil.png"><span><strong>Brazil:</strong> +55 11 3181 7843</span></a>
+                                    <li><a href="tel:+551131817843?call"><img alt="image" src="public_files/images/common/country/brazil.png"><span><strong>Brazil:</strong> +55 11 3181 7843</span></a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul class="country_list">
-                                    <li><a href="tel:+56225708706?call"><img alt="Chile" src="/multibankfx/public_files/images/common/country/chile.png"><span><strong>Chile:</strong> +56 22 570 8706</span></a>
+                                    <li><a href="tel:+56225708706?call"><img alt="Chile" src="public_files/images/common/country/chile.png"><span><strong>Chile:</strong> +56 22 570 8706</span></a>
                                     </li>
-                                    <li><a href="tel:+5714864861?call"><img alt="Colombia" src="/multibankfx/public_files/images/common/country/colombia.png"><span><strong>Colombia:</strong> +57 1 486 4861</span></a>
+                                    <li><a href="tel:+5714864861?call"><img alt="Colombia" src="public_files/images/common/country/colombia.png"><span><strong>Colombia:</strong> +57 1 486 4861</span></a>
                                     </li>
                                 </ul>
                             </div>
@@ -270,7 +270,7 @@
                         <div class="row mx-0">
                             <div class="col-xl-6 col-12 p0">
                                 <div class="mex-img-cover">
-                                    <img class="contact-service-image" src="/multibankfx/public_files/images/contact/contact_box_email.jpg" alt="EMAIL">
+                                    <img class="contact-service-image" src="public_files/images/contact/contact_box_email.jpg" alt="EMAIL">
                                 </div>
                             </div>
                             <div class="col-xl-6 col-12 row flex-column justify-content-center align-items-center mx-0 py-4">
@@ -294,7 +294,7 @@
                             </div>
                             <div class="col-xl-6 col-12 p0">
                                 <div class="mex-img-cover">
-                                    <img class="contact-service-image" src="/multibankfx/public_files/images/contact/contact_box_livechat.jpg" alt="Live Chat">
+                                    <img class="contact-service-image" src="public_files/images/contact/contact_box_livechat.jpg" alt="Live Chat">
                                 </div>
                             </div>
                         </div>
@@ -303,7 +303,7 @@
                         <div class="row mx-0">
                             <div class="col-xl-6 col-12 p0">
                                 <div class="mex-img-cover">
-                                    <img class="contact-service-image" src="/multibankfx/public_files/images/contact/contact_box_connect.jpg" alt="CONNECT TO US">
+                                    <img class="contact-service-image" src="public_files/images/contact/contact_box_connect.jpg" alt="CONNECT TO US">
                                 </div>
                             </div>
                             <div class="col-xl-6 col-12 row flex-column justify-content-center align-items-center mx-0 py-4">
@@ -311,12 +311,12 @@
                                     CONNECT TO US </div>
                                 <div class="mex-content">
                                     <p class="mex-m-t-15">
-                                        <a href="https://www.facebook.com/multibank.official" target="_blank"><img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/en_foote_btn_01.png" style="width:26px; height:auto"></i>
+                                        <a href="https://www.facebook.com/multibank.official" target="_blank"><img alt="" data-entity-type="" data-entity-uuid="" src="public_files/images/common/en_foote_btn_01.png" style="width:26px; height:auto"></i>
                                         </a>
-                                        <a href="https://twitter.com/multibankgroup" target="_blank"><img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/en_foote_btn_02.png" style="width:26px; height:auto"></a>
-                                        <a href="https://www.youtube.com/channel/UCOuXB1h-z53g3RHcnAHhVbA" target="_blank"><img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/en_foote_btn_03.png" style="width:26px; height:auto"></a>
-                                        <a href="https://www.linkedin.com/company/multibankgroup/" target="_blank"><img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/en_foote_btn_04.png" style="width:26px; height:auto"></a>
-                                        <a href="https://www.instagram.com/multibank_group/" target="_blank"><img alt="" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/common/en_foote_btn_05.png" style="width:26px; height:auto"></a>
+                                        <a href="https://twitter.com/multibankgroup" target="_blank"><img alt="" data-entity-type="" data-entity-uuid="" src="public_files/images/common/en_foote_btn_02.png" style="width:26px; height:auto"></a>
+                                        <a href="https://www.youtube.com/channel/UCOuXB1h-z53g3RHcnAHhVbA" target="_blank"><img alt="" data-entity-type="" data-entity-uuid="" src="public_files/images/common/en_foote_btn_03.png" style="width:26px; height:auto"></a>
+                                        <a href="https://www.linkedin.com/company/multibankgroup/" target="_blank"><img alt="" data-entity-type="" data-entity-uuid="" src="public_files/images/common/en_foote_btn_04.png" style="width:26px; height:auto"></a>
+                                        <a href="https://www.instagram.com/multibank_group/" target="_blank"><img alt="" data-entity-type="" data-entity-uuid="" src="public_files/images/common/en_foote_btn_05.png" style="width:26px; height:auto"></a>
                                     </p>
                                 </div>
                             </div>
@@ -619,16 +619,16 @@
     <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#492a3a09243c253d202b2827222f31672a2624">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-946a46f760e8050dffa511d1-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1086,12 +1086,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="946a46f760e8050dffa511d1-text/javascript"></script>
     <script type="946a46f760e8050dffa511d1-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

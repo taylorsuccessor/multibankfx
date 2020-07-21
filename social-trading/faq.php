@@ -60,16 +60,16 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="st-section">
         <div class="banner_overlay"></div>
-        <img style="object-fit: cover;" src="/multibankfx/public_files/images/social_trading/st_faq_banner.jpg" alt="">
+        <img style="object-fit: cover;" src="public_files/images/social_trading/st_faq_banner.jpg" alt="">
         <div class="container text-center mex-p-v-80 row justify-content-end mx-auto">
             <div class="col-lg-6 col-md-6 col-sm-8 col-12">
                 <div class="mex-h2 mex-m-b-20 text-fff text-left">Frequently Asked Questions</div>
                 <div class="text-uppercase text-fff text-left">Everything You Need To Know, All In One Place</div>
                 <div class="slider-icons">
-                    <div class="slider-icon"><a href="trader.php"><img src="/multibankfx/public_files/images/social_trading/icon_investor.png"><br />TRADER >></a></div>
-                    <div class="slider-icon"><a href="investor.php"><img src="/multibankfx/public_files/images/social_trading/icon_signal_provider.png"><br />INVESTOR >></a></div>
-                    <div class="slider-icon"><a href="faq.php"><img src="/multibankfx/public_files/images/social_trading/icon_faq.png"><br />FAQ >></a></div>
-                    <div class="slider-icon"><a href="leaderboard.php"><img src="/multibankfx/public_files/images/social_trading/icon_leader_board.png"><br />LEADERBOARD >></a></div>
+                    <div class="slider-icon"><a href="trader.php"><img src="public_files/images/social_trading/icon_investor.png"><br />TRADER >></a></div>
+                    <div class="slider-icon"><a href="investor.php"><img src="public_files/images/social_trading/icon_signal_provider.png"><br />INVESTOR >></a></div>
+                    <div class="slider-icon"><a href="faq.php"><img src="public_files/images/social_trading/icon_faq.png"><br />FAQ >></a></div>
+                    <div class="slider-icon"><a href="leaderboard.php"><img src="public_files/images/social_trading/icon_leader_board.png"><br />LEADERBOARD >></a></div>
                 </div>
             </div>
         </div>
@@ -173,7 +173,7 @@
                         <div class="ml-3 pb-2">Active Account Duration: One important indicator to pay attention to is checking the how long the account has been active for, and how long the account has been earning profits. You can find this through the Leaderboard account statistics, where you can see charts and graphs showing the account’s activity & entire history.</div>
                         <div class="ml-3 pb-2">Maximum Drawdown: Another thing to check for is the maximum drawdown on the account in relation to the profit of the account. This allows Investors to determine the aggressiveness of the Signal Provider’s strategy.</div>
                         <div class="ml-3 pb-4">Other Indicators: There are many other indicators that Investors can watch out for. For example, percentage of profitable trades, percentage of losing trades, Profit Factor, Recovery Factor, etc. If you’d like to learn more about the various indicators, you can find them here:</div>
-                        <div class="pb-2 d-flex"><img class="w-75 mx-auto" src="/multibankfx/public_files/images/social_trading/fi_other_indicators.jpg"></div>
+                        <div class="pb-2 d-flex"><img class="w-75 mx-auto" src="public_files/images/social_trading/fi_other_indicators.jpg"></div>
                     </div>
                 </div>
             </div>
@@ -194,7 +194,7 @@
                 <div class="row ml-0"><a href="https://invest.multibankfx.com" class="btn-st-006AD0 ml-0 text-fff">Join as Investor</a><a href="https://invest.multibankfx.com" class="btn-st-005190 ml-0 text-fff">Join as Signal Provider</a></div>
             </div>
             <div class="col-lg-6 col-xs-12 text-right">
-                <img class="w-100" src="/multibankfx/public_files/images/social_trading/fi_investing_reimagined.jpg" />
+                <img class="w-100" src="public_files/images/social_trading/fi_investing_reimagined.jpg" />
             </div>
         </div>
     </section>
@@ -301,16 +301,16 @@
   <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#3e5d4d7e534b524a575c5f50555846105d5153">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#3e5d4d7e534b524a575c5f50555846105d5153">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-e5d33fb9aa01fd0f383f2d7c-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -755,7 +755,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="e5d33fb9aa01fd0f383f2d7c-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -768,12 +768,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="e5d33fb9aa01fd0f383f2d7c-text/javascript"></script>
     <script type="e5d33fb9aa01fd0f383f2d7c-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

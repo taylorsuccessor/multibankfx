@@ -59,7 +59,7 @@
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="flex-center page-top-banner">
-        <img src="/multibankfx/public_files/images/tools/tools_topbanner.jpg" alt="tools top banner" class="mex-img-cover" />
+        <img src="public_files/images/tools/tools_topbanner.jpg" alt="tools top banner" class="mex-img-cover" />
         <div class="container">
             <div class="row justify-content-end top-banner-arabic">
                 <div class="col-xl-6 mex-p-t-30 mex-p-b-30">
@@ -92,7 +92,7 @@
     <section class="pb0">
         <div class="container">
             <div class="banner-with-bg pos-rlt">
-                <img class="banner-bg" src="/multibankfx/public_files/images/tools/img_topbanner_tools_s.jpg" alt="Trading Tools">
+                <img class="banner-bg" src="public_files/images/tools/img_topbanner_tools_s.jpg" alt="Trading Tools">
                 <div class="container align-all pt-0 pb-0 mt-xl-5">
                     <div class="row d-block">
                         <div class="col-lg-8 col-xl-6 offset-lg-2 offset-xl-3 text-center pt-xl-5">
@@ -103,25 +103,25 @@
                             <div class="row text-center mex-m-b-40 mt-xl-5">
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff mb-s-30">
                                     <a href="tools/trading-tools.html#vps" class="text-fff">
-                                        <img src="/multibankfx/public_files/images/tools/trading_tools/VPS_Hosting_icon.png" alt="VPS Hosting">
+                                        <img src="public_files/images/tools/trading_tools/VPS_Hosting_icon.png" alt="VPS Hosting">
                                         <p><?php translate('VPS Hosting'); ?></p>
                                     </a>
                                 </div>
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff mb-s-30">
                                     <a href="tools/trading-tools.html#experts-adv" class="text-fff">
-                                        <img src="/multibankfx/public_files/images/tools/trading_tools/Expert_Advisors_icon.png" alt="Expert Advisors">
+                                        <img src="public_files/images/tools/trading_tools/Expert_Advisors_icon.png" alt="Expert Advisors">
                                         <p><?php translate('Expert Advisors'); ?></p>
                                     </a>
                                 </div>
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff">
                                     <a href="tools/trading-tools.html#nam-pamm" class="text-fff">
-                                        <img src="/multibankfx/public_files/images/tools/trading_tools/MAM_PAMM_icon.png" alt="MAM/ PAMM">
+                                        <img src="public_files/images/tools/trading_tools/MAM_PAMM_icon.png" alt="MAM/ PAMM">
                                         <p><?php translate('MAM/PAMM'); ?></p>
                                     </a>
                                 </div>
                                 <div class="col-lg-3 col-sm-6 col-6 text-fff">
                                     <a href="tools/trading-tools.html#fix-api" class="text-fff">
-                                        <img src="/multibankfx/public_files/images/tools/trading_tools/FIX_AP_icon.png" alt="FIX API">
+                                        <img src="public_files/images/tools/trading_tools/FIX_AP_icon.png" alt="FIX API">
                                         <p><?php translate('FIX API'); ?></p>
                                     </a>
                                 </div>
@@ -138,7 +138,7 @@
                 <div class="col-md-6 mex-m-b-15">
                     <section class="mex-block-card bg-white shadow-box-animate">
                         <div class="card-img-box hover-img-zoom">
-                            <img class="mex-img-cover" src="/multibankfx/public_files/images/tools/trading_tools_trading_conditions.jpg" alt="Trading Conditions">
+                            <img class="mex-img-cover" src="public_files/images/tools/trading_tools_trading_conditions.jpg" alt="Trading Conditions">
                         </div>
                         <div class="card-content-box">
                             <div class=" card-content text-center">
@@ -154,7 +154,7 @@
                 <div class="col-md-6 mex-m-b-15">
                     <section class="mex-block-card bg-white shadow-box-animate">
                         <div class="card-img-box hover-img-zoom">
-                            <img class="mex-img-cover" src="/multibankfx/public_files/images/tools/trading_tools_holiday_hours_notices.jpg" alt="Holiday Hours &amp; Notices">
+                            <img class="mex-img-cover" src="public_files/images/tools/trading_tools_holiday_hours_notices.jpg" alt="Holiday Hours &amp; Notices">
                         </div>
                         <div class="card-content-box">
                             <div class=" card-content bg-white text-center">
@@ -171,7 +171,7 @@
         </div>
     </section>
     <section class="flex-center page-top-banner">
-        <img class="mex-img-cover" src="/multibankfx/public_files/images/tools/scalping_policy_bg.jpg" alt="Scalping Policy">
+        <img class="mex-img-cover" src="public_files/images/tools/scalping_policy_bg.jpg" alt="Scalping Policy">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -190,16 +190,16 @@
     <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#7c1f0f3c11091008151e1d12171a04521f1311">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-447a538b1cbe9182bdfa004a-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -657,12 +657,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="447a538b1cbe9182bdfa004a-text/javascript"></script>
     <script type="447a538b1cbe9182bdfa004a-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

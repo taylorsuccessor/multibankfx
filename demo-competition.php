@@ -59,7 +59,7 @@
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img alt="Demo Account" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/accounts_funding/demo_account_top_banner.jpg" />
+        <section class="flex-center page-top-banner"><img alt="Demo Account" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/accounts_funding/demo_account_top_banner.jpg" />
             <div class="container">
                 <div class="row">
                     <div class="col-8 col-sm-8 col-md-7 col-lg-6 ">
@@ -757,16 +757,16 @@
 <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#c3a0b083aeb6afb7aaa1a2ada8a5bbeda0acae">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-d8afa24177cb79410cfa5858-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1224,12 +1224,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="d8afa24177cb79410cfa5858-text/javascript"></script>
     <script type="d8afa24177cb79410cfa5858-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

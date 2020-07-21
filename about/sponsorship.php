@@ -61,7 +61,7 @@
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img alt="Sponsorship" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/sponsorship_top_banner.jpg" />
+        <section class="flex-center page-top-banner"><img alt="Sponsorship" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/sponsorship_top_banner.jpg" />
             <div class="container mex-p-t-30 mex-p-b-30">
                 <div class="row justify-content-start">
                     <div class="col-lg-6 col-md-10">
@@ -92,7 +92,7 @@
                             popular team sport in Germany.'); ?></p>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-xl-7"><img alt="CURRENT SPONSORSHIP" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/sponsorship_current_hsvh.jpg" width="100%" /></div>
+                    <div class="col-lg-6 col-xl-7"><img alt="CURRENT SPONSORSHIP" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/sponsorship_current_hsvh.jpg" width="100%" /></div>
                     <div class="col-sm-12">
                         <div class="mex-h1 text-1e32a3 text-center mex-m-b-40" style="margin-top: 5%"><?php translate('Past Sponsorship'); ?></div>
                     </div>
@@ -109,11 +109,11 @@
                         </div>
 
                     </div>
-                    <div class="col-lg-6 col-xl-7"><img alt="Official Partner of BMW M Motorsport (2019-2020)" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/about_us/sponsorship_past_bmw_19-20.jpg" width="100%" /></div>
+                    <div class="col-lg-6 col-xl-7"><img alt="Official Partner of BMW M Motorsport (2019-2020)" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/sponsorship_past_bmw_19-20.jpg" width="100%" /></div>
                 </div>
             </div>
         </section>
-        <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script type="a20d7f7ef8cfd46784d8eaeb-text/javascript">
             $(function() {
                 var icons = [
@@ -140,16 +140,16 @@
 
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#bfdcccffd2cad3cbd6ddded1d4d9c791dcd0d2">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#bfdcccffd2cad3cbd6ddded1d4d9c791dcd0d2">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-a20d7f7ef8cfd46784d8eaeb-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -616,7 +616,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="a20d7f7ef8cfd46784d8eaeb-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -629,12 +629,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
     <script type="a20d7f7ef8cfd46784d8eaeb-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
@@ -721,8 +721,8 @@
             }
         });
     </script>
-    <script src="/multibankfx/public_files/static_js/swiper-4.3.5.min.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app_home.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
+    <script src="public_files/static_js/swiper-4.3.5.min.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
+    <script src="public_files/static_js/app_home.js" type="a20d7f7ef8cfd46784d8eaeb-text/javascript"></script>
     <script type="a20d7f7ef8cfd46784d8eaeb-text/javascript">
         $(function() {
             //icons we need

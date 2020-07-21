@@ -59,7 +59,7 @@
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img alt="Trade Shares" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/products/shares/img_topbanner_share.jpg" />
+        <section class="flex-center page-top-banner"><img alt="Trade Shares" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/products/shares/img_topbanner_share.jpg" />
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-12">
@@ -127,8 +127,8 @@
                             <div class="col-lg-3 col-md-12">
                                 <div class="mex-h3 text-center mex-m-b-30 uppercase"><?php translate('Download'); ?></div>
                                 <div class="text-center">
-                                    <a href="/multibankfx/public_files/images/documents/stocks/stocks.pdf" target="_blank"><img src="/multibankfx/public_files/images/products/shares/share_lists_pdf.png" alt="not find picture"></a>
-                                    <a href="/multibankfx/public_files/images/documents/stocks/stocks.xlsx" target="_blank"><img src="/multibankfx/public_files/images/products/shares/shares_lists_excel@2x.png" alt="not find picture"></a>
+                                    <a href="public_files/images/documents/stocks/stocks.pdf" target="_blank"><img src="public_files/images/products/shares/share_lists_pdf.png" alt="not find picture"></a>
+                                    <a href="public_files/images/documents/stocks/stocks.xlsx" target="_blank"><img src="public_files/images/products/shares/shares_lists_excel@2x.png" alt="not find picture"></a>
                                 </div>
                             </div>
                         </div>
@@ -150,8 +150,8 @@
                             </div>
                             <div class="col-sm-12 text-center">
                                 <div class="mex-h3 text-center mex-m-b-15 uppercase"><?php translate('APPLY NOW TO START TRADING'); ?></div>
-                                <a href="/multibankfx/account/live-account.php" class="btn btn-mex-red mex-m-b-15" style="min-width: 200px;"><?php translate('Live Account'); ?></a><br>
-                                <a href="/multibankfx/demo_competition.php" class="btn btn-mex-blue mex-m-b-15" style="min-width: 200px;"><?php translate('Demo Account'); ?></a>
+                                <a href="account/live-account.php" class="btn btn-mex-red mex-m-b-15" style="min-width: 200px;"><?php translate('Live Account'); ?></a><br>
+                                <a href="demo_competition.php" class="btn btn-mex-blue mex-m-b-15" style="min-width: 200px;"><?php translate('Demo Account'); ?></a>
                             </div>
                         </div>
                     </div>
@@ -4975,7 +4975,7 @@
                             </label>
                             <div class='form-check form-check-inline'>
                                 <input data-message='' data-extra-message="" class='form-check-input d-none' name='privacy' type='checkbox' id='privacy_policy' value='1' />
-                                <label class='form-check-label mex-h5  mb-3 mex-p-v-15 w-100 font-12  border-bottom ' for='privacy_policy'>All personal data you hereby provide are collected for enquiry follow-up only and protected by <a href="/multibankfx/privacy-policy.php" class="text-1e32a3">MultiBank Privacy Policy</a></label>
+                                <label class='form-check-label mex-h5  mb-3 mex-p-v-15 w-100 font-12  border-bottom ' for='privacy_policy'>All personal data you hereby provide are collected for enquiry follow-up only and protected by <a href="privacy-policy.php" class="text-1e32a3">MultiBank Privacy Policy</a></label>
                             </div>
                         </div>
                         <div class='mex-form-item col-sm-12 mb-3'>
@@ -4999,16 +4999,16 @@
 
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#395a4a79544c554d505b5857525f41175a5654">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#395a4a79544c554d505b5857525f41175a5654">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-f5b848ca5980c39ab5799fb0-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -5453,7 +5453,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="f5b848ca5980c39ab5799fb0-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -5466,12 +5466,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="f5b848ca5980c39ab5799fb0-text/javascript"></script>
     <script type="f5b848ca5980c39ab5799fb0-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

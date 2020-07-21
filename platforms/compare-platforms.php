@@ -59,7 +59,7 @@
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="flex-center">
-        <img class="mex-img-cover" src="/multibankfx/public_files/images/platforms/compare_platforms/compare_platforms_top_banner2.jpg" alt="compare platforms">
+        <img class="mex-img-cover" src="public_files/images/platforms/compare_platforms/compare_platforms_top_banner2.jpg" alt="compare platforms">
         <div class="container mex-block--focus-inner">
             <div class="row">
                 <div class="col-sm-12">
@@ -70,7 +70,7 @@
                         <section class="mex-block-card-v bg-white p0 tools-mex-block-card-v box-animate">
                             <a href="ecn-pro.php">
                                 <div class="card-img-box">
-                                    <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/platforms/platform_left1.png" alt="ECN PRO">
+                                    <img class="card-img mex-img-cover" src="public_files/images/platforms/platform_left1.png" alt="ECN PRO">
                                 </div>
                                 <div class="card-content bg-white text-center">
                                     <div class="mex-h3 mex-clamp-1 mex-m-b-15 text-1e32a3">
@@ -87,7 +87,7 @@
                         <section class="mex-block-card-v  p0 bg-white tools-mex-block-card-v box-animate">
                             <a href="multibank-pro.php">
                                 <div class="card-img-box">
-                                    <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/platforms/platform_right1.png" alt="MULTIBANK PRO">
+                                    <img class="card-img mex-img-cover" src="public_files/images/platforms/platform_right1.png" alt="MULTIBANK PRO">
                                 </div>
                                 <div class="card-content bg-white text-center">
                                     <div class="mex-h3 mex-clamp-1 mex-m-b-15 text-1e32a3">
@@ -104,7 +104,7 @@
                         <section class="mex-block-card-v  p0 bg-white tools-mex-block-card-v box-animate">
                             <a href="maximus.php">
                                 <div class="card-img-box">
-                                    <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/platforms/platform_left2.png" alt="MAXIMUS">
+                                    <img class="card-img mex-img-cover" src="public_files/images/platforms/platform_left2.png" alt="MAXIMUS">
                                 </div>
                                 <div class="card-content bg-white text-center">
                                     <div class="mex-h3 mex-clamp-1 mex-m-b-15 text-1e32a3">
@@ -159,16 +159,16 @@
     <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.php d7b4a497baa2bba3beb5b6b9bcb1aff9b4b8ba">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.php d7b4a497baa2bba3beb5b6b9bcb1aff9b4b8ba">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-cbf7dbb96ed41ae2eea9f0db-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -613,7 +613,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="cbf7dbb96ed41ae2eea9f0db-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -626,12 +626,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="cbf7dbb96ed41ae2eea9f0db-text/javascript"></script>
     <script type="cbf7dbb96ed41ae2eea9f0db-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

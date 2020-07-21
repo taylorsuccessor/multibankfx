@@ -19,9 +19,9 @@
     <link rel="alternate" href="https://th.multibankfx.com/account/account-funding/paymentasia" hreflang="th-TH"/>
     <link rel="alternate" href="https://fr.multibankfx.com/account/account-funding/paymentasia" hreflang="fr-FR"/>
     <link rel="alternate" href="paymentasia.php" hreflang="x-default"/>
-    <link rel="stylesheet" type="text/css" href="/multibankfx/public_files/static_css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="public_files/static_css/bootstrap.min.css">
     <script type="2f8aa08fcc510f95e88c1612-text/javascript"
-            src="/multibankfx/public_files/static_js/jquery-3.3.1.min.js"></script>
+            src="public_files/static_js/jquery-3.3.1.min.js"></script>
     <script type="2f8aa08fcc510f95e88c1612-text/javascript">
 function getUrlVars() {
     var vars = {};
@@ -39,8 +39,8 @@ function getUrlVars() {
         <div class="row mx-0">
             <div class="col-12 col-md-6 mx-auto p-0">
                 <div class="top-logo px-3 text-center" style="background-color: #fff;"><a class="logo w-50"
-                                                                                          href="/multibankfx/index.php"><img
-                        alt="MultiBank Group" src="/multibankfx/public_files/images/payment_gateway/payment-asia.png"
+                                                                                          href="index.php"><img
+                        alt="MultiBank Group" src="public_files/images/payment_gateway/payment-asia.png"
                         width="220px"/> </a></div>
                 <div class="bottom-form"
                      style="background-image: none; background-color: #fff; color: #2e6da4; font-weight: 500;">
@@ -231,7 +231,7 @@ function getUrlVars() {
         }
     }
 </style>
-<script src="/multibankfx/public_files/static_js/js_loader.php%3Ffiles[]=popper.min.js&amp;files[]=bootstrap.min.js&amp;files[]=jquery.validate.min.js&amp;files[]=jquery.dataTables.min.js"
+<script src="public_files/static_js/js_loader.php%3Ffiles[]=popper.min.js&amp;files[]=bootstrap.min.js&amp;files[]=jquery.validate.min.js&amp;files[]=jquery.dataTables.min.js"
         type="2f8aa08fcc510f95e88c1612-text/javascript"></script>
 <script type="2f8aa08fcc510f95e88c1612-text/javascript">
 

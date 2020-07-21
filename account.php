@@ -59,7 +59,7 @@
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img src="/multibankfx/public_files/images/accounts_funding/account_top_banner.jpg" alt="Live Account" class="mex-img-cover" />
+        <section class="flex-center page-top-banner"><img src="public_files/images/accounts_funding/account_top_banner.jpg" alt="Live Account" class="mex-img-cover" />
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-12">
@@ -98,7 +98,7 @@
             }
         </style>
         <section class="flex-center flex-initial mex-p-t-none mex-p-b-none">
-            <div class="col-lg-6 col-sm5 col-xs-12 mex-p-l-none p0-xs"><img src="/multibankfx/public_files/images/accounts_funding/account_second_banner.jpg" alt="Demo Account" class="mex-img-cover" /></div>
+            <div class="col-lg-6 col-sm5 col-xs-12 mex-p-l-none p0-xs"><img src="public_files/images/accounts_funding/account_second_banner.jpg" alt="Demo Account" class="mex-img-cover" /></div>
             <div class="col-lg-6 col-sm5 col-xs-12 p32 pt24 pb24">
                 <div class="mex-h1 text-1e32a3 text-left">
                 <?php translate('Demo Account'); ?></div>
@@ -131,7 +131,7 @@
             }
         </style>
         <section class="flex-center">
-            <img class="mex-img-cover" src="/multibankfx/public_files/images/accounts_funding/account_third_banner.jpg" alt="Islamic Account">
+            <img class="mex-img-cover" src="public_files/images/accounts_funding/account_third_banner.jpg" alt="Islamic Account">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-12">
@@ -155,7 +155,7 @@
                     <div class="col-md-6 mex-m-b-15">
                         <section class="mex-block-card bg-white shadow-box-animate">
                             <div class="card-img-box hover-img-zoom">
-                                <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/accounts_funding/account_funding_desc_banner.png" alt="ACCOUNT FUNDING">
+                                <img class="card-img mex-img-cover" src="public_files/images/accounts_funding/account_funding_desc_banner.png" alt="ACCOUNT FUNDING">
                             </div>
                             <div class="card-content-box">
                                 <div class=" card-content text-center">
@@ -170,7 +170,7 @@
                     <div class="col-md-6 mex-m-b-15">
                         <section class="mex-block-card bg-white shadow-box-animate">
                             <div class="card-img-box hover-img-zoom">
-                                <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/accounts_funding/withdrawal_desc_banner.png" alt="Withdrawals">
+                                <img class="card-img mex-img-cover" src="public_files/images/accounts_funding/withdrawal_desc_banner.png" alt="Withdrawals">
                             </div>
                             <div class="card-content-box">
                                 <div class=" card-content text-center">
@@ -187,7 +187,7 @@
                     <div class="col-md-6 mex-m-b-15">
                         <section class="mex-block-card bg-white shadow-box-animate">
                             <div class="card-img-box hover-img-zoom">
-                                <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/accounts_funding/account_forms_desc_banner.jpg" alt="Account Forms">
+                                <img class="card-img mex-img-cover" src="public_files/images/accounts_funding/account_forms_desc_banner.jpg" alt="Account Forms">
                             </div>
                             <div class="card-content-box">
                                 <div class=" card-content text-center">
@@ -202,7 +202,7 @@
                     <div class="col-md-6 mex-m-b-15">
                         <section class="mex-block-card bg-white shadow-box-animate">
                             <div class="card-img-box hover-img-zoom">
-                                <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/accounts_funding/bonus_desc_banner.png" alt="BONUS">
+                                <img class="card-img mex-img-cover" src="public_files/images/accounts_funding/bonus_desc_banner.png" alt="BONUS">
                             </div>
                             <div class="card-content-box">
                                 <div class=" card-content text-center">
@@ -582,16 +582,16 @@
     <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#dcbfaf9cb1a9b0a8b5bebdb2b7baa4f2bfb3b1">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-1b2ee1e1a006e60afe15d282-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1049,12 +1049,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="1b2ee1e1a006e60afe15d282-text/javascript"></script>
     <script type="1b2ee1e1a006e60afe15d282-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

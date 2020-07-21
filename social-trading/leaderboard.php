@@ -60,7 +60,7 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="st-section">
         <div class="banner_overlay"></div>
-        <img style="object-fit: cover;" src="/multibankfx/public_files/images/social_trading/leaderborad_banner.jpg" alt="">
+        <img style="object-fit: cover;" src="public_files/images/social_trading/leaderborad_banner.jpg" alt="">
         <div class="container text-center mex-p-v-80 row justify-content-end mx-auto">
             <div class="col-lg-6 col-md-6 col-sm-8 col-12">
                 <div class="mex-h1 mex-m-b-20 text-fff text-left">LEADERBOARD</div>
@@ -83,10 +83,10 @@
                         <li><span class="fa-li"><i class="fa fa-check-circle"></i></span>Learn how to trade</li>
                         <li><span class="fa-li"><i class="fa fa-check-circle"></i></span>Trade when you see opportunities</li>
                     </ul>
-                    <div class="row mx-0"><a href="/multibankfx/account/live-account.php" class="btn-st-006AD0 text-fff ml-0">Open Investment Account</a></div>
+                    <div class="row mx-0"><a href="account/live-account.php" class="btn-st-006AD0 text-fff ml-0">Open Investment Account</a></div>
                 </div>
                 <div class="col-lg-6 text-right">
-                    <img class="w-100" src="/multibankfx/public_files/images/social_trading/st_improve_pc.png" />
+                    <img class="w-100" src="public_files/images/social_trading/st_improve_pc.png" />
                 </div>
             </div>
         </div>
@@ -320,7 +320,7 @@
 
             }
         </style>
-        <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script type="49f47bde30750ed64190b3d3-text/javascript">
             /*$(function() {
     $('.nav-link').click(function() {
@@ -335,16 +335,16 @@
         <?php include_from_root('website_template/page_footer.php'); ?>
         <div class="slidebar">
             <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-                <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+                <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
             </a>
             <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-                <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+                <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
             </a>
-            <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#05667645687069716c67646b6e637d2b666a68">
-                <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#05667645687069716c67646b6e637d2b666a68">
+                <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
             </a>
             <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-49f47bde30750ed64190b3d3-="">
-                <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+                <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
             </a>
         </div>
         <style type="text/css">
@@ -789,7 +789,7 @@
                 border-radius: 0;
             }
         </style>
-        <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script type="49f47bde30750ed64190b3d3-text/javascript">
             $(function() {
                 $('.email-us-tg').click(function(e) {
@@ -802,12 +802,12 @@
                 });
             })
         </script>
-        <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
-        <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
-        <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
-        <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
-        <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
-        <script src="/multibankfx/public_files/static_js/app.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
+        <script src="public_files/static_js/lang_data/en.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
+        <script src="public_files/static_js/jquery.dataTables.min.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
+        <script src="public_files/static_js/lazysizes.min.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
+        <script src="public_files/static_js/jquery.validate.min.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
+        <script src="public_files/static_js/intlTelInput.min.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
+        <script src="public_files/static_js/app.js" type="49f47bde30750ed64190b3d3-text/javascript"></script>
         <script type="49f47bde30750ed64190b3d3-text/javascript" async>
             url = new URL(window.location.href);
             if (!url.searchParams.get('is_iframe')) {

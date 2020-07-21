@@ -364,7 +364,7 @@
                 </div>
             </section>
         </div>
-        <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script type="17e92fec473d396ef3d49432-text/javascript">
             $(function() {
                 $('.mex-tabs li:eq(0)').addClass('active');
@@ -752,16 +752,16 @@
      <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#85e6f6c5e8f0e9f1ece7e4ebeee3fdabe6eae8">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#85e6f6c5e8f0e9f1ece7e4ebeee3fdabe6eae8">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-17e92fec473d396ef3d49432-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1206,7 +1206,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="17e92fec473d396ef3d49432-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -1219,12 +1219,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="17e92fec473d396ef3d49432-text/javascript"></script>
     <script type="17e92fec473d396ef3d49432-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

@@ -19,9 +19,9 @@
     <link rel="alternate" href="https://th.multibankfx.com/account/account-funding/perfect-money" hreflang="th-TH"/>
     <link rel="alternate" href="https://fr.multibankfx.com/account/account-funding/perfect-money" hreflang="fr-FR"/>
     <link rel="alternate" href="perfect-money.php" hreflang="x-default"/>
-    <link rel="stylesheet" type="text/css" href="/multibankfx/public_files/static_css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="public_files/static_css/bootstrap.min.css">
     <script type="61d0498896e4eec00d8b6d9f-text/javascript"
-            src="/multibankfx/public_files/static_js/jquery-3.3.1.min.js"></script>
+            src="public_files/static_js/jquery-3.3.1.min.js"></script>
 </head>
 <body>
 <section class="mt-5 pt-5">
@@ -29,9 +29,9 @@
         <div class="row mx-0">
             <div class="col-12 col-md-7 mx-auto pb-5"
                  style="-webkit-box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.5); -moz-box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.5); box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.5);">
-                <div class="top-logo" style="background-color: white;"><a class="logo" href="/multibankfx/index.php"><img
+                <div class="top-logo" style="background-color: white;"><a class="logo" href="index.php"><img
                         alt="MultiBank Group" data-entity-type="" data-entity-uuid=""
-                        src="/multibankfx/public_files/images/common/icons/perfect_money_logo.png" width="220px"/> </a></div>
+                        src="public_files/images/common/icons/perfect_money_logo.png" width="220px"/> </a></div>
                 <div class="bottom-form p-0 m-0" >
                     <div class="row">
                         <div class="col-6">&nbsp;</div>
@@ -180,7 +180,7 @@
         }
     }
 </style>
-<script src="/multibankfx/public_files/static_js/js_loader.php%3Ffiles[]=popper.min.js&amp;files[]=bootstrap.min.js&amp;files[]=jquery.validate.min.js&amp;files[]=jquery.dataTables.min.js"
+<script src="public_files/static_js/js_loader.php%3Ffiles[]=popper.min.js&amp;files[]=bootstrap.min.js&amp;files[]=jquery.validate.min.js&amp;files[]=jquery.dataTables.min.js"
         type="61d0498896e4eec00d8b6d9f-text/javascript"></script>
 <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js"
         data-cf-settings="61d0498896e4eec00d8b6d9f-|49" defer=""></script>

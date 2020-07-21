@@ -90,7 +90,7 @@
                 color: #000 !important;
             }
         </style>
-        <section class="flex-center page-top-banner"><img src="/multibankfx/public_files/images/accounts_funding/bonus_top_banner.jpg" alt="bonuses banner" class="mex-img-cover" />
+        <section class="flex-center page-top-banner"><img src="public_files/images/accounts_funding/bonus_top_banner.jpg" alt="bonuses banner" class="mex-img-cover" />
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-sm-12">
@@ -544,10 +544,10 @@
                                        class='form-check-input ' name='privacy' type='checkbox' id='terms_conditions'
                                        required value='1' checked/>
                                 <label class='form-check-label label-1 ' for='terms_conditions'>I accept the <a
-                                        href="/multibankfx/terms-conditions.php" target="_blank" class="text-22A0C4">Terms &
-                                    Conditions</a>, <a href="/multibankfx/privacy-policy.php" target="_blank"
+                                        href="terms-conditions.php" target="_blank" class="text-22A0C4">Terms &
+                                    Conditions</a>, <a href="privacy-policy.php" target="_blank"
                                                        class="text-22A0C4">Privacy Policy</a>, and <a
-                                        href="/multibankfx/cookie-policy.php" target="_blank" class="text-22A0C4">Cookie
+                                        href="cookie-policy.php" target="_blank" class="text-22A0C4">Cookie
                                     Policy</a>.</label>
                             </div>
                         </div>
@@ -590,25 +590,25 @@
                             <ul class="mex-tabs new-tab-heigher bonus-page mb-0 px-0">
                                 <li class="tab-title bonus-page-tab d-none" data-tab="100_bonus">
                                     <a>
-                                        <span class="tab-img-cover d-none d-xl-block"><img src="/multibankfx/public_files/images/accounts_funding/tab_100_bonus.jpg"></span>
+                                        <span class="tab-img-cover d-none d-xl-block"><img src="public_files/images/accounts_funding/tab_100_bonus.jpg"></span>
                                         100% BONUS
                                     </a>
                                 </li>
                                 <li class="tab-title bonus-page-tab d-none" data-tab="20_bonus">
                                     <a>
-                                        <span class="tab-img-cover d-none d-xl-block"><img src="/multibankfx/public_files/images/accounts_funding/20bonus_box_652x600_new.jpg"></span>
+                                        <span class="tab-img-cover d-none d-xl-block"><img src="public_files/images/accounts_funding/20bonus_box_652x600_new.jpg"></span>
                                         25% BONUS
                                     </a>
                                 </li>
                                 <li class="tab-title bonus-page-tab active" data-tab="imperial_bonus">
                                     <a>
-                                        <span class="tab-img-cover d-none d-xl-block"><img src="/multibankfx/public_files/images/accounts_funding/tab_imperial_bonus.jpg"></span>
+                                        <span class="tab-img-cover d-none d-xl-block"><img src="public_files/images/accounts_funding/tab_imperial_bonus.jpg"></span>
                                         <?php translate('IMPERIAL BONUS'); ?>
                                     </a>
                                 </li>
                                 <li class="tab-title bonus-page-tab" data-tab="refer_bonus">
                                     <a>
-                                        <span class="tab-img-cover d-none d-xl-block"><img src="/multibankfx/public_files/images/accounts_funding/tab_refer_friend_bonus.jpg"></span>
+                                        <span class="tab-img-cover d-none d-xl-block"><img src="public_files/images/accounts_funding/tab_refer_friend_bonus.jpg"></span>
                                         <?php translate('REFER A FRIEND BONUS'); ?>
                                     </a>
                                 </li>
@@ -995,7 +995,7 @@
                 }
             }
         </style>
-        <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script type="ca783208542e411d19700e4f-text/javascript">
             function switchToIndividual() {
                 $form = $('#lp_campaign_07_16_v2');
@@ -1418,16 +1418,16 @@
   <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#462535062b332a322f2427282d203e6825292b">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#462535062b332a322f2427282d203e6825292b">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ca783208542e411d19700e4f-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1894,7 +1894,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="ca783208542e411d19700e4f-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -1907,12 +1907,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="ca783208542e411d19700e4f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="ca783208542e411d19700e4f-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="ca783208542e411d19700e4f-text/javascript"></script>
     <script type="ca783208542e411d19700e4f-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

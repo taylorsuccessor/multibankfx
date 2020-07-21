@@ -88,8 +88,8 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-6">
-                    <video class="full-width html5_video_play" poster="/multibankfx/public_files/images/social_trading/20190711_SocialTrading_SignalProvider_V1.48_ComingSoon_1.1.jpg" controls>
-                        <source src="/multibankfx/public_files/videos/social_trading/20190711_SocialTrading_SignalProvider_V1.48_ComingSoon_1.1.mp4">
+                    <video class="full-width html5_video_play" poster="public_files/images/social_trading/20190711_SocialTrading_SignalProvider_V1.48_ComingSoon_1.1.jpg" controls>
+                        <source src="public_files/videos/social_trading/20190711_SocialTrading_SignalProvider_V1.48_ComingSoon_1.1.mp4">
                     </video>
                 </div>
             </div>
@@ -98,7 +98,7 @@
     <section class="how-it-works p0" style="background-color:#112754;">
         <div class="col-12 row">
             <div class="col-lg-6 pl-0">
-                <img class="" src="/multibankfx/public_files/images/social_trading/how_it_works.png" alt="How it works" style="">
+                <img class="" src="public_files/images/social_trading/how_it_works.png" alt="How it works" style="">
             </div>
             <div class="col-lg-5" style="align-self:center;">
                 <div class="text-fff mex-h2 st-h2">How it works</div>
@@ -119,25 +119,25 @@
                     <p class="lead text-center mex-m-t-20"><strong>MultiBank Social Trading provides Signal Providers with a flexible & lucrative payout structure, allowing them to customize the payout amount and interval of their choosing.</strong></p>
                 </div>
                 <div class="col-md-6 mb-3">
-                    <img class="mb-3" style="justify-self: center;" src="/multibankfx/public_files/images/social_trading/signal_provider_icon01.png" alt="">
+                    <img class="mb-3" style="justify-self: center;" src="public_files/images/social_trading/signal_provider_icon01.png" alt="">
                     <div class="mex-content text-center">
                         Payouts to Signal Providers are calculated based on Percent of Profit arising from the Investor’s account.
                     </div>
                 </div>
                 <div class="col-md-6 mb-3">
-                    <img class="mb-3" src="/multibankfx/public_files/images/social_trading/signal_provider_icon02.png" alt="">
+                    <img class="mb-3" src="public_files/images/social_trading/signal_provider_icon02.png" alt="">
                     <div class="mex-content text-center">
                         Signal Providers can customize the percentage amount & Payout Intervals for each of their Master Accounts in their account panels.
                     </div>
                 </div>
                 <div class="col-md-6 mb-3">
-                    <img class="mb-3" src="/multibankfx/public_files/images/social_trading/signal_provider_icon03.png" alt="">
+                    <img class="mb-3" src="public_files/images/social_trading/signal_provider_icon03.png" alt="">
                     <div class="mex-content text-center">
                         The Payout Intervals can be set to any duration, including daily, weekly or monthly payouts. 
                     </div>
                 </div>
                 <div class="col-md-6 mb-3">
-                    <img class="mb-3" src="/multibankfx/public_files/images/social_trading/signal_provider_icon04.png" alt="">
+                    <img class="mb-3" src="public_files/images/social_trading/signal_provider_icon04.png" alt="">
                     <div class="mex-content text-center">
                         All payouts are completely automated, and issued to Signal Providers at the end of each Payout Interval, depending on previous high-watermark.
                     </div>
@@ -152,7 +152,7 @@
         <div class="container">
             <div class="row ">
                 <div class="col-md-6">
-                    <img class="w-100" src="/multibankfx/public_files/images/social_trading/enjoy_financial_freedom.jpg" alt="">
+                    <img class="w-100" src="public_files/images/social_trading/enjoy_financial_freedom.jpg" alt="">
 
                 </div>
                 <div class="col-md-6 align-self-center">
@@ -189,7 +189,7 @@
                     </ol>
                 </div>
                 <div class="col-12 col-md-6">
-                    <img class="w-100" style="-webkit-box-shadow: 0px 0px 7px 6px rgba(0,0,0,0.2); -moz-box-shadow: 0px 0px 7px 6px rgba(0,0,0,0.2); box-shadow: 0px 0px 7px 6px rgba(0,0,0,0.2);" src="/multibankfx/public_files/images/social_trading/fi_limit_your_risk_1.jpg" alt="">
+                    <img class="w-100" style="-webkit-box-shadow: 0px 0px 7px 6px rgba(0,0,0,0.2); -moz-box-shadow: 0px 0px 7px 6px rgba(0,0,0,0.2); box-shadow: 0px 0px 7px 6px rgba(0,0,0,0.2);" src="public_files/images/social_trading/fi_limit_your_risk_1.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -197,7 +197,7 @@
     <section class="how-it-works p0" style="background-color:#112754;">
         <div class="col-12 row">
             <div class="col-12 col-lg-6 pl-0">
-                <img class="" src="/multibankfx/public_files/images/social_trading/how_it_works.png" alt="How it works" style="">
+                <img class="" src="public_files/images/social_trading/how_it_works.png" alt="How it works" style="">
             </div>
             <div class="col-12 col-lg-5" style="align-self:center;">
                 <div class="text-fff mex-h2 st-h2">JOIN OUR TOP PERFORMING SIGNAL PROVIDERS!</div>
@@ -214,16 +214,16 @@
     <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
-        <a class="email-us-tg demo-account-btn email-btn" href="/multibankfx/cdn-cgi/l/email-protection.html#600313200d150c140902010e0b06184e030f0d">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+        <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#600313200d150c140902010e0b06184e030f0d">
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-5dacad7b5b82c3bd8f8e3c95-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -668,7 +668,7 @@
             border-radius: 0;
         }
     </style>
-    <script data-cfasync="false" src="/multibankfx/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="5dacad7b5b82c3bd8f8e3c95-text/javascript">
         $(function() {
             $('.email-us-tg').click(function(e) {
@@ -681,12 +681,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="5dacad7b5b82c3bd8f8e3c95-text/javascript"></script>
     <script type="5dacad7b5b82c3bd8f8e3c95-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

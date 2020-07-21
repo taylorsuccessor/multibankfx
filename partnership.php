@@ -58,7 +58,7 @@
     </style>
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <section class="flex-center page-top-banner pb96 pt96"><img src="/multibankfx/public_files/images/partnership/partnership_top_banner.jpg" alt="partnership top banner" class="mex-img-cover" />
+    <section class="flex-center page-top-banner pb96 pt96"><img src="public_files/images/partnership/partnership_top_banner.jpg" alt="partnership top banner" class="mex-img-cover" />
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-12">
@@ -90,7 +90,7 @@
                 <div class="col-sm-12 col-md-12 col-lg-8 col-12 mb30 mb-sm-16">
                     <section class="mex-card-cover box-animate">
                         <a href="partnership/introducing-brokers.php">
-                            <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/home_partnership_introducing_broker@2x.png" alt="Introducing Brokers">
+                            <img class="card-img mex-img-cover" src="public_files/images/partnership/home_partnership_introducing_broker@2x.png" alt="Introducing Brokers">
                             <div class="card-content text-left">
                                 <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase text-fff">
                                     Introducing Brokers
@@ -105,7 +105,7 @@
                 <div class="col-sm-12 col-md-6 col-lg-4 col-12 mb30 mb-sm-16">
                     <section class="mex-card-cover box-animate">
                         <a href="partnership/franchise-program.php">
-                            <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/home_partnership_franchise_program@2x.png" alt="Franchise Program">
+                            <img class="card-img mex-img-cover" src="public_files/images/partnership/home_partnership_franchise_program@2x.png" alt="Franchise Program">
                             <div class="card-content text-left">
                                 <div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">
                                     Franchise Program
@@ -120,7 +120,7 @@
                 <div class="col-sm-12 col-md-6 col-lg-4 col-12 mb-sm-16">
                     <section class="mex-card-cover box-animate">
                         <a href="partnership/white-label.php">
-                            <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/home_partnership_white_label@2x.png" alt="White Label">
+                            <img class="card-img mex-img-cover" src="public_files/images/partnership/home_partnership_white_label@2x.png" alt="White Label">
                             <div class="card-content text-left">
                                 <div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">
                                     White Label
@@ -135,7 +135,7 @@
                 <div class="col-sm-12 col-md-6 col-lg-4 col-12 mb-sm-16">
                     <section class="mex-card-cover box-animate">
                         <a href="partnership/prime-of-primes.php">
-                            <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/home_partnership_prime_of_primes@2x.png" alt="Prime of Primes">
+                            <img class="card-img mex-img-cover" src="public_files/images/partnership/home_partnership_prime_of_primes@2x.png" alt="Prime of Primes">
                             <div class="card-content text-left">
                                 <div class="font-34  mex-m-b-5 font-type-cap uppercase text-fff">
                                     Prime of Primes
@@ -150,7 +150,7 @@
                 <div class="col-sm-12 col-md-6 col-lg-4 col-12 mb-sm-16">
                     <section class="mex-card-cover box-animate">
                         <a href="partnership/cpa-affiliate-program.php">
-                            <img class="card-img mex-img-cover" src="/multibankfx/public_files/images/partnership/partnership_cpa_affiliate_program_newx.png" alt="CPA Affiliate Program">
+                            <img class="card-img mex-img-cover" src="public_files/images/partnership/partnership_cpa_affiliate_program_newx.png" alt="CPA Affiliate Program">
                             <div class="card-content text-left">
                                 <div class="font-34 mex-m-b-5 font-type-cap uppercase text-fff">
                                     CPA Affiliate Program
@@ -170,16 +170,16 @@
     <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#b2d1c1f2dfc7dec6dbd0d3dcd9d4ca9cd1dddf">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-ce5f6ca09ad2c5a1bc4cc67f-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/multibankfx/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -637,12 +637,12 @@
             });
         })
     </script>
-    <script src="/multibankfx/public_files/static_js/lang_data/en.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.dataTables.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/lazysizes.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/jquery.validate.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/intlTelInput.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
-    <script src="/multibankfx/public_files/static_js/app.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
+    <script src="public_files/static_js/lang_data/en.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
+    <script src="public_files/static_js/jquery.dataTables.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
+    <script src="public_files/static_js/lazysizes.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
+    <script src="public_files/static_js/jquery.validate.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
+    <script src="public_files/static_js/intlTelInput.min.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
+    <script src="public_files/static_js/app.js" type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript"></script>
     <script type="ce5f6ca09ad2c5a1bc4cc67f-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
