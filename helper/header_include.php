@@ -21,6 +21,6 @@ include $root_path.'database/db_driver.php';
         include($root_path . $path);
     }
         catch(Exception $error){
-            $error ->getMessage();
+            echo $error ->getMessage();
         }
 }
