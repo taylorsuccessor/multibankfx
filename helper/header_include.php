@@ -16,6 +16,8 @@ include $root_path.'database/db_driver.php';
 
 function include_from_root($path)
     {
+        
         global $root_path;
+        echo $root_path.$path;
         include($root_path.$path);
 }
