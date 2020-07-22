@@ -63,7 +63,7 @@
 <div class="main-container">
     <div class="banner-with-bg baout-banner-with-bg position-relative"><img alt="Why MultiBank" class="banner-bg"
                                                                             data-entity-type="" data-entity-uuid=""
-                                                                            src="public_files/images/about_us/why_multibank_top_banner.jpg"/>
+                                                                            src="/public_files/images/about_us/why_multibank_top_banner.jpg"/>
         <div class="container align-all">
             <div class="row justify-content-center">
                 <div class="col-md-12  col-xs-12 col-sm-12 col-md-12 col-lg-8 col-lg-offset-2">
@@ -83,7 +83,7 @@
                     <div class="shadow-box-smooth ">
                         <div class="card-img-box"><img alt="Why MultiBank" class="card-img mex-img-cover"
                                                        data-entity-type="" data-entity-uuid=""
-                                                       src="public_files/images/about_us/why_multibank_image1.png"/>
+                                                       src="/public_files/images/about_us/why_multibank_image1.png"/>
                         </div>
                         <div class="card-content bg-white  mex-p-30">
                             <div class="mex-content mb0 text-left"><?php translate('MultiBank maintains over 20 offices worldwide,
@@ -104,7 +104,7 @@
                                 <div class="card-img-box"><img
                                         alt="We service an extensive client-base of over 320,000 customers from across 90 countries worldwide."
                                         class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                        src="public_files/images/about_us/why_multibank_image2.png"/></div>
+                                        src="/public_files/images/about_us/why_multibank_image2.png"/></div>
                                 <div class="card-content bg-white ">
                                     <div class="mex-content text-overflow-3 mb0 text-left"><?php translate('We service an extensive
                                         client-base of over 320,000 customers from across 90 countries worldwide.'); ?>
@@ -117,7 +117,7 @@
                                 <div class="card-img-box"><img
                                         alt="In 2018, our average daily turnover exceeded UD$ 7 billion per day."
                                         class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                        src="public_files/images/about_us/why_multibank_image3.png"/></div>
+                                        src="/public_files/images/about_us/why_multibank_image3.png"/></div>
                                 <div class="card-content bg-white ">
                                     <div class="mex-content text-overflow-3 mb0 text-left"><?php translate('In 2018, our average daily
                                         turnover exceeded US$ 4.6 billion per day.'); ?>
@@ -132,7 +132,7 @@
                                 <div class="card-img-box"><img
                                         alt="MultiBank is heavily regulated worldwide by ASIC in Australia, BaFin in Germany, FMA in Austria, CNMV in Spain, RAK in the UAE, the Tianjin Financial Government in China, FSC in the BVI, CIMA in the Caymans and others."
                                         class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                        src="public_files/images/about_us/why_multibank_image4.png"/></div>
+                                        src="/public_files/images/about_us/why_multibank_image4.png"/></div>
                                 <div class="card-content bg-white ">
                                     <div class="mex-content mb0 text-left"><?php translate('MultiBank comprises a number of companies
                                         which are heavily regulated worldwide by ASIC in Australia, BaFin in Germany,
@@ -209,7 +209,7 @@
                 <div class="col-xs-12 col-sm-12 col-md-8 mb30 mb-sm-16">
                     <section class="mex-card-cover"><img alt="Introducing Brokers" class="card-img mex-img-cover"
                                                          data-entity-type="" data-entity-uuid=""
-                                                         src="public_files/images/partnership/home_partnership_introducing_broker@2x.png"/>
+                                                         src="/public_files/images/partnership/home_partnership_introducing_broker@2x.png"/>
                         <div class="card-content text-left">
                             <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('Introducing Brokers '); ?></div>
                             <div class="hide-mex-content">
@@ -235,7 +235,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4 mb30 mb-sm-16">
                     <section class="mex-card-cover"><img alt="Franchise Program" class="card-img mex-img-cover"
                                                          data-entity-type="" data-entity-uuid=""
-                                                         src="public_files/images/partnership/home_partnership_franchise_program@2x.png"/>
+                                                         src="/public_files/images/partnership/home_partnership_franchise_program@2x.png"/>
                         <div class="card-content text-left">
                             <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('Franchise Program'); ?></div>
                             <div class="hide-mex-content">
@@ -252,7 +252,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4 mb-sm-16">
                     <section class="mex-card-cover"><img alt="White Label" class="card-img mex-img-cover"
                                                          data-entity-type="" data-entity-uuid=""
-                                                         src="public_files/images/partnership/home_partnership_white_label@2x.png"/>
+                                                         src="/public_files/images/partnership/home_partnership_white_label@2x.png"/>
                         <div class="card-content text-left">
                             <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('White Label'); ?></div>
                             <div class="hide-mex-content">
@@ -271,7 +271,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-8 mb-sm-16">
                     <section class="mex-card-cover"><img alt="Prime Broker Services" class="card-img mex-img-cover"
                                                          data-entity-type="" data-entity-uuid=""
-                                                         src="public_files/images/partnership/home_partnership_prime_of_primes.jpg"/>
+                                                         src="/public_files/images/partnership/home_partnership_prime_of_primes.jpg"/>
                         <div class="card-content text-left">
                             <div class="font-34 mex-clamp-1 mex-m-b-5 font-type-cap uppercase"><?php translate('Prime Broker Services'); ?>
                             </div>
@@ -305,7 +305,7 @@
                         <div class="card-img-box"><img
                                 alt="24 hour professional first class customer service in 10+ languages"
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/about_us/why_multibank_first_class_customer_service.png"/>
+                                src="/public_files/images/about_us/why_multibank_first_class_customer_service.png"/>
                         </div>
                         <div class="card-content bg-white ">
                             <div class="mex-content text-overflow-3 mb0"><?php translate('24 hour professional first class customer
@@ -319,7 +319,7 @@
                         <div class="card-img-box"><img
                                 alt="IT and operational support including service desk and on-boarding"
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/about_us/why_multibank_it_support.png"/></div>
+                                src="/public_files/images/about_us/why_multibank_it_support.png"/></div>
                         <div class="card-content bg-white ">
                             <div class="mex-content text-overflow-3 mb0"><?php translate('IT and operational support including service
                                 desk, on-boarding and configuration and cash management'); ?>
@@ -332,7 +332,7 @@
                         <div class="card-img-box"><img alt=" Regulatory and corporate support"
                                                        class="card-img mex-img-cover" data-entity-type=""
                                                        data-entity-uuid=""
-                                                       src="public_files/images/about_us/why_multibank_corporate_support.png"/>
+                                                       src="/public_files/images/about_us/why_multibank_corporate_support.png"/>
                         </div>
                         <div class="card-content bg-white ">
                             <div class="mex-content text-overflow-3 mb0"><?php translate('Regulatory and corporate support'); ?></div>
@@ -344,7 +344,7 @@
                         <div class="card-img-box"><img
                                 alt="Sales and market support including educational materials, videos, tutorials and seminars"
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/about_us/why_multibank_market_support.png"/></div>
+                                src="/public_files/images/about_us/why_multibank_market_support.png"/></div>
                         <div class="card-content bg-white ">
                             <div class="mex-content text-overflow-3 mb0"><?php translate('Sales and market support including educational
                                 materials, videos, tutorials and seminars'); ?>
@@ -357,7 +357,7 @@
                         <div class="card-img-box"><img
                                 alt="24/5 support from Technical Department and IT Trading specialists"
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/about_us/why_multibank_technical_support.png"/></div>
+                                src="/public_files/images/about_us/why_multibank_technical_support.png"/></div>
                         <div class="card-content bg-white ">
                             <div class="mex-content text-overflow-3 mb0"><?php translate('24/5 support from Technical Department and IT
                                 Trading specialists'); ?>
@@ -370,7 +370,7 @@
                         <div class="card-img-box"><img
                                 alt="Around the clock, quick account opening and funding available"
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/about_us/why_multibank_quick_account_opening.png"/></div>
+                                src="/public_files/images/about_us/why_multibank_quick_account_opening.png"/></div>
                         <div class="card-content bg-white ">
                             <div class="mex-content text-overflow-3 mb0"><?php translate('Around the clock, quick account opening and
                                 funding available'); ?>
@@ -383,7 +383,7 @@
                         <div class="card-img-box"><img
                                 alt="24 hours up-to-date online financial news in multiple languages"
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/about_us/why_multibank_financial_news.png"/></div>
+                                src="/public_files/images/about_us/why_multibank_financial_news.png"/></div>
                         <div class="card-content bg-white ">
                             <div class="mex-content text-overflow-3 mb0"><?php translate('24 hours up-to-date online financial news in
                                 multiple languages'); ?>
@@ -396,7 +396,7 @@
                         <div class="card-img-box"><img
                                 alt="Various funding methods including: credit card, wire transfer, Neteller, Skrill and more"
                                 class="card-img mex-img-cover" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/about_us/why_multibank_funding_methods.png"/></div>
+                                src="/public_files/images/about_us/why_multibank_funding_methods.png"/></div>
                         <div class="card-content bg-white ">
                             <div class="mex-content text-overflow-3 mb0"><?php translate('Various funding methods including: credit card,
                                 wire transfer, Neteller, Skrill, etc'); ?>
@@ -449,22 +449,22 @@ whereToGoItem.injectIcons('.target-icon', icons);
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""
-                               src="public_files/images/home/sidebar_icon/phone.png" width="50"/> </span>
+                               src="/public_files/images/home/sidebar_icon/phone.png" width="50"/> </span>
     </a>
     <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
         <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/home/sidebar_icon/whatsapp.png" width="50"/> </span>
+                                src="/public_files/images/home/sidebar_icon/whatsapp.png" width="50"/> </span>
     </a>
     <a class="email-us-tg demo-account-btn email-btn"
        href="cdn-cgi/l/email-protection.html#a4c7d7e4c9d1c8d0cdc6c5cacfc2dc8ac7cbc9">
         <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/home/sidebar_icon/email.png" width="50"/> </span>
+                                src="/public_files/images/home/sidebar_icon/email.png" width="50"/> </span>
     </a>
     <a class="ib-registration-btn chat-btn"
        onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;"
        data-cf-modified-aca9042ca4fa5ec4ab63856a-="">
         <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid=""
-                                src="public_files/images/home/sidebar_icon/chat.png" width="50"/> </span>
+                                src="/public_files/images/home/sidebar_icon/chat.png" width="50"/> </span>
     </a>
 </div>
 <style type="text/css">.slidebar a span.btn {
@@ -967,14 +967,14 @@ whereToGoItem.injectIcons('.target-icon', icons);
     })
 
 </script>
-<script src="public_files/static_js/lang_data/en.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script src="public_files/static_js/jquery.dataTables.min.js"
+<script src="/public_files/static_js/lang_data/en.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
+<script src="/public_files/static_js/jquery.dataTables.min.js"
         type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script src="public_files/static_js/lazysizes.min.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script src="public_files/static_js/jquery.validate.min.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script src="public_files/static_js/intlTelInput.min.js"
+<script src="/public_files/static_js/lazysizes.min.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
+<script src="/public_files/static_js/jquery.validate.min.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
+<script src="/public_files/static_js/intlTelInput.min.js"
         type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script src="public_files/static_js/app.js"
+<script src="/public_files/static_js/app.js"
         type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
 <script type="aca9042ca4fa5ec4ab63856a-text/javascript" async>
     url = new URL(window.location.href);
@@ -1067,8 +1067,8 @@ if(typeof iframe_ibnum === 'string' && typeof is_iframe === 'string'){
 });
 
 </script>
-<script src="public_files/static_js/swiper-4.3.5.min.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
-<script src="public_files/static_js/app_home.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
+<script src="/public_files/static_js/swiper-4.3.5.min.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
+<script src="/public_files/static_js/app_home.js" type="aca9042ca4fa5ec4ab63856a-text/javascript"></script>
 <script type="aca9042ca4fa5ec4ab63856a-text/javascript">
 $(function() {
 //icons we need
