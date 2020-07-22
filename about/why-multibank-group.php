@@ -1,7 +1,7 @@
+<?php include "/helper/header_include.php";?>
 <!DOCTYPE html>
 <html lang='en'>
-    <?php include "../helper/header_include.php";
-     include '/website_template/head.php';?>
+    <?php include '/website_template/head.php';?>
 <body>
     <?php include '/website_template/header_and_menu.php';?>
 <style>
