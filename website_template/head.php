@@ -1,7 +1,6 @@
-<?php 
-$path = $_SERVER['DOCUMENT_ROOT'];
-$path .= "index.php";
-include($path);
+<?php
+$root_path = __DIR__."/";
+include $root_path.'helper/header_include.php';
 ?>
 <head>
     <meta charset='UTF-8'>
