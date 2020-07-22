@@ -60,7 +60,7 @@
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img src="public_files/images/accounts_funding/account_funding_top_banner.jpg" alt="Fund Your Account banner" class="mex-img-cover" />
+        <section class="flex-center page-top-banner"><img src="/public_files/images/accounts_funding/account_funding_top_banner.jpg" alt="Fund Your Account banner" class="mex-img-cover" />
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6 col-12">
@@ -105,7 +105,7 @@
                                                 </thead>
                                                 <tbody class="table-tbody">
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/payment_icons/bank_wire.jpg" alt="Bank Wire"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/payment_icons/bank_wire.jpg" alt="Bank Wire"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td>
@@ -113,7 +113,7 @@
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Visa"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Visa"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td>
@@ -121,19 +121,19 @@
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill Visa"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill Visa"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="https://payment.mexgroup.com/skrill/mexAustralia_en.php" target="_blank">DEPOSIT NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Neteller"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Neteller"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="https://payment.mexgroup.com/neteller/mexAustralia_en.php" target="_blank">DEPOSIT NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/payment_icons/paytrust.jpg" alt="PayTrust"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/payment_icons/paytrust.jpg" alt="PayTrust"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td class="m-b-8">
@@ -142,7 +142,7 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
                                                         <td>USD,EUR</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="account-funding/perfect-money.php" target="_blank">DEPOSIT
@@ -150,7 +150,7 @@
                                                     </tr>
 
                                                     <tr>
-                                                        <td><img src="public_files/images/payment_gateway/payment-asia-transparent.png" alt="Payment Asia"></td>
+                                                        <td><img src="/public_files/images/payment_gateway/payment-asia-transparent.png" alt="Payment Asia"></td>
                                                         <td>PHP</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="account-funding/paymentasia.php" target="_blank">DEPOSIT
@@ -178,28 +178,28 @@
                                                 </thead>
                                                 <tbody class="table-tbody">
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/payment_icons/bank_wire.jpg" data-toggle="modal" data-target="#modal_funds_deposit_multibank_fx_ltd" alt="Bank Transfer"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/payment_icons/bank_wire.jpg" data-toggle="modal" data-target="#modal_funds_deposit_multibank_fx_ltd" alt="Bank Transfer"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="open-forex-account/funds-deposit-multibank-fx-ltd.php">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill Visa"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/payment_icons/skrill.jpg" alt="Skrill Visa"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="account-funding/skrill.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Neteller"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/payment_icons/neteller.jpg" alt="Neteller"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="account-funding/neteller-clr.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/payment_icons/paytrust.jpg" alt="PayTrust"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/payment_icons/paytrust.jpg" alt="PayTrust"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td class="m-b-8">
@@ -208,7 +208,7 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Visa"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/payment_icons/card.jpg" alt="Master and Visa"></td>
                                                         <td>USD, GBP, EUR, JPY, CHF, AUD, NZD, CAD</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td>
@@ -216,7 +216,7 @@
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
+                                                        <td><img src="/public_files/images/accounts_funding/Perfect&#32;Money1.png" alt="Perfect Money"></td>
                                                         <td>USD,EUR</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="account-funding/perfect-money.php" target="_blank">DEPOSIT
@@ -224,28 +224,28 @@
                                                     </tr>
 
                                                     <tr>
-                                                        <td><img src="public_files/images/payment_gateway/payment-asia-transparent.png" alt="Payment Asia"></td>
+                                                        <td><img src="/public_files/images/payment_gateway/payment-asia-transparent.png" alt="Payment Asia"></td>
                                                         <td>PHP</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="account-funding/paymentasia.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/payment_gateway/fxbit_logo.png" alt="FXBit"></td>
+                                                        <td><img src="/public_files/images/payment_gateway/fxbit_logo.png" alt="FXBit"></td>
                                                         <td>BTC, ETH, USDT</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="account-funding/fxbit.php" target="_blank">DEPOSIT NOW</a>
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/payment_gateway/globepay_logo.png" alt="Globepay"></td>
+                                                        <td><img src="/public_files/images/payment_gateway/globepay_logo.png" alt="Globepay"></td>
                                                         <td>INR</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="account-funding/globepay.php" target="_blank">DEPOSIT
                                                                 NOW</a></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img src="public_files/images/payment_gateway/thunderx_logo.png" alt="Thunder X Pay"></td>
+                                                        <td><img src="/public_files/images/payment_gateway/thunderx_logo.png" alt="Thunder X Pay"></td>
                                                         <td>KHR, LAK, MMK, THB</td>
                                                         <td>Processed within 24 hours</td>
                                                         <td><a href="account-funding/thunderx.php" target="_blank">DEPOSIT
@@ -264,7 +264,7 @@
             </div>
         </section>
         <section class="flex-center page-top-banner">
-            <img class="mex-img-cover" src="public_files/images/accounts_funding/deposit-conditions-bg.jpg" alt="Deposit Conditions">
+            <img class="mex-img-cover" src="/public_files/images/accounts_funding/deposit-conditions-bg.jpg" alt="Deposit Conditions">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-12">
@@ -285,22 +285,22 @@
                 <div class="text-center">
                     <h3>Please Choose Your Country</h3>
                 </div>
-                <div><span><img alt="Vietnam" src="public_files/images/common/country/vietnam_xl.png">
+                <div><span><img alt="Vietnam" src="/public_files/images/common/country/vietnam_xl.png">
                         <p>Vietnam</p>
                         <a href="https://paytrust.mexgroup.com/v/" target="_blank">Deposit</a>
                     </span>
                     <span>
-                        <img alt="Malaysia" src="public_files/images/common/country/malaysia_xl.png">
+                        <img alt="Malaysia" src="/public_files/images/common/country/malaysia_xl.png">
                         <p>Malaysia</p>
                         <a href="https://paytrust.mexgroup.com/m/" target="_blank">Deposit</a>
                     </span>
                     <span>
-                        <img alt="Indonesia" src="public_files/images/common/country/indonesia_xl.png">
+                        <img alt="Indonesia" src="/public_files/images/common/country/indonesia_xl.png">
                         <p>Indonesia</p>
                         <a href="https://paytrust.mexgroup.com/i/" target="_blank">Deposit</a>
                     </span>
                     <span>
-                        <img alt="Thailand" src="public_files/images/common/country/thailand_xl.png">
+                        <img alt="Thailand" src="/public_files/images/common/country/thailand_xl.png">
                         <p>Thailand</p>
                         <a href="https://paytrust.mexgroup.com/t/" target="_blank">Deposit</a>
                     </span>
@@ -777,16 +777,16 @@
    <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#6d0e1e2d00180119040f0c03060b15430e0200">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-6864ba4d28184620dfa2cc29-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1266,12 +1266,12 @@
             });
         })
     </script>
-    <script src="public_files/static_js/lang_data/en.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-    <script src="public_files/static_js/jquery.dataTables.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-    <script src="public_files/static_js/lazysizes.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-    <script src="public_files/static_js/jquery.validate.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-    <script src="public_files/static_js/intlTelInput.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
-    <script src="public_files/static_js/app.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/public_files/static_js/lang_data/en.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/public_files/static_js/jquery.dataTables.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/public_files/static_js/lazysizes.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/public_files/static_js/jquery.validate.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/public_files/static_js/intlTelInput.min.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
+    <script src="/public_files/static_js/app.js" type="6864ba4d28184620dfa2cc29-text/javascript"></script>
     <script type="6864ba4d28184620dfa2cc29-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {

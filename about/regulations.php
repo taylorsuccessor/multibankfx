@@ -60,7 +60,7 @@
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="main-container">
-        <link rel="stylesheet" type="text/css" href="public_files/static_css/swiper-3.4.2.min.css">
+        <link rel="stylesheet" type="text/css" href="/public_files/static_css/swiper-3.4.2.min.css">
         <section class="pt64 pb16 table-background global-presence regulations-bg" style="background-image: url(../public_files/images/about_us/regulations/regulations_fma.jpg);">
             <div class="container">
                 <div class="row">
@@ -76,32 +76,32 @@
                         <div class="swiper-pagination swiper-pagination-white swiper-pagination-clickable swiper-pagination-bullets">
                             <span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/australia.png" tabindex="0" role="button" aria-label="Go to slide 1">
                                 <span>ASIC</span>
-                                <img src="public_files/images/common/country/australia.png">
+                                <img src="/public_files/images/common/country/australia.png">
                             </span>
 
                             <span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/germany.png" tabindex="0" role="button" aria-label="Go to slide 3">
                                 <span>BaFin</span>
-                                <img src="public_files/images/common/country/germany.png">
+                                <img src="/public_files/images/common/country/germany.png">
                             </span>
                             <span class="swiper-pagination-bullet swiper-pagination-bullet-active" data-img="/public_files/images/common/country/austria.png" tabindex="0" role="button" aria-label="Go to slide 4">
                                 <span>FMA</span>
-                                <img src="public_files/images/common/country/austria.png">
+                                <img src="/public_files/images/common/country/austria.png">
                             </span>
                             <span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/spain.png" tabindex="0" role="button" aria-label="Go to slide 5">
                                 <span>CNMV</span>
-                                <img src="public_files/images/common/country/spain.png">
+                                <img src="/public_files/images/common/country/spain.png">
                             </span>
                             <span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/british_virgin_islands.png" tabindex="0" role="button" aria-label="Go to slide 6">
                                 <span>FSC</span>
-                                <img src="public_files/images/common/country/british_virgin_islands.png">
+                                <img src="/public_files/images/common/country/british_virgin_islands.png">
                             </span>
                             <span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/cayman_islands.png" tabindex="0" role="button" aria-label="Go to slide 7">
                                 <span>CIMA</span>
-                                <img src="public_files/images/common/country/cayman_islands.png">
+                                <img src="/public_files/images/common/country/cayman_islands.png">
                             </span>
                             <span class="swiper-pagination-bullet" data-img="/public_files/images/common/country/uae.png" tabindex="0" role="button" aria-label="Go to slide 8">
                                 <span>RAK</span>
-                                <img src="public_files/images/common/country/uae.png">
+                                <img src="/public_files/images/common/country/uae.png">
                             </span>
                         </div>
                         <div class="swiper-container swiper-container-horizontal" id="regulations-global-presence">
@@ -181,7 +181,7 @@
                                                 is regulated by the National Securities Market Commission (“CNMV”).
                                             </div>
                                             <a href="https://www.cnmv.es/Portal/Consultas/ESI/ESISExtranjerasSuc.aspx?tipo=CSU&numero=120&vista=0&fs=08/04/2019" class="btn btn-mex mex-m-r-15">License link</a>
-                                            <a href="public_files/images/documents/pdf/CNMV-license.pdf" class="btn btn-mex-black mex-m-r-15">License PDF</a>
+                                            <a href="/public_files/images/documents/pdf/CNMV-license.pdf" class="btn btn-mex-black mex-m-r-15">License PDF</a>
                                         </div>
                                     </section>
                                 </div>
@@ -245,13 +245,13 @@
             <div class="swiper-button-prev swiper-button-white" tabindex="0" role="button" aria-label="Previous slide" style="left: 370.5px;"></div>
 
 
-            <img class="regulations-hidden-image" src="public_files/images/about_us/regulations/regulations_asic.jpg" />
-            <img class="regulations-hidden-image" src="public_files/images/about_us/regulations/regulations_rak.jpg" />
-            <img class="regulations-hidden-image" src="public_files/images/about_us/regulations/regulations_bafin.jpg" />
-            <img class="regulations-hidden-image" src="public_files/images/about_us/regulations/regulations_cnmv.jpg" />
-            <img class="regulations-hidden-image" src="public_files/images/about_us/regulations/regulations_cima.jpg" />
-            <img class="regulations-hidden-image" src="public_files/images/about_us/regulations/regulations_fsc.jpg" />
-            <img class="regulations-hidden-image" src="public_files/images/about_us/regulations/regulations_fma.jpg" />
+            <img class="regulations-hidden-image" src="/public_files/images/about_us/regulations/regulations_asic.jpg" />
+            <img class="regulations-hidden-image" src="/public_files/images/about_us/regulations/regulations_rak.jpg" />
+            <img class="regulations-hidden-image" src="/public_files/images/about_us/regulations/regulations_bafin.jpg" />
+            <img class="regulations-hidden-image" src="/public_files/images/about_us/regulations/regulations_cnmv.jpg" />
+            <img class="regulations-hidden-image" src="/public_files/images/about_us/regulations/regulations_cima.jpg" />
+            <img class="regulations-hidden-image" src="/public_files/images/about_us/regulations/regulations_fsc.jpg" />
+            <img class="regulations-hidden-image" src="/public_files/images/about_us/regulations/regulations_fma.jpg" />
         </section>
         <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script type="4697d1266f44080ba22ec4c5-text/javascript">
@@ -280,16 +280,16 @@
     <?php include_from_root('website_template/page_footer.php'); ?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#482b3b08253d243c212a2926232e30662b2725">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-4697d1266f44080ba22ec4c5-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -769,12 +769,12 @@
             });
         })
     </script>
-    <script src="public_files/static_js/lang_data/en.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-    <script src="public_files/static_js/jquery.dataTables.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-    <script src="public_files/static_js/lazysizes.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-    <script src="public_files/static_js/jquery.validate.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-    <script src="public_files/static_js/intlTelInput.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-    <script src="public_files/static_js/app.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+    <script src="/public_files/static_js/lang_data/en.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+    <script src="/public_files/static_js/jquery.dataTables.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+    <script src="/public_files/static_js/lazysizes.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+    <script src="/public_files/static_js/jquery.validate.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+    <script src="/public_files/static_js/intlTelInput.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+    <script src="/public_files/static_js/app.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
     <script type="4697d1266f44080ba22ec4c5-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
@@ -861,8 +861,8 @@
             }
         });
     </script>
-    <script src="public_files/static_js/swiper-4.3.5.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
-    <script src="public_files/static_js/app_home.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+    <script src="/public_files/static_js/swiper-4.3.5.min.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
+    <script src="/public_files/static_js/app_home.js" type="4697d1266f44080ba22ec4c5-text/javascript"></script>
     <script type="4697d1266f44080ba22ec4c5-text/javascript">
         $(function() {
             //icons we need

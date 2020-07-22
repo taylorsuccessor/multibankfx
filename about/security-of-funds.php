@@ -60,7 +60,7 @@
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img alt="MULTIBANK SECURITY OF FUNDS" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/security_of_funds_top_banner.jpg" />
+        <section class="flex-center page-top-banner"><img alt="MULTIBANK SECURITY OF FUNDS" class="mex-img-cover" data-entity-type="" data-entity-uuid="" src="/public_files/images/about_us/security_of_funds_top_banner.jpg" />
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 hidden-xs">&nbsp;</div>
@@ -104,7 +104,7 @@
                                         </td>
                                         <td style="position: sticky;">
                                             <div class="row ">
-                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="Australia" data-entity-type="" data-entity-uuid="" src="public_files/images/common/country/australia_flag.png" />
+                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="Australia" data-entity-type="" data-entity-uuid="" src="/public_files/images/common/country/australia_flag.png" />
                                                 </div>
                                                 <div class="col-md-8 col-xs-12 text-center text-md-left about-country">
                                                     <?php translate('Australia'); ?>
@@ -121,7 +121,7 @@
                                         </td>
                                         <td style="position: sticky;">
                                             <div class="row ">
-                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="Germany" data-entity-type="" data-entity-uuid="" src="public_files/images/common/country/germany_flag.png" />
+                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="Germany" data-entity-type="" data-entity-uuid="" src="/public_files/images/common/country/germany_flag.png" />
                                                 </div>
                                                 <div class="col-md-8 col-xs-12 text-center text-md-left about-country"><?php translate('Germany'); ?>
                                                 </div>
@@ -136,7 +136,7 @@
                                         </td>
                                         <td style="position: sticky;">
                                             <div class="row ">
-                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="Austria" data-entity-type="" data-entity-uuid="" src="public_files/images/common/country/austria_flag.png" />
+                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="Austria" data-entity-type="" data-entity-uuid="" src="/public_files/images/common/country/austria_flag.png" />
                                                 </div>
                                                 <div class="col-md-8 col-xs-12 text-center text-md-left about-country"><?php translate('Austria'); ?>
                                                 </div>
@@ -151,7 +151,7 @@
                                         </td>
                                         <td style="position: sticky;">
                                             <div class="row ">
-                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="Spain" data-entity-type="" data-entity-uuid="" src="public_files/images/common/country/spain_flag.png" />
+                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="Spain" data-entity-type="" data-entity-uuid="" src="/public_files/images/common/country/spain_flag.png" />
                                                 </div>
                                                 <div class="col-md-8 col-xs-12 text-center text-md-left about-country"><?php translate('Spain'); ?>
                                                 </div>
@@ -166,7 +166,7 @@
                                         </td>
                                         <td style="position: sticky;">
                                             <div class="row ">
-                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="BVI" data-entity-type="" data-entity-uuid="" src="public_files/images/common/country/bvi_flag.png" />
+                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="BVI" data-entity-type="" data-entity-uuid="" src="/public_files/images/common/country/bvi_flag.png" />
                                                 </div>
                                                 <div class="col-md-8 col-xs-12 text-center text-md-left about-country">BVI</div>
                                             </div>
@@ -180,7 +180,7 @@
                                         </td>
                                         <td style="position: sticky;">
                                             <div class="row ">
-                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="Cayman Islands" data-entity-type="" data-entity-uuid="" src="public_files/images/common/country/cayman_islands_flag.png" />
+                                                <div class="col-md-4 col-xs-12 text-right about-flag"><img alt="Cayman Islands" data-entity-type="" data-entity-uuid="" src="/public_files/images/common/country/cayman_islands_flag.png" />
                                                 </div>
                                                 <div class="col-md-8 col-xs-12 text-center text-md-left about-country"><?php translate('Cayman
                                             Islands'); ?>
@@ -208,7 +208,7 @@
                     <div class="ensure-fund-security" style="grid-area: s1;">
                         <div class="mb-sm-16 p0 h-100">
                             <section class="mex-block-card-v mex-block-card-bg-grey h-100">
-                                <div class="card-img-box h-100"><img alt="Paid up Capital $320 million, making it one of the largest online financial derivatives companies worldwide" class="card-img mex-img-cover" src="public_files/images/about_us/ensure_security.jpg" />
+                                <div class="card-img-box h-100"><img alt="Paid up Capital $320 million, making it one of the largest online financial derivatives companies worldwide" class="card-img mex-img-cover" src="/public_files/images/about_us/ensure_security.jpg" />
                                     <div class="card-content bg-black text-left"><span class="text-fff mex-content text-overflow-2"><?php translate('Paid up capital $320 million, making it one of the largest online financial derivatives companies worldwide'); ?> </span>
                                     </div>
                                 </div>
@@ -218,7 +218,7 @@
                     <div class="ensure-fund-security" style="grid-area: s2">
                         <div class="mb-sm-16 h-100">
                             <section class="mex-block-card-v mex-block-card-bg-grey h-100">
-                                <div class="card-img-box"><img alt="Fully Segregated Client money bank accounts" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/fully_segregated.png" />
+                                <div class="card-img-box"><img alt="Fully Segregated Client money bank accounts" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/public_files/images/about_us/fully_segregated.png" />
                                     <div class="card-content bg-black text-left"><span class="text-fff mex-content text-overflow-1"><?php translate('Fully segregated client accounts'); ?></span>
                                     </div>
                                 </div>
@@ -228,7 +228,7 @@
                     <div class="ensure-fund-security" style="grid-area: s3">
                         <div class="mb-sm-16 h-100">
                             <section class="mex-block-card-v mex-block-card-bg-grey h-100">
-                                <div class="card-img-box"><img alt="Custodial Bank facilities" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/settlement-facility.jpg" />
+                                <div class="card-img-box"><img alt="Custodial Bank facilities" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/public_files/images/about_us/settlement-facility.jpg" />
                                     <div class="card-content bg-black text-left" style="padding: 6px 20px !important;"><span class="text-fff mex-content text-overflow-1" style="white-space: initial;"><?php translate('Settlement facility for institutional customers, brokers and banks'); ?></span>
                                     </div>
                                 </div>
@@ -238,7 +238,7 @@
                     <div class="ensure-fund-security" style="grid-area: s4">
                         <div class="mb-sm-16 h-100">
                             <section class="mex-block-card-v mex-block-card-bg-grey h-100">
-                                <div class="card-img-box"><img alt="Settlement facility for institutional customers, brokers and banks" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/trading_line.jpg" />
+                                <div class="card-img-box"><img alt="Settlement facility for institutional customers, brokers and banks" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/public_files/images/about_us/trading_line.jpg" />
                                     <div class="card-content bg-black text-left"><span class="text-fff mex-content text-overflow-1"><?php translate('Custodial bank facilities'); ?></span>
                                     </div>
                                 </div>
@@ -248,7 +248,7 @@
                     <div class="ensure-fund-security" style="grid-area: s5">
                         <div class="mb-sm-16 h-100">
                             <section class="mex-block-card-v mex-block-card-bg-grey h-100">
-                                <div class="card-img-box"><img alt="Trading line of credit" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="public_files/images/about_us/custodial_bank.png" />
+                                <div class="card-img-box"><img alt="Trading line of credit" class="card-img mex-img-cover" data-entity-type="" data-entity-uuid="" src="/public_files/images/about_us/custodial_bank.png" />
                                     <div class="card-content bg-black text-left"><span class="text-fff mex-content text-overflow-1"><?php translate('Trading line of credit'); ?></span></div>
                                 </div>
                             </section>
@@ -284,16 +284,16 @@
 
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#05667645687069716c67646b6e637d2b666a68">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-1fcd49307a711736d16976ef-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -773,12 +773,12 @@
             });
         })
     </script>
-    <script src="public_files/static_js/lang_data/en.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
-    <script src="public_files/static_js/jquery.dataTables.min.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
-    <script src="public_files/static_js/lazysizes.min.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
-    <script src="public_files/static_js/jquery.validate.min.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
-    <script src="public_files/static_js/intlTelInput.min.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
-    <script src="public_files/static_js/app.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
+    <script src="/public_files/static_js/lang_data/en.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
+    <script src="/public_files/static_js/jquery.dataTables.min.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
+    <script src="/public_files/static_js/lazysizes.min.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
+    <script src="/public_files/static_js/jquery.validate.min.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
+    <script src="/public_files/static_js/intlTelInput.min.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
+    <script src="/public_files/static_js/app.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
     <script type="1fcd49307a711736d16976ef-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
@@ -865,8 +865,8 @@
             }
         });
     </script>
-    <script src="public_files/static_js/swiper-4.3.5.min.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
-    <script src="public_files/static_js/app_home.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
+    <script src="/public_files/static_js/swiper-4.3.5.min.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
+    <script src="/public_files/static_js/app_home.js" type="1fcd49307a711736d16976ef-text/javascript"></script>
     <script type="1fcd49307a711736d16976ef-text/javascript">
         $(function() {
             //icons we need

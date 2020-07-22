@@ -60,7 +60,7 @@
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNJQJTN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="main-container">
-        <section class="flex-center page-top-banner"><img src="public_files/images/accounts_funding/img_tp_account_account_forms.jpg" alt="Fund Your Account
+        <section class="flex-center page-top-banner"><img src="/public_files/images/accounts_funding/img_tp_account_account_forms.jpg" alt="Fund Your Account
         banner" class="mex-img-cover" />
             <div class="container">
                 <div class="row">
@@ -96,67 +96,67 @@
                                         <tr>
                                             <td><?php translate('Risk Disclosure Statement, Electronic Trading Terms & Client Agreement'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Client_Agreement.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Client_Agreement.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Financial Services Guide'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Exchange_Financial_Services_Guide.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Exchange_Financial_Services_Guide.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Product Disclosure Statement'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Exchange_Produc_Disclosure_Statement.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Exchange_Produc_Disclosure_Statement.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Individual Account Application'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Exchange_Individual_Account_Application.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Exchange_Individual_Account_Application.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Corporate Account Application'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Exchange_Corporate_Account_Application.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Exchange_Corporate_Account_Application.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Joint Account Application'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Exchange_Joint_Account_Application.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Exchange_Joint_Account_Application.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Broker-to-Broker (B2B) Transfer Authorization Form'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Exchange_Broker-to-Broker_Transfer_Authorisation.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Exchange_Broker-to-Broker_Transfer_Authorisation.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Transaction Fee Terms'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Australia_Transaction_Fee_Terms.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Australia_Transaction_Fee_Terms.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Change of Information Request'); ?></td>
                                             <td>
-                                                <a href="public_files/pdf/MEX_Exchange_en/MEX_Exchange_Change_of_Information.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/pdf/MEX_Exchange_en/MEX_Exchange_Change_of_Information.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Additional Account Request'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Exchange_Additional_Account_Request.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Exchange_Additional_Account_Request.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('VPS Client Agreement'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Exchange_VPS_Client_Agreement.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Exchange_VPS_Client_Agreement.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Power of Attorney & Discretionary Account Terms'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Exchange_Power_of_Attorney_and_Discretionary_Account_Terms.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Exchange_Power_of_Attorney_and_Discretionary_Account_Terms.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Fund Withdrawal Form'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MEX_Exchange_Fund_Withdrawal_Form.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MEX_Exchange_Fund_Withdrawal_Form.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -176,52 +176,52 @@
                                         <tr>
                                             <td><?php translate('Client Agreement'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/MultiBank-FX-International-Client-Agreement.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/MultiBank-FX-International-Client-Agreement.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Individual Account Application'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/Multibank_FX_Individual_Account_Application.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/Multibank_FX_Individual_Account_Application.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Corporate Account Application'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/Multibank_FX_Corporate_Account_Application.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/Multibank_FX_Corporate_Account_Application.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Broker-to-Broker (B2B) Transfer Authorization Form'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/Multibank_FX_Broker-to-Broker_Transfer_Authorisation.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/Multibank_FX_Broker-to-Broker_Transfer_Authorisation.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Change of Information Request'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/Multibank_FX_Change_of_Information.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/Multibank_FX_Change_of_Information.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Additional Account Request'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/Multibank_FX_Additional_Account_Request.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/Multibank_FX_Additional_Account_Request.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('VPS Client Agreement'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/Multibank_FX_VPS_Client_Agreement.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/Multibank_FX_VPS_Client_Agreement.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Power of Attorney & Discretionary Account Terms'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/Multibank_FX_Power_of_Attorney_and_Discretionary_Account_Terms.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/Multibank_FX_Power_of_Attorney_and_Discretionary_Account_Terms.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Fund Withdrawal Form'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/Multibank_FX_Fund_Withdrawal_Request.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/Multibank_FX_Fund_Withdrawal_Request.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                         <tr>
                                             <td><?php translate('Transfer of Funds Aut Form'); ?></td>
                                             <td>
-                                                <a href="public_files/images/documents/pdf/account-forms/Transfer_of_Funds_Aut_Form.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
+                                                <a href="/public_files/images/documents/pdf/account-forms/Transfer_of_Funds_Aut_Form.pdf" target="_blank" class="btn btn-mex"><?php translate('DOWNLOAD'); ?></a></td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -603,16 +603,16 @@
    <?php include_from_root('website_template/page_footer.php');?>
     <div class="slidebar">
         <a class="get-a-all-btn call-btn" href="tel:+12139924748">
-            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
+            <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/phone.png" width="50" /> </span>
         </a>
         <a class="live-account-btn whatsapp-btn" href="https://api.whatsapp.com/send?phone=85222438107" target="_blank">
-            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
+            <span class="btn"> <img alt="Whatsapp" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/whatsapp.png" width="50" /> </span>
         </a>
         <a class="email-us-tg demo-account-btn email-btn" href="cdn-cgi/l/email-protection.html#c7a4b487aab2abb3aea5a6a9aca1bfe9a4a8aa">
-            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
+            <span class="btn"> <img alt="email" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/email.png" width="50" /> </span>
         </a>
         <a class="ib-registration-btn chat-btn" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; LC_API.open_chat_window();return false;" data-cf-modified-692f5fcd51892006519a947c-="">
-            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
+            <span class="btn"> <img alt="Chat" data-entity-type="" data-entity-uuid="" src="/public_files/images/home/sidebar_icon/chat.png" width="50" /> </span>
         </a>
     </div>
     <style type="text/css">
@@ -1092,12 +1092,12 @@
             });
         })
     </script>
-    <script src="public_files/static_js/lang_data/en.js" type="692f5fcd51892006519a947c-text/javascript"></script>
-    <script src="public_files/static_js/jquery.dataTables.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
-    <script src="public_files/static_js/lazysizes.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
-    <script src="public_files/static_js/jquery.validate.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
-    <script src="public_files/static_js/intlTelInput.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
-    <script src="public_files/static_js/app.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/public_files/static_js/lang_data/en.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/public_files/static_js/jquery.dataTables.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/public_files/static_js/lazysizes.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/public_files/static_js/jquery.validate.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/public_files/static_js/intlTelInput.min.js" type="692f5fcd51892006519a947c-text/javascript"></script>
+    <script src="/public_files/static_js/app.js" type="692f5fcd51892006519a947c-text/javascript"></script>
     <script type="692f5fcd51892006519a947c-text/javascript" async>
         url = new URL(window.location.href);
         if (!url.searchParams.get('is_iframe')) {
