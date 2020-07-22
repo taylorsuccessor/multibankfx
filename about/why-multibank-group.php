@@ -2,7 +2,7 @@
 <html lang='en'>
    
 <body>
-    <?php include_from_root('website_template/header_and_menu.php');?>
+    
 <style>
     .nav-menu-hamburger, .nav-menu-mymex {
         width: 35px;
@@ -442,9 +442,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
 
         }
     </style>
- <?php include_from_root('website_template/choose_where_to.php');?>
+ 
 </div>
-<?php include_from_root('website_template/page_footer.php');?>
+
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""
