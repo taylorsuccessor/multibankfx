@@ -8,6 +8,7 @@ $url_base_path =str_replace($document_root,'',$url_base_path);
 
 $request_url = trim($_SERVER['REQUEST_URI']);
 $request_file = str_replace('/','',$request_url);
+echo $request_file;
 
 $request_file =( $request_file=='' )?'home.php':$request_file;
 
@@ -18,6 +19,5 @@ function include_from_root($path)
     {
         
         global $root_path;
-        echo $root_path.$path;
         include($root_path.$path);
 }
