@@ -12,7 +12,7 @@ echo $request_file;
 
 $request_file =( $request_file=='' )?'home.php':$request_file;
 
-include $root_path.'database/db_driver.php';
+include '../database/db_driver.php';
 
 
 function include_from_root($path)
