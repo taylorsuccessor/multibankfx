@@ -1,4 +1,8 @@
-<?php include "index.php"?>
+<?php 
+$path = $_SERVER['DOCUMENT_ROOT'];
+$path .= "index.php";
+include($path);
+?>
 <head>
     <meta charset='UTF-8'>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
