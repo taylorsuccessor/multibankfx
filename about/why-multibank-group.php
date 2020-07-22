@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang='en'>
-    <?php include_from_root('website_template/head.php');?>
+    <?php include "helper/header_include.php"?>
+     include_from_root('website_template/head.php');?>
 <body>
     <?php include_from_root('website_template/header_and_menu.php');?>
 <style>
