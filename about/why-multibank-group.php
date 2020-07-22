@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang='en'>
     <?php include "../helper/header_include.php";
-     include_from_root('/website_template/head.php');?>
+     include '/website_template/head.php';?>
 <body>
-    <?php include_from_root('/website_template/header_and_menu.php');?>
+    <?php include '/website_template/header_and_menu.php';?>
 <style>
     .nav-menu-hamburger, .nav-menu-mymex {
         width: 35px;
@@ -443,9 +443,9 @@ whereToGoItem.injectIcons('.target-icon', icons);
 
         }
     </style>
- <?php include_from_root('/website_template/choose_where_to.php');?>
+ <?php include '/website_template/choose_where_to.php';?>
 </div>
-<?php include_from_root('/website_template/page_footer.php');?>
+<?php include '/website_template/page_footer.php'?>
 <div class="slidebar">
     <a class="get-a-all-btn call-btn" href="tel:+12139924748">
         <span class="btn"><img alt="phone" data-entity-type="" data-entity-uuid=""
